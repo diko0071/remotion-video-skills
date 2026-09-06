@@ -1,0 +1,61 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "lines": [
+    {
+      "key": "01-intro",
+      "text": "This is Ryze. Think of it as a marketing employee that works inside your ad accounts. You tell it what you want in plain English, and it does the work. Let me show you."
+    },
+    {
+      "key": "02-chat",
+      "text": "Everything starts in one chat box. You do not need to learn any buttons. You just type what you need, the way you would say it to a person."
+    },
+    {
+      "key": "03-creatives",
+      "text": "Ask it for ads, and it makes them. It reads your brand so the wording sounds like you, pulls your best selling products, then writes the copy and generates the images. Three angles, ready to push to your ad account."
+    },
+    {
+      "key": "04-chart",
+      "text": "Now ask about your numbers. It goes into Google, Meta and TikTok, and compares last week to the week before. No spreadsheet, no report to build — a straight answer, with a chart underneath."
+    },
+    {
+      "key": "05-approve",
+      "text": "And when you tell it to change something, it does not touch your money on its own. It picks the best creative, drafts the campaign, checks what is losing money — then stops and waits for you to press approve."
+    },
+    {
+      "key": "05b-approvals",
+      "text": "Everything it wants to do lands in one list. You look, you approve what you like, and it goes and does it. Nothing happens behind your back."
+    },
+    {
+      "key": "06-dashboard",
+      "text": "This is your dashboard. Spend, results, and what it costs you to get one sale. It pulls this from Google, Meta and TikTok by itself, every day."
+    },
+    {
+      "key": "07-campaigns",
+      "text": "Here is every campaign you are running, side by side. Which ones bring sales, which ones only burn money. You can see it in one look."
+    },
+    {
+      "key": "08-creatives-tab",
+      "text": "Here are your ads, ranked by how they actually perform. The best ones sit on top, so you know what to make more of."
+    },
+    {
+      "key": "09-portfolio",
+      "text": "If you run several accounts, this page puts them all in one place, so nothing quietly wastes money in a corner."
+    },
+    {
+      "key": "10-library",
+      "text": "Every ad it makes for you is kept here. You can reuse them, download them, or ask for another version."
+    },
+    {
+      "key": "11-competitors",
+      "text": "It also watches your competitors. These are their real live ads, so you can see what they are saying to the same customers."
+    },
+    {
+      "key": "12-schedule",
+      "text": "And you can put all of this on a schedule. Every morning it checks your accounts, fixes what is broken, and tells you what it did."
+    },
+    {
+      "key": "13-close",
+      "text": "That is Ryze for paid ads. You ask in plain words, it does the work, and nothing changes without your approval."
+    }
+  ]
+}

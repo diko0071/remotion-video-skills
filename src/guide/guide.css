@@ -1,0 +1,5 @@
+.guide-thread { display: flex; width: 100%; flex-direction: column; gap: 18px; padding-top: 12px; }
+.guide-thread .msg-user .bubble { max-width: 100%; }
+.guide-thread .q-options { flex-wrap: wrap; }
+.agent-body:has(.guide-thread) { padding-bottom: 40px; }
+.guide-run-chat .chat-messages { margin: 0 auto auto; }

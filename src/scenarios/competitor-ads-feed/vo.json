@@ -1,0 +1,10 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-radar",
+      "text": "[confident] Your competitors launched fourteen new ads this week. [warm] We caught every single one."
+    }
+  ]
+}

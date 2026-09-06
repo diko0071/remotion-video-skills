@@ -1,0 +1,30 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "Ryze inside Claude."
+    },
+    {
+      "key": "01-card",
+      "text": "Ryze ships with an MCP connector \u2014 your whole marketing stack, available inside Claude. Here's the hookup; it takes a minute. Open Integrations and hit Claude MCP."
+    },
+    {
+      "key": "02-copy",
+      "text": "This is the Ryze connector link \u2014 same link for every account, you sign in on Claude's side. Copy it \u2014 and hit Open Claude."
+    },
+    {
+      "key": "03-add",
+      "text": "You land in Claude's connector settings. Hit Add, paste the link, and add it. That's the whole setup \u2014 Ryze is connected."
+    },
+    {
+      "key": "04-ask",
+      "text": "[warm] Now open a chat and just ask about your marketing. Claude walks your Search Console, your Analytics, your ad accounts \u2014 through Ryze \u2014 and answers with your real numbers."
+    },
+    {
+      "key": "05-close",
+      "text": "[warm] One link \u2014 and every Ryze tool lives inside Claude. See you there."
+    }
+  ]
+}

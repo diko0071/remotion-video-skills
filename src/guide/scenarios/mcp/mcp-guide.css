@@ -1,0 +1,66 @@
+.mcpx-veil {
+  position: absolute;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(20, 16, 10, 0.44);
+}
+.mcpx-dialog {
+  width: 620px;
+  background: var(--background, #fdfaf3);
+  border: 1px solid rgba(20, 16, 10, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 24px 64px rgba(20, 16, 10, 0.22);
+  padding: 26px 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.mcpx-dialog h4 {
+  margin: 0;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.mcpx-sub {
+  margin: 0 0 10px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: rgba(20, 16, 10, 0.55);
+}
+.mcpx-input {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 0 8px 0 14px;
+  border: 1px solid rgba(20, 16, 10, 0.16);
+  border-radius: 5px;
+  background: #fff;
+}
+.mcpx-url {
+  flex: 1;
+  font-size: 14.5px;
+  font-family: ui-monospace, monospace;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mcpx-copy {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  color: rgba(20, 16, 10, 0.55);
+  background: rgba(20, 16, 10, 0.04);
+}
+.mcpx-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+}

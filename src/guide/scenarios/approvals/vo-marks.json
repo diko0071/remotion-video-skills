@@ -1,0 +1,1359 @@
+{
+  "00-title": {
+    "text": "Your marketing has a to-do list that writes itself. Here's how approvals work",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.14
+      },
+      {
+        "word": "marketing",
+        "start": 0.34
+      },
+      {
+        "word": "has",
+        "start": 0.839
+      },
+      {
+        "word": "a",
+        "start": 1.1
+      },
+      {
+        "word": "todo",
+        "start": 1.139
+      },
+      {
+        "word": "list",
+        "start": 1.539
+      },
+      {
+        "word": "that",
+        "start": 1.719
+      },
+      {
+        "word": "writes",
+        "start": 1.939
+      },
+      {
+        "word": "itself",
+        "start": 2.259
+      },
+      {
+        "word": "here's",
+        "start": 3.139
+      },
+      {
+        "word": "how",
+        "start": 3.379
+      },
+      {
+        "word": "approvals",
+        "start": 3.519
+      },
+      {
+        "word": "work",
+        "start": 4.079
+      }
+    ]
+  },
+  "01-queue": {
+    "text": "This is approvals. While you were busy, the agent went through your ads and your site and filed every change worth making. Each card is one concrete fix waiting for one click",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.079
+      },
+      {
+        "word": "is",
+        "start": 0.419
+      },
+      {
+        "word": "approvals",
+        "start": 0.539
+      },
+      {
+        "word": "while",
+        "start": 1.559
+      },
+      {
+        "word": "you",
+        "start": 1.839
+      },
+      {
+        "word": "were",
+        "start": 1.959
+      },
+      {
+        "word": "busy",
+        "start": 2.099
+      },
+      {
+        "word": "the",
+        "start": 2.639
+      },
+      {
+        "word": "agent",
+        "start": 2.819
+      },
+      {
+        "word": "went",
+        "start": 3.139
+      },
+      {
+        "word": "through",
+        "start": 3.319
+      },
+      {
+        "word": "your",
+        "start": 3.519
+      },
+      {
+        "word": "ads",
+        "start": 3.699
+      },
+      {
+        "word": "and",
+        "start": 3.899
+      },
+      {
+        "word": "your",
+        "start": 4.039
+      },
+      {
+        "word": "site",
+        "start": 4.199
+      },
+      {
+        "word": "and",
+        "start": 4.799
+      },
+      {
+        "word": "filed",
+        "start": 4.96
+      },
+      {
+        "word": "every",
+        "start": 5.38
+      },
+      {
+        "word": "change",
+        "start": 5.759
+      },
+      {
+        "word": "worth",
+        "start": 6.139
+      },
+      {
+        "word": "making",
+        "start": 6.399
+      },
+      {
+        "word": "each",
+        "start": 7.399
+      },
+      {
+        "word": "card",
+        "start": 7.659
+      },
+      {
+        "word": "is",
+        "start": 8.059
+      },
+      {
+        "word": "one",
+        "start": 8.359
+      },
+      {
+        "word": "concrete",
+        "start": 8.659
+      },
+      {
+        "word": "fix",
+        "start": 9.22
+      },
+      {
+        "word": "waiting",
+        "start": 9.76
+      },
+      {
+        "word": "for",
+        "start": 10.139
+      },
+      {
+        "word": "one",
+        "start": 10.42
+      },
+      {
+        "word": "click",
+        "start": 10.679
+      }
+    ]
+  },
+  "02-open": {
+    "text": "Never approve blind. Open any card",
+    "words": [
+      {
+        "word": "never",
+        "start": 0.119
+      },
+      {
+        "word": "approve",
+        "start": 0.519
+      },
+      {
+        "word": "blind",
+        "start": 1
+      },
+      {
+        "word": "open",
+        "start": 1.799
+      },
+      {
+        "word": "any",
+        "start": 2.22
+      },
+      {
+        "word": "card",
+        "start": 2.48
+      }
+    ]
+  },
+  "03-evidence": {
+    "text": "Everything you need to judge is right here. The evidence, real numbers from your account, the exact change before and after, and what it's expected to bring",
+    "words": [
+      {
+        "word": "everything",
+        "start": 0.14
+      },
+      {
+        "word": "you",
+        "start": 0.539
+      },
+      {
+        "word": "need",
+        "start": 0.699
+      },
+      {
+        "word": "to",
+        "start": 0.859
+      },
+      {
+        "word": "judge",
+        "start": 1.019
+      },
+      {
+        "word": "is",
+        "start": 1.419
+      },
+      {
+        "word": "right",
+        "start": 1.659
+      },
+      {
+        "word": "here",
+        "start": 1.899
+      },
+      {
+        "word": "the",
+        "start": 2.5
+      },
+      {
+        "word": "evidence",
+        "start": 2.639
+      },
+      {
+        "word": "real",
+        "start": 3.439
+      },
+      {
+        "word": "numbers",
+        "start": 3.699
+      },
+      {
+        "word": "from",
+        "start": 4.059
+      },
+      {
+        "word": "your",
+        "start": 4.219
+      },
+      {
+        "word": "account",
+        "start": 4.339
+      },
+      {
+        "word": "the",
+        "start": 5.119
+      },
+      {
+        "word": "exact",
+        "start": 5.299
+      },
+      {
+        "word": "change",
+        "start": 5.839
+      },
+      {
+        "word": "before",
+        "start": 6.44
+      },
+      {
+        "word": "and",
+        "start": 7.119
+      },
+      {
+        "word": "after",
+        "start": 7.399
+      },
+      {
+        "word": "and",
+        "start": 8.179
+      },
+      {
+        "word": "what",
+        "start": 8.539
+      },
+      {
+        "word": "it's",
+        "start": 8.659
+      },
+      {
+        "word": "expected",
+        "start": 8.8
+      },
+      {
+        "word": "to",
+        "start": 9.32
+      },
+      {
+        "word": "bring",
+        "start": 9.439
+      }
+    ]
+  },
+  "03b-research": {
+    "text": "And if you're wondering how it found this, nothing here is a black box. Every card links to the exact run behind it. Open it, and you're reading the agent's actual work. Every account it pulled, every number it checked, step by step",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "if",
+        "start": 0.259
+      },
+      {
+        "word": "you're",
+        "start": 0.399
+      },
+      {
+        "word": "wondering",
+        "start": 0.539
+      },
+      {
+        "word": "how",
+        "start": 0.979
+      },
+      {
+        "word": "it",
+        "start": 1.12
+      },
+      {
+        "word": "found",
+        "start": 1.299
+      },
+      {
+        "word": "this",
+        "start": 1.559
+      },
+      {
+        "word": "nothing",
+        "start": 2.24
+      },
+      {
+        "word": "here",
+        "start": 2.639
+      },
+      {
+        "word": "is",
+        "start": 2.939
+      },
+      {
+        "word": "a",
+        "start": 3.059
+      },
+      {
+        "word": "black",
+        "start": 3.119
+      },
+      {
+        "word": "box",
+        "start": 3.439
+      },
+      {
+        "word": "every",
+        "start": 4.239
+      },
+      {
+        "word": "card",
+        "start": 4.599
+      },
+      {
+        "word": "links",
+        "start": 4.94
+      },
+      {
+        "word": "to",
+        "start": 5.259
+      },
+      {
+        "word": "the",
+        "start": 5.38
+      },
+      {
+        "word": "exact",
+        "start": 5.639
+      },
+      {
+        "word": "run",
+        "start": 6.039
+      },
+      {
+        "word": "behind",
+        "start": 6.279
+      },
+      {
+        "word": "it",
+        "start": 6.679
+      },
+      {
+        "word": "open",
+        "start": 7.279
+      },
+      {
+        "word": "it",
+        "start": 7.559
+      },
+      {
+        "word": "and",
+        "start": 7.779
+      },
+      {
+        "word": "you're",
+        "start": 7.919
+      },
+      {
+        "word": "reading",
+        "start": 8.06
+      },
+      {
+        "word": "the",
+        "start": 8.359
+      },
+      {
+        "word": "agent's",
+        "start": 8.539
+      },
+      {
+        "word": "actual",
+        "start": 9.039
+      },
+      {
+        "word": "work",
+        "start": 9.539
+      },
+      {
+        "word": "every",
+        "start": 10.26
+      },
+      {
+        "word": "account",
+        "start": 10.599
+      },
+      {
+        "word": "it",
+        "start": 10.92
+      },
+      {
+        "word": "pulled",
+        "start": 11.059
+      },
+      {
+        "word": "every",
+        "start": 11.619
+      },
+      {
+        "word": "number",
+        "start": 11.92
+      },
+      {
+        "word": "it",
+        "start": 12.199
+      },
+      {
+        "word": "checked",
+        "start": 12.38
+      },
+      {
+        "word": "step",
+        "start": 13
+      },
+      {
+        "word": "by",
+        "start": 13.38
+      },
+      {
+        "word": "step",
+        "start": 13.679
+      }
+    ]
+  },
+  "04-approve": {
+    "text": "Agree? Approve. The agent logs into Google Ads itself and makes the change. You never touch a settings page",
+    "words": [
+      {
+        "word": "agree",
+        "start": 0.079
+      },
+      {
+        "word": "approve",
+        "start": 0.979
+      },
+      {
+        "word": "the",
+        "start": 1.959
+      },
+      {
+        "word": "agent",
+        "start": 2.139
+      },
+      {
+        "word": "logs",
+        "start": 2.46
+      },
+      {
+        "word": "into",
+        "start": 2.759
+      },
+      {
+        "word": "google",
+        "start": 3.079
+      },
+      {
+        "word": "ads",
+        "start": 3.379
+      },
+      {
+        "word": "itself",
+        "start": 3.599
+      },
+      {
+        "word": "and",
+        "start": 4.139
+      },
+      {
+        "word": "makes",
+        "start": 4.259
+      },
+      {
+        "word": "the",
+        "start": 4.5
+      },
+      {
+        "word": "change",
+        "start": 4.639
+      },
+      {
+        "word": "you",
+        "start": 5.38
+      },
+      {
+        "word": "never",
+        "start": 5.659
+      },
+      {
+        "word": "touch",
+        "start": 5.96
+      },
+      {
+        "word": "a",
+        "start": 6.239
+      },
+      {
+        "word": "settings",
+        "start": 6.339
+      },
+      {
+        "word": "page",
+        "start": 6.699
+      }
+    ]
+  },
+  "04b-apply": {
+    "text": "The apply is just as transparent. Watch the run live, the agent walking into Google Ads, making the change, confirming it worked. You can audit every click it ever makes",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.079
+      },
+      {
+        "word": "apply",
+        "start": 0.219
+      },
+      {
+        "word": "is",
+        "start": 0.779
+      },
+      {
+        "word": "just",
+        "start": 1.059
+      },
+      {
+        "word": "as",
+        "start": 1.24
+      },
+      {
+        "word": "transparent",
+        "start": 1.379
+      },
+      {
+        "word": "watch",
+        "start": 2.419
+      },
+      {
+        "word": "the",
+        "start": 2.759
+      },
+      {
+        "word": "run",
+        "start": 2.899
+      },
+      {
+        "word": "live",
+        "start": 3.199
+      },
+      {
+        "word": "the",
+        "start": 3.859
+      },
+      {
+        "word": "agent",
+        "start": 4.019
+      },
+      {
+        "word": "walking",
+        "start": 4.48
+      },
+      {
+        "word": "into",
+        "start": 4.799
+      },
+      {
+        "word": "google",
+        "start": 5.019
+      },
+      {
+        "word": "ads",
+        "start": 5.359
+      },
+      {
+        "word": "making",
+        "start": 5.859
+      },
+      {
+        "word": "the",
+        "start": 6.139
+      },
+      {
+        "word": "change",
+        "start": 6.279
+      },
+      {
+        "word": "confirming",
+        "start": 6.859
+      },
+      {
+        "word": "it",
+        "start": 7.519
+      },
+      {
+        "word": "worked",
+        "start": 7.719
+      },
+      {
+        "word": "you",
+        "start": 8.539
+      },
+      {
+        "word": "can",
+        "start": 8.659
+      },
+      {
+        "word": "audit",
+        "start": 8.859
+      },
+      {
+        "word": "every",
+        "start": 9.279
+      },
+      {
+        "word": "click",
+        "start": 9.659
+      },
+      {
+        "word": "it",
+        "start": 9.96
+      },
+      {
+        "word": "ever",
+        "start": 10.179
+      },
+      {
+        "word": "makes",
+        "start": 10.46
+      }
+    ]
+  },
+  "05-second": {
+    "text": "This one's an SEO fix, a redirect chain slowing your pages down. Same story. Evidence, the fix, approve",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.099
+      },
+      {
+        "word": "one's",
+        "start": 0.399
+      },
+      {
+        "word": "an",
+        "start": 0.62
+      },
+      {
+        "word": "seo",
+        "start": 0.779
+      },
+      {
+        "word": "fix",
+        "start": 1.259
+      },
+      {
+        "word": "a",
+        "start": 1.799
+      },
+      {
+        "word": "redirect",
+        "start": 1.939
+      },
+      {
+        "word": "chain",
+        "start": 2.46
+      },
+      {
+        "word": "slowing",
+        "start": 2.919
+      },
+      {
+        "word": "your",
+        "start": 3.259
+      },
+      {
+        "word": "pages",
+        "start": 3.399
+      },
+      {
+        "word": "down",
+        "start": 3.819
+      },
+      {
+        "word": "same",
+        "start": 4.559
+      },
+      {
+        "word": "story",
+        "start": 4.859
+      },
+      {
+        "word": "evidence",
+        "start": 5.519
+      },
+      {
+        "word": "the",
+        "start": 6.219
+      },
+      {
+        "word": "fix",
+        "start": 6.379
+      },
+      {
+        "word": "approve",
+        "start": 7.079
+      }
+    ]
+  },
+  "06-reject": {
+    "text": "And when something doesn't fit, reject it. Tell it why in one line",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.119
+      },
+      {
+        "word": "when",
+        "start": 0.259
+      },
+      {
+        "word": "something",
+        "start": 0.439
+      },
+      {
+        "word": "doesn't",
+        "start": 0.839
+      },
+      {
+        "word": "fit",
+        "start": 1.22
+      },
+      {
+        "word": "reject",
+        "start": 1.799
+      },
+      {
+        "word": "it",
+        "start": 2.319
+      },
+      {
+        "word": "tell",
+        "start": 2.839
+      },
+      {
+        "word": "it",
+        "start": 3.039
+      },
+      {
+        "word": "why",
+        "start": 3.24
+      },
+      {
+        "word": "in",
+        "start": 3.579
+      },
+      {
+        "word": "one",
+        "start": 3.799
+      },
+      {
+        "word": "line",
+        "start": 4.039
+      }
+    ]
+  },
+  "07-learning": {
+    "text": "Here's the part that matters. Every decision teaches the agent. Reject with a reason, and it stops proposing that kind of change. Approve, and it gets bolder about the things you like. The more you decide, the closer its proposals get to what you'd do yourself",
+    "words": [
+      {
+        "word": "here's",
+        "start": 0.14
+      },
+      {
+        "word": "the",
+        "start": 0.379
+      },
+      {
+        "word": "part",
+        "start": 0.479
+      },
+      {
+        "word": "that",
+        "start": 0.679
+      },
+      {
+        "word": "matters",
+        "start": 0.839
+      },
+      {
+        "word": "every",
+        "start": 1.659
+      },
+      {
+        "word": "decision",
+        "start": 1.959
+      },
+      {
+        "word": "teaches",
+        "start": 2.519
+      },
+      {
+        "word": "the",
+        "start": 2.96
+      },
+      {
+        "word": "agent",
+        "start": 3.099
+      },
+      {
+        "word": "reject",
+        "start": 3.859
+      },
+      {
+        "word": "with",
+        "start": 4.339
+      },
+      {
+        "word": "a",
+        "start": 4.559
+      },
+      {
+        "word": "reason",
+        "start": 4.599
+      },
+      {
+        "word": "and",
+        "start": 5.179
+      },
+      {
+        "word": "it",
+        "start": 5.299
+      },
+      {
+        "word": "stops",
+        "start": 5.48
+      },
+      {
+        "word": "proposing",
+        "start": 5.819
+      },
+      {
+        "word": "that",
+        "start": 6.42
+      },
+      {
+        "word": "kind",
+        "start": 6.599
+      },
+      {
+        "word": "of",
+        "start": 6.779
+      },
+      {
+        "word": "change",
+        "start": 6.96
+      },
+      {
+        "word": "approve",
+        "start": 7.839
+      },
+      {
+        "word": "and",
+        "start": 8.519
+      },
+      {
+        "word": "it",
+        "start": 8.619
+      },
+      {
+        "word": "gets",
+        "start": 8.739
+      },
+      {
+        "word": "bolder",
+        "start": 9
+      },
+      {
+        "word": "about",
+        "start": 9.5
+      },
+      {
+        "word": "the",
+        "start": 9.699
+      },
+      {
+        "word": "things",
+        "start": 9.84
+      },
+      {
+        "word": "you",
+        "start": 10.139
+      },
+      {
+        "word": "like",
+        "start": 10.38
+      },
+      {
+        "word": "the",
+        "start": 11.079
+      },
+      {
+        "word": "more",
+        "start": 11.239
+      },
+      {
+        "word": "you",
+        "start": 11.479
+      },
+      {
+        "word": "decide",
+        "start": 11.599
+      },
+      {
+        "word": "the",
+        "start": 12.279
+      },
+      {
+        "word": "closer",
+        "start": 12.439
+      },
+      {
+        "word": "its",
+        "start": 12.84
+      },
+      {
+        "word": "proposals",
+        "start": 13.019
+      },
+      {
+        "word": "get",
+        "start": 13.639
+      },
+      {
+        "word": "to",
+        "start": 13.859
+      },
+      {
+        "word": "what",
+        "start": 13.979
+      },
+      {
+        "word": "you'd",
+        "start": 14.239
+      },
+      {
+        "word": "do",
+        "start": 14.5
+      },
+      {
+        "word": "yourself",
+        "start": 14.679
+      }
+    ]
+  },
+  "08-blocked": {
+    "text": "Sometimes a card says blocked. That's the agent being honest. It found the problem but doesn't have access to fix it, and it tells you exactly what to connect",
+    "words": [
+      {
+        "word": "sometimes",
+        "start": 0.14
+      },
+      {
+        "word": "a",
+        "start": 0.779
+      },
+      {
+        "word": "card",
+        "start": 0.819
+      },
+      {
+        "word": "says",
+        "start": 1.139
+      },
+      {
+        "word": "blocked",
+        "start": 1.439
+      },
+      {
+        "word": "that's",
+        "start": 2.24
+      },
+      {
+        "word": "the",
+        "start": 2.539
+      },
+      {
+        "word": "agent",
+        "start": 2.679
+      },
+      {
+        "word": "being",
+        "start": 3.019
+      },
+      {
+        "word": "honest",
+        "start": 3.299
+      },
+      {
+        "word": "it",
+        "start": 4.019
+      },
+      {
+        "word": "found",
+        "start": 4.199
+      },
+      {
+        "word": "the",
+        "start": 4.44
+      },
+      {
+        "word": "problem",
+        "start": 4.559
+      },
+      {
+        "word": "but",
+        "start": 5.179
+      },
+      {
+        "word": "doesn't",
+        "start": 5.319
+      },
+      {
+        "word": "have",
+        "start": 5.639
+      },
+      {
+        "word": "access",
+        "start": 5.819
+      },
+      {
+        "word": "to",
+        "start": 6.199
+      },
+      {
+        "word": "fix",
+        "start": 6.339
+      },
+      {
+        "word": "it",
+        "start": 6.599
+      },
+      {
+        "word": "and",
+        "start": 7.019
+      },
+      {
+        "word": "it",
+        "start": 7.119
+      },
+      {
+        "word": "tells",
+        "start": 7.279
+      },
+      {
+        "word": "you",
+        "start": 7.539
+      },
+      {
+        "word": "exactly",
+        "start": 7.839
+      },
+      {
+        "word": "what",
+        "start": 8.34
+      },
+      {
+        "word": "to",
+        "start": 8.519
+      },
+      {
+        "word": "connect",
+        "start": 8.639
+      }
+    ]
+  },
+  "09-history": {
+    "text": "Everything you've decided lives in history. Every change traceable down to the exact run that applied it.",
+    "words": [
+      {
+        "word": "everything",
+        "start": 0.119
+      },
+      {
+        "word": "you've",
+        "start": 0.539
+      },
+      {
+        "word": "decided",
+        "start": 0.699
+      },
+      {
+        "word": "lives",
+        "start": 1.379
+      },
+      {
+        "word": "in",
+        "start": 1.719
+      },
+      {
+        "word": "history",
+        "start": 1.919
+      },
+      {
+        "word": "every",
+        "start": 2.779
+      },
+      {
+        "word": "change",
+        "start": 3.119
+      },
+      {
+        "word": "traceable",
+        "start": 3.5
+      },
+      {
+        "word": "down",
+        "start": 4.239
+      },
+      {
+        "word": "to",
+        "start": 4.44
+      },
+      {
+        "word": "the",
+        "start": 4.559
+      },
+      {
+        "word": "exact",
+        "start": 4.659
+      },
+      {
+        "word": "run",
+        "start": 5.179
+      },
+      {
+        "word": "that",
+        "start": 5.42
+      },
+      {
+        "word": "applied",
+        "start": 5.599
+      },
+      {
+        "word": "it",
+        "start": 5.96
+      }
+    ]
+  },
+  "10-close": {
+    "text": "So the agent finds the money, you check the queue over coffee, and one click at a time, your marketing runs itself. You stay in charge. It does the hands",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.159
+      },
+      {
+        "word": "the",
+        "start": 0.779
+      },
+      {
+        "word": "agent",
+        "start": 0.959
+      },
+      {
+        "word": "finds",
+        "start": 1.319
+      },
+      {
+        "word": "the",
+        "start": 1.599
+      },
+      {
+        "word": "money",
+        "start": 1.699
+      },
+      {
+        "word": "you",
+        "start": 2.399
+      },
+      {
+        "word": "check",
+        "start": 2.639
+      },
+      {
+        "word": "the",
+        "start": 2.879
+      },
+      {
+        "word": "queue",
+        "start": 3.039
+      },
+      {
+        "word": "over",
+        "start": 3.339
+      },
+      {
+        "word": "coffee",
+        "start": 3.619
+      },
+      {
+        "word": "and",
+        "start": 4.339
+      },
+      {
+        "word": "one",
+        "start": 4.639
+      },
+      {
+        "word": "click",
+        "start": 4.859
+      },
+      {
+        "word": "at",
+        "start": 5.039
+      },
+      {
+        "word": "a",
+        "start": 5.239
+      },
+      {
+        "word": "time",
+        "start": 5.279
+      },
+      {
+        "word": "your",
+        "start": 5.759
+      },
+      {
+        "word": "marketing",
+        "start": 5.94
+      },
+      {
+        "word": "runs",
+        "start": 6.42
+      },
+      {
+        "word": "itself",
+        "start": 6.699
+      },
+      {
+        "word": "you",
+        "start": 7.659
+      },
+      {
+        "word": "stay",
+        "start": 7.919
+      },
+      {
+        "word": "in",
+        "start": 8.079
+      },
+      {
+        "word": "charge",
+        "start": 8.239
+      },
+      {
+        "word": "it",
+        "start": 8.92
+      },
+      {
+        "word": "does",
+        "start": 9.3
+      },
+      {
+        "word": "the",
+        "start": 9.539
+      },
+      {
+        "word": "hands",
+        "start": 9.679
+      }
+    ]
+  }
+}

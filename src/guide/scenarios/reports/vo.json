@@ -1,0 +1,42 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "Reports in Ryze \u2014 ask, and it's built."
+    },
+    {
+      "key": "01-ask",
+      "text": "Reports in Ryze are made in chat. Just ask for what you need \u2014 a monthly performance report \u2014 and send it off."
+    },
+    {
+      "key": "02-work",
+      "text": "The agent pulls everything from your real accounts \u2014 Search Console, Analytics, your store \u2014 and writes every page itself. You can watch the tools run right in the chat."
+    },
+    {
+      "key": "03-deck",
+      "text": "A few minutes later the report opens next to the conversation \u2014 a full deck. Keep scrolling: the score, what's working, what's not, and what to fix first. Every number in here came from your own data."
+    },
+    {
+      "key": "04-dash",
+      "text": "[warm] Want it live instead of a snapshot? Ask for a dashboard. Same numbers \u2014 but this one stays connected, so any day you open it, it's current."
+    },
+    {
+      "key": "05-list",
+      "text": "Everything you build lands in Reports \u2014 decks and dashboards in one list, with status while they're being made."
+    },
+    {
+      "key": "05b-detail",
+      "text": "[warm] Open any report, and it's yours to use. Download it as a PDF, or send it via email \u2014 straight to a client or your team. And see Update Report? That button opens the agent right here. Ask for a change \u2014 and the report updates live, in front of you."
+    },
+    {
+      "key": "06-templates",
+      "text": "[warm] And look \u2014 there are report templates too. Open Templates, hit Report, and pick one: monthly client decks, live dashboards, audits. One click, and the agent builds it for your data."
+    },
+    {
+      "key": "07-close",
+      "text": "[warm] That's reports in Ryze. You ask, the agent builds \u2014 and it's all waiting in one place."
+    }
+  ]
+}

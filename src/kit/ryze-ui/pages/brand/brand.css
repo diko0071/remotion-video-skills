@@ -1,0 +1,75 @@
+.br-head-card, .br-card {
+  border: 0; box-shadow: 0 0 0 1px color-mix(in oklab, var(--foreground) 10%, transparent);
+}
+.br-head-card { display: flex; align-items: flex-start; gap: 16px; padding: 20px; }
+.br-favicon {
+  display: flex; width: 56px; height: 56px; flex-shrink: 0; align-items: center; justify-content: center;
+  overflow: hidden; border-radius: var(--radius-xl); border: 1px solid var(--border); background: #ffffff;
+}
+.br-favicon img { width: 36px; height: 36px; object-fit: contain; }
+.br-head-txt { min-width: 0; flex: 1; }
+.br-head-txt h2 { font-size: 20px; font-weight: 700; letter-spacing: -0.025em; color: var(--foreground); }
+.br-host { margin-top: 2px; font-size: 11px; color: var(--muted-foreground); }
+.br-head-txt p { margin-top: 10px; max-width: 42rem; font-size: 13px; line-height: 1.625; color: var(--muted-foreground); }
+
+.br-pencil {
+  display: inline-flex; width: 28px; height: 28px; flex-shrink: 0; align-items: center; justify-content: center;
+  border-radius: var(--radius-md); color: var(--muted-foreground);
+}
+.br-pencil svg { width: 14px; height: 14px; }
+
+.br-tabs {
+  margin: 24px 0 28px; display: inline-flex; height: 32px; width: fit-content;
+  align-items: center; justify-content: center;
+  border-radius: var(--radius-lg); background: var(--muted); padding: 3px;
+}
+.br-tab {
+  display: inline-flex; flex: 1 1 0; height: calc(100% - 1px); align-items: center; justify-content: center;
+  border-radius: var(--radius-md); border: 1px solid transparent;
+  padding: 2px 6px; font-size: 14px; font-weight: 500; white-space: nowrap;
+  color: color-mix(in oklab, var(--foreground) 60%, transparent);
+}
+.br-tab.active { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px 0 rgba(0,0,0,0.05); }
+
+.br-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; align-items: stretch; }
+
+.br-card { display: flex; flex-direction: column; }
+.br-card-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  border-bottom: 1px solid var(--border); padding: 14px 20px;
+}
+.br-card-head h3 { font-size: 14px; font-weight: 600; letter-spacing: -0.025em; color: var(--foreground); }
+.br-card-body { flex: 1; padding: 16px 20px; }
+
+.br-swatches { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.br-swatch { overflow: hidden; border-radius: var(--radius-xl); border: 1px solid var(--border); }
+.br-swatch .chip { height: 80px; width: 100%; }
+.br-swatch .meta { padding: 10px 12px; }
+.br-swatch .hex {
+  font-family: ui-monospace, "SFMono-Regular", Menlo, monospace;
+  font-size: 14px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.025em; color: var(--foreground);
+}
+.br-swatch .role { margin-top: 2px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.025em; color: var(--muted-foreground); }
+
+.br-fonts { display: flex; flex-direction: column; }
+.br-font-row {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+  border-top: 1px solid var(--border); padding: 12px 0;
+}
+.br-font-row:first-child { border-top: 0; padding-top: 0; }
+.br-font-row:last-child { padding-bottom: 0; }
+.br-font-name { font-size: 20px; font-weight: 500; letter-spacing: -0.025em; color: var(--foreground); }
+.br-font-role { font-size: 11px; text-transform: uppercase; letter-spacing: 0.025em; color: var(--muted-foreground); }
+
+.br-stack { display: flex; flex-direction: column; gap: 16px; }
+.br-fields { display: flex; flex-direction: column; gap: 16px; }
+.br-field-label { font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.025em; color: var(--muted-foreground); }
+.br-field-val { margin-top: 4px; font-size: 14px; font-weight: 500; line-height: 1.4286; color: var(--foreground); }
+.br-prose { font-size: 14px; line-height: 1.4286; white-space: pre-wrap; color: var(--foreground); }
+.br-prose.relaxed { line-height: 1.625; }
+
+.br-creatives { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.br-creative { overflow: hidden; border-radius: var(--radius-lg); border: 1px solid var(--border); background: #ffffff; }
+.br-creative img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; }
+
+.br-prose.empty { color: var(--muted-foreground); opacity: 0.8; }

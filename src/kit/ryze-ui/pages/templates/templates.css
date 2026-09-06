@@ -1,0 +1,80 @@
+.tpl-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 28px; }
+.tpl-tabs {
+  display: inline-flex; height: 32px; width: fit-content; align-items: center; justify-content: center;
+  border-radius: var(--radius-lg); background: var(--muted); padding: 3px;
+}
+.tpl-tab {
+  display: inline-flex; height: 25px; align-items: center; justify-content: center;
+  border-radius: var(--radius-md); border: 1px solid transparent;
+  padding: 0 6px; font-size: 14px; font-weight: 500;
+  color: color-mix(in oklab, var(--foreground) 60%, transparent);
+}
+.tpl-tab.on { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px rgba(15,23,42,0.05); }
+.tpl-plats { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.tpl-plats .fchip img { width: 14px; height: 14px; object-fit: contain; }
+
+.tpl-section { margin-bottom: 28px; }
+.tpl-section-head { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+.tpl-section-head h2 { flex-shrink: 0; font-size: 15px; font-weight: 600; letter-spacing: -0.01em; color: var(--foreground); }
+.tpl-section-head i { display: block; height: 1px; flex: 1; background: var(--border); }
+
+.tpl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px; }
+
+.tpl-card {
+  position: relative; display: flex; flex-direction: column; overflow: hidden;
+  border-radius: var(--radius-md); border: 1px solid var(--border); background: var(--card);
+  box-shadow: 0 1px 2px rgba(74,53,29,0.03);
+}
+.tpl-shot { position: relative; aspect-ratio: 16 / 9; overflow: hidden; border-bottom: 1px solid var(--border); background: var(--background); }
+.tpl-shot img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.tpl-shot.top img { object-position: top; }
+
+.tpl-badge {
+  position: absolute; left: 10px; bottom: 10px; display: inline-flex; align-items: center; gap: 6px;
+  border-radius: var(--radius-md); border: 1px solid var(--border); background: color-mix(in oklab, var(--card) 95%, transparent);
+  padding: 4px 8px; font-size: 11px; font-weight: 700; color: var(--foreground);
+  box-shadow: 0 1px 3px rgba(74,53,29,0.10);
+}
+.tpl-badge .logos { display: inline-flex; align-items: center; gap: 4px; }
+.tpl-badge img { width: 14px; height: 14px; object-fit: contain; }
+.tpl-badge svg { width: 14px; height: 14px; color: var(--muted-foreground); }
+
+.tpl-body { display: flex; flex: 1; flex-direction: column; gap: 4px; padding: 14px 16px; }
+.tpl-title { font-size: 14.5px; font-weight: 700; line-height: 1.25; letter-spacing: -0.012em; color: var(--foreground); }
+.tpl-desc {
+  font-size: 12.5px; line-height: 1.5; color: var(--muted-foreground);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+
+/* ---- preview dialog (ported from template-preview-dialog.tsx) ---- */
+.tpl-veil {
+  position: absolute; inset: 0; z-index: 60; pointer-events: none;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(0,0,0,0.1); padding: 24px;
+}
+.tpl-dialog {
+  display: flex; flex-direction: column; width: 880px; max-height: 92%;
+  overflow: hidden; border-radius: var(--radius-xl);
+  background: var(--popover); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
+}
+.tpl-dialog-preview {
+  height: 460px; overflow: hidden; border-bottom: 1px solid var(--border);
+  background: color-mix(in oklab, var(--muted) 40%, transparent);
+}
+.tpl-dialog-preview img { display: block; width: 100%; height: auto; }
+.tpl-dialog-foot { display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; padding: 20px 24px; }
+.tpl-dialog-info { min-width: 0; }
+.tpl-dialog-title { font-size: 18px; font-weight: 700; letter-spacing: -0.025em; color: var(--foreground); }
+.tpl-dialog-desc { margin-top: 4px; font-size: 12.5px; line-height: 1.625; color: var(--muted-foreground); }
+.tpl-dialog-hint { margin-top: 6px; font-size: 11.5px; color: color-mix(in oklab, var(--muted-foreground) 80%, transparent); }
+.tpl-dialog-actions { display: flex; flex-shrink: 0; align-items: center; gap: 10px; }
+.tpl-dialog-header-chips { display: flex; align-items: center; gap: 6px; }
+.tpl-dialog { position: relative; }
+.tpl-dialog-close {
+  position: absolute; right: 8px; top: 8px; z-index: 5;
+  display: flex; width: 28px; height: 28px; align-items: center; justify-content: center;
+  border-radius: var(--radius-md);
+  color: var(--foreground);
+}
+.tpl-dialog-close svg { width: 16px; height: 16px; }
+.tpl-dialog-preview img { display: block; width: 100%; height: auto; }

@@ -1,0 +1,3234 @@
+{
+  "00-title": {
+    "text": "Your buyers stopped googling. They ask AI. Here's how to make it answer with your name",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.14
+      },
+      {
+        "word": "buyers",
+        "start": 0.28
+      },
+      {
+        "word": "stopped",
+        "start": 0.699
+      },
+      {
+        "word": "googling",
+        "start": 1.039
+      },
+      {
+        "word": "they",
+        "start": 2.019
+      },
+      {
+        "word": "ask",
+        "start": 2.24
+      },
+      {
+        "word": "ai",
+        "start": 2.539
+      },
+      {
+        "word": "here's",
+        "start": 3.5
+      },
+      {
+        "word": "how",
+        "start": 3.699
+      },
+      {
+        "word": "to",
+        "start": 3.819
+      },
+      {
+        "word": "make",
+        "start": 3.919
+      },
+      {
+        "word": "it",
+        "start": 4.079
+      },
+      {
+        "word": "answer",
+        "start": 4.199
+      },
+      {
+        "word": "with",
+        "start": 4.779
+      },
+      {
+        "word": "your",
+        "start": 5.019
+      },
+      {
+        "word": "name",
+        "start": 5.259
+      }
+    ]
+  },
+  "01-intro": {
+    "text": "This is your GEO dashboard. SEO is where you rank on Google. GEO is whether ChatGPT, Claude, Gemini, and Perplexity name your brand when buyers ask them directly",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.099
+      },
+      {
+        "word": "is",
+        "start": 0.359
+      },
+      {
+        "word": "your",
+        "start": 0.5
+      },
+      {
+        "word": "geo",
+        "start": 0.699
+      },
+      {
+        "word": "dashboard",
+        "start": 1.179
+      },
+      {
+        "word": "seo",
+        "start": 2.48
+      },
+      {
+        "word": "is",
+        "start": 3.059
+      },
+      {
+        "word": "where",
+        "start": 3.22
+      },
+      {
+        "word": "you",
+        "start": 3.399
+      },
+      {
+        "word": "rank",
+        "start": 3.559
+      },
+      {
+        "word": "on",
+        "start": 3.879
+      },
+      {
+        "word": "google",
+        "start": 4.099
+      },
+      {
+        "word": "geo",
+        "start": 5.219
+      },
+      {
+        "word": "is",
+        "start": 5.759
+      },
+      {
+        "word": "whether",
+        "start": 5.9
+      },
+      {
+        "word": "chatgpt",
+        "start": 6.259
+      },
+      {
+        "word": "claude",
+        "start": 7.339
+      },
+      {
+        "word": "gemini",
+        "start": 7.98
+      },
+      {
+        "word": "and",
+        "start": 8.479
+      },
+      {
+        "word": "perplexity",
+        "start": 8.619
+      },
+      {
+        "word": "name",
+        "start": 9.639
+      },
+      {
+        "word": "your",
+        "start": 9.899
+      },
+      {
+        "word": "brand",
+        "start": 10.059
+      },
+      {
+        "word": "when",
+        "start": 10.479
+      },
+      {
+        "word": "buyers",
+        "start": 10.659
+      },
+      {
+        "word": "ask",
+        "start": 11.139
+      },
+      {
+        "word": "them",
+        "start": 11.399
+      },
+      {
+        "word": "directly",
+        "start": 11.599
+      }
+    ]
+  },
+  "02-sov": {
+    "text": "The big number is your share of voice. Out of all the brands the assistants mention, how often it's you. And here's the whole leaderboard, including everyone named instead of you",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.099
+      },
+      {
+        "word": "big",
+        "start": 0.239
+      },
+      {
+        "word": "number",
+        "start": 0.5
+      },
+      {
+        "word": "is",
+        "start": 0.959
+      },
+      {
+        "word": "your",
+        "start": 1.139
+      },
+      {
+        "word": "share",
+        "start": 1.339
+      },
+      {
+        "word": "of",
+        "start": 1.679
+      },
+      {
+        "word": "voice",
+        "start": 1.819
+      },
+      {
+        "word": "out",
+        "start": 2.619
+      },
+      {
+        "word": "of",
+        "start": 2.72
+      },
+      {
+        "word": "all",
+        "start": 2.939
+      },
+      {
+        "word": "the",
+        "start": 3.119
+      },
+      {
+        "word": "brands",
+        "start": 3.24
+      },
+      {
+        "word": "the",
+        "start": 3.599
+      },
+      {
+        "word": "assistants",
+        "start": 3.72
+      },
+      {
+        "word": "mention",
+        "start": 4.279
+      },
+      {
+        "word": "how",
+        "start": 5.019
+      },
+      {
+        "word": "often",
+        "start": 5.259
+      },
+      {
+        "word": "it's",
+        "start": 5.699
+      },
+      {
+        "word": "you",
+        "start": 5.94
+      },
+      {
+        "word": "and",
+        "start": 6.94
+      },
+      {
+        "word": "here's",
+        "start": 7.079
+      },
+      {
+        "word": "the",
+        "start": 7.359
+      },
+      {
+        "word": "whole",
+        "start": 7.5
+      },
+      {
+        "word": "leaderboard",
+        "start": 7.719
+      },
+      {
+        "word": "including",
+        "start": 8.42
+      },
+      {
+        "word": "everyone",
+        "start": 8.859
+      },
+      {
+        "word": "named",
+        "start": 9.3
+      },
+      {
+        "word": "instead",
+        "start": 9.699
+      },
+      {
+        "word": "of",
+        "start": 10.059
+      },
+      {
+        "word": "you",
+        "start": 10.219
+      }
+    ]
+  },
+  "03-trend": {
+    "text": "Visibility over time shows every run as a point, so you see if you're gaining ground.",
+    "words": [
+      {
+        "word": "visibility",
+        "start": 0.079
+      },
+      {
+        "word": "over",
+        "start": 0.779
+      },
+      {
+        "word": "time",
+        "start": 1.039
+      },
+      {
+        "word": "shows",
+        "start": 1.539
+      },
+      {
+        "word": "every",
+        "start": 1.919
+      },
+      {
+        "word": "run",
+        "start": 2.319
+      },
+      {
+        "word": "as",
+        "start": 2.659
+      },
+      {
+        "word": "a",
+        "start": 2.899
+      },
+      {
+        "word": "point",
+        "start": 2.96
+      },
+      {
+        "word": "so",
+        "start": 3.919
+      },
+      {
+        "word": "you",
+        "start": 4.079
+      },
+      {
+        "word": "see",
+        "start": 4.319
+      },
+      {
+        "word": "if",
+        "start": 4.619
+      },
+      {
+        "word": "you're",
+        "start": 4.759
+      },
+      {
+        "word": "gaining",
+        "start": 4.92
+      },
+      {
+        "word": "ground",
+        "start": 5.299
+      }
+    ]
+  },
+  "04-assistants": {
+    "text": "And by assistant, because ChatGPT and Claude don't answer the same way. You can be strong on one, invisible on the other",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "by",
+        "start": 0.319
+      },
+      {
+        "word": "assistant",
+        "start": 0.56
+      },
+      {
+        "word": "because",
+        "start": 1.719
+      },
+      {
+        "word": "chatgpt",
+        "start": 2.079
+      },
+      {
+        "word": "and",
+        "start": 2.939
+      },
+      {
+        "word": "claude",
+        "start": 3.139
+      },
+      {
+        "word": "don't",
+        "start": 3.659
+      },
+      {
+        "word": "answer",
+        "start": 3.959
+      },
+      {
+        "word": "the",
+        "start": 4.299
+      },
+      {
+        "word": "same",
+        "start": 4.44
+      },
+      {
+        "word": "way",
+        "start": 4.719
+      },
+      {
+        "word": "you",
+        "start": 5.42
+      },
+      {
+        "word": "can",
+        "start": 5.539
+      },
+      {
+        "word": "be",
+        "start": 5.699
+      },
+      {
+        "word": "strong",
+        "start": 5.879
+      },
+      {
+        "word": "on",
+        "start": 6.199
+      },
+      {
+        "word": "one",
+        "start": 6.46
+      },
+      {
+        "word": "invisible",
+        "start": 6.94
+      },
+      {
+        "word": "on",
+        "start": 7.599
+      },
+      {
+        "word": "the",
+        "start": 7.719
+      },
+      {
+        "word": "other",
+        "start": 7.839
+      }
+    ]
+  },
+  "05-prompts-what": {
+    "text": "All of it is built from prompts. A prompt is just a question your buyer asks an AI, like, \"Best soy candles for gifts.\" Every tracked prompt is asked on all four assistants",
+    "words": [
+      {
+        "word": "all",
+        "start": 0.199
+      },
+      {
+        "word": "of",
+        "start": 0.459
+      },
+      {
+        "word": "it",
+        "start": 0.639
+      },
+      {
+        "word": "is",
+        "start": 0.839
+      },
+      {
+        "word": "built",
+        "start": 1.059
+      },
+      {
+        "word": "from",
+        "start": 1.559
+      },
+      {
+        "word": "prompts",
+        "start": 1.799
+      },
+      {
+        "word": "a",
+        "start": 3.019
+      },
+      {
+        "word": "prompt",
+        "start": 3.139
+      },
+      {
+        "word": "is",
+        "start": 3.619
+      },
+      {
+        "word": "just",
+        "start": 3.759
+      },
+      {
+        "word": "a",
+        "start": 3.919
+      },
+      {
+        "word": "question",
+        "start": 4.079
+      },
+      {
+        "word": "your",
+        "start": 4.5
+      },
+      {
+        "word": "buyer",
+        "start": 4.639
+      },
+      {
+        "word": "asks",
+        "start": 5.019
+      },
+      {
+        "word": "an",
+        "start": 5.38
+      },
+      {
+        "word": "ai",
+        "start": 5.579
+      },
+      {
+        "word": "like",
+        "start": 6.359
+      },
+      {
+        "word": "best",
+        "start": 6.839
+      },
+      {
+        "word": "soy",
+        "start": 7.179
+      },
+      {
+        "word": "candles",
+        "start": 7.44
+      },
+      {
+        "word": "for",
+        "start": 7.839
+      },
+      {
+        "word": "gifts",
+        "start": 8
+      },
+      {
+        "word": "every",
+        "start": 9.199
+      },
+      {
+        "word": "tracked",
+        "start": 9.559
+      },
+      {
+        "word": "prompt",
+        "start": 9.939
+      },
+      {
+        "word": "is",
+        "start": 10.359
+      },
+      {
+        "word": "asked",
+        "start": 10.559
+      },
+      {
+        "word": "on",
+        "start": 10.779
+      },
+      {
+        "word": "all",
+        "start": 11.039
+      },
+      {
+        "word": "four",
+        "start": 11.279
+      },
+      {
+        "word": "assistants",
+        "start": 11.479
+      }
+    ]
+  },
+  "06-queries": {
+    "text": "Your prompts live here next to your keywords. Keywords are for Google. Prompts are for the assistants",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.119
+      },
+      {
+        "word": "prompts",
+        "start": 0.319
+      },
+      {
+        "word": "live",
+        "start": 0.68
+      },
+      {
+        "word": "here",
+        "start": 0.939
+      },
+      {
+        "word": "next",
+        "start": 1.459
+      },
+      {
+        "word": "to",
+        "start": 1.699
+      },
+      {
+        "word": "your",
+        "start": 1.779
+      },
+      {
+        "word": "keywords",
+        "start": 1.939
+      },
+      {
+        "word": "keywords",
+        "start": 3.059
+      },
+      {
+        "word": "are",
+        "start": 3.519
+      },
+      {
+        "word": "for",
+        "start": 3.679
+      },
+      {
+        "word": "google",
+        "start": 3.839
+      },
+      {
+        "word": "prompts",
+        "start": 4.5
+      },
+      {
+        "word": "are",
+        "start": 4.96
+      },
+      {
+        "word": "for",
+        "start": 5.099
+      },
+      {
+        "word": "the",
+        "start": 5.279
+      },
+      {
+        "word": "assistants",
+        "start": 5.359
+      }
+    ]
+  },
+  "07-add": {
+    "text": "Adding your own is one click. Track prompts, one per line, written the way a real customer would ask",
+    "words": [
+      {
+        "word": "adding",
+        "start": 0.079
+      },
+      {
+        "word": "your",
+        "start": 0.359
+      },
+      {
+        "word": "own",
+        "start": 0.56
+      },
+      {
+        "word": "is",
+        "start": 0.939
+      },
+      {
+        "word": "one",
+        "start": 1.199
+      },
+      {
+        "word": "click",
+        "start": 1.459
+      },
+      {
+        "word": "track",
+        "start": 3.639
+      },
+      {
+        "word": "prompts",
+        "start": 4.019
+      },
+      {
+        "word": "one",
+        "start": 4.88
+      },
+      {
+        "word": "per",
+        "start": 5.139
+      },
+      {
+        "word": "line",
+        "start": 5.38
+      },
+      {
+        "word": "written",
+        "start": 5.98
+      },
+      {
+        "word": "the",
+        "start": 6.219
+      },
+      {
+        "word": "way",
+        "start": 6.359
+      },
+      {
+        "word": "a",
+        "start": 6.619
+      },
+      {
+        "word": "real",
+        "start": 6.779
+      },
+      {
+        "word": "customer",
+        "start": 7.119
+      },
+      {
+        "word": "would",
+        "start": 7.599
+      },
+      {
+        "word": "ask",
+        "start": 7.839
+      }
+    ]
+  },
+  "08-added": {
+    "text": "Add them and they join every future run",
+    "words": [
+      {
+        "word": "add",
+        "start": 0.079
+      },
+      {
+        "word": "them",
+        "start": 0.28
+      },
+      {
+        "word": "and",
+        "start": 0.839
+      },
+      {
+        "word": "they",
+        "start": 0.979
+      },
+      {
+        "word": "join",
+        "start": 1.199
+      },
+      {
+        "word": "every",
+        "start": 1.579
+      },
+      {
+        "word": "future",
+        "start": 1.959
+      },
+      {
+        "word": "run",
+        "start": 2.359
+      }
+    ]
+  },
+  "09-run": {
+    "text": "Then re-ask. One click runs every prompt on all four assistants and updates the dashboard",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.099
+      },
+      {
+        "word": "reask",
+        "start": 0.62
+      },
+      {
+        "word": "one",
+        "start": 1.919
+      },
+      {
+        "word": "click",
+        "start": 2.139
+      },
+      {
+        "word": "runs",
+        "start": 2.44
+      },
+      {
+        "word": "every",
+        "start": 2.819
+      },
+      {
+        "word": "prompt",
+        "start": 3.199
+      },
+      {
+        "word": "on",
+        "start": 3.619
+      },
+      {
+        "word": "all",
+        "start": 3.899
+      },
+      {
+        "word": "four",
+        "start": 4.159
+      },
+      {
+        "word": "assistants",
+        "start": 4.42
+      },
+      {
+        "word": "and",
+        "start": 5
+      },
+      {
+        "word": "updates",
+        "start": 5.219
+      },
+      {
+        "word": "the",
+        "start": 5.659
+      },
+      {
+        "word": "dashboard",
+        "start": 5.759
+      }
+    ]
+  },
+  "10-domains": {
+    "text": "And the sources, which sites the assistants cite while answering. That's where you want to be mentioned",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.299
+      },
+      {
+        "word": "sources",
+        "start": 0.419
+      },
+      {
+        "word": "which",
+        "start": 1.36
+      },
+      {
+        "word": "sites",
+        "start": 1.62
+      },
+      {
+        "word": "the",
+        "start": 1.959
+      },
+      {
+        "word": "assistants",
+        "start": 2.119
+      },
+      {
+        "word": "cite",
+        "start": 2.599
+      },
+      {
+        "word": "while",
+        "start": 2.96
+      },
+      {
+        "word": "answering",
+        "start": 3.179
+      },
+      {
+        "word": "that's",
+        "start": 4.259
+      },
+      {
+        "word": "where",
+        "start": 4.519
+      },
+      {
+        "word": "you",
+        "start": 4.759
+      },
+      {
+        "word": "want",
+        "start": 4.92
+      },
+      {
+        "word": "to",
+        "start": 5.059
+      },
+      {
+        "word": "be",
+        "start": 5.179
+      },
+      {
+        "word": "mentioned",
+        "start": 5.359
+      }
+    ]
+  },
+  "11-mentions": {
+    "text": "And one more thing feeds all of this: mentions. When an assistant answers, it runs a web search first. The higher a site's authority, the more likely it's what the AI reads about you",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "one",
+        "start": 0.319
+      },
+      {
+        "word": "more",
+        "start": 0.519
+      },
+      {
+        "word": "thing",
+        "start": 0.779
+      },
+      {
+        "word": "feeds",
+        "start": 1.139
+      },
+      {
+        "word": "all",
+        "start": 1.439
+      },
+      {
+        "word": "of",
+        "start": 1.579
+      },
+      {
+        "word": "this",
+        "start": 1.719
+      },
+      {
+        "word": "mentions",
+        "start": 2.819
+      },
+      {
+        "word": "when",
+        "start": 4.339
+      },
+      {
+        "word": "an",
+        "start": 4.5
+      },
+      {
+        "word": "assistant",
+        "start": 4.619
+      },
+      {
+        "word": "answers",
+        "start": 5.159
+      },
+      {
+        "word": "it",
+        "start": 5.739
+      },
+      {
+        "word": "runs",
+        "start": 5.9
+      },
+      {
+        "word": "a",
+        "start": 6.119
+      },
+      {
+        "word": "web",
+        "start": 6.219
+      },
+      {
+        "word": "search",
+        "start": 6.48
+      },
+      {
+        "word": "first",
+        "start": 6.859
+      },
+      {
+        "word": "the",
+        "start": 7.879
+      },
+      {
+        "word": "higher",
+        "start": 8.039
+      },
+      {
+        "word": "a",
+        "start": 8.3
+      },
+      {
+        "word": "site's",
+        "start": 8.399
+      },
+      {
+        "word": "authority",
+        "start": 8.679
+      },
+      {
+        "word": "the",
+        "start": 9.319
+      },
+      {
+        "word": "more",
+        "start": 9.479
+      },
+      {
+        "word": "likely",
+        "start": 9.739
+      },
+      {
+        "word": "it's",
+        "start": 10.119
+      },
+      {
+        "word": "what",
+        "start": 10.26
+      },
+      {
+        "word": "the",
+        "start": 10.42
+      },
+      {
+        "word": "ai",
+        "start": 10.619
+      },
+      {
+        "word": "reads",
+        "start": 11
+      },
+      {
+        "word": "about",
+        "start": 11.219
+      },
+      {
+        "word": "you",
+        "start": 11.5
+      }
+    ]
+  },
+  "12-press": {
+    "text": "That's what this page grows. Rise publishes press releases to over three hundred sources, places guest posts, and builds backlink exchanges. Every mention teaches the assistants your brand exists",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.079
+      },
+      {
+        "word": "what",
+        "start": 0.319
+      },
+      {
+        "word": "this",
+        "start": 0.5
+      },
+      {
+        "word": "page",
+        "start": 0.68
+      },
+      {
+        "word": "grows",
+        "start": 1.019
+      },
+      {
+        "word": "rise",
+        "start": 2.139
+      },
+      {
+        "word": "publishes",
+        "start": 2.5
+      },
+      {
+        "word": "press",
+        "start": 3.039
+      },
+      {
+        "word": "releases",
+        "start": 3.279
+      },
+      {
+        "word": "to",
+        "start": 3.859
+      },
+      {
+        "word": "over",
+        "start": 3.98
+      },
+      {
+        "word": "three",
+        "start": 4.259
+      },
+      {
+        "word": "hundred",
+        "start": 4.559
+      },
+      {
+        "word": "sources",
+        "start": 4.9
+      },
+      {
+        "word": "places",
+        "start": 5.659
+      },
+      {
+        "word": "guest",
+        "start": 6.059
+      },
+      {
+        "word": "posts",
+        "start": 6.379
+      },
+      {
+        "word": "and",
+        "start": 6.899
+      },
+      {
+        "word": "builds",
+        "start": 7.099
+      },
+      {
+        "word": "backlink",
+        "start": 7.5
+      },
+      {
+        "word": "exchanges",
+        "start": 8.019
+      },
+      {
+        "word": "every",
+        "start": 9.079
+      },
+      {
+        "word": "mention",
+        "start": 9.439
+      },
+      {
+        "word": "teaches",
+        "start": 9.92
+      },
+      {
+        "word": "the",
+        "start": 10.3
+      },
+      {
+        "word": "assistants",
+        "start": 10.399
+      },
+      {
+        "word": "your",
+        "start": 11.159
+      },
+      {
+        "word": "brand",
+        "start": 11.399
+      },
+      {
+        "word": "exists",
+        "start": 11.859
+      }
+    ]
+  },
+  "13-close": {
+    "text": "Track the questions your buyers actually ask. Grow the mentions, and you'll know exactly where AI sends them",
+    "words": [
+      {
+        "word": "track",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.399
+      },
+      {
+        "word": "questions",
+        "start": 0.56
+      },
+      {
+        "word": "your",
+        "start": 1
+      },
+      {
+        "word": "buyers",
+        "start": 1.159
+      },
+      {
+        "word": "actually",
+        "start": 1.699
+      },
+      {
+        "word": "ask",
+        "start": 2.22
+      },
+      {
+        "word": "grow",
+        "start": 2.919
+      },
+      {
+        "word": "the",
+        "start": 3.22
+      },
+      {
+        "word": "mentions",
+        "start": 3.339
+      },
+      {
+        "word": "and",
+        "start": 4.38
+      },
+      {
+        "word": "you'll",
+        "start": 4.539
+      },
+      {
+        "word": "know",
+        "start": 4.739
+      },
+      {
+        "word": "exactly",
+        "start": 4.92
+      },
+      {
+        "word": "where",
+        "start": 5.719
+      },
+      {
+        "word": "ai",
+        "start": 6
+      },
+      {
+        "word": "sends",
+        "start": 6.319
+      },
+      {
+        "word": "them",
+        "start": 6.619
+      }
+    ]
+  },
+  "01-geo": {
+    "text": "SEO gets you ranked on Google. GEO gets you named by ChatGPT, Claude, and Gemini when buyers ask them what to buy. Different game. And it runs on one simple thing: how often the internet mentions you",
+    "words": [
+      {
+        "word": "seo",
+        "start": 0.119
+      },
+      {
+        "word": "gets",
+        "start": 0.579
+      },
+      {
+        "word": "you",
+        "start": 0.759
+      },
+      {
+        "word": "ranked",
+        "start": 0.879
+      },
+      {
+        "word": "on",
+        "start": 1.179
+      },
+      {
+        "word": "google",
+        "start": 1.339
+      },
+      {
+        "word": "geo",
+        "start": 2.22
+      },
+      {
+        "word": "gets",
+        "start": 2.819
+      },
+      {
+        "word": "you",
+        "start": 3.019
+      },
+      {
+        "word": "named",
+        "start": 3.179
+      },
+      {
+        "word": "by",
+        "start": 3.839
+      },
+      {
+        "word": "chatgpt",
+        "start": 4.039
+      },
+      {
+        "word": "claude",
+        "start": 5.019
+      },
+      {
+        "word": "and",
+        "start": 5.539
+      },
+      {
+        "word": "gemini",
+        "start": 5.699
+      },
+      {
+        "word": "when",
+        "start": 6.5
+      },
+      {
+        "word": "buyers",
+        "start": 6.699
+      },
+      {
+        "word": "ask",
+        "start": 7.119
+      },
+      {
+        "word": "them",
+        "start": 7.359
+      },
+      {
+        "word": "what",
+        "start": 7.659
+      },
+      {
+        "word": "to",
+        "start": 7.859
+      },
+      {
+        "word": "buy",
+        "start": 8
+      },
+      {
+        "word": "different",
+        "start": 8.819
+      },
+      {
+        "word": "game",
+        "start": 9.159
+      },
+      {
+        "word": "and",
+        "start": 10.079
+      },
+      {
+        "word": "it",
+        "start": 10.199
+      },
+      {
+        "word": "runs",
+        "start": 10.359
+      },
+      {
+        "word": "on",
+        "start": 10.659
+      },
+      {
+        "word": "one",
+        "start": 10.96
+      },
+      {
+        "word": "simple",
+        "start": 11.219
+      },
+      {
+        "word": "thing",
+        "start": 11.559
+      },
+      {
+        "word": "how",
+        "start": 12.239
+      },
+      {
+        "word": "often",
+        "start": 12.46
+      },
+      {
+        "word": "the",
+        "start": 12.779
+      },
+      {
+        "word": "internet",
+        "start": 12.92
+      },
+      {
+        "word": "mentions",
+        "start": 13.42
+      },
+      {
+        "word": "you",
+        "start": 13.899
+      }
+    ]
+  },
+  "02-mentions": {
+    "text": "That's what this page grows. Mentions are articles across the web that name your brand. Press releases and guest posts rise, writes, and places for you every month",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.119
+      },
+      {
+        "word": "what",
+        "start": 0.379
+      },
+      {
+        "word": "this",
+        "start": 0.56
+      },
+      {
+        "word": "page",
+        "start": 0.759
+      },
+      {
+        "word": "grows",
+        "start": 1.039
+      },
+      {
+        "word": "mentions",
+        "start": 2.24
+      },
+      {
+        "word": "are",
+        "start": 2.7
+      },
+      {
+        "word": "articles",
+        "start": 2.859
+      },
+      {
+        "word": "across",
+        "start": 3.319
+      },
+      {
+        "word": "the",
+        "start": 3.619
+      },
+      {
+        "word": "web",
+        "start": 3.74
+      },
+      {
+        "word": "that",
+        "start": 4.039
+      },
+      {
+        "word": "name",
+        "start": 4.339
+      },
+      {
+        "word": "your",
+        "start": 4.559
+      },
+      {
+        "word": "brand",
+        "start": 4.739
+      },
+      {
+        "word": "press",
+        "start": 5.42
+      },
+      {
+        "word": "releases",
+        "start": 5.659
+      },
+      {
+        "word": "and",
+        "start": 6.199
+      },
+      {
+        "word": "guest",
+        "start": 6.359
+      },
+      {
+        "word": "posts",
+        "start": 6.639
+      },
+      {
+        "word": "rise",
+        "start": 7.119
+      },
+      {
+        "word": "writes",
+        "start": 7.44
+      },
+      {
+        "word": "and",
+        "start": 7.719
+      },
+      {
+        "word": "places",
+        "start": 7.879
+      },
+      {
+        "word": "for",
+        "start": 8.3
+      },
+      {
+        "word": "you",
+        "start": 8.559
+      },
+      {
+        "word": "every",
+        "start": 8.96
+      },
+      {
+        "word": "month",
+        "start": 9.279
+      }
+    ]
+  },
+  "03-press": {
+    "text": "And one press release never lands on just one site. Click the links. Published on seven sites. Rize pushes every release to a network of over three hundred news sources",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "one",
+        "start": 0.419
+      },
+      {
+        "word": "press",
+        "start": 0.62
+      },
+      {
+        "word": "release",
+        "start": 0.899
+      },
+      {
+        "word": "never",
+        "start": 1.5
+      },
+      {
+        "word": "lands",
+        "start": 1.759
+      },
+      {
+        "word": "on",
+        "start": 2.059
+      },
+      {
+        "word": "just",
+        "start": 2.299
+      },
+      {
+        "word": "one",
+        "start": 2.639
+      },
+      {
+        "word": "site",
+        "start": 2.879
+      },
+      {
+        "word": "click",
+        "start": 3.759
+      },
+      {
+        "word": "the",
+        "start": 3.98
+      },
+      {
+        "word": "links",
+        "start": 4.099
+      },
+      {
+        "word": "published",
+        "start": 4.92
+      },
+      {
+        "word": "on",
+        "start": 5.299
+      },
+      {
+        "word": "seven",
+        "start": 5.599
+      },
+      {
+        "word": "sites",
+        "start": 6
+      },
+      {
+        "word": "rize",
+        "start": 7.119
+      },
+      {
+        "word": "pushes",
+        "start": 7.48
+      },
+      {
+        "word": "every",
+        "start": 7.899
+      },
+      {
+        "word": "release",
+        "start": 8.159
+      },
+      {
+        "word": "to",
+        "start": 8.659
+      },
+      {
+        "word": "a",
+        "start": 8.779
+      },
+      {
+        "word": "network",
+        "start": 8.899
+      },
+      {
+        "word": "of",
+        "start": 9.26
+      },
+      {
+        "word": "over",
+        "start": 9.38
+      },
+      {
+        "word": "three",
+        "start": 9.679
+      },
+      {
+        "word": "hundred",
+        "start": 10.059
+      },
+      {
+        "word": "news",
+        "start": 10.439
+      },
+      {
+        "word": "sources",
+        "start": 10.639
+      }
+    ]
+  },
+  "04-why": {
+    "text": "Why does that matter? When the next ChatGPT or Claude gets trained, it reads the whole internet. The more places mention your brand, the better the new model knows you before anyone even asks",
+    "words": [
+      {
+        "word": "why",
+        "start": 0.119
+      },
+      {
+        "word": "does",
+        "start": 0.259
+      },
+      {
+        "word": "that",
+        "start": 0.419
+      },
+      {
+        "word": "matter",
+        "start": 0.639
+      },
+      {
+        "word": "when",
+        "start": 1.5
+      },
+      {
+        "word": "the",
+        "start": 1.659
+      },
+      {
+        "word": "next",
+        "start": 1.819
+      },
+      {
+        "word": "chatgpt",
+        "start": 2.099
+      },
+      {
+        "word": "or",
+        "start": 2.919
+      },
+      {
+        "word": "claude",
+        "start": 3.099
+      },
+      {
+        "word": "gets",
+        "start": 3.46
+      },
+      {
+        "word": "trained",
+        "start": 3.72
+      },
+      {
+        "word": "it",
+        "start": 4.38
+      },
+      {
+        "word": "reads",
+        "start": 4.579
+      },
+      {
+        "word": "the",
+        "start": 4.92
+      },
+      {
+        "word": "whole",
+        "start": 5.079
+      },
+      {
+        "word": "internet",
+        "start": 5.339
+      },
+      {
+        "word": "the",
+        "start": 6.319
+      },
+      {
+        "word": "more",
+        "start": 6.46
+      },
+      {
+        "word": "places",
+        "start": 6.659
+      },
+      {
+        "word": "mention",
+        "start": 7.139
+      },
+      {
+        "word": "your",
+        "start": 7.44
+      },
+      {
+        "word": "brand",
+        "start": 7.539
+      },
+      {
+        "word": "the",
+        "start": 8.059
+      },
+      {
+        "word": "better",
+        "start": 8.279
+      },
+      {
+        "word": "the",
+        "start": 8.519
+      },
+      {
+        "word": "new",
+        "start": 8.659
+      },
+      {
+        "word": "model",
+        "start": 8.819
+      },
+      {
+        "word": "knows",
+        "start": 9.159
+      },
+      {
+        "word": "you",
+        "start": 9.439
+      },
+      {
+        "word": "before",
+        "start": 9.8
+      },
+      {
+        "word": "anyone",
+        "start": 10.199
+      },
+      {
+        "word": "even",
+        "start": 10.639
+      },
+      {
+        "word": "asks",
+        "start": 11.019
+      }
+    ]
+  },
+  "05-backlinks": {
+    "text": "Backlinks are the other half. Every one of these is a link from someone else's site back to yours with the page, the keyword, and the anchor it came with",
+    "words": [
+      {
+        "word": "backlinks",
+        "start": 0.099
+      },
+      {
+        "word": "are",
+        "start": 0.799
+      },
+      {
+        "word": "the",
+        "start": 0.979
+      },
+      {
+        "word": "other",
+        "start": 1.12
+      },
+      {
+        "word": "half",
+        "start": 1.359
+      },
+      {
+        "word": "every",
+        "start": 2.159
+      },
+      {
+        "word": "one",
+        "start": 2.5
+      },
+      {
+        "word": "of",
+        "start": 2.619
+      },
+      {
+        "word": "these",
+        "start": 2.74
+      },
+      {
+        "word": "is",
+        "start": 3.039
+      },
+      {
+        "word": "a",
+        "start": 3.259
+      },
+      {
+        "word": "link",
+        "start": 3.379
+      },
+      {
+        "word": "from",
+        "start": 3.619
+      },
+      {
+        "word": "someone",
+        "start": 3.839
+      },
+      {
+        "word": "else's",
+        "start": 4.139
+      },
+      {
+        "word": "site",
+        "start": 4.5
+      },
+      {
+        "word": "back",
+        "start": 4.94
+      },
+      {
+        "word": "to",
+        "start": 5.139
+      },
+      {
+        "word": "yours",
+        "start": 5.279
+      },
+      {
+        "word": "with",
+        "start": 5.96
+      },
+      {
+        "word": "the",
+        "start": 6.099
+      },
+      {
+        "word": "page",
+        "start": 6.219
+      },
+      {
+        "word": "the",
+        "start": 6.779
+      },
+      {
+        "word": "keyword",
+        "start": 6.96
+      },
+      {
+        "word": "and",
+        "start": 7.539
+      },
+      {
+        "word": "the",
+        "start": 7.699
+      },
+      {
+        "word": "anchor",
+        "start": 7.859
+      },
+      {
+        "word": "it",
+        "start": 8.159
+      },
+      {
+        "word": "came",
+        "start": 8.359
+      },
+      {
+        "word": "with",
+        "start": 8.519
+      }
+    ]
+  },
+  "06-geo-links": {
+    "text": "And they're not just for Google anymore. When ChatGPT searches the web to answer, it opens what ranks on top, big high traffic sites. Backlinks are what put you up there, so they raise your odds of being cited by AI too",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "they're",
+        "start": 0.239
+      },
+      {
+        "word": "not",
+        "start": 0.419
+      },
+      {
+        "word": "just",
+        "start": 0.68
+      },
+      {
+        "word": "for",
+        "start": 0.839
+      },
+      {
+        "word": "google",
+        "start": 1.019
+      },
+      {
+        "word": "anymore",
+        "start": 1.379
+      },
+      {
+        "word": "when",
+        "start": 2.259
+      },
+      {
+        "word": "chatgpt",
+        "start": 2.46
+      },
+      {
+        "word": "searches",
+        "start": 3.259
+      },
+      {
+        "word": "the",
+        "start": 3.639
+      },
+      {
+        "word": "web",
+        "start": 3.74
+      },
+      {
+        "word": "to",
+        "start": 3.959
+      },
+      {
+        "word": "answer",
+        "start": 4.119
+      },
+      {
+        "word": "it",
+        "start": 4.699
+      },
+      {
+        "word": "opens",
+        "start": 4.88
+      },
+      {
+        "word": "what",
+        "start": 5.239
+      },
+      {
+        "word": "ranks",
+        "start": 5.44
+      },
+      {
+        "word": "on",
+        "start": 5.739
+      },
+      {
+        "word": "top",
+        "start": 5.9
+      },
+      {
+        "word": "big",
+        "start": 6.639
+      },
+      {
+        "word": "high",
+        "start": 7.019
+      },
+      {
+        "word": "traffic",
+        "start": 7.199
+      },
+      {
+        "word": "sites",
+        "start": 7.619
+      },
+      {
+        "word": "backlinks",
+        "start": 8.539
+      },
+      {
+        "word": "are",
+        "start": 9.179
+      },
+      {
+        "word": "what",
+        "start": 9.3
+      },
+      {
+        "word": "put",
+        "start": 9.5
+      },
+      {
+        "word": "you",
+        "start": 9.659
+      },
+      {
+        "word": "up",
+        "start": 9.8
+      },
+      {
+        "word": "there",
+        "start": 9.979
+      },
+      {
+        "word": "so",
+        "start": 10.519
+      },
+      {
+        "word": "they",
+        "start": 10.639
+      },
+      {
+        "word": "raise",
+        "start": 10.819
+      },
+      {
+        "word": "your",
+        "start": 11.119
+      },
+      {
+        "word": "odds",
+        "start": 11.359
+      },
+      {
+        "word": "of",
+        "start": 11.52
+      },
+      {
+        "word": "being",
+        "start": 11.659
+      },
+      {
+        "word": "cited",
+        "start": 11.899
+      },
+      {
+        "word": "by",
+        "start": 12.259
+      },
+      {
+        "word": "ai",
+        "start": 12.539
+      },
+      {
+        "word": "too",
+        "start": 12.939
+      }
+    ]
+  },
+  "07-prompts": {
+    "text": "Now, how do you measure any of this? With prompts. Keywords are what people type into Google. Prompts are what they ask an AI. Full questions, the way a real customer talks",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.14
+      },
+      {
+        "word": "how",
+        "start": 0.659
+      },
+      {
+        "word": "do",
+        "start": 0.819
+      },
+      {
+        "word": "you",
+        "start": 0.899
+      },
+      {
+        "word": "measure",
+        "start": 1.079
+      },
+      {
+        "word": "any",
+        "start": 1.519
+      },
+      {
+        "word": "of",
+        "start": 1.699
+      },
+      {
+        "word": "this",
+        "start": 1.839
+      },
+      {
+        "word": "with",
+        "start": 2.759
+      },
+      {
+        "word": "prompts",
+        "start": 2.98
+      },
+      {
+        "word": "keywords",
+        "start": 4.059
+      },
+      {
+        "word": "are",
+        "start": 4.599
+      },
+      {
+        "word": "what",
+        "start": 4.719
+      },
+      {
+        "word": "people",
+        "start": 4.88
+      },
+      {
+        "word": "type",
+        "start": 5.239
+      },
+      {
+        "word": "into",
+        "start": 5.46
+      },
+      {
+        "word": "google",
+        "start": 5.699
+      },
+      {
+        "word": "prompts",
+        "start": 6.46
+      },
+      {
+        "word": "are",
+        "start": 7.019
+      },
+      {
+        "word": "what",
+        "start": 7.159
+      },
+      {
+        "word": "they",
+        "start": 7.299
+      },
+      {
+        "word": "ask",
+        "start": 7.519
+      },
+      {
+        "word": "an",
+        "start": 7.739
+      },
+      {
+        "word": "ai",
+        "start": 7.919
+      },
+      {
+        "word": "full",
+        "start": 8.76
+      },
+      {
+        "word": "questions",
+        "start": 9.039
+      },
+      {
+        "word": "the",
+        "start": 9.76
+      },
+      {
+        "word": "way",
+        "start": 9.88
+      },
+      {
+        "word": "a",
+        "start": 10.019
+      },
+      {
+        "word": "real",
+        "start": 10.179
+      },
+      {
+        "word": "customer",
+        "start": 10.46
+      },
+      {
+        "word": "talks",
+        "start": 10.939
+      }
+    ]
+  },
+  "08-track": {
+    "text": "Adding your own takes a click. One prompt per line, and every prompt gets checked on ChatGPT, Claude, Gemini, and Perplexity",
+    "words": [
+      {
+        "word": "adding",
+        "start": 0.119
+      },
+      {
+        "word": "your",
+        "start": 0.439
+      },
+      {
+        "word": "own",
+        "start": 0.639
+      },
+      {
+        "word": "takes",
+        "start": 0.939
+      },
+      {
+        "word": "a",
+        "start": 1.24
+      },
+      {
+        "word": "click",
+        "start": 1.279
+      },
+      {
+        "word": "one",
+        "start": 2.2
+      },
+      {
+        "word": "prompt",
+        "start": 2.419
+      },
+      {
+        "word": "per",
+        "start": 2.799
+      },
+      {
+        "word": "line",
+        "start": 3.039
+      },
+      {
+        "word": "and",
+        "start": 3.599
+      },
+      {
+        "word": "every",
+        "start": 3.819
+      },
+      {
+        "word": "prompt",
+        "start": 4.099
+      },
+      {
+        "word": "gets",
+        "start": 4.48
+      },
+      {
+        "word": "checked",
+        "start": 4.759
+      },
+      {
+        "word": "on",
+        "start": 5.119
+      },
+      {
+        "word": "chatgpt",
+        "start": 5.279
+      },
+      {
+        "word": "claude",
+        "start": 6.319
+      },
+      {
+        "word": "gemini",
+        "start": 6.94
+      },
+      {
+        "word": "and",
+        "start": 7.599
+      },
+      {
+        "word": "perplexity",
+        "start": 7.779
+      }
+    ]
+  },
+  "09-added": {
+    "text": "Add them and they join every future run",
+    "words": [
+      {
+        "word": "add",
+        "start": 0.079
+      },
+      {
+        "word": "them",
+        "start": 0.319
+      },
+      {
+        "word": "and",
+        "start": 0.599
+      },
+      {
+        "word": "they",
+        "start": 0.699
+      },
+      {
+        "word": "join",
+        "start": 0.899
+      },
+      {
+        "word": "every",
+        "start": 1.279
+      },
+      {
+        "word": "future",
+        "start": 1.659
+      },
+      {
+        "word": "run",
+        "start": 2.059
+      }
+    ]
+  },
+  "10-run": {
+    "text": "Then re-ask. One click runs every prompt on all four assistants and refreshes your numbers",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.119
+      },
+      {
+        "word": "reask",
+        "start": 0.639
+      },
+      {
+        "word": "one",
+        "start": 2.019
+      },
+      {
+        "word": "click",
+        "start": 2.24
+      },
+      {
+        "word": "runs",
+        "start": 2.619
+      },
+      {
+        "word": "every",
+        "start": 2.98
+      },
+      {
+        "word": "prompt",
+        "start": 3.299
+      },
+      {
+        "word": "on",
+        "start": 3.659
+      },
+      {
+        "word": "all",
+        "start": 3.879
+      },
+      {
+        "word": "four",
+        "start": 4.099
+      },
+      {
+        "word": "assistants",
+        "start": 4.36
+      },
+      {
+        "word": "and",
+        "start": 4.96
+      },
+      {
+        "word": "refreshes",
+        "start": 5.099
+      },
+      {
+        "word": "your",
+        "start": 5.719
+      },
+      {
+        "word": "numbers",
+        "start": 5.839
+      }
+    ]
+  },
+  "11-dash": {
+    "text": "And here's where it all lands. Open the dashboard and switch to Geo",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "here's",
+        "start": 0.3
+      },
+      {
+        "word": "where",
+        "start": 0.579
+      },
+      {
+        "word": "it",
+        "start": 0.74
+      },
+      {
+        "word": "all",
+        "start": 0.879
+      },
+      {
+        "word": "lands",
+        "start": 1.059
+      },
+      {
+        "word": "open",
+        "start": 1.939
+      },
+      {
+        "word": "the",
+        "start": 2.159
+      },
+      {
+        "word": "dashboard",
+        "start": 2.279
+      },
+      {
+        "word": "and",
+        "start": 3.019
+      },
+      {
+        "word": "switch",
+        "start": 3.22
+      },
+      {
+        "word": "to",
+        "start": 3.579
+      },
+      {
+        "word": "geo",
+        "start": 3.74
+      }
+    ]
+  },
+  "12-sov": {
+    "text": "The big number is your share of voice. Out of all the brands the assistants named, how often it was you, and your rank against every competitor they mention instead",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.099
+      },
+      {
+        "word": "big",
+        "start": 0.239
+      },
+      {
+        "word": "number",
+        "start": 0.479
+      },
+      {
+        "word": "is",
+        "start": 0.879
+      },
+      {
+        "word": "your",
+        "start": 1.039
+      },
+      {
+        "word": "share",
+        "start": 1.24
+      },
+      {
+        "word": "of",
+        "start": 1.439
+      },
+      {
+        "word": "voice",
+        "start": 1.559
+      },
+      {
+        "word": "out",
+        "start": 2.319
+      },
+      {
+        "word": "of",
+        "start": 2.419
+      },
+      {
+        "word": "all",
+        "start": 2.679
+      },
+      {
+        "word": "the",
+        "start": 2.859
+      },
+      {
+        "word": "brands",
+        "start": 2.98
+      },
+      {
+        "word": "the",
+        "start": 3.359
+      },
+      {
+        "word": "assistants",
+        "start": 3.439
+      },
+      {
+        "word": "named",
+        "start": 4.119
+      },
+      {
+        "word": "how",
+        "start": 4.659
+      },
+      {
+        "word": "often",
+        "start": 4.88
+      },
+      {
+        "word": "it",
+        "start": 5.219
+      },
+      {
+        "word": "was",
+        "start": 5.359
+      },
+      {
+        "word": "you",
+        "start": 5.579
+      },
+      {
+        "word": "and",
+        "start": 6.199
+      },
+      {
+        "word": "your",
+        "start": 6.379
+      },
+      {
+        "word": "rank",
+        "start": 6.559
+      },
+      {
+        "word": "against",
+        "start": 7.019
+      },
+      {
+        "word": "every",
+        "start": 7.44
+      },
+      {
+        "word": "competitor",
+        "start": 7.739
+      },
+      {
+        "word": "they",
+        "start": 8.3
+      },
+      {
+        "word": "mention",
+        "start": 8.5
+      },
+      {
+        "word": "instead",
+        "start": 8.819
+      }
+    ]
+  },
+  "13-trend": {
+    "text": "Visibility over time. Every run is a point on this line, so you see if you're gaining ground week over week",
+    "words": [
+      {
+        "word": "visibility",
+        "start": 0.099
+      },
+      {
+        "word": "over",
+        "start": 0.859
+      },
+      {
+        "word": "time",
+        "start": 1.1
+      },
+      {
+        "word": "every",
+        "start": 1.879
+      },
+      {
+        "word": "run",
+        "start": 2.22
+      },
+      {
+        "word": "is",
+        "start": 2.519
+      },
+      {
+        "word": "a",
+        "start": 2.72
+      },
+      {
+        "word": "point",
+        "start": 2.759
+      },
+      {
+        "word": "on",
+        "start": 3.059
+      },
+      {
+        "word": "this",
+        "start": 3.179
+      },
+      {
+        "word": "line",
+        "start": 3.379
+      },
+      {
+        "word": "so",
+        "start": 3.959
+      },
+      {
+        "word": "you",
+        "start": 4.119
+      },
+      {
+        "word": "see",
+        "start": 4.319
+      },
+      {
+        "word": "if",
+        "start": 4.44
+      },
+      {
+        "word": "you're",
+        "start": 4.579
+      },
+      {
+        "word": "gaining",
+        "start": 4.759
+      },
+      {
+        "word": "ground",
+        "start": 5.099
+      },
+      {
+        "word": "week",
+        "start": 5.599
+      },
+      {
+        "word": "over",
+        "start": 5.779
+      },
+      {
+        "word": "week",
+        "start": 6.039
+      }
+    ]
+  },
+  "14-assistants": {
+    "text": "Then visibility by assistant. ChatGPT and Claude don't answer alike. You can be strong on one and invisible on another. Now you know exactly where to push",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.119
+      },
+      {
+        "word": "visibility",
+        "start": 0.659
+      },
+      {
+        "word": "by",
+        "start": 1.299
+      },
+      {
+        "word": "assistant",
+        "start": 1.439
+      },
+      {
+        "word": "chatgpt",
+        "start": 2.539
+      },
+      {
+        "word": "and",
+        "start": 3.379
+      },
+      {
+        "word": "claude",
+        "start": 3.599
+      },
+      {
+        "word": "don't",
+        "start": 4.119
+      },
+      {
+        "word": "answer",
+        "start": 4.4
+      },
+      {
+        "word": "alike",
+        "start": 4.779
+      },
+      {
+        "word": "you",
+        "start": 5.48
+      },
+      {
+        "word": "can",
+        "start": 5.579
+      },
+      {
+        "word": "be",
+        "start": 5.719
+      },
+      {
+        "word": "strong",
+        "start": 5.92
+      },
+      {
+        "word": "on",
+        "start": 6.299
+      },
+      {
+        "word": "one",
+        "start": 6.559
+      },
+      {
+        "word": "and",
+        "start": 6.98
+      },
+      {
+        "word": "invisible",
+        "start": 7.139
+      },
+      {
+        "word": "on",
+        "start": 7.799
+      },
+      {
+        "word": "another",
+        "start": 7.899
+      },
+      {
+        "word": "now",
+        "start": 8.979
+      },
+      {
+        "word": "you",
+        "start": 9.239
+      },
+      {
+        "word": "know",
+        "start": 9.399
+      },
+      {
+        "word": "exactly",
+        "start": 9.739
+      },
+      {
+        "word": "where",
+        "start": 10.34
+      },
+      {
+        "word": "to",
+        "start": 10.48
+      },
+      {
+        "word": "push",
+        "start": 10.619
+      }
+    ]
+  },
+  "15-domains": {
+    "text": "The sources, the sites assistants cite while answering, and how often your domain shows up in them. This is exactly where mentions and backlinks put you",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.119
+      },
+      {
+        "word": "sources",
+        "start": 0.299
+      },
+      {
+        "word": "the",
+        "start": 1.059
+      },
+      {
+        "word": "sites",
+        "start": 1.22
+      },
+      {
+        "word": "assistants",
+        "start": 1.519
+      },
+      {
+        "word": "cite",
+        "start": 2.079
+      },
+      {
+        "word": "while",
+        "start": 2.419
+      },
+      {
+        "word": "answering",
+        "start": 2.659
+      },
+      {
+        "word": "and",
+        "start": 3.319
+      },
+      {
+        "word": "how",
+        "start": 3.519
+      },
+      {
+        "word": "often",
+        "start": 3.759
+      },
+      {
+        "word": "your",
+        "start": 4.099
+      },
+      {
+        "word": "domain",
+        "start": 4.239
+      },
+      {
+        "word": "shows",
+        "start": 4.739
+      },
+      {
+        "word": "up",
+        "start": 5
+      },
+      {
+        "word": "in",
+        "start": 5.119
+      },
+      {
+        "word": "them",
+        "start": 5.239
+      },
+      {
+        "word": "this",
+        "start": 6.039
+      },
+      {
+        "word": "is",
+        "start": 6.199
+      },
+      {
+        "word": "exactly",
+        "start": 6.48
+      },
+      {
+        "word": "where",
+        "start": 6.98
+      },
+      {
+        "word": "mentions",
+        "start": 7.239
+      },
+      {
+        "word": "and",
+        "start": 7.779
+      },
+      {
+        "word": "backlinks",
+        "start": 7.96
+      },
+      {
+        "word": "put",
+        "start": 8.579
+      },
+      {
+        "word": "you",
+        "start": 8.819
+      }
+    ]
+  },
+  "16-prompt-table": {
+    "text": "And every prompt one by one. Which assistant named you, at which position, and how that changed since the last run?",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "every",
+        "start": 0.359
+      },
+      {
+        "word": "prompt",
+        "start": 0.639
+      },
+      {
+        "word": "one",
+        "start": 1.219
+      },
+      {
+        "word": "by",
+        "start": 1.459
+      },
+      {
+        "word": "one",
+        "start": 1.74
+      },
+      {
+        "word": "which",
+        "start": 2.48
+      },
+      {
+        "word": "assistant",
+        "start": 2.659
+      },
+      {
+        "word": "named",
+        "start": 3.159
+      },
+      {
+        "word": "you",
+        "start": 3.48
+      },
+      {
+        "word": "at",
+        "start": 3.899
+      },
+      {
+        "word": "which",
+        "start": 4.119
+      },
+      {
+        "word": "position",
+        "start": 4.319
+      },
+      {
+        "word": "and",
+        "start": 5.079
+      },
+      {
+        "word": "how",
+        "start": 5.259
+      },
+      {
+        "word": "that",
+        "start": 5.5
+      },
+      {
+        "word": "changed",
+        "start": 5.719
+      },
+      {
+        "word": "since",
+        "start": 6.339
+      },
+      {
+        "word": "the",
+        "start": 6.539
+      },
+      {
+        "word": "last",
+        "start": 6.659
+      },
+      {
+        "word": "run",
+        "start": 7
+      }
+    ]
+  },
+  "17-traffic": {
+    "text": "Finally, the payoff. Real visitors arriving on your site straight from AI chats, week by week, split by assistant, down to the exact pages they land on",
+    "words": [
+      {
+        "word": "finally",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.819
+      },
+      {
+        "word": "payoff",
+        "start": 0.959
+      },
+      {
+        "word": "real",
+        "start": 2.019
+      },
+      {
+        "word": "visitors",
+        "start": 2.299
+      },
+      {
+        "word": "arriving",
+        "start": 2.779
+      },
+      {
+        "word": "on",
+        "start": 3.24
+      },
+      {
+        "word": "your",
+        "start": 3.379
+      },
+      {
+        "word": "site",
+        "start": 3.559
+      },
+      {
+        "word": "straight",
+        "start": 4.019
+      },
+      {
+        "word": "from",
+        "start": 4.339
+      },
+      {
+        "word": "ai",
+        "start": 4.579
+      },
+      {
+        "word": "chats",
+        "start": 4.88
+      },
+      {
+        "word": "week",
+        "start": 5.559
+      },
+      {
+        "word": "by",
+        "start": 5.839
+      },
+      {
+        "word": "week",
+        "start": 6.059
+      },
+      {
+        "word": "split",
+        "start": 6.539
+      },
+      {
+        "word": "by",
+        "start": 6.899
+      },
+      {
+        "word": "assistant",
+        "start": 7.119
+      },
+      {
+        "word": "down",
+        "start": 7.839
+      },
+      {
+        "word": "to",
+        "start": 8.079
+      },
+      {
+        "word": "the",
+        "start": 8.22
+      },
+      {
+        "word": "exact",
+        "start": 8.439
+      },
+      {
+        "word": "pages",
+        "start": 8.939
+      },
+      {
+        "word": "they",
+        "start": 9.38
+      },
+      {
+        "word": "land",
+        "start": 9.539
+      },
+      {
+        "word": "on",
+        "start": 9.779
+      }
+    ]
+  },
+  "18-close": {
+    "text": "So track the questions your buyers actually ask, grow your mentions and backlinks, and watch the answers change. That's Geo working for you",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.14
+      },
+      {
+        "word": "track",
+        "start": 0.799
+      },
+      {
+        "word": "the",
+        "start": 1.12
+      },
+      {
+        "word": "questions",
+        "start": 1.259
+      },
+      {
+        "word": "your",
+        "start": 1.719
+      },
+      {
+        "word": "buyers",
+        "start": 1.86
+      },
+      {
+        "word": "actually",
+        "start": 2.379
+      },
+      {
+        "word": "ask",
+        "start": 2.919
+      },
+      {
+        "word": "grow",
+        "start": 3.539
+      },
+      {
+        "word": "your",
+        "start": 3.859
+      },
+      {
+        "word": "mentions",
+        "start": 4
+      },
+      {
+        "word": "and",
+        "start": 4.46
+      },
+      {
+        "word": "backlinks",
+        "start": 4.599
+      },
+      {
+        "word": "and",
+        "start": 5.44
+      },
+      {
+        "word": "watch",
+        "start": 5.659
+      },
+      {
+        "word": "the",
+        "start": 5.98
+      },
+      {
+        "word": "answers",
+        "start": 6.139
+      },
+      {
+        "word": "change",
+        "start": 6.599
+      },
+      {
+        "word": "that's",
+        "start": 7.679
+      },
+      {
+        "word": "geo",
+        "start": 8.019
+      },
+      {
+        "word": "working",
+        "start": 8.779
+      },
+      {
+        "word": "for",
+        "start": 9.239
+      },
+      {
+        "word": "you",
+        "start": 9.46
+      }
+    ]
+  }
+}

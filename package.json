@@ -1,0 +1,52 @@
+{
+  "name": "remotion-video-skills",
+  "version": "1.0.0",
+  "description": "A Remotion video factory: deterministic product videos as code, with a reusable motion kit and measured-replica tooling",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diko0071/remotion-video-skills.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@remotion/cli": "4.0.503",
+    "@remotion/fonts": "4.0.503",
+    "@remotion/google-fonts": "4.0.503",
+    "@remotion/layout-utils": "4.0.503",
+    "@remotion/media": "4.0.503",
+    "@remotion/motion-blur": "4.0.503",
+    "@remotion/noise": "4.0.503",
+    "@remotion/paths": "4.0.503",
+    "@remotion/player": "4.0.503",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.503"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.503",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.4",
+    "@types/web": "0.0.166",
+    "@vitejs/plugin-react": "^6.0.5",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "typescript": "^5.9.3",
+    "vite": "^8.2.0"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "video": "bun scripts/render-video.ts",
+    "sheet": "bun scripts/contact-sheet.mjs",
+    "validate": "bun scripts/validate.ts"
+  },
+  "sideEffects": [
+    "*.css"
+  ],
+  "engines": {
+    "bun": ">=1.2",
+    "node": ">=18"
+  }
+}

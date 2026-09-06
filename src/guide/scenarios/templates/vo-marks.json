@@ -1,0 +1,1251 @@
+{
+  "00-title": {
+    "text": "You never have to start from a blank page. Let me show you templates",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.299
+      },
+      {
+        "word": "never",
+        "start": 0.519
+      },
+      {
+        "word": "have",
+        "start": 0.819
+      },
+      {
+        "word": "to",
+        "start": 0.979
+      },
+      {
+        "word": "start",
+        "start": 1.159
+      },
+      {
+        "word": "from",
+        "start": 1.419
+      },
+      {
+        "word": "a",
+        "start": 1.559
+      },
+      {
+        "word": "blank",
+        "start": 1.659
+      },
+      {
+        "word": "page",
+        "start": 1.959
+      },
+      {
+        "word": "let",
+        "start": 2.939
+      },
+      {
+        "word": "me",
+        "start": 3.079
+      },
+      {
+        "word": "show",
+        "start": 3.259
+      },
+      {
+        "word": "you",
+        "start": 3.48
+      },
+      {
+        "word": "templates",
+        "start": 3.659
+      }
+    ]
+  },
+  "01-intro": {
+    "text": "This is the template library. Over 100 ready-made jobs for the agent. Dashboards, audits, automations, full client decks",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.119
+      },
+      {
+        "word": "is",
+        "start": 0.439
+      },
+      {
+        "word": "the",
+        "start": 0.599
+      },
+      {
+        "word": "template",
+        "start": 0.719
+      },
+      {
+        "word": "library",
+        "start": 1.12
+      },
+      {
+        "word": "over",
+        "start": 2.099
+      },
+      {
+        "word": "100",
+        "start": 2.319
+      },
+      {
+        "word": "readymade",
+        "start": 2.879
+      },
+      {
+        "word": "jobs",
+        "start": 3.359
+      },
+      {
+        "word": "for",
+        "start": 3.679
+      },
+      {
+        "word": "the",
+        "start": 3.819
+      },
+      {
+        "word": "agent",
+        "start": 3.98
+      },
+      {
+        "word": "dashboards",
+        "start": 4.839
+      },
+      {
+        "word": "audits",
+        "start": 5.819
+      },
+      {
+        "word": "automations",
+        "start": 6.539
+      },
+      {
+        "word": "full",
+        "start": 7.659
+      },
+      {
+        "word": "client",
+        "start": 8.059
+      },
+      {
+        "word": "decks",
+        "start": 8.439
+      }
+    ]
+  },
+  "03-dash-open": {
+    "text": "Open one and the preview is the real thing",
+    "words": [
+      {
+        "word": "open",
+        "start": 0.099
+      },
+      {
+        "word": "one",
+        "start": 0.459
+      },
+      {
+        "word": "and",
+        "start": 0.919
+      },
+      {
+        "word": "the",
+        "start": 1.039
+      },
+      {
+        "word": "preview",
+        "start": 1.179
+      },
+      {
+        "word": "is",
+        "start": 1.639
+      },
+      {
+        "word": "the",
+        "start": 1.799
+      },
+      {
+        "word": "real",
+        "start": 1.979
+      },
+      {
+        "word": "thing",
+        "start": 2.359
+      }
+    ]
+  },
+  "02-monitor": {
+    "text": "Let's take them one by one. Monitor. Live dashboards that watch your numbers for you. Search traffic, paid ads, products, even the whole agency in one screen",
+    "words": [
+      {
+        "word": "let's",
+        "start": 0.119
+      },
+      {
+        "word": "take",
+        "start": 0.379
+      },
+      {
+        "word": "them",
+        "start": 0.599
+      },
+      {
+        "word": "one",
+        "start": 1.039
+      },
+      {
+        "word": "by",
+        "start": 1.22
+      },
+      {
+        "word": "one",
+        "start": 1.5
+      },
+      {
+        "word": "monitor",
+        "start": 2.659
+      },
+      {
+        "word": "live",
+        "start": 3.759
+      },
+      {
+        "word": "dashboards",
+        "start": 4.059
+      },
+      {
+        "word": "that",
+        "start": 4.679
+      },
+      {
+        "word": "watch",
+        "start": 4.88
+      },
+      {
+        "word": "your",
+        "start": 5.139
+      },
+      {
+        "word": "numbers",
+        "start": 5.299
+      },
+      {
+        "word": "for",
+        "start": 5.659
+      },
+      {
+        "word": "you",
+        "start": 5.92
+      },
+      {
+        "word": "search",
+        "start": 6.539
+      },
+      {
+        "word": "traffic",
+        "start": 6.839
+      },
+      {
+        "word": "paid",
+        "start": 7.5
+      },
+      {
+        "word": "ads",
+        "start": 7.899
+      },
+      {
+        "word": "products",
+        "start": 8.38
+      },
+      {
+        "word": "even",
+        "start": 9.079
+      },
+      {
+        "word": "the",
+        "start": 9.359
+      },
+      {
+        "word": "whole",
+        "start": 9.539
+      },
+      {
+        "word": "agency",
+        "start": 9.899
+      },
+      {
+        "word": "in",
+        "start": 10.559
+      },
+      {
+        "word": "one",
+        "start": 10.779
+      },
+      {
+        "word": "screen",
+        "start": 10.979
+      }
+    ]
+  },
+  "04-dash-scroll": {
+    "text": "Scroll it. Every block you see here gets filled with your live numbers. One click on Use Template and this becomes yours in Reports",
+    "words": [
+      {
+        "word": "scroll",
+        "start": 0.14
+      },
+      {
+        "word": "it",
+        "start": 0.539
+      },
+      {
+        "word": "every",
+        "start": 1.179
+      },
+      {
+        "word": "block",
+        "start": 1.439
+      },
+      {
+        "word": "you",
+        "start": 1.74
+      },
+      {
+        "word": "see",
+        "start": 1.899
+      },
+      {
+        "word": "here",
+        "start": 2.079
+      },
+      {
+        "word": "gets",
+        "start": 2.339
+      },
+      {
+        "word": "filled",
+        "start": 2.599
+      },
+      {
+        "word": "with",
+        "start": 2.839
+      },
+      {
+        "word": "your",
+        "start": 3.019
+      },
+      {
+        "word": "live",
+        "start": 3.24
+      },
+      {
+        "word": "numbers",
+        "start": 3.619
+      },
+      {
+        "word": "one",
+        "start": 4.579
+      },
+      {
+        "word": "click",
+        "start": 4.779
+      },
+      {
+        "word": "on",
+        "start": 5.059
+      },
+      {
+        "word": "use",
+        "start": 5.279
+      },
+      {
+        "word": "template",
+        "start": 5.519
+      },
+      {
+        "word": "and",
+        "start": 5.96
+      },
+      {
+        "word": "this",
+        "start": 6.059
+      },
+      {
+        "word": "becomes",
+        "start": 6.259
+      },
+      {
+        "word": "yours",
+        "start": 6.599
+      },
+      {
+        "word": "in",
+        "start": 7.159
+      },
+      {
+        "word": "reports",
+        "start": 7.359
+      }
+    ]
+  },
+  "05-create": {
+    "text": "Create. The agent makes things for you. Ad creatives, Google copy, whole campaigns from scratch, even your very first one",
+    "words": [
+      {
+        "word": "create",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 1.179
+      },
+      {
+        "word": "agent",
+        "start": 1.339
+      },
+      {
+        "word": "makes",
+        "start": 1.699
+      },
+      {
+        "word": "things",
+        "start": 1.959
+      },
+      {
+        "word": "for",
+        "start": 2.18
+      },
+      {
+        "word": "you",
+        "start": 2.339
+      },
+      {
+        "word": "ad",
+        "start": 3.019
+      },
+      {
+        "word": "creatives",
+        "start": 3.22
+      },
+      {
+        "word": "google",
+        "start": 3.839
+      },
+      {
+        "word": "copy",
+        "start": 4.139
+      },
+      {
+        "word": "whole",
+        "start": 4.819
+      },
+      {
+        "word": "campaigns",
+        "start": 5.119
+      },
+      {
+        "word": "from",
+        "start": 5.599
+      },
+      {
+        "word": "scratch",
+        "start": 5.779
+      },
+      {
+        "word": "even",
+        "start": 6.699
+      },
+      {
+        "word": "your",
+        "start": 7.019
+      },
+      {
+        "word": "very",
+        "start": 7.239
+      },
+      {
+        "word": "first",
+        "start": 7.599
+      },
+      {
+        "word": "one",
+        "start": 7.919
+      }
+    ]
+  },
+  "06-optimize": {
+    "text": "Optimize. It finds the problems. Wasted spend, weak keywords, tracking gaps",
+    "words": [
+      {
+        "word": "optimize",
+        "start": 0.079
+      },
+      {
+        "word": "it",
+        "start": 0.959
+      },
+      {
+        "word": "finds",
+        "start": 1.159
+      },
+      {
+        "word": "the",
+        "start": 1.48
+      },
+      {
+        "word": "problems",
+        "start": 1.599
+      },
+      {
+        "word": "wasted",
+        "start": 2.519
+      },
+      {
+        "word": "spend",
+        "start": 2.96
+      },
+      {
+        "word": "weak",
+        "start": 3.639
+      },
+      {
+        "word": "keywords",
+        "start": 3.899
+      },
+      {
+        "word": "tracking",
+        "start": 4.699
+      },
+      {
+        "word": "gaps",
+        "start": 5.119
+      }
+    ]
+  },
+  "07-card-use": {
+    "text": "And every card is one click. Take this one. Find Google Ads waste",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "every",
+        "start": 0.419
+      },
+      {
+        "word": "card",
+        "start": 0.759
+      },
+      {
+        "word": "is",
+        "start": 1.199
+      },
+      {
+        "word": "one",
+        "start": 1.48
+      },
+      {
+        "word": "click",
+        "start": 1.699
+      },
+      {
+        "word": "take",
+        "start": 3.539
+      },
+      {
+        "word": "this",
+        "start": 3.759
+      },
+      {
+        "word": "one",
+        "start": 3.939
+      },
+      {
+        "word": "find",
+        "start": 4.539
+      },
+      {
+        "word": "google",
+        "start": 4.92
+      },
+      {
+        "word": "ads",
+        "start": 5.279
+      },
+      {
+        "word": "waste",
+        "start": 5.599
+      }
+    ]
+  },
+  "08-agent-works": {
+    "text": "That's it. The whole job lands on the agent, and it's already digging through your campaigns",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.14
+      },
+      {
+        "word": "it",
+        "start": 0.439
+      },
+      {
+        "word": "the",
+        "start": 0.899
+      },
+      {
+        "word": "whole",
+        "start": 1.079
+      },
+      {
+        "word": "job",
+        "start": 1.36
+      },
+      {
+        "word": "lands",
+        "start": 1.719
+      },
+      {
+        "word": "on",
+        "start": 2
+      },
+      {
+        "word": "the",
+        "start": 2.099
+      },
+      {
+        "word": "agent",
+        "start": 2.259
+      },
+      {
+        "word": "and",
+        "start": 2.819
+      },
+      {
+        "word": "it's",
+        "start": 2.96
+      },
+      {
+        "word": "already",
+        "start": 3.22
+      },
+      {
+        "word": "digging",
+        "start": 3.72
+      },
+      {
+        "word": "through",
+        "start": 4.059
+      },
+      {
+        "word": "your",
+        "start": 4.299
+      },
+      {
+        "word": "campaigns",
+        "start": 4.519
+      }
+    ]
+  },
+  "09-automate": {
+    "text": "Close it and keep browsing. Automate. These run on their own. Weekly reports, budget checks, anomaly alerts. Pick one and it becomes a scheduled task",
+    "words": [
+      {
+        "word": "close",
+        "start": 0.059
+      },
+      {
+        "word": "it",
+        "start": 0.379
+      },
+      {
+        "word": "and",
+        "start": 0.699
+      },
+      {
+        "word": "keep",
+        "start": 0.879
+      },
+      {
+        "word": "browsing",
+        "start": 1.1
+      },
+      {
+        "word": "automate",
+        "start": 2.519
+      },
+      {
+        "word": "these",
+        "start": 3.48
+      },
+      {
+        "word": "run",
+        "start": 3.72
+      },
+      {
+        "word": "on",
+        "start": 3.939
+      },
+      {
+        "word": "their",
+        "start": 4.039
+      },
+      {
+        "word": "own",
+        "start": 4.259
+      },
+      {
+        "word": "weekly",
+        "start": 4.799
+      },
+      {
+        "word": "reports",
+        "start": 5.119
+      },
+      {
+        "word": "budget",
+        "start": 5.839
+      },
+      {
+        "word": "checks",
+        "start": 6.159
+      },
+      {
+        "word": "anomaly",
+        "start": 6.639
+      },
+      {
+        "word": "alerts",
+        "start": 7.119
+      },
+      {
+        "word": "pick",
+        "start": 8.119
+      },
+      {
+        "word": "one",
+        "start": 8.399
+      },
+      {
+        "word": "and",
+        "start": 8.8
+      },
+      {
+        "word": "it",
+        "start": 8.899
+      },
+      {
+        "word": "becomes",
+        "start": 9
+      },
+      {
+        "word": "a",
+        "start": 9.359
+      },
+      {
+        "word": "scheduled",
+        "start": 9.479
+      },
+      {
+        "word": "task",
+        "start": 9.96
+      }
+    ]
+  },
+  "10-report": {
+    "text": "And report. This is where the decks live. Nine full client decks built from your data",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "report",
+        "start": 0.419
+      },
+      {
+        "word": "this",
+        "start": 1.399
+      },
+      {
+        "word": "is",
+        "start": 1.759
+      },
+      {
+        "word": "where",
+        "start": 1.899
+      },
+      {
+        "word": "the",
+        "start": 2.079
+      },
+      {
+        "word": "decks",
+        "start": 2.2
+      },
+      {
+        "word": "live",
+        "start": 2.539
+      },
+      {
+        "word": "nine",
+        "start": 3.299
+      },
+      {
+        "word": "full",
+        "start": 3.799
+      },
+      {
+        "word": "client",
+        "start": 4.119
+      },
+      {
+        "word": "decks",
+        "start": 4.48
+      },
+      {
+        "word": "built",
+        "start": 5
+      },
+      {
+        "word": "from",
+        "start": 5.319
+      },
+      {
+        "word": "your",
+        "start": 5.559
+      },
+      {
+        "word": "data",
+        "start": 5.799
+      }
+    ]
+  },
+  "11-deck-open": {
+    "text": "Open one. This preview is the exact deck you would get",
+    "words": [
+      {
+        "word": "open",
+        "start": 0.059
+      },
+      {
+        "word": "one",
+        "start": 0.419
+      },
+      {
+        "word": "this",
+        "start": 1.22
+      },
+      {
+        "word": "preview",
+        "start": 1.459
+      },
+      {
+        "word": "is",
+        "start": 1.939
+      },
+      {
+        "word": "the",
+        "start": 2.099
+      },
+      {
+        "word": "exact",
+        "start": 2.359
+      },
+      {
+        "word": "deck",
+        "start": 2.679
+      },
+      {
+        "word": "you",
+        "start": 3
+      },
+      {
+        "word": "would",
+        "start": 3.099
+      },
+      {
+        "word": "get",
+        "start": 3.299
+      }
+    ]
+  },
+  "12-deck-scroll": {
+    "text": "Scroll through it. Cover, results, trends, the plan. A whole client story slide by slide",
+    "words": [
+      {
+        "word": "scroll",
+        "start": 0.099
+      },
+      {
+        "word": "through",
+        "start": 0.419
+      },
+      {
+        "word": "it",
+        "start": 0.639
+      },
+      {
+        "word": "cover",
+        "start": 1.24
+      },
+      {
+        "word": "results",
+        "start": 1.799
+      },
+      {
+        "word": "trends",
+        "start": 2.519
+      },
+      {
+        "word": "the",
+        "start": 3.199
+      },
+      {
+        "word": "plan",
+        "start": 3.379
+      },
+      {
+        "word": "a",
+        "start": 4.239
+      },
+      {
+        "word": "whole",
+        "start": 4.42
+      },
+      {
+        "word": "client",
+        "start": 4.759
+      },
+      {
+        "word": "story",
+        "start": 5.159
+      },
+      {
+        "word": "slide",
+        "start": 5.619
+      },
+      {
+        "word": "by",
+        "start": 6
+      },
+      {
+        "word": "slide",
+        "start": 6.239
+      }
+    ]
+  },
+  "13-deck-build": {
+    "text": "And one button hands it to the agent. Build with agent",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "one",
+        "start": 0.379
+      },
+      {
+        "word": "button",
+        "start": 0.579
+      },
+      {
+        "word": "hands",
+        "start": 1.179
+      },
+      {
+        "word": "it",
+        "start": 1.379
+      },
+      {
+        "word": "to",
+        "start": 1.519
+      },
+      {
+        "word": "the",
+        "start": 1.62
+      },
+      {
+        "word": "agent",
+        "start": 1.799
+      },
+      {
+        "word": "build",
+        "start": 2.919
+      },
+      {
+        "word": "with",
+        "start": 3.179
+      },
+      {
+        "word": "agent",
+        "start": 3.419
+      }
+    ]
+  },
+  "14-deck-works": {
+    "text": "It pulls your real numbers and writes every slide itself. It takes a couple of minutes, so close the panel and let it work",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.079
+      },
+      {
+        "word": "pulls",
+        "start": 0.239
+      },
+      {
+        "word": "your",
+        "start": 0.5
+      },
+      {
+        "word": "real",
+        "start": 0.639
+      },
+      {
+        "word": "numbers",
+        "start": 0.879
+      },
+      {
+        "word": "and",
+        "start": 1.36
+      },
+      {
+        "word": "writes",
+        "start": 1.5
+      },
+      {
+        "word": "every",
+        "start": 1.86
+      },
+      {
+        "word": "slide",
+        "start": 2.18
+      },
+      {
+        "word": "itself",
+        "start": 2.5
+      },
+      {
+        "word": "it",
+        "start": 4.799
+      },
+      {
+        "word": "takes",
+        "start": 4.92
+      },
+      {
+        "word": "a",
+        "start": 5.259
+      },
+      {
+        "word": "couple",
+        "start": 5.319
+      },
+      {
+        "word": "of",
+        "start": 5.539
+      },
+      {
+        "word": "minutes",
+        "start": 5.739
+      },
+      {
+        "word": "so",
+        "start": 6.319
+      },
+      {
+        "word": "close",
+        "start": 6.599
+      },
+      {
+        "word": "the",
+        "start": 6.859
+      },
+      {
+        "word": "panel",
+        "start": 6.96
+      },
+      {
+        "word": "and",
+        "start": 7.46
+      },
+      {
+        "word": "let",
+        "start": 7.639
+      },
+      {
+        "word": "it",
+        "start": 7.779
+      },
+      {
+        "word": "work",
+        "start": 7.94
+      }
+    ]
+  },
+  "15-close": {
+    "text": "Browse the library once and the agent already knows what to do",
+    "words": [
+      {
+        "word": "browse",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.439
+      },
+      {
+        "word": "library",
+        "start": 0.56
+      },
+      {
+        "word": "once",
+        "start": 1.1
+      },
+      {
+        "word": "and",
+        "start": 1.919
+      },
+      {
+        "word": "the",
+        "start": 2.039
+      },
+      {
+        "word": "agent",
+        "start": 2.22
+      },
+      {
+        "word": "already",
+        "start": 2.659
+      },
+      {
+        "word": "knows",
+        "start": 3.039
+      },
+      {
+        "word": "what",
+        "start": 3.259
+      },
+      {
+        "word": "to",
+        "start": 3.46
+      },
+      {
+        "word": "do",
+        "start": 3.599
+      }
+    ]
+  },
+  "15-examples": {
+    "text": "And these nine are just examples. Ask for any deck you want, your structure, your style, your branding, and the agent designs it from scratch",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "these",
+        "start": 0.259
+      },
+      {
+        "word": "nine",
+        "start": 0.539
+      },
+      {
+        "word": "are",
+        "start": 0.899
+      },
+      {
+        "word": "just",
+        "start": 1.139
+      },
+      {
+        "word": "examples",
+        "start": 1.419
+      },
+      {
+        "word": "ask",
+        "start": 2.419
+      },
+      {
+        "word": "for",
+        "start": 2.7
+      },
+      {
+        "word": "any",
+        "start": 2.879
+      },
+      {
+        "word": "deck",
+        "start": 3.079
+      },
+      {
+        "word": "you",
+        "start": 3.319
+      },
+      {
+        "word": "want",
+        "start": 3.46
+      },
+      {
+        "word": "your",
+        "start": 4.159
+      },
+      {
+        "word": "structure",
+        "start": 4.36
+      },
+      {
+        "word": "your",
+        "start": 5.119
+      },
+      {
+        "word": "style",
+        "start": 5.339
+      },
+      {
+        "word": "your",
+        "start": 6.019
+      },
+      {
+        "word": "branding",
+        "start": 6.219
+      },
+      {
+        "word": "and",
+        "start": 7.139
+      },
+      {
+        "word": "the",
+        "start": 7.299
+      },
+      {
+        "word": "agent",
+        "start": 7.5
+      },
+      {
+        "word": "designs",
+        "start": 7.919
+      },
+      {
+        "word": "it",
+        "start": 8.359
+      },
+      {
+        "word": "from",
+        "start": 8.479
+      },
+      {
+        "word": "scratch",
+        "start": 8.679
+      }
+    ]
+  }
+}

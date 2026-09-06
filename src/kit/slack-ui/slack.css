@@ -1,0 +1,282 @@
+/* Slack UI kit — ported from real Slack DOM dumps (references/html/slack-dump*.html).
+   Aubergine chrome + light content, Lato. Do not restyle per video. */
+
+.slack-ui {
+  --sk-chrome: #350d36;
+  --sk-sidebar: #3f0e40;
+  --sk-selected: #1164a3;
+  --sk-sidebar-text: #d1c3d1;
+  --sk-badge: #cd2553;
+  --sk-ink: #1d1c1d;
+  --sk-ink-2: #616061;
+  --sk-border: rgba(29, 28, 29, 0.13);
+  --sk-border-strong: rgba(29, 28, 29, 0.3);
+  --sk-blue: #1264a3;
+  --sk-blue-bg: rgba(29, 155, 209, 0.1);
+  --sk-green: #007a5a;
+  --sk-presence: #2bac76;
+  background: var(--sk-chrome);
+  color: var(--sk-ink);
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.slack-ui * { box-sizing: border-box; }
+
+/* ── Top nav ─────────────────────────────────────────────── */
+.sk-topnav {
+  height: 44px; flex-shrink: 0; display: flex; align-items: center;
+  padding: 0 16px; gap: 8px; color: rgba(255, 255, 255, 0.8);
+}
+.sk-topnav .nav-btns { display: flex; gap: 4px; align-items: center; width: 240px; justify-content: flex-end; }
+.sk-topnav .nav-btn {
+  width: 30px; height: 30px; border-radius: 6px; display: flex;
+  align-items: center; justify-content: center; color: rgba(255, 255, 255, 0.75);
+}
+.sk-topnav .nav-btn.dim { color: rgba(255, 255, 255, 0.4); }
+.sk-search {
+  flex: 1; max-width: 720px; margin: 0 auto; height: 28px; border-radius: 6px;
+  background: rgba(255, 255, 255, 0.2); display: flex; align-items: center;
+  gap: 8px; padding: 0 10px; font-size: 13px; color: rgba(255, 255, 255, 0.85);
+}
+.sk-topnav .right { width: 240px; display: flex; justify-content: flex-start; }
+
+/* ── Tab rail ────────────────────────────────────────────── */
+.sk-body { flex: 1; display: flex; min-height: 0; }
+.sk-rail {
+  width: 70px; flex-shrink: 0; display: flex; flex-direction: column;
+  align-items: center; padding: 8px 0 14px; gap: 4px;
+}
+.sk-rail .ws-avatar {
+  width: 36px; height: 36px; border-radius: 8px; margin-bottom: 10px;
+  background: #fff; color: var(--sk-chrome); font-weight: 900; font-size: 17px;
+  display: flex; align-items: center; justify-content: center;
+}
+.sk-rail .tab {
+  display: flex; flex-direction: column; align-items: center; gap: 3px;
+  color: rgba(255, 255, 255, 0.8); padding: 2px 0; width: 100%;
+}
+.sk-rail .tab .ic {
+  width: 36px; height: 36px; border-radius: 8px; display: flex;
+  align-items: center; justify-content: center;
+}
+.sk-rail .tab.on .ic { background: rgba(255, 255, 255, 0.22); color: #fff; }
+.sk-rail .tab .lb { font-size: 10.5px; font-weight: 700; }
+.sk-rail .spacer { flex: 1; }
+.sk-rail .create {
+  width: 36px; height: 36px; border-radius: 50%; background: rgba(255, 255, 255, 0.22);
+  color: #fff; display: flex; align-items: center; justify-content: center; margin-bottom: 12px;
+}
+.sk-rail .me { position: relative; width: 36px; height: 36px; }
+.sk-rail .me img { width: 36px; height: 36px; border-radius: 8px; }
+.sk-rail .me .dot {
+  position: absolute; right: -3px; bottom: -3px; width: 11px; height: 11px;
+  border-radius: 50%; background: var(--sk-presence); border: 2.5px solid var(--sk-chrome);
+}
+
+/* ── Channel sidebar ─────────────────────────────────────── */
+.sk-sidebar {
+  width: 244px; flex-shrink: 0; background: var(--sk-sidebar);
+  border-radius: 8px 0 0 0; display: flex; flex-direction: column;
+  color: var(--sk-sidebar-text); overflow: hidden;
+}
+.sk-sidebar-head {
+  height: 50px; flex-shrink: 0; display: flex; align-items: center;
+  justify-content: space-between; padding: 0 16px; color: #fff;
+}
+.sk-sidebar-head .name { font-size: 17px; font-weight: 900; display: flex; align-items: center; gap: 4px; }
+.sk-sidebar-head .compose {
+  width: 32px; height: 32px; border-radius: 50%; background: #fff;
+  color: var(--sk-sidebar); display: flex; align-items: center; justify-content: center;
+}
+.sk-sidebar-list { padding: 8px 8px 12px; overflow: hidden; }
+.sk-side-row {
+  height: 28px; display: flex; align-items: center; gap: 8px;
+  padding: 0 8px; border-radius: 6px; font-size: 15px; line-height: 1;
+}
+.sk-side-row .ic { width: 20px; display: flex; justify-content: center; color: inherit; }
+.sk-side-row .nm { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sk-side-row.sel { background: var(--sk-selected); color: #fff; }
+.sk-side-row.unread { color: #fff; font-weight: 900; }
+.sk-side-row .badge {
+  background: var(--sk-badge); color: #fff; font-size: 11.5px; font-weight: 700;
+  border-radius: 9px; min-width: 18px; height: 18px; display: flex;
+  align-items: center; justify-content: center; padding: 0 6px;
+}
+.sk-side-row .av { width: 20px; height: 20px; border-radius: 4px; }
+.sk-side-heading {
+  height: 28px; display: flex; align-items: center; gap: 6px; padding: 0 8px;
+  font-size: 15px; margin-top: 12px;
+}
+.sk-side-heading .caret { opacity: 0.8; }
+
+/* ── Content panes ───────────────────────────────────────── */
+.sk-main {
+  flex: 1; min-width: 0; background: #fff; display: flex; flex-direction: column;
+  border-radius: 0 0 0 0;
+}
+.sk-panes { flex: 1; display: flex; min-width: 0; min-height: 0; gap: 0; padding: 0 4px 4px 0; }
+.sk-pane {
+  background: #fff; border-radius: 8px; border: 1px solid rgba(0, 0, 0, 0.15);
+  display: flex; flex-direction: column; min-width: 0; min-height: 0; overflow: hidden;
+}
+.sk-pane.primary { flex: 1; }
+.sk-pane.secondary { width: 442px; flex-shrink: 0; margin-left: 4px; }
+
+.sk-pane-header {
+  height: 49px; flex-shrink: 0; display: flex; align-items: center;
+  padding: 0 16px; gap: 8px; border-bottom: 1px solid var(--sk-border);
+}
+.sk-pane-header .title {
+  font-size: 17.8px; font-weight: 900; color: var(--sk-ink);
+  display: flex; align-items: center; gap: 2px;
+}
+.sk-pane-header .subtitle { font-size: 13px; color: var(--sk-ink-2); }
+.sk-pane-header .spacer { flex: 1; }
+.sk-pane-header .members {
+  display: flex; align-items: center; border: 1px solid var(--sk-border);
+  border-radius: 6px; padding: 3px 8px 3px 4px; gap: 6px;
+}
+.sk-pane-header .members img {
+  width: 22px; height: 22px; border-radius: 4px; border: 2px solid #fff;
+}
+.sk-pane-header .members img + img { margin-left: -8px; }
+.sk-pane-header .members .cnt { font-size: 12.5px; color: var(--sk-ink-2); font-weight: 700; }
+.sk-pane-header .hbtn {
+  width: 30px; height: 30px; border-radius: 6px; display: flex;
+  align-items: center; justify-content: center; color: var(--sk-ink-2);
+}
+
+/* ── Messages ────────────────────────────────────────────── */
+.sk-msgs { flex: 1; min-height: 0; overflow: hidden; display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 8px; }
+.sk-msg { display: flex; gap: 8px; padding: 8px 20px; }
+.sk-msg .avatar { width: 36px; height: 36px; border-radius: 4px; flex-shrink: 0; margin-top: 2px; }
+.sk-msg .body { flex: 1; min-width: 0; }
+.sk-msg .head { display: flex; align-items: baseline; gap: 6px; }
+.sk-msg .sender { font-weight: 900; font-size: 15px; color: var(--sk-ink); }
+.sk-msg .app-badge {
+  background: var(--sk-border); color: var(--sk-ink-2); font-size: 10px;
+  font-weight: 700; border-radius: 2px; padding: 1px 3px; letter-spacing: 0.01em;
+  align-self: center;
+}
+.sk-msg .time { font-size: 12px; color: var(--sk-ink-2); }
+.sk-msg .text { font-size: 15px; line-height: 1.46; color: var(--sk-ink); margin-top: 1px; }
+.sk-mention {
+  color: var(--sk-blue); background: var(--sk-blue-bg); border-radius: 3px;
+  padding: 0 2px;
+}
+.sk-msg .text a { color: var(--sk-blue); text-decoration: none; }
+
+.sk-reactions { display: flex; gap: 4px; margin-top: 6px; align-items: center; }
+.sk-reaction {
+  display: flex; align-items: center; gap: 4px; height: 24px; padding: 0 8px;
+  border-radius: 12px; background: rgba(29, 28, 29, 0.04);
+  border: 1px solid transparent; font-size: 11.5px; font-weight: 700; color: var(--sk-ink-2);
+}
+.sk-reaction img { width: 15px; height: 15px; }
+.sk-reaction.mine { background: #e3f0f9; border-color: var(--sk-blue); color: var(--sk-blue); }
+
+.sk-threadbar {
+  display: flex; align-items: center; gap: 8px; margin-top: 6px; padding: 4px 8px;
+  border: 1px solid transparent; border-radius: 6px; max-width: 600px; font-size: 13px;
+}
+.sk-threadbar:hover { border-color: var(--sk-border); background: #fff; }
+.sk-threadbar img { width: 24px; height: 24px; border-radius: 4px; }
+.sk-threadbar .cnt { color: var(--sk-blue); font-weight: 700; }
+.sk-threadbar .last { color: var(--sk-ink-2); }
+
+.sk-date-divider { display: flex; align-items: center; margin: 8px 0 4px; position: relative; }
+.sk-date-divider .line { flex: 1; height: 1px; background: var(--sk-border); }
+.sk-date-divider .pill {
+  border: 1px solid var(--sk-border); border-radius: 24px; background: #fff;
+  padding: 4px 12px; font-size: 12.8px; font-weight: 700; color: var(--sk-ink);
+  display: flex; align-items: center; gap: 4px; margin: 0 -1px; z-index: 1;
+}
+
+/* Channel foreword (intro) */
+.sk-foreword { padding: 8px 20px 16px; }
+.sk-foreword .big-icon {
+  width: 66px; height: 66px; border-radius: 50%; background: #f8f8f8;
+  border: 1px solid var(--sk-border); display: flex; align-items: center;
+  justify-content: center; color: var(--sk-ink); margin-bottom: 12px;
+}
+.sk-foreword h1 { font-size: 25px; font-weight: 900; margin: 0 0 6px; color: var(--sk-ink); }
+.sk-foreword p { font-size: 15px; margin: 0; color: var(--sk-ink); }
+
+/* ── File card (PDF attachment) ──────────────────────────── */
+.sk-file-meta { font-size: 12px; color: var(--sk-ink-2); margin-top: 6px; display: flex; align-items: center; gap: 4px; }
+.sk-file-card {
+  width: 100%; max-width: 420px; margin-top: 4px; border: 1px solid var(--sk-border);
+  border-radius: 12px; background: #fff; padding: 10px 12px;
+  display: flex; align-items: center; gap: 10px;
+}
+.sk-file-card > div { min-width: 0; }
+.sk-file-card .fname {
+  font-size: 14.8px; font-weight: 700; color: var(--sk-ink);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.sk-file-card .fmeta { font-size: 12.8px; color: var(--sk-ink-2); margin-top: 1px; }
+
+/* ── Composer ────────────────────────────────────────────── */
+.sk-composer-wrap { padding: 0 20px 20px; flex-shrink: 0; }
+.sk-composer {
+  border: 1px solid var(--sk-border-strong); border-radius: 8px; background: #fff;
+  overflow: hidden;
+}
+.sk-composer .fmt-bar {
+  display: flex; align-items: center; gap: 2px; padding: 4px 6px;
+  background: #f8f8f8; color: #a2a1a2;
+}
+.sk-composer .fmt-bar .fbtn {
+  width: 28px; height: 26px; border-radius: 4px; display: flex;
+  align-items: center; justify-content: center;
+}
+.sk-composer .fmt-bar .sep { width: 1px; height: 18px; background: var(--sk-border); margin: 0 4px; }
+.sk-composer .input {
+  padding: 8px 12px; font-size: 15px; line-height: 1.45; color: var(--sk-ink);
+  min-height: 38px;
+}
+.sk-composer .input .ph { color: #868686; }
+.sk-composer .bottom-bar {
+  display: flex; align-items: center; gap: 2px; padding: 4px 6px 6px;
+  color: var(--sk-ink-2);
+}
+.sk-composer .bottom-bar .cbtn {
+  width: 28px; height: 26px; border-radius: 4px; display: flex;
+  align-items: center; justify-content: center;
+}
+.sk-composer .bottom-bar .plus-btn {
+  width: 26px; height: 26px; border-radius: 50%; background: rgba(29, 28, 29, 0.06);
+  display: flex; align-items: center; justify-content: center; margin-right: 2px;
+}
+.sk-composer .bottom-bar .spacer { flex: 1; }
+.sk-send {
+  display: flex; align-items: stretch; border-radius: 4px; overflow: hidden; height: 28px;
+}
+.sk-send .main {
+  display: flex; align-items: center; justify-content: center; width: 30px;
+  color: #fff; background: var(--sk-green);
+}
+.sk-send .caret {
+  display: flex; align-items: center; justify-content: center; width: 20px;
+  color: #fff; background: var(--sk-green); border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+.sk-send.idle .main, .sk-send.idle .caret { background: transparent; color: #b9b9b9; border-left-color: transparent; }
+
+/* thread "also send to" row */
+.sk-also-send {
+  display: flex; align-items: center; gap: 8px; padding: 8px 12px 2px;
+  font-size: 13px; color: var(--sk-ink-2);
+}
+.sk-also-send .box {
+  width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--sk-border-strong);
+}
+
+/* ── Thread pane ─────────────────────────────────────────── */
+.sk-thread-sep { display: flex; align-items: center; gap: 10px; padding: 6px 20px; }
+.sk-thread-sep .cnt { font-size: 13px; color: var(--sk-ink-2); white-space: nowrap; }
+.sk-thread-sep .line { flex: 1; height: 1px; background: var(--sk-border); }
+.sk-thread-body { flex: 1; min-height: 0; overflow: hidden; display: flex; flex-direction: column; padding-top: 12px; }
+
+.sk-pane-header .hbtn.active { background: #007a5a; color: #fff; }

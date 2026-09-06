@@ -1,0 +1,42 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Your agent can write exactly like you. Here's where it learns who you are — the Brand page."
+    },
+    {
+      "key": "01-page",
+      "text": "This is Brand. Every agent on the platform — SEO, paid ads, content — reads this page on every single turn. Fill it once, and everything they produce comes out sounding like your company."
+    },
+    {
+      "key": "02-identity",
+      "text": "Identity is the foundation. What you sell, your industry — and the tone of voice: how the brand talks, what words it loves, what it never says."
+    },
+    {
+      "key": "03-visual",
+      "text": "Visual — your colors and your fonts. Every ad creative the agent generates comes out in this palette. No more off-brand purple gradients from a robot."
+    },
+    {
+      "key": "04-context",
+      "text": "And here's the part most people skip — Context. This is where you talk to the agent directly."
+    },
+    {
+      "key": "05-notes",
+      "text": "Tell it what to always remember. [curious] We only sell B2B. Never suggest consumer tactics. Always cite sources. Write it once — and every future conversation starts with the agent already knowing the rules."
+    },
+    {
+      "key": "06-examples",
+      "text": "Below that — real examples. Your best ad creatives, your best posts. The agent studies them and copies the style, not some generic template."
+    },
+    {
+      "key": "06b-improve",
+      "text": "And if filling this in feels like work — don't. [curious] Hit Improve Brand Profile, and the agent reads what's there, flags what's weak or missing, and asks you what to fix. It builds its own briefing."
+    },
+    {
+      "key": "07-close",
+      "text": "So — ten minutes on this page, and every article, every creative, every reply across the whole platform sounds like you. [smiling] The agent only writes like you if it knows you."
+    }
+  ]
+}

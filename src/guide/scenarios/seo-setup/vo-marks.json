@@ -1,0 +1,1361 @@
+{
+  "00-title": {
+    "text": "Here's how to set up SEO in Rise from an empty workspace to articles publishing themselves",
+    "words": [
+      {
+        "word": "here's",
+        "start": 0.14
+      },
+      {
+        "word": "how",
+        "start": 0.359
+      },
+      {
+        "word": "to",
+        "start": 0.479
+      },
+      {
+        "word": "set",
+        "start": 0.599
+      },
+      {
+        "word": "up",
+        "start": 0.779
+      },
+      {
+        "word": "seo",
+        "start": 1.12
+      },
+      {
+        "word": "in",
+        "start": 1.48
+      },
+      {
+        "word": "rise",
+        "start": 1.639
+      },
+      {
+        "word": "from",
+        "start": 2.419
+      },
+      {
+        "word": "an",
+        "start": 2.539
+      },
+      {
+        "word": "empty",
+        "start": 2.679
+      },
+      {
+        "word": "workspace",
+        "start": 2.96
+      },
+      {
+        "word": "to",
+        "start": 3.699
+      },
+      {
+        "word": "articles",
+        "start": 3.879
+      },
+      {
+        "word": "publishing",
+        "start": 4.4
+      },
+      {
+        "word": "themselves",
+        "start": 4.859
+      }
+    ]
+  },
+  "01-integrations": {
+    "text": "Start with your data. On the integrations page, connect Google Search Console. That's where your keywords and rankings come from. Then connect Google Analytics so we see traffic and conversions. And one more thing, your publishing platform. Open commerce, Shopify, WordPress, Wix, Webflow, Framer, any platform works. Here, it's Shopify, so we connect that. That's where your articles will be published",
+    "words": [
+      {
+        "word": "start",
+        "start": 0.119
+      },
+      {
+        "word": "with",
+        "start": 0.359
+      },
+      {
+        "word": "your",
+        "start": 0.519
+      },
+      {
+        "word": "data",
+        "start": 0.659
+      },
+      {
+        "word": "on",
+        "start": 1.599
+      },
+      {
+        "word": "the",
+        "start": 1.719
+      },
+      {
+        "word": "integrations",
+        "start": 1.86
+      },
+      {
+        "word": "page",
+        "start": 2.559
+      },
+      {
+        "word": "connect",
+        "start": 3.099
+      },
+      {
+        "word": "google",
+        "start": 3.579
+      },
+      {
+        "word": "search",
+        "start": 3.919
+      },
+      {
+        "word": "console",
+        "start": 4.219
+      },
+      {
+        "word": "that's",
+        "start": 5.159
+      },
+      {
+        "word": "where",
+        "start": 5.4
+      },
+      {
+        "word": "your",
+        "start": 5.579
+      },
+      {
+        "word": "keywords",
+        "start": 5.779
+      },
+      {
+        "word": "and",
+        "start": 6.199
+      },
+      {
+        "word": "rankings",
+        "start": 6.339
+      },
+      {
+        "word": "come",
+        "start": 6.799
+      },
+      {
+        "word": "from",
+        "start": 7.039
+      },
+      {
+        "word": "then",
+        "start": 7.96
+      },
+      {
+        "word": "connect",
+        "start": 8.22
+      },
+      {
+        "word": "google",
+        "start": 8.639
+      },
+      {
+        "word": "analytics",
+        "start": 8.92
+      },
+      {
+        "word": "so",
+        "start": 9.679
+      },
+      {
+        "word": "we",
+        "start": 9.8
+      },
+      {
+        "word": "see",
+        "start": 9.979
+      },
+      {
+        "word": "traffic",
+        "start": 10.159
+      },
+      {
+        "word": "and",
+        "start": 10.599
+      },
+      {
+        "word": "conversions",
+        "start": 10.76
+      },
+      {
+        "word": "and",
+        "start": 11.859
+      },
+      {
+        "word": "one",
+        "start": 12.039
+      },
+      {
+        "word": "more",
+        "start": 12.199
+      },
+      {
+        "word": "thing",
+        "start": 12.439
+      },
+      {
+        "word": "your",
+        "start": 13.099
+      },
+      {
+        "word": "publishing",
+        "start": 13.259
+      },
+      {
+        "word": "platform",
+        "start": 13.719
+      },
+      {
+        "word": "open",
+        "start": 14.96
+      },
+      {
+        "word": "commerce",
+        "start": 15.259
+      },
+      {
+        "word": "shopify",
+        "start": 16.059
+      },
+      {
+        "word": "wordpress",
+        "start": 16.959
+      },
+      {
+        "word": "wix",
+        "start": 17.799
+      },
+      {
+        "word": "webflow",
+        "start": 18.42
+      },
+      {
+        "word": "framer",
+        "start": 19.279
+      },
+      {
+        "word": "any",
+        "start": 20.1
+      },
+      {
+        "word": "platform",
+        "start": 20.299
+      },
+      {
+        "word": "works",
+        "start": 20.76
+      },
+      {
+        "word": "here",
+        "start": 21.659
+      },
+      {
+        "word": "it's",
+        "start": 22
+      },
+      {
+        "word": "shopify",
+        "start": 22.239
+      },
+      {
+        "word": "so",
+        "start": 23.039
+      },
+      {
+        "word": "we",
+        "start": 23.159
+      },
+      {
+        "word": "connect",
+        "start": 23.279
+      },
+      {
+        "word": "that",
+        "start": 23.68
+      },
+      {
+        "word": "that's",
+        "start": 24.34
+      },
+      {
+        "word": "where",
+        "start": 24.6
+      },
+      {
+        "word": "your",
+        "start": 24.779
+      },
+      {
+        "word": "articles",
+        "start": 24.899
+      },
+      {
+        "word": "will",
+        "start": 25.319
+      },
+      {
+        "word": "be",
+        "start": 25.459
+      },
+      {
+        "word": "published",
+        "start": 25.599
+      }
+    ]
+  },
+  "02-runsetup": {
+    "text": "Now head to queries. It's empty. Everything in Rise builds on setup. So hit Run Setup",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.099
+      },
+      {
+        "word": "head",
+        "start": 0.399
+      },
+      {
+        "word": "to",
+        "start": 0.62
+      },
+      {
+        "word": "queries",
+        "start": 0.779
+      },
+      {
+        "word": "it's",
+        "start": 1.74
+      },
+      {
+        "word": "empty",
+        "start": 1.959
+      },
+      {
+        "word": "everything",
+        "start": 2.7
+      },
+      {
+        "word": "in",
+        "start": 3.119
+      },
+      {
+        "word": "rise",
+        "start": 3.259
+      },
+      {
+        "word": "builds",
+        "start": 3.659
+      },
+      {
+        "word": "on",
+        "start": 3.939
+      },
+      {
+        "word": "setup",
+        "start": 4.139
+      },
+      {
+        "word": "so",
+        "start": 4.92
+      },
+      {
+        "word": "hit",
+        "start": 5.119
+      },
+      {
+        "word": "run",
+        "start": 5.5
+      },
+      {
+        "word": "setup",
+        "start": 5.779
+      }
+    ]
+  },
+  "03-keywords": {
+    "text": "The agent pulls your search console data and researches what your customers actually type. Give it a minute. And here they are. Notice there are just five. That's on purpose. We don't chase hundreds of keywords. Each month, we focus on five active ones, the five we know we can actually move you up on",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.159
+      },
+      {
+        "word": "agent",
+        "start": 0.359
+      },
+      {
+        "word": "pulls",
+        "start": 0.759
+      },
+      {
+        "word": "your",
+        "start": 1.019
+      },
+      {
+        "word": "search",
+        "start": 1.179
+      },
+      {
+        "word": "console",
+        "start": 1.48
+      },
+      {
+        "word": "data",
+        "start": 1.86
+      },
+      {
+        "word": "and",
+        "start": 2.299
+      },
+      {
+        "word": "researches",
+        "start": 2.48
+      },
+      {
+        "word": "what",
+        "start": 3.039
+      },
+      {
+        "word": "your",
+        "start": 3.199
+      },
+      {
+        "word": "customers",
+        "start": 3.359
+      },
+      {
+        "word": "actually",
+        "start": 4
+      },
+      {
+        "word": "type",
+        "start": 4.48
+      },
+      {
+        "word": "give",
+        "start": 5.38
+      },
+      {
+        "word": "it",
+        "start": 5.5
+      },
+      {
+        "word": "a",
+        "start": 5.639
+      },
+      {
+        "word": "minute",
+        "start": 5.699
+      },
+      {
+        "word": "and",
+        "start": 6.539
+      },
+      {
+        "word": "here",
+        "start": 6.739
+      },
+      {
+        "word": "they",
+        "start": 6.96
+      },
+      {
+        "word": "are",
+        "start": 7.159
+      },
+      {
+        "word": "notice",
+        "start": 7.839
+      },
+      {
+        "word": "there",
+        "start": 8.22
+      },
+      {
+        "word": "are",
+        "start": 8.38
+      },
+      {
+        "word": "just",
+        "start": 8.559
+      },
+      {
+        "word": "five",
+        "start": 8.819
+      },
+      {
+        "word": "that's",
+        "start": 9.579
+      },
+      {
+        "word": "on",
+        "start": 9.8
+      },
+      {
+        "word": "purpose",
+        "start": 9.96
+      },
+      {
+        "word": "we",
+        "start": 10.8
+      },
+      {
+        "word": "don't",
+        "start": 10.899
+      },
+      {
+        "word": "chase",
+        "start": 11.14
+      },
+      {
+        "word": "hundreds",
+        "start": 11.479
+      },
+      {
+        "word": "of",
+        "start": 11.859
+      },
+      {
+        "word": "keywords",
+        "start": 12.019
+      },
+      {
+        "word": "each",
+        "start": 12.899
+      },
+      {
+        "word": "month",
+        "start": 13.179
+      },
+      {
+        "word": "we",
+        "start": 13.5
+      },
+      {
+        "word": "focus",
+        "start": 13.659
+      },
+      {
+        "word": "on",
+        "start": 14.059
+      },
+      {
+        "word": "five",
+        "start": 14.319
+      },
+      {
+        "word": "active",
+        "start": 14.719
+      },
+      {
+        "word": "ones",
+        "start": 15.139
+      },
+      {
+        "word": "the",
+        "start": 15.739
+      },
+      {
+        "word": "five",
+        "start": 15.899
+      },
+      {
+        "word": "we",
+        "start": 16.18
+      },
+      {
+        "word": "know",
+        "start": 16.379
+      },
+      {
+        "word": "we",
+        "start": 16.639
+      },
+      {
+        "word": "can",
+        "start": 16.779
+      },
+      {
+        "word": "actually",
+        "start": 17.02
+      },
+      {
+        "word": "move",
+        "start": 17.479
+      },
+      {
+        "word": "you",
+        "start": 17.699
+      },
+      {
+        "word": "up",
+        "start": 17.84
+      },
+      {
+        "word": "on",
+        "start": 18.059
+      }
+    ]
+  },
+  "04-articles": {
+    "text": "Next, articles. Open the content plan. It's already full. Every article is written around those keywords, and they publish five a day. Fast enough to grow and a pace Google is completely comfortable with",
+    "words": [
+      {
+        "word": "next",
+        "start": 0.119
+      },
+      {
+        "word": "articles",
+        "start": 0.659
+      },
+      {
+        "word": "open",
+        "start": 1.799
+      },
+      {
+        "word": "the",
+        "start": 2.099
+      },
+      {
+        "word": "content",
+        "start": 2.22
+      },
+      {
+        "word": "plan",
+        "start": 2.639
+      },
+      {
+        "word": "it's",
+        "start": 3.359
+      },
+      {
+        "word": "already",
+        "start": 3.559
+      },
+      {
+        "word": "full",
+        "start": 3.98
+      },
+      {
+        "word": "every",
+        "start": 4.759
+      },
+      {
+        "word": "article",
+        "start": 5.079
+      },
+      {
+        "word": "is",
+        "start": 5.48
+      },
+      {
+        "word": "written",
+        "start": 5.639
+      },
+      {
+        "word": "around",
+        "start": 6.039
+      },
+      {
+        "word": "those",
+        "start": 6.379
+      },
+      {
+        "word": "keywords",
+        "start": 6.619
+      },
+      {
+        "word": "and",
+        "start": 7.299
+      },
+      {
+        "word": "they",
+        "start": 7.419
+      },
+      {
+        "word": "publish",
+        "start": 7.579
+      },
+      {
+        "word": "five",
+        "start": 8.059
+      },
+      {
+        "word": "a",
+        "start": 8.319
+      },
+      {
+        "word": "day",
+        "start": 8.42
+      },
+      {
+        "word": "fast",
+        "start": 9.099
+      },
+      {
+        "word": "enough",
+        "start": 9.46
+      },
+      {
+        "word": "to",
+        "start": 9.659
+      },
+      {
+        "word": "grow",
+        "start": 9.8
+      },
+      {
+        "word": "and",
+        "start": 10.359
+      },
+      {
+        "word": "a",
+        "start": 10.479
+      },
+      {
+        "word": "pace",
+        "start": 10.579
+      },
+      {
+        "word": "google",
+        "start": 10.939
+      },
+      {
+        "word": "is",
+        "start": 11.319
+      },
+      {
+        "word": "completely",
+        "start": 11.519
+      },
+      {
+        "word": "comfortable",
+        "start": 12.059
+      },
+      {
+        "word": "with",
+        "start": 12.519
+      }
+    ]
+  },
+  "05-mentions": {
+    "text": "Check mentions too. Press releases and guest posts are already being prepared and placed for you, and backlinks land here through the month as the network does its work",
+    "words": [
+      {
+        "word": "check",
+        "start": 0.099
+      },
+      {
+        "word": "mentions",
+        "start": 0.379
+      },
+      {
+        "word": "too",
+        "start": 0.919
+      },
+      {
+        "word": "press",
+        "start": 1.679
+      },
+      {
+        "word": "releases",
+        "start": 1.939
+      },
+      {
+        "word": "and",
+        "start": 2.46
+      },
+      {
+        "word": "guest",
+        "start": 2.619
+      },
+      {
+        "word": "posts",
+        "start": 2.96
+      },
+      {
+        "word": "are",
+        "start": 3.379
+      },
+      {
+        "word": "already",
+        "start": 3.599
+      },
+      {
+        "word": "being",
+        "start": 3.939
+      },
+      {
+        "word": "prepared",
+        "start": 4.159
+      },
+      {
+        "word": "and",
+        "start": 4.719
+      },
+      {
+        "word": "placed",
+        "start": 4.9
+      },
+      {
+        "word": "for",
+        "start": 5.219
+      },
+      {
+        "word": "you",
+        "start": 5.4
+      },
+      {
+        "word": "and",
+        "start": 5.94
+      },
+      {
+        "word": "backlinks",
+        "start": 6.099
+      },
+      {
+        "word": "land",
+        "start": 6.719
+      },
+      {
+        "word": "here",
+        "start": 7.039
+      },
+      {
+        "word": "through",
+        "start": 7.319
+      },
+      {
+        "word": "the",
+        "start": 7.48
+      },
+      {
+        "word": "month",
+        "start": 7.599
+      },
+      {
+        "word": "as",
+        "start": 7.98
+      },
+      {
+        "word": "the",
+        "start": 8.119
+      },
+      {
+        "word": "network",
+        "start": 8.26
+      },
+      {
+        "word": "does",
+        "start": 8.599
+      },
+      {
+        "word": "its",
+        "start": 8.76
+      },
+      {
+        "word": "work",
+        "start": 8.979
+      }
+    ]
+  },
+  "06-dashboard": {
+    "text": "And the dashboard is live. Search performance, positions, and backlinks. There's a geo tab too. That's your visibility inside AI Answers",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.259
+      },
+      {
+        "word": "dashboard",
+        "start": 0.379
+      },
+      {
+        "word": "is",
+        "start": 1.039
+      },
+      {
+        "word": "live",
+        "start": 1.259
+      },
+      {
+        "word": "search",
+        "start": 2.079
+      },
+      {
+        "word": "performance",
+        "start": 2.359
+      },
+      {
+        "word": "positions",
+        "start": 3.119
+      },
+      {
+        "word": "and",
+        "start": 3.759
+      },
+      {
+        "word": "backlinks",
+        "start": 3.919
+      },
+      {
+        "word": "there's",
+        "start": 4.92
+      },
+      {
+        "word": "a",
+        "start": 5.119
+      },
+      {
+        "word": "geo",
+        "start": 5.259
+      },
+      {
+        "word": "tab",
+        "start": 5.599
+      },
+      {
+        "word": "too",
+        "start": 5.96
+      },
+      {
+        "word": "that's",
+        "start": 6.619
+      },
+      {
+        "word": "your",
+        "start": 6.839
+      },
+      {
+        "word": "visibility",
+        "start": 6.96
+      },
+      {
+        "word": "inside",
+        "start": 7.659
+      },
+      {
+        "word": "ai",
+        "start": 8.26
+      },
+      {
+        "word": "answers",
+        "start": 8.599
+      }
+    ]
+  },
+  "07-published": {
+    "text": "Now give it a day and come back to the plan. Refresh and look at that. Five articles are already published live on your site",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.099
+      },
+      {
+        "word": "give",
+        "start": 0.379
+      },
+      {
+        "word": "it",
+        "start": 0.479
+      },
+      {
+        "word": "a",
+        "start": 0.659
+      },
+      {
+        "word": "day",
+        "start": 0.699
+      },
+      {
+        "word": "and",
+        "start": 1
+      },
+      {
+        "word": "come",
+        "start": 1.179
+      },
+      {
+        "word": "back",
+        "start": 1.399
+      },
+      {
+        "word": "to",
+        "start": 1.559
+      },
+      {
+        "word": "the",
+        "start": 1.659
+      },
+      {
+        "word": "plan",
+        "start": 1.799
+      },
+      {
+        "word": "refresh",
+        "start": 2.7
+      },
+      {
+        "word": "and",
+        "start": 3.539
+      },
+      {
+        "word": "look",
+        "start": 3.699
+      },
+      {
+        "word": "at",
+        "start": 3.839
+      },
+      {
+        "word": "that",
+        "start": 3.98
+      },
+      {
+        "word": "five",
+        "start": 4.639
+      },
+      {
+        "word": "articles",
+        "start": 4.98
+      },
+      {
+        "word": "are",
+        "start": 5.46
+      },
+      {
+        "word": "already",
+        "start": 5.659
+      },
+      {
+        "word": "published",
+        "start": 6
+      },
+      {
+        "word": "live",
+        "start": 6.739
+      },
+      {
+        "word": "on",
+        "start": 7.079
+      },
+      {
+        "word": "your",
+        "start": 7.219
+      },
+      {
+        "word": "site",
+        "start": 7.399
+      }
+    ]
+  },
+  "08-close": {
+    "text": "That's the whole setup. Connect your data, pick your platform: Shopify, WordPress, or anything else. Hit Run Setup once, and from here, everything ships itself",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.14
+      },
+      {
+        "word": "the",
+        "start": 0.399
+      },
+      {
+        "word": "whole",
+        "start": 0.539
+      },
+      {
+        "word": "setup",
+        "start": 0.74
+      },
+      {
+        "word": "connect",
+        "start": 1.459
+      },
+      {
+        "word": "your",
+        "start": 1.799
+      },
+      {
+        "word": "data",
+        "start": 1.939
+      },
+      {
+        "word": "pick",
+        "start": 2.5
+      },
+      {
+        "word": "your",
+        "start": 2.7
+      },
+      {
+        "word": "platform",
+        "start": 2.819
+      },
+      {
+        "word": "shopify",
+        "start": 3.74
+      },
+      {
+        "word": "wordpress",
+        "start": 4.519
+      },
+      {
+        "word": "or",
+        "start": 5.119
+      },
+      {
+        "word": "anything",
+        "start": 5.299
+      },
+      {
+        "word": "else",
+        "start": 5.659
+      },
+      {
+        "word": "hit",
+        "start": 6.359
+      },
+      {
+        "word": "run",
+        "start": 6.599
+      },
+      {
+        "word": "setup",
+        "start": 6.879
+      },
+      {
+        "word": "once",
+        "start": 7.279
+      },
+      {
+        "word": "and",
+        "start": 7.94
+      },
+      {
+        "word": "from",
+        "start": 8.079
+      },
+      {
+        "word": "here",
+        "start": 8.3
+      },
+      {
+        "word": "everything",
+        "start": 8.899
+      },
+      {
+        "word": "ships",
+        "start": 9.399
+      },
+      {
+        "word": "itself",
+        "start": 9.659
+      }
+    ]
+  },
+  "03b-prompts": {
+    "text": "Prompt start two. These are the questions your buyers ask AI assistants, and we track how often the answers mention you",
+    "words": [
+      {
+        "word": "prompt",
+        "start": 0.119
+      },
+      {
+        "word": "start",
+        "start": 0.479
+      },
+      {
+        "word": "two",
+        "start": 0.819
+      },
+      {
+        "word": "these",
+        "start": 1.539
+      },
+      {
+        "word": "are",
+        "start": 1.699
+      },
+      {
+        "word": "the",
+        "start": 1.799
+      },
+      {
+        "word": "questions",
+        "start": 1.959
+      },
+      {
+        "word": "your",
+        "start": 2.399
+      },
+      {
+        "word": "buyers",
+        "start": 2.519
+      },
+      {
+        "word": "ask",
+        "start": 3.039
+      },
+      {
+        "word": "ai",
+        "start": 3.359
+      },
+      {
+        "word": "assistants",
+        "start": 3.72
+      },
+      {
+        "word": "and",
+        "start": 4.539
+      },
+      {
+        "word": "we",
+        "start": 4.679
+      },
+      {
+        "word": "track",
+        "start": 4.859
+      },
+      {
+        "word": "how",
+        "start": 5.259
+      },
+      {
+        "word": "often",
+        "start": 5.5
+      },
+      {
+        "word": "the",
+        "start": 5.759
+      },
+      {
+        "word": "answers",
+        "start": 5.92
+      },
+      {
+        "word": "mention",
+        "start": 6.359
+      },
+      {
+        "word": "you",
+        "start": 6.739
+      }
+    ]
+  },
+  "05b-audit": {
+    "text": "Setup runs a site scan as well. Open Technical Audit. Every issue on your site is already found and listed, ready to fix",
+    "words": [
+      {
+        "word": "setup",
+        "start": 0.14
+      },
+      {
+        "word": "runs",
+        "start": 0.5
+      },
+      {
+        "word": "a",
+        "start": 0.759
+      },
+      {
+        "word": "site",
+        "start": 0.879
+      },
+      {
+        "word": "scan",
+        "start": 1.12
+      },
+      {
+        "word": "as",
+        "start": 1.399
+      },
+      {
+        "word": "well",
+        "start": 1.579
+      },
+      {
+        "word": "open",
+        "start": 2.44
+      },
+      {
+        "word": "technical",
+        "start": 2.759
+      },
+      {
+        "word": "audit",
+        "start": 3.279
+      },
+      {
+        "word": "every",
+        "start": 3.959
+      },
+      {
+        "word": "issue",
+        "start": 4.299
+      },
+      {
+        "word": "on",
+        "start": 4.659
+      },
+      {
+        "word": "your",
+        "start": 4.799
+      },
+      {
+        "word": "site",
+        "start": 4.98
+      },
+      {
+        "word": "is",
+        "start": 5.259
+      },
+      {
+        "word": "already",
+        "start": 5.519
+      },
+      {
+        "word": "found",
+        "start": 5.9
+      },
+      {
+        "word": "and",
+        "start": 6.259
+      },
+      {
+        "word": "listed",
+        "start": 6.379
+      },
+      {
+        "word": "ready",
+        "start": 7.059
+      },
+      {
+        "word": "to",
+        "start": 7.239
+      },
+      {
+        "word": "fix",
+        "start": 7.399
+      }
+    ]
+  }
+}

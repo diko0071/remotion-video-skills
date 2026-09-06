@@ -1,0 +1,73 @@
+.gate-empty {
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--muted) 30%, transparent);
+  padding: 48px;
+  text-align: center;
+}
+.gate-empty .g-icon {
+  width: 32px;
+  height: 32px;
+  margin: 0 auto;
+  color: color-mix(in srgb, var(--muted-foreground) 50%, transparent);
+}
+.gate-empty .g-icon svg {
+  width: 32px;
+  height: 32px;
+}
+.gate-empty .g-title {
+  margin-top: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--foreground);
+}
+.gate-empty .g-desc {
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted-foreground);
+}
+.gate-empty .g-action {
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+}
+.gate-spinner {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid color-mix(in srgb, currentColor 35%, transparent);
+  border-top-color: currentColor;
+  display: inline-block;
+}
+.gate-generating {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 96px 0 64px;
+}
+.gate-generating .g-orb {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 2px solid color-mix(in srgb, var(--brand) 45%, transparent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--brand);
+}
+.gate-generating .g-orb svg {
+  width: 20px;
+  height: 20px;
+}
+.gate-generating .g-text {
+  font-size: 15px;
+  color: #64748b;
+}
+.gate-generating .g-hint {
+  font-size: 13px;
+  color: #94a3b8;
+}

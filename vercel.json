@@ -1,0 +1,5 @@
+{
+  "buildCommand": "bun x --bun vite build",
+  "outputDirectory": "showcase-dist",
+  "installCommand": "bun install"
+}

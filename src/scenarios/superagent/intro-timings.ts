@@ -1,0 +1,32 @@
+import { at } from "./timings";
+
+export const INTRO = {
+  from: at(11.85),
+  words: [
+    { text: "Now", at: at(11.88), tint: "#E86AC8", blob: { color: "#F2A7E3", x: 0.35, y: 0.75 } },
+    { text: "You", at: at(12.6), tint: "#F0A060", blob: { color: "#FBD3AE", x: 0.7, y: 0.3 } },
+    { text: "Just", at: at(13.25), tint: "#6F9BFF", blob: { color: "#BFD3FF", x: 0.25, y: 0.35 } },
+    { text: "Ask", at: at(13.85), tint: "#8A8A8A", blob: { color: "#FBD3D3", x: 0.5, y: 0.9 } },
+  ],
+  wordSize: 150,
+  wordY: 520,
+  buttonAt: at(14.25),
+  cursorIn: at(14.1),
+  cursorAtButton: at(14.45),
+  click: at(14.55),
+  dark: at(14.97),
+  icon: { grow: [at(15.0), at(15.6)] as const, big: 280, settle: [at(15.6), at(16.2)] as const, small: 150, neonOff: [at(16.0), at(16.9)] as const },
+  reveal: [at(17.0), at(17.45)] as const,
+  orb: { size: 210, y: 540 },
+  introducingAt: at(17.1),
+  superAt: at(17.35),
+  textOut: [at(19.55), at(19.95)] as const,
+  bubbleAt: at(19.6),
+  bubbleOut: at(20.3),
+  toChat: [at(20.2), at(20.7)] as const,
+  orbSmall: { size: 64, y: 150 },
+  greetingAt: at(20.45),
+  composerAt: at(20.55),
+  chipsAt: at(20.7),
+  end: at(21.3),
+} as const;

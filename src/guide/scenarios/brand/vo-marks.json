@@ -1,0 +1,995 @@
+{
+  "00-title": {
+    "text": "Your agent can write exactly like you. Here's where it learns who you are, the brand page",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.099
+      },
+      {
+        "word": "agent",
+        "start": 0.419
+      },
+      {
+        "word": "can",
+        "start": 0.799
+      },
+      {
+        "word": "write",
+        "start": 0.959
+      },
+      {
+        "word": "exactly",
+        "start": 1.399
+      },
+      {
+        "word": "like",
+        "start": 1.939
+      },
+      {
+        "word": "you",
+        "start": 2.18
+      },
+      {
+        "word": "here's",
+        "start": 3.039
+      },
+      {
+        "word": "where",
+        "start": 3.319
+      },
+      {
+        "word": "it",
+        "start": 3.439
+      },
+      {
+        "word": "learns",
+        "start": 3.579
+      },
+      {
+        "word": "who",
+        "start": 4
+      },
+      {
+        "word": "you",
+        "start": 4.199
+      },
+      {
+        "word": "are",
+        "start": 4.38
+      },
+      {
+        "word": "the",
+        "start": 5.019
+      },
+      {
+        "word": "brand",
+        "start": 5.119
+      },
+      {
+        "word": "page",
+        "start": 5.48
+      }
+    ]
+  },
+  "01-page": {
+    "text": "This is brand. Every agent on the platform, SEO, paid ads, content, reads this page on every single turn. Fill it once and everything they produce comes out sounding like your company",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.099
+      },
+      {
+        "word": "is",
+        "start": 0.5
+      },
+      {
+        "word": "brand",
+        "start": 0.679
+      },
+      {
+        "word": "every",
+        "start": 1.819
+      },
+      {
+        "word": "agent",
+        "start": 2.18
+      },
+      {
+        "word": "on",
+        "start": 2.419
+      },
+      {
+        "word": "the",
+        "start": 2.519
+      },
+      {
+        "word": "platform",
+        "start": 2.639
+      },
+      {
+        "word": "seo",
+        "start": 3.619
+      },
+      {
+        "word": "paid",
+        "start": 4.239
+      },
+      {
+        "word": "ads",
+        "start": 4.579
+      },
+      {
+        "word": "content",
+        "start": 4.92
+      },
+      {
+        "word": "reads",
+        "start": 5.699
+      },
+      {
+        "word": "this",
+        "start": 6.079
+      },
+      {
+        "word": "page",
+        "start": 6.319
+      },
+      {
+        "word": "on",
+        "start": 6.719
+      },
+      {
+        "word": "every",
+        "start": 6.98
+      },
+      {
+        "word": "single",
+        "start": 7.399
+      },
+      {
+        "word": "turn",
+        "start": 7.759
+      },
+      {
+        "word": "fill",
+        "start": 8.619
+      },
+      {
+        "word": "it",
+        "start": 8.8
+      },
+      {
+        "word": "once",
+        "start": 9.059
+      },
+      {
+        "word": "and",
+        "start": 9.46
+      },
+      {
+        "word": "everything",
+        "start": 9.719
+      },
+      {
+        "word": "they",
+        "start": 10.14
+      },
+      {
+        "word": "produce",
+        "start": 10.3
+      },
+      {
+        "word": "comes",
+        "start": 10.739
+      },
+      {
+        "word": "out",
+        "start": 10.979
+      },
+      {
+        "word": "sounding",
+        "start": 11.179
+      },
+      {
+        "word": "like",
+        "start": 11.759
+      },
+      {
+        "word": "your",
+        "start": 12.019
+      },
+      {
+        "word": "company",
+        "start": 12.319
+      }
+    ]
+  },
+  "02-identity": {
+    "text": "Identity is the foundation. What you sell, your industry, and the tone of voice, how the brand talks, what words it loves, what it never says",
+    "words": [
+      {
+        "word": "identity",
+        "start": 0.099
+      },
+      {
+        "word": "is",
+        "start": 0.659
+      },
+      {
+        "word": "the",
+        "start": 0.799
+      },
+      {
+        "word": "foundation",
+        "start": 0.919
+      },
+      {
+        "word": "what",
+        "start": 2.059
+      },
+      {
+        "word": "you",
+        "start": 2.279
+      },
+      {
+        "word": "sell",
+        "start": 2.48
+      },
+      {
+        "word": "your",
+        "start": 3.019
+      },
+      {
+        "word": "industry",
+        "start": 3.179
+      },
+      {
+        "word": "and",
+        "start": 3.919
+      },
+      {
+        "word": "the",
+        "start": 4.039
+      },
+      {
+        "word": "tone",
+        "start": 4.199
+      },
+      {
+        "word": "of",
+        "start": 4.44
+      },
+      {
+        "word": "voice",
+        "start": 4.579
+      },
+      {
+        "word": "how",
+        "start": 5.359
+      },
+      {
+        "word": "the",
+        "start": 5.599
+      },
+      {
+        "word": "brand",
+        "start": 5.719
+      },
+      {
+        "word": "talks",
+        "start": 6.039
+      },
+      {
+        "word": "what",
+        "start": 6.679
+      },
+      {
+        "word": "words",
+        "start": 6.92
+      },
+      {
+        "word": "it",
+        "start": 7.219
+      },
+      {
+        "word": "loves",
+        "start": 7.419
+      },
+      {
+        "word": "what",
+        "start": 7.96
+      },
+      {
+        "word": "it",
+        "start": 8.079
+      },
+      {
+        "word": "never",
+        "start": 8.359
+      },
+      {
+        "word": "says",
+        "start": 8.679
+      }
+    ]
+  },
+  "03-visual": {
+    "text": "Visual, your colors and your fonts. Every ad creative the agent generates comes out in this palette. No more off-brand purple gradients from a robot",
+    "words": [
+      {
+        "word": "visual",
+        "start": 0.079
+      },
+      {
+        "word": "your",
+        "start": 0.879
+      },
+      {
+        "word": "colors",
+        "start": 1.079
+      },
+      {
+        "word": "and",
+        "start": 1.539
+      },
+      {
+        "word": "your",
+        "start": 1.679
+      },
+      {
+        "word": "fonts",
+        "start": 1.86
+      },
+      {
+        "word": "every",
+        "start": 2.679
+      },
+      {
+        "word": "ad",
+        "start": 3.059
+      },
+      {
+        "word": "creative",
+        "start": 3.279
+      },
+      {
+        "word": "the",
+        "start": 3.659
+      },
+      {
+        "word": "agent",
+        "start": 3.819
+      },
+      {
+        "word": "generates",
+        "start": 4.119
+      },
+      {
+        "word": "comes",
+        "start": 4.639
+      },
+      {
+        "word": "out",
+        "start": 4.94
+      },
+      {
+        "word": "in",
+        "start": 5.159
+      },
+      {
+        "word": "this",
+        "start": 5.359
+      },
+      {
+        "word": "palette",
+        "start": 5.639
+      },
+      {
+        "word": "no",
+        "start": 6.5
+      },
+      {
+        "word": "more",
+        "start": 6.699
+      },
+      {
+        "word": "offbrand",
+        "start": 6.98
+      },
+      {
+        "word": "purple",
+        "start": 7.5
+      },
+      {
+        "word": "gradients",
+        "start": 7.859
+      },
+      {
+        "word": "from",
+        "start": 8.399
+      },
+      {
+        "word": "a",
+        "start": 8.579
+      },
+      {
+        "word": "robot",
+        "start": 8.619
+      }
+    ]
+  },
+  "04-context": {
+    "text": "And here's the part most people skip, context. This is where you talk to the agent directly",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "here's",
+        "start": 0.28
+      },
+      {
+        "word": "the",
+        "start": 0.56
+      },
+      {
+        "word": "part",
+        "start": 0.68
+      },
+      {
+        "word": "most",
+        "start": 1.039
+      },
+      {
+        "word": "people",
+        "start": 1.319
+      },
+      {
+        "word": "skip",
+        "start": 1.579
+      },
+      {
+        "word": "context",
+        "start": 2.379
+      },
+      {
+        "word": "this",
+        "start": 3.439
+      },
+      {
+        "word": "is",
+        "start": 3.659
+      },
+      {
+        "word": "where",
+        "start": 3.819
+      },
+      {
+        "word": "you",
+        "start": 4
+      },
+      {
+        "word": "talk",
+        "start": 4.139
+      },
+      {
+        "word": "to",
+        "start": 4.38
+      },
+      {
+        "word": "the",
+        "start": 4.48
+      },
+      {
+        "word": "agent",
+        "start": 4.659
+      },
+      {
+        "word": "directly",
+        "start": 5
+      }
+    ]
+  },
+  "05-notes": {
+    "text": "Tell it what to always remember. We only sell B2B. Never suggest consumer tactics. Always cite sources. Write it once and every future conversation starts with the agent already knowing the rules",
+    "words": [
+      {
+        "word": "tell",
+        "start": 0.079
+      },
+      {
+        "word": "it",
+        "start": 0.299
+      },
+      {
+        "word": "what",
+        "start": 0.459
+      },
+      {
+        "word": "to",
+        "start": 0.62
+      },
+      {
+        "word": "always",
+        "start": 0.939
+      },
+      {
+        "word": "remember",
+        "start": 1.339
+      },
+      {
+        "word": "we",
+        "start": 2.579
+      },
+      {
+        "word": "only",
+        "start": 2.879
+      },
+      {
+        "word": "sell",
+        "start": 3.22
+      },
+      {
+        "word": "b2b",
+        "start": 3.46
+      },
+      {
+        "word": "never",
+        "start": 4.339
+      },
+      {
+        "word": "suggest",
+        "start": 4.719
+      },
+      {
+        "word": "consumer",
+        "start": 5.079
+      },
+      {
+        "word": "tactics",
+        "start": 5.539
+      },
+      {
+        "word": "always",
+        "start": 6.48
+      },
+      {
+        "word": "cite",
+        "start": 6.859
+      },
+      {
+        "word": "sources",
+        "start": 7.179
+      },
+      {
+        "word": "write",
+        "start": 8.319
+      },
+      {
+        "word": "it",
+        "start": 8.5
+      },
+      {
+        "word": "once",
+        "start": 8.779
+      },
+      {
+        "word": "and",
+        "start": 9.179
+      },
+      {
+        "word": "every",
+        "start": 9.479
+      },
+      {
+        "word": "future",
+        "start": 9.84
+      },
+      {
+        "word": "conversation",
+        "start": 10.179
+      },
+      {
+        "word": "starts",
+        "start": 10.939
+      },
+      {
+        "word": "with",
+        "start": 11.26
+      },
+      {
+        "word": "the",
+        "start": 11.399
+      },
+      {
+        "word": "agent",
+        "start": 11.559
+      },
+      {
+        "word": "already",
+        "start": 12.079
+      },
+      {
+        "word": "knowing",
+        "start": 12.52
+      },
+      {
+        "word": "the",
+        "start": 12.819
+      },
+      {
+        "word": "rules",
+        "start": 12.939
+      }
+    ]
+  },
+  "06-examples": {
+    "text": "Below that, real examples. Your best ad creatives, your best posts. The agent studies them and copies the style, not some generic template",
+    "words": [
+      {
+        "word": "below",
+        "start": 0.119
+      },
+      {
+        "word": "that",
+        "start": 0.439
+      },
+      {
+        "word": "real",
+        "start": 1.059
+      },
+      {
+        "word": "examples",
+        "start": 1.339
+      },
+      {
+        "word": "your",
+        "start": 2.44
+      },
+      {
+        "word": "best",
+        "start": 2.639
+      },
+      {
+        "word": "ad",
+        "start": 3.019
+      },
+      {
+        "word": "creatives",
+        "start": 3.259
+      },
+      {
+        "word": "your",
+        "start": 4.019
+      },
+      {
+        "word": "best",
+        "start": 4.259
+      },
+      {
+        "word": "posts",
+        "start": 4.539
+      },
+      {
+        "word": "the",
+        "start": 5.5
+      },
+      {
+        "word": "agent",
+        "start": 5.659
+      },
+      {
+        "word": "studies",
+        "start": 6.059
+      },
+      {
+        "word": "them",
+        "start": 6.42
+      },
+      {
+        "word": "and",
+        "start": 6.639
+      },
+      {
+        "word": "copies",
+        "start": 6.799
+      },
+      {
+        "word": "the",
+        "start": 7.259
+      },
+      {
+        "word": "style",
+        "start": 7.419
+      },
+      {
+        "word": "not",
+        "start": 8.179
+      },
+      {
+        "word": "some",
+        "start": 8.479
+      },
+      {
+        "word": "generic",
+        "start": 8.679
+      },
+      {
+        "word": "template",
+        "start": 9.119
+      }
+    ]
+  },
+  "07-close": {
+    "text": "So 10 minutes on this page and every article, every creative, every reply across the whole platform sounds like you. The agent only writes like you if it knows you",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "10",
+        "start": 0.719
+      },
+      {
+        "word": "minutes",
+        "start": 0.979
+      },
+      {
+        "word": "on",
+        "start": 1.259
+      },
+      {
+        "word": "this",
+        "start": 1.399
+      },
+      {
+        "word": "page",
+        "start": 1.62
+      },
+      {
+        "word": "and",
+        "start": 2.099
+      },
+      {
+        "word": "every",
+        "start": 2.379
+      },
+      {
+        "word": "article",
+        "start": 2.7
+      },
+      {
+        "word": "every",
+        "start": 3.379
+      },
+      {
+        "word": "creative",
+        "start": 3.74
+      },
+      {
+        "word": "every",
+        "start": 4.619
+      },
+      {
+        "word": "reply",
+        "start": 4.92
+      },
+      {
+        "word": "across",
+        "start": 5.46
+      },
+      {
+        "word": "the",
+        "start": 5.759
+      },
+      {
+        "word": "whole",
+        "start": 5.92
+      },
+      {
+        "word": "platform",
+        "start": 6.179
+      },
+      {
+        "word": "sounds",
+        "start": 7.079
+      },
+      {
+        "word": "like",
+        "start": 7.379
+      },
+      {
+        "word": "you",
+        "start": 7.599
+      },
+      {
+        "word": "the",
+        "start": 8.46
+      },
+      {
+        "word": "agent",
+        "start": 8.639
+      },
+      {
+        "word": "only",
+        "start": 9.039
+      },
+      {
+        "word": "writes",
+        "start": 9.3
+      },
+      {
+        "word": "like",
+        "start": 9.579
+      },
+      {
+        "word": "you",
+        "start": 9.84
+      },
+      {
+        "word": "if",
+        "start": 10.3
+      },
+      {
+        "word": "it",
+        "start": 10.439
+      },
+      {
+        "word": "knows",
+        "start": 10.619
+      },
+      {
+        "word": "you",
+        "start": 10.939
+      }
+    ]
+  },
+  "06b-improve": {
+    "text": "And if filling this in feels like work, don't. Hit Improve Brand Profile, and the agent reads what's there, flags what's weak or missing, and asks you what to fix. It builds its own briefing",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "if",
+        "start": 0.239
+      },
+      {
+        "word": "filling",
+        "start": 0.379
+      },
+      {
+        "word": "this",
+        "start": 0.68
+      },
+      {
+        "word": "in",
+        "start": 0.839
+      },
+      {
+        "word": "feels",
+        "start": 1.059
+      },
+      {
+        "word": "like",
+        "start": 1.299
+      },
+      {
+        "word": "work",
+        "start": 1.519
+      },
+      {
+        "word": "don't",
+        "start": 2.319
+      },
+      {
+        "word": "hit",
+        "start": 3.119
+      },
+      {
+        "word": "improve",
+        "start": 3.379
+      },
+      {
+        "word": "brand",
+        "start": 3.879
+      },
+      {
+        "word": "profile",
+        "start": 4.179
+      },
+      {
+        "word": "and",
+        "start": 4.839
+      },
+      {
+        "word": "the",
+        "start": 4.98
+      },
+      {
+        "word": "agent",
+        "start": 5.179
+      },
+      {
+        "word": "reads",
+        "start": 5.5
+      },
+      {
+        "word": "what's",
+        "start": 5.779
+      },
+      {
+        "word": "there",
+        "start": 6.059
+      },
+      {
+        "word": "flags",
+        "start": 6.659
+      },
+      {
+        "word": "what's",
+        "start": 7.059
+      },
+      {
+        "word": "weak",
+        "start": 7.299
+      },
+      {
+        "word": "or",
+        "start": 7.46
+      },
+      {
+        "word": "missing",
+        "start": 7.579
+      },
+      {
+        "word": "and",
+        "start": 8.099
+      },
+      {
+        "word": "asks",
+        "start": 8.359
+      },
+      {
+        "word": "you",
+        "start": 8.72
+      },
+      {
+        "word": "what",
+        "start": 8.88
+      },
+      {
+        "word": "to",
+        "start": 9.039
+      },
+      {
+        "word": "fix",
+        "start": 9.239
+      },
+      {
+        "word": "it",
+        "start": 10.059
+      },
+      {
+        "word": "builds",
+        "start": 10.279
+      },
+      {
+        "word": "its",
+        "start": 10.619
+      },
+      {
+        "word": "own",
+        "start": 10.88
+      },
+      {
+        "word": "briefing",
+        "start": 11.119
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Your blog can fill itself. Here's how publishing works."
+    },
+    {
+      "key": "01-connect",
+      "text": "Ryze writes articles for you — but they need somewhere to live. That's your website. Connect it once — Shopify, WordPress, whatever runs your site — and Ryze gets a door to publish through."
+    },
+    {
+      "key": "02-connected",
+      "text": "That's the whole setup. You never touch this again."
+    },
+    {
+      "key": "03-plan",
+      "text": "Now, the plan. Ryze already researched what your customers search for, and turned it into articles. Every row targets a real query people type into Google — nothing here is invented."
+    },
+    {
+      "key": "04-planned",
+      "text": "[curious] Planned means it's just a topic so far. A keyword worth writing about, waiting its turn."
+    },
+    {
+      "key": "04b-autowrite",
+      "text": "And you don't have to touch them. On its scheduled day, each planned topic writes itself and turns into a draft. If automatic publishing is on, it goes live that same day. If not — it simply waits in Drafted for your review."
+    },
+    {
+      "key": "04c-generate",
+      "text": "Don't want to wait? [curious] Open any planned topic — and hit Generate now. Ryze starts writing it right away."
+    },
+    {
+      "key": "05-drafted",
+      "text": "Drafted means the article is fully written — and waiting for you to look at it."
+    },
+    {
+      "key": "06-published",
+      "text": "And published means it's live on your site. With real results right next to it — impressions, and the traffic trend for every article."
+    },
+    {
+      "key": "07-open",
+      "text": "Let's look at a draft before it goes out."
+    },
+    {
+      "key": "08-preview",
+      "text": "You read it the way your customer will. And on the right — the score. Ryze checks the structure, the links, the keywords — so you don't need to know SEO to judge an article."
+    },
+    {
+      "key": "09-ai",
+      "text": "Want something changed without editing by hand? [curious] Ask the agent. It reads the article and rewrites exactly what you tell it to."
+    },
+    {
+      "key": "10-edit",
+      "text": "Or edit it yourself."
+    },
+    {
+      "key": "11-editor",
+      "text": "Everything here is yours to change — the address, the meta tags Google reads, the day it goes out."
+    },
+    {
+      "key": "12-image",
+      "text": "Even the picture. One click — a new one."
+    },
+    {
+      "key": "13-save",
+      "text": "Save, and step back to the article."
+    },
+    {
+      "key": "14-publish",
+      "text": "[excited] Happy with it? Publish. A few minutes later, it's live on your site."
+    },
+    {
+      "key": "15-auto",
+      "text": "And here's the real point — you don't have to publish by hand at all. In settings, switch publishing to automatic. From then on, every article goes live on its scheduled day, about five a day."
+    },
+    {
+      "key": "16-provider",
+      "text": "Moved your site? Change where articles go, right here — and new articles follow."
+    },
+    {
+      "key": "17-republish",
+      "text": "Already-published articles can move too. [curious] Republish — push it again, or send it to the new platform, and Ryze removes the old copy for you."
+    },
+    {
+      "key": "18-close",
+      "text": "So — connect once, review the drafts you care about, and let the rest publish itself. [smiling] That's a blog that fills itself."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "lines": [
+    {
+      "key": "01-intro",
+      "text": "This is Ryze for search. Its job is simple: bring people to your website for free, from Google, and now from A I assistants like ChatGPT. Let me walk you through it."
+    },
+    {
+      "key": "02-setup",
+      "text": "First it learns your business. It reads your site, connects your Google accounts, and builds a plan. This checklist shows you exactly where it is, in plain language."
+    },
+    {
+      "key": "03-chat",
+      "text": "Like everywhere in Ryze, you just ask. It thinks for a moment, then goes into your Search Console — which queries you rank for, which pages are seen, what Google has indexed. Then it answers with your own numbers: four pages slipped out of the top ten, and here is what that cost you."
+    },
+    {
+      "key": "03b-chat-fix",
+      "text": "Then you tell it to fix what it found. It opens the page, rewrites the title and the description, publishes, and retries by itself if something fails. When it is done, the live page opens right next to the chat."
+    },
+    {
+      "key": "03c-chat-geo",
+      "text": "And now the question nobody could answer before: when someone asks ChatGPT for a candle, do they say your name? It runs your questions through the assistants and shows you the truth — you are named in a hundred and ten answers out of four hundred and eighty."
+    },
+    {
+      "key": "04-audit",
+      "text": "This is the health check of your website. Broken links, missing titles, pages Google cannot read properly. Each one has a plain explanation and a fix button."
+    },
+    {
+      "key": "05-content",
+      "text": "This is the content plan. It finds what your customers search for, and writes articles for it. Every line here is a real article, with the day it goes live."
+    },
+    {
+      "key": "06-calendar",
+      "text": "The same plan as a calendar. A few articles every day, published for you, so your website keeps growing without you writing anything."
+    },
+    {
+      "key": "07-dashboard",
+      "text": "This is your dashboard. How many people saw you in search, how many clicked, and which countries they came from. It updates itself."
+    },
+    {
+      "key": "08-geo",
+      "text": "And this is the new part. When someone asks ChatGPT or Claude for a recommendation, are you named? This page shows exactly how often, and who gets named instead of you."
+    },
+    {
+      "key": "09-queries",
+      "text": "Here are the words people search, and the questions they ask assistants. Green means you show up. Empty means your competitors take that customer."
+    },
+    {
+      "key": "10-mentions",
+      "text": "It also gets other websites to link to you, because that is what makes Google trust you. Real placements, with the page they point to."
+    },
+    {
+      "key": "11-blog",
+      "text": "If you do not have a blog, it gives you one. You pick the colours and fonts here, and your articles publish themselves onto it."
+    },
+    {
+      "key": "12-approve",
+      "text": "Nothing goes live behind your back. Anything it wants to change on your site waits here for you. Press approve, and it is done."
+    },
+    {
+      "key": "13-close",
+      "text": "That is Ryze for search. It finds what people look for, writes it, publishes it, and shows you honestly whether it is working."
+    }
+  ]
+}

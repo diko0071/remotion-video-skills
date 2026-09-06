@@ -1,0 +1,56 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+.env.local
+
+# Reference videos are studied locally — breakdowns (*.md) are committed, raw mp4s are not
+references/**/*.mp4
+out/
+.env*
+!.env.example
+showcase-dist
+.vercel
+references/ugc-demo/
+
+references/_repos/
+references/_reels/
+references/**/frames/
+references/**/hi/
+references/**/map-*.png
+references/**/*.png
+references/**/*.mp3
+references/**/*.wav
+references/**/*.jpg
+references/**/*.webp
+references/**/source.info.json
+references/**/bot.info.json
+
+# Third-party ad creatives, brand marks and heavy footage stay out of the public repo.
+# Scenarios that need them document their sources; drop your own files in these folders.
+public/ad-templates/
+public/creative-wall/
+public/away/
+public/kachava/
+public/apps/
+public/comp-ads/
+public/showcase/
+public/creatives/
+public/dusk/
+public/dusk-new/
+public/dusk-new2/
+public/yt/
+public/stores/
+public/appicons/
+public/press/
+public/**/*.mp4
+public/afuri/
+public/graza/
+public/vermillion/
+public/joyrush/
+public/home/guide/step-1.webp
+!public/creative-wall/manifest.json

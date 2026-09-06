@@ -1,0 +1,125 @@
+.intg-search {
+  position: relative;
+  display: flex;
+  height: 36px;
+  width: 100%;
+  align-items: center;
+  margin-bottom: 16px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: transparent;
+  padding-left: 36px;
+  font-size: 14px;
+  color: var(--muted-foreground);
+}
+.intg-search svg {
+  position: absolute;
+  left: 12px;
+  width: 16px;
+  height: 16px;
+  color: var(--muted-foreground);
+}
+
+.intg-filters {
+  margin-bottom: 24px;
+}
+.intg-filters .fchip {
+  height: 28px;
+  padding: 0 10px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: var(--background);
+  font-size: 12.8px;
+  font-weight: 500;
+  color: var(--foreground);
+}
+.intg-filters .fchip.active {
+  border-color: transparent;
+  background: var(--primary);
+  color: var(--primary-foreground);
+}
+
+.intg-section + .intg-section {
+  margin-top: 32px;
+}
+
+.intg-group-label {
+  margin-bottom: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+}
+
+.intg-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.intg-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--card);
+  padding: 20px;
+}
+
+.intg-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.intg-tile {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  background: #fff;
+  box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.05);
+  overflow: hidden;
+}
+.intg-tile img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.intg-body {
+  min-width: 0;
+  flex: 1;
+}
+
+.intg-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.intg-name {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.375;
+  color: var(--foreground);
+}
+
+.intg-desc {
+  margin-top: 2px;
+  font-size: 12px;
+  line-height: 1.625;
+  color: var(--muted-foreground);
+}
+
+.intg-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}

@@ -1,0 +1,50 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "Ad creatives in Ryze — made by asking."
+    },
+    {
+      "key": "01-library",
+      "text": "This is your Ad Creatives library. Every ad in here was generated for your brand. To make new ones, hit Generate Creative."
+    },
+    {
+      "key": "02-seeded",
+      "text": "The agent opens on the right, and your request is already sent. It reads your brand and comes back with a question."
+    },
+    {
+      "key": "03-ask",
+      "text": "So you answer it in plain words. And you can hand it your own product photos — open the plus menu, upload from your computer, then send."
+    },
+    {
+      "key": "04-generated",
+      "text": "A couple of minutes later the ads land in the chat. Hit expand to open the same conversation full width — four on brand cuts, all saved to your library."
+    },
+    {
+      "key": "05-annotate",
+      "text": "Now the part almost nobody knows. Hover any ad and hit the brush. Tap the exact spot you want changed, and a box opens right there — type what you want. Tap a second spot, write another note."
+    },
+    {
+      "key": "06-send",
+      "text": "Then send. The agent gets your marked-up image with every comment, and rebuilds that exact ad — headline bigger, jar swapped, everything else untouched."
+    },
+    {
+      "key": "07-text",
+      "text": "And you don't have to point at all. Plain words work the same way — ask for a warmer set, and it comes back changed."
+    },
+    {
+      "key": "08-templates",
+      "text": "[warm] You never start from a blank page either. Ad Templates is a wall of real ads from winning brands. Pick a couple you love, hit Use as reference — and the agent remakes them for your brand."
+    },
+    {
+      "key": "09-competitors",
+      "text": "[curious] Let's leave it working on those, and peek at Competitor Ads — live ads your rivals are running right now. Open any ad, hit Iterate with AI — a fresh chat picks up the photo, and builds your own version, in your style."
+    },
+    {
+      "key": "10-close",
+      "text": "[warm] That's the whole loop. Ask in plain words, point at what you want changed — and everything you make lands back in your library, ready to launch."
+    }
+  ]
+}

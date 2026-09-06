@@ -1,0 +1,7 @@
+.bg-veil { position: absolute; inset: 0; z-index: 70; display: flex; align-items: center; justify-content: center; background: rgba(20, 16, 10, 0.4); }
+.bg-dlg { width: 560px; border-radius: var(--radius-lg); background: var(--card); box-shadow: 0 24px 64px rgba(20, 16, 10, 0.28); padding: 20px; display: flex; flex-direction: column; gap: 14px; }
+.bg-dlg-title { font-size: 16px; font-weight: 600; color: var(--foreground); }
+.bg-dlg-desc { margin-top: 4px; font-size: 13px; color: var(--muted-foreground); line-height: 1.5; }
+.bg-dlg-area { min-height: 110px; border-radius: var(--radius-md); border: 1px solid var(--input); padding: 10px 12px; font-size: 13.5px; line-height: 1.55; color: var(--foreground); }
+.bg-dlg-ph { color: var(--muted-foreground); opacity: 0.7; }
+.bg-dlg-foot { display: flex; justify-content: flex-end; gap: 8px; }

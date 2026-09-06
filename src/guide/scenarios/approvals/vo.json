@@ -1,0 +1,58 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Your marketing has a to-do list that writes itself. Here's how approvals work."
+    },
+    {
+      "key": "01-queue",
+      "text": "This is Approvals. While you were busy, the agent went through your ads and your site — and filed every change worth making. Each card is one concrete fix, waiting for one click."
+    },
+    {
+      "key": "02-open",
+      "text": "Never approve blind. Open any card."
+    },
+    {
+      "key": "03-evidence",
+      "text": "Everything you need to judge is right here. The evidence — real numbers from your account. The exact change, before and after. And what it's expected to bring."
+    },
+    {
+      "key": "03b-research",
+      "text": "And if you're wondering how it found this — nothing here is a black box. [curious] Every card links to the exact run behind it. Open it, and you're reading the agent's actual work: every account it pulled, every number it checked, step by step."
+    },
+    {
+      "key": "04-approve",
+      "text": "Agree? [curious] Approve. The agent logs into Google Ads itself and makes the change. You never touch a settings page."
+    },
+    {
+      "key": "04b-apply",
+      "text": "The apply is just as transparent. Watch the run live — the agent walking into Google Ads, making the change, confirming it worked. You can audit every click it ever makes."
+    },
+    {
+      "key": "05-second",
+      "text": "This one's an S E O fix — a redirect chain slowing your pages down. Same story: evidence, the fix, approve."
+    },
+    {
+      "key": "06-reject",
+      "text": "And when something doesn't fit — reject it. Tell it why in one line."
+    },
+    {
+      "key": "07-learning",
+      "text": "Here's the part that matters. [pause] Every decision teaches the agent. Reject with a reason, and it stops proposing that kind of change. Approve, and it gets bolder about the things you like. The more you decide, the closer its proposals get to what you'd do yourself."
+    },
+    {
+      "key": "08-blocked",
+      "text": "Sometimes a card says blocked. That's the agent being honest — it found the problem but doesn't have access to fix it, and it tells you exactly what to connect."
+    },
+    {
+      "key": "09-history",
+      "text": "Everything you've decided lives in history — every change traceable, down to the exact run that applied it."
+    },
+    {
+      "key": "10-close",
+      "text": "So — the agent finds the money, you check the queue over coffee, and one click at a time your marketing runs itself. [smiling] You stay in charge. It does the hands."
+    }
+  ]
+}

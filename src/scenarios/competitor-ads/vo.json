@@ -1,0 +1,34 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "[curious] Your competitors are running ads right now. Have you seen them?"
+    },
+    {
+      "key": "02-track",
+      "text": "On Ryze, tracking one takes a second. Type the domain... and that's it."
+    },
+    {
+      "key": "03-radar",
+      "text": "From now on, Ryze watches their ads for you. Day and night."
+    },
+    {
+      "key": "04-notify",
+      "text": "The moment they launch something new — you get a notification."
+    },
+    {
+      "key": "05-library",
+      "text": "Every ad they run lands in your library. Filter by industry, by platform... or see what's been running for months. Those are their winners."
+    },
+    {
+      "key": "06-copy",
+      "text": "[warm] Found one you like? Ask the agent to make it yours."
+    },
+    {
+      "key": "07-punch",
+      "text": "Their best ads... are your starting point."
+    }
+  ]
+}

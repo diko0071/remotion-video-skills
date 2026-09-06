@@ -1,0 +1,794 @@
+{
+  "00-title": {
+    "text": "So how do you get work done without doing it yourself?",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.34
+      },
+      {
+        "word": "how",
+        "start": 0.959
+      },
+      {
+        "word": "do",
+        "start": 1.1
+      },
+      {
+        "word": "you",
+        "start": 1.22
+      },
+      {
+        "word": "get",
+        "start": 1.359
+      },
+      {
+        "word": "work",
+        "start": 1.519
+      },
+      {
+        "word": "done",
+        "start": 1.759
+      },
+      {
+        "word": "without",
+        "start": 2.18
+      },
+      {
+        "word": "doing",
+        "start": 2.539
+      },
+      {
+        "word": "it",
+        "start": 2.759
+      },
+      {
+        "word": "yourself",
+        "start": 2.879
+      }
+    ]
+  },
+  "01-intro": {
+    "text": "These are jobs you hand the agent once. It does them for you every morning, every Monday",
+    "words": [
+      {
+        "word": "these",
+        "start": 0.099
+      },
+      {
+        "word": "are",
+        "start": 0.28
+      },
+      {
+        "word": "jobs",
+        "start": 0.459
+      },
+      {
+        "word": "you",
+        "start": 0.779
+      },
+      {
+        "word": "hand",
+        "start": 0.939
+      },
+      {
+        "word": "the",
+        "start": 1.179
+      },
+      {
+        "word": "agent",
+        "start": 1.319
+      },
+      {
+        "word": "once",
+        "start": 1.839
+      },
+      {
+        "word": "it",
+        "start": 2.5
+      },
+      {
+        "word": "does",
+        "start": 2.639
+      },
+      {
+        "word": "them",
+        "start": 2.839
+      },
+      {
+        "word": "for",
+        "start": 3.039
+      },
+      {
+        "word": "you",
+        "start": 3.279
+      },
+      {
+        "word": "every",
+        "start": 3.779
+      },
+      {
+        "word": "morning",
+        "start": 4.039
+      },
+      {
+        "word": "every",
+        "start": 4.699
+      },
+      {
+        "word": "monday",
+        "start": 4.98
+      }
+    ]
+  },
+  "02-press": {
+    "text": "Nothing to fill in. You just press one button",
+    "words": [
+      {
+        "word": "nothing",
+        "start": 0.14
+      },
+      {
+        "word": "to",
+        "start": 0.459
+      },
+      {
+        "word": "fill",
+        "start": 0.599
+      },
+      {
+        "word": "in",
+        "start": 0.879
+      },
+      {
+        "word": "you",
+        "start": 1.299
+      },
+      {
+        "word": "just",
+        "start": 1.48
+      },
+      {
+        "word": "press",
+        "start": 1.939
+      },
+      {
+        "word": "one",
+        "start": 2.379
+      },
+      {
+        "word": "button",
+        "start": 2.579
+      }
+    ]
+  },
+  "03-asks": {
+    "text": "And the agent asks you what you want done and how often",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.219
+      },
+      {
+        "word": "agent",
+        "start": 0.379
+      },
+      {
+        "word": "asks",
+        "start": 0.719
+      },
+      {
+        "word": "you",
+        "start": 1.12
+      },
+      {
+        "word": "what",
+        "start": 1.36
+      },
+      {
+        "word": "you",
+        "start": 1.559
+      },
+      {
+        "word": "want",
+        "start": 1.679
+      },
+      {
+        "word": "done",
+        "start": 1.899
+      },
+      {
+        "word": "and",
+        "start": 2.379
+      },
+      {
+        "word": "how",
+        "start": 2.519
+      },
+      {
+        "word": "often",
+        "start": 2.74
+      }
+    ]
+  },
+  "04-pick": {
+    "text": "You answer like you would tell a person",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.099
+      },
+      {
+        "word": "answer",
+        "start": 0.239
+      },
+      {
+        "word": "like",
+        "start": 0.599
+      },
+      {
+        "word": "you",
+        "start": 0.839
+      },
+      {
+        "word": "would",
+        "start": 0.919
+      },
+      {
+        "word": "tell",
+        "start": 1.059
+      },
+      {
+        "word": "a",
+        "start": 1.279
+      },
+      {
+        "word": "person",
+        "start": 1.36
+      }
+    ]
+  },
+  "05-where": {
+    "text": "And where you want it, your email or Slack",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "where",
+        "start": 0.34
+      },
+      {
+        "word": "you",
+        "start": 0.599
+      },
+      {
+        "word": "want",
+        "start": 0.719
+      },
+      {
+        "word": "it",
+        "start": 0.979
+      },
+      {
+        "word": "your",
+        "start": 1.36
+      },
+      {
+        "word": "email",
+        "start": 1.559
+      },
+      {
+        "word": "or",
+        "start": 2.019
+      },
+      {
+        "word": "slack",
+        "start": 2.2
+      }
+    ]
+  },
+  "06-writing": {
+    "text": "It writes the whole thing itself and sets it up",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.079
+      },
+      {
+        "word": "writes",
+        "start": 0.28
+      },
+      {
+        "word": "the",
+        "start": 0.62
+      },
+      {
+        "word": "whole",
+        "start": 0.719
+      },
+      {
+        "word": "thing",
+        "start": 0.919
+      },
+      {
+        "word": "itself",
+        "start": 1.079
+      },
+      {
+        "word": "and",
+        "start": 1.779
+      },
+      {
+        "word": "sets",
+        "start": 2.18
+      },
+      {
+        "word": "it",
+        "start": 2.399
+      },
+      {
+        "word": "up",
+        "start": 2.519
+      }
+    ]
+  },
+  "07-created": {
+    "text": "Done. There it is, and one switch turns it off",
+    "words": [
+      {
+        "word": "done",
+        "start": 0.14
+      },
+      {
+        "word": "there",
+        "start": 0.779
+      },
+      {
+        "word": "it",
+        "start": 0.979
+      },
+      {
+        "word": "is",
+        "start": 1.159
+      },
+      {
+        "word": "and",
+        "start": 1.62
+      },
+      {
+        "word": "one",
+        "start": 1.86
+      },
+      {
+        "word": "switch",
+        "start": 2.119
+      },
+      {
+        "word": "turns",
+        "start": 2.519
+      },
+      {
+        "word": "it",
+        "start": 2.779
+      },
+      {
+        "word": "off",
+        "start": 2.919
+      }
+    ]
+  },
+  "08-dots": {
+    "text": "Want more people on it? Open the settings",
+    "words": [
+      {
+        "word": "want",
+        "start": 0.14
+      },
+      {
+        "word": "more",
+        "start": 0.359
+      },
+      {
+        "word": "people",
+        "start": 0.579
+      },
+      {
+        "word": "on",
+        "start": 0.879
+      },
+      {
+        "word": "it",
+        "start": 1.039
+      },
+      {
+        "word": "open",
+        "start": 1.719
+      },
+      {
+        "word": "the",
+        "start": 1.979
+      },
+      {
+        "word": "settings",
+        "start": 2.119
+      }
+    ]
+  },
+  "09-people": {
+    "text": "Add Slack channels or anyone else by email. Save",
+    "words": [
+      {
+        "word": "add",
+        "start": 0.079
+      },
+      {
+        "word": "slack",
+        "start": 0.299
+      },
+      {
+        "word": "channels",
+        "start": 0.659
+      },
+      {
+        "word": "or",
+        "start": 1.199
+      },
+      {
+        "word": "anyone",
+        "start": 1.399
+      },
+      {
+        "word": "else",
+        "start": 1.779
+      },
+      {
+        "word": "by",
+        "start": 2.22
+      },
+      {
+        "word": "email",
+        "start": 2.44
+      },
+      {
+        "word": "save",
+        "start": 3.359
+      }
+    ]
+  },
+  "10-detail": {
+    "text": "Open the task to see exactly what it does and when it runs next",
+    "words": [
+      {
+        "word": "open",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.319
+      },
+      {
+        "word": "task",
+        "start": 0.459
+      },
+      {
+        "word": "to",
+        "start": 0.979
+      },
+      {
+        "word": "see",
+        "start": 1.12
+      },
+      {
+        "word": "exactly",
+        "start": 1.279
+      },
+      {
+        "word": "what",
+        "start": 1.799
+      },
+      {
+        "word": "it",
+        "start": 1.959
+      },
+      {
+        "word": "does",
+        "start": 2.099
+      },
+      {
+        "word": "and",
+        "start": 2.759
+      },
+      {
+        "word": "when",
+        "start": 2.899
+      },
+      {
+        "word": "it",
+        "start": 3.039
+      },
+      {
+        "word": "runs",
+        "start": 3.159
+      },
+      {
+        "word": "next",
+        "start": 3.5
+      }
+    ]
+  },
+  "11-run": {
+    "text": "Do not want to wait? Run it right now",
+    "words": [
+      {
+        "word": "do",
+        "start": 0.159
+      },
+      {
+        "word": "not",
+        "start": 0.359
+      },
+      {
+        "word": "want",
+        "start": 0.579
+      },
+      {
+        "word": "to",
+        "start": 0.759
+      },
+      {
+        "word": "wait",
+        "start": 0.899
+      },
+      {
+        "word": "run",
+        "start": 1.62
+      },
+      {
+        "word": "it",
+        "start": 1.799
+      },
+      {
+        "word": "right",
+        "start": 1.939
+      },
+      {
+        "word": "now",
+        "start": 2.22
+      }
+    ]
+  },
+  "12-history": {
+    "text": "And every run before this one is kept right here",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "every",
+        "start": 0.359
+      },
+      {
+        "word": "run",
+        "start": 0.68
+      },
+      {
+        "word": "before",
+        "start": 0.939
+      },
+      {
+        "word": "this",
+        "start": 1.399
+      },
+      {
+        "word": "one",
+        "start": 1.62
+      },
+      {
+        "word": "is",
+        "start": 1.979
+      },
+      {
+        "word": "kept",
+        "start": 2.279
+      },
+      {
+        "word": "right",
+        "start": 2.839
+      },
+      {
+        "word": "here",
+        "start": 3.139
+      }
+    ]
+  },
+  "13-result": {
+    "text": "Open one, and this is exactly what lands in your email or in Slack",
+    "words": [
+      {
+        "word": "open",
+        "start": 0.099
+      },
+      {
+        "word": "one",
+        "start": 0.56
+      },
+      {
+        "word": "and",
+        "start": 1.299
+      },
+      {
+        "word": "this",
+        "start": 1.559
+      },
+      {
+        "word": "is",
+        "start": 1.839
+      },
+      {
+        "word": "exactly",
+        "start": 2.099
+      },
+      {
+        "word": "what",
+        "start": 2.519
+      },
+      {
+        "word": "lands",
+        "start": 2.679
+      },
+      {
+        "word": "in",
+        "start": 3
+      },
+      {
+        "word": "your",
+        "start": 3.119
+      },
+      {
+        "word": "email",
+        "start": 3.299
+      },
+      {
+        "word": "or",
+        "start": 3.959
+      },
+      {
+        "word": "in",
+        "start": 4.119
+      },
+      {
+        "word": "slack",
+        "start": 4.299
+      }
+    ]
+  },
+  "14-what": {
+    "text": "The agent's last message is the report you get, what changed with your money, and what to do about it",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.099
+      },
+      {
+        "word": "agent's",
+        "start": 0.319
+      },
+      {
+        "word": "last",
+        "start": 0.68
+      },
+      {
+        "word": "message",
+        "start": 0.979
+      },
+      {
+        "word": "is",
+        "start": 1.439
+      },
+      {
+        "word": "the",
+        "start": 1.579
+      },
+      {
+        "word": "report",
+        "start": 1.679
+      },
+      {
+        "word": "you",
+        "start": 2.099
+      },
+      {
+        "word": "get",
+        "start": 2.279
+      },
+      {
+        "word": "what",
+        "start": 3.039
+      },
+      {
+        "word": "changed",
+        "start": 3.259
+      },
+      {
+        "word": "with",
+        "start": 3.639
+      },
+      {
+        "word": "your",
+        "start": 3.779
+      },
+      {
+        "word": "money",
+        "start": 3.98
+      },
+      {
+        "word": "and",
+        "start": 4.46
+      },
+      {
+        "word": "what",
+        "start": 4.599
+      },
+      {
+        "word": "to",
+        "start": 4.779
+      },
+      {
+        "word": "do",
+        "start": 4.92
+      },
+      {
+        "word": "about",
+        "start": 5.079
+      },
+      {
+        "word": "it",
+        "start": 5.299
+      }
+    ]
+  },
+  "15-close": {
+    "text": "Said it once. It keeps happening without you",
+    "words": [
+      {
+        "word": "said",
+        "start": 0.099
+      },
+      {
+        "word": "it",
+        "start": 0.299
+      },
+      {
+        "word": "once",
+        "start": 0.56
+      },
+      {
+        "word": "it",
+        "start": 1.12
+      },
+      {
+        "word": "keeps",
+        "start": 1.379
+      },
+      {
+        "word": "happening",
+        "start": 1.659
+      },
+      {
+        "word": "without",
+        "start": 2
+      },
+      {
+        "word": "you",
+        "start": 2.399
+      }
+    ]
+  }
+}

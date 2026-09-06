@@ -1,0 +1,484 @@
+{
+  "00-title": {
+    "text": "Rise inside Claude",
+    "words": [
+      {
+        "word": "rise",
+        "start": 0.099
+      },
+      {
+        "word": "inside",
+        "start": 0.699
+      },
+      {
+        "word": "claude",
+        "start": 1.22
+      }
+    ]
+  },
+  "01-card": {
+    "text": "Rise ships with an MCP connector. Your whole marketing stack available inside Claude. Here's the hookup. It takes a minute. Open integrations and hit Claude MCP",
+    "words": [
+      {
+        "word": "rise",
+        "start": 0.079
+      },
+      {
+        "word": "ships",
+        "start": 0.419
+      },
+      {
+        "word": "with",
+        "start": 0.719
+      },
+      {
+        "word": "an",
+        "start": 0.859
+      },
+      {
+        "word": "mcp",
+        "start": 1.039
+      },
+      {
+        "word": "connector",
+        "start": 1.539
+      },
+      {
+        "word": "your",
+        "start": 2.48
+      },
+      {
+        "word": "whole",
+        "start": 2.72
+      },
+      {
+        "word": "marketing",
+        "start": 3
+      },
+      {
+        "word": "stack",
+        "start": 3.399
+      },
+      {
+        "word": "available",
+        "start": 4.019
+      },
+      {
+        "word": "inside",
+        "start": 4.579
+      },
+      {
+        "word": "claude",
+        "start": 5.039
+      },
+      {
+        "word": "here's",
+        "start": 6.239
+      },
+      {
+        "word": "the",
+        "start": 6.48
+      },
+      {
+        "word": "hookup",
+        "start": 6.559
+      },
+      {
+        "word": "it",
+        "start": 7.179
+      },
+      {
+        "word": "takes",
+        "start": 7.319
+      },
+      {
+        "word": "a",
+        "start": 7.559
+      },
+      {
+        "word": "minute",
+        "start": 7.659
+      },
+      {
+        "word": "open",
+        "start": 8.5
+      },
+      {
+        "word": "integrations",
+        "start": 8.8
+      },
+      {
+        "word": "and",
+        "start": 9.639
+      },
+      {
+        "word": "hit",
+        "start": 9.819
+      },
+      {
+        "word": "claude",
+        "start": 10.219
+      },
+      {
+        "word": "mcp",
+        "start": 10.739
+      }
+    ]
+  },
+  "03-add": {
+    "text": "You land in Claude's connector settings. Hit add, paste the link, and add it. That's the whole setup. Rise is connected",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.099
+      },
+      {
+        "word": "land",
+        "start": 0.259
+      },
+      {
+        "word": "in",
+        "start": 0.539
+      },
+      {
+        "word": "claude's",
+        "start": 0.699
+      },
+      {
+        "word": "connector",
+        "start": 1.1
+      },
+      {
+        "word": "settings",
+        "start": 1.599
+      },
+      {
+        "word": "hit",
+        "start": 2.299
+      },
+      {
+        "word": "add",
+        "start": 2.619
+      },
+      {
+        "word": "paste",
+        "start": 3.319
+      },
+      {
+        "word": "the",
+        "start": 3.619
+      },
+      {
+        "word": "link",
+        "start": 3.759
+      },
+      {
+        "word": "and",
+        "start": 4.299
+      },
+      {
+        "word": "add",
+        "start": 4.48
+      },
+      {
+        "word": "it",
+        "start": 4.679
+      },
+      {
+        "word": "that's",
+        "start": 5.559
+      },
+      {
+        "word": "the",
+        "start": 5.839
+      },
+      {
+        "word": "whole",
+        "start": 5.94
+      },
+      {
+        "word": "setup",
+        "start": 6.179
+      },
+      {
+        "word": "rise",
+        "start": 6.899
+      },
+      {
+        "word": "is",
+        "start": 7.259
+      },
+      {
+        "word": "connected",
+        "start": 7.419
+      }
+    ]
+  },
+  "04-ask": {
+    "text": "Now open a chat and just ask about your marketing. Claude walks your search console, your analytics, your ad accounts through Rise and answers with your real numbers",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.179
+      },
+      {
+        "word": "open",
+        "start": 0.419
+      },
+      {
+        "word": "a",
+        "start": 0.699
+      },
+      {
+        "word": "chat",
+        "start": 0.859
+      },
+      {
+        "word": "and",
+        "start": 1.299
+      },
+      {
+        "word": "just",
+        "start": 1.459
+      },
+      {
+        "word": "ask",
+        "start": 1.659
+      },
+      {
+        "word": "about",
+        "start": 1.899
+      },
+      {
+        "word": "your",
+        "start": 2.119
+      },
+      {
+        "word": "marketing",
+        "start": 2.259
+      },
+      {
+        "word": "claude",
+        "start": 3.399
+      },
+      {
+        "word": "walks",
+        "start": 3.72
+      },
+      {
+        "word": "your",
+        "start": 4
+      },
+      {
+        "word": "search",
+        "start": 4.139
+      },
+      {
+        "word": "console",
+        "start": 4.42
+      },
+      {
+        "word": "your",
+        "start": 5
+      },
+      {
+        "word": "analytics",
+        "start": 5.159
+      },
+      {
+        "word": "your",
+        "start": 5.859
+      },
+      {
+        "word": "ad",
+        "start": 6
+      },
+      {
+        "word": "accounts",
+        "start": 6.159
+      },
+      {
+        "word": "through",
+        "start": 6.779
+      },
+      {
+        "word": "rise",
+        "start": 7.039
+      },
+      {
+        "word": "and",
+        "start": 7.679
+      },
+      {
+        "word": "answers",
+        "start": 7.899
+      },
+      {
+        "word": "with",
+        "start": 8.319
+      },
+      {
+        "word": "your",
+        "start": 8.559
+      },
+      {
+        "word": "real",
+        "start": 8.84
+      },
+      {
+        "word": "numbers",
+        "start": 9.079
+      }
+    ]
+  },
+  "05-close": {
+    "text": "One link and every Rise tool lives inside Claude. See you there",
+    "words": [
+      {
+        "word": "one",
+        "start": 0.219
+      },
+      {
+        "word": "link",
+        "start": 0.479
+      },
+      {
+        "word": "and",
+        "start": 1.139
+      },
+      {
+        "word": "every",
+        "start": 1.399
+      },
+      {
+        "word": "rise",
+        "start": 1.759
+      },
+      {
+        "word": "tool",
+        "start": 2.079
+      },
+      {
+        "word": "lives",
+        "start": 2.48
+      },
+      {
+        "word": "inside",
+        "start": 2.899
+      },
+      {
+        "word": "claude",
+        "start": 3.399
+      },
+      {
+        "word": "see",
+        "start": 4.579
+      },
+      {
+        "word": "you",
+        "start": 4.659
+      },
+      {
+        "word": "there",
+        "start": 4.819
+      }
+    ]
+  },
+  "02-copy": {
+    "text": "This is the Rise connector link. Same link for every account. You sign in on Claude side. Copy it and hit open Claude",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.099
+      },
+      {
+        "word": "is",
+        "start": 0.399
+      },
+      {
+        "word": "the",
+        "start": 0.539
+      },
+      {
+        "word": "rise",
+        "start": 0.639
+      },
+      {
+        "word": "connector",
+        "start": 0.959
+      },
+      {
+        "word": "link",
+        "start": 1.399
+      },
+      {
+        "word": "same",
+        "start": 2.139
+      },
+      {
+        "word": "link",
+        "start": 2.419
+      },
+      {
+        "word": "for",
+        "start": 2.74
+      },
+      {
+        "word": "every",
+        "start": 2.939
+      },
+      {
+        "word": "account",
+        "start": 3.22
+      },
+      {
+        "word": "you",
+        "start": 3.899
+      },
+      {
+        "word": "sign",
+        "start": 4.059
+      },
+      {
+        "word": "in",
+        "start": 4.339
+      },
+      {
+        "word": "on",
+        "start": 4.579
+      },
+      {
+        "word": "claude",
+        "start": 4.779
+      },
+      {
+        "word": "side",
+        "start": 5.139
+      },
+      {
+        "word": "copy",
+        "start": 6.059
+      },
+      {
+        "word": "it",
+        "start": 6.399
+      },
+      {
+        "word": "and",
+        "start": 7.099
+      },
+      {
+        "word": "hit",
+        "start": 7.279
+      },
+      {
+        "word": "open",
+        "start": 7.639
+      },
+      {
+        "word": "claude",
+        "start": 8
+      }
+    ]
+  }
+}

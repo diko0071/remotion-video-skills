@@ -1,0 +1,13 @@
+export const HEAD_AT = 2;
+export const CARD_AT = 12;
+export const PUSH_LEFT = 56;
+export const PLUS_CLICK = 106;
+export const MENU_OPEN = 110;
+export const TOGGLE = 154;
+export const MENU_CLOSE = 186;
+export const PROMPT = "Which campaigns wasted money last week?";
+export const TYPE_FROM = 194;
+export const TYPE_TO = TYPE_FROM + Math.ceil(PROMPT.length / 1.35);
+export const PAN_RIGHT = 240;
+export const SEND = 272;
+export const OPEN_TOTAL = 312;

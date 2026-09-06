@@ -1,0 +1,38 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Google ranks the sites other sites link to. Here's how Ryze gets you those links — the Backlink Exchange."
+    },
+    {
+      "key": "01-article",
+      "text": "Start with what it actually looks like. This is one of your own articles — and right here, inside the text, is a link out to another site. A coffee roaster. Not a directory, not a comment — a real link inside real content. And somewhere out there, someone else's article links back at you the exact same way."
+    },
+    {
+      "key": "02-chains",
+      "text": "Here's how it works. [curious] Ryze connects its clients into chains. A linen brand links to your candles. You link to a coffee roaster. Nobody links back to the site that linked to them — so to Google, it just looks like the internet doing its thing. Everyone's domain rating grows."
+    },
+    {
+      "key": "03-noncompeting",
+      "text": "And you only ever trade with non-competing sites. A candle store never links to another candle store."
+    },
+    {
+      "key": "04-where",
+      "text": "Every link you earn lands here — in Mentions, under Backlinks. The page that links to you, the page it points at, month by month."
+    },
+    {
+      "key": "05-default",
+      "text": "And the best part — you don't have to set any of this up. [pause] It's already on. The exchange ships enabled in your SEO settings, so you're in the network from day one."
+    },
+    {
+      "key": "05b-toggle",
+      "text": "Don't want it? One switch. Flip it off — and you're out. Partners can't see you, nobody links to you, you link to nobody. [curious] But honestly — leave it on. Right now it brings around twenty backlinks a month, and that number keeps growing, because the client network keeps growing."
+    },
+    {
+      "key": "06-close",
+      "text": "So — your articles go out, links come back, up to fifty a month on autopilot. [smiling] Your domain gets heavier every week, and you never wrote a single outreach email."
+    }
+  ]
+}

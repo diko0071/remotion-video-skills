@@ -1,0 +1,70 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] So — how do you get work done without doing it yourself?"
+    },
+    {
+      "key": "01-intro",
+      "text": "These are jobs you hand the agent once. It does them for you, every morning, every Monday."
+    },
+    {
+      "key": "02-press",
+      "text": "[curious] Nothing to fill in — you just press one button."
+    },
+    {
+      "key": "03-asks",
+      "text": "And the agent asks you what you want done, and how often."
+    },
+    {
+      "key": "04-pick",
+      "text": "You answer like you would tell a person."
+    },
+    {
+      "key": "05-where",
+      "text": "And where you want it — your email, or Slack."
+    },
+    {
+      "key": "06-writing",
+      "text": "[confident] It writes the whole thing itself, and sets it up."
+    },
+    {
+      "key": "07-created",
+      "text": "[excited] Done. There it is, and one switch turns it off."
+    },
+    {
+      "key": "08-dots",
+      "text": "Want more people on it? Open the settings."
+    },
+    {
+      "key": "09-people",
+      "text": "Add Slack channels, or anyone else by email. Save."
+    },
+    {
+      "key": "10-detail",
+      "text": "Open the task to see exactly what it does, and when it runs next."
+    },
+    {
+      "key": "11-run",
+      "text": "Do not want to wait? Run it right now."
+    },
+    {
+      "key": "12-history",
+      "text": "And every run before this one is kept, right here."
+    },
+    {
+      "key": "13-result",
+      "text": "[warm] Open one — and this is exactly what lands in your email, or in Slack."
+    },
+    {
+      "key": "14-what",
+      "text": "The agent's last message is the report you get: what changed with your money, and what to do about it."
+    },
+    {
+      "key": "15-close",
+      "text": "Set it once. [smiling] It keeps happening without you."
+    }
+  ]
+}

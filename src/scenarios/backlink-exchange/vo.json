@@ -1,0 +1,30 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "[curious] So... where do backlinks actually come from?"
+    },
+    {
+      "key": "02-problem",
+      "text": "Mostly from months of cold emails... and two hundred dollar invoices."
+    },
+    {
+      "key": "03-network",
+      "text": "On Ryze, they come from the network itself. Three thousand websites, all trading links."
+    },
+    {
+      "key": "04-swap",
+      "text": "[warm] Say you make a sleep app. A meditation app mentions you... you mention a habit tracker. And every rating in the chain climbs."
+    },
+    {
+      "key": "05-scale",
+      "text": "And you? You'll receive up to fifty backlinks a month, on autopilot."
+    },
+    {
+      "key": "06-punch",
+      "text": "That's about ten thousand dollars in links, monthly."
+    }
+  ]
+}

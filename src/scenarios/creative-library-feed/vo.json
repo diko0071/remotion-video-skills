@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-collected",
+      "text": "[confident] We collected one hundred thousand winning ads. [warm] Get inspired \u2014 or make them yours."
+    },
+    {
+      "key": "02-use",
+      "text": "Pick the ones you love, hand them to your agent, add your brand photos... and just ask."
+    },
+    {
+      "key": "03-agent",
+      "text": "[curious] Now watch \u2014 it reads your picks. Palette, hooks, layout."
+    },
+    {
+      "key": "04-result",
+      "text": "[satisfied] Fresh creatives. In your brand. Ready to launch."
+    },
+    {
+      "key": "05-end",
+      "text": "[calm] Your next ad doesn't start from scratch. [confident] It starts from a winner."
+    }
+  ]
+}

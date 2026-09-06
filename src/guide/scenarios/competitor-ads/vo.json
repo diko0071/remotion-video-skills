@@ -1,0 +1,54 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Your competitors already found the ads that work. Here's how to see them."
+    },
+    {
+      "key": "01-explore",
+      "text": "This is Competitor Ads. A live wall of real ads running in your industry right now."
+    },
+    {
+      "key": "01b-scroll",
+      "text": "Keep scrolling. There are over a hundred thousand live ads in here — pulled from Google and Meta, and refreshed every day."
+    },
+    {
+      "key": "02-filter",
+      "text": "Slice it any way you like. One industry. [curious] One platform. Only image ads — or only the plain text ones from search."
+    },
+    {
+      "key": "03-tracked",
+      "text": "But the real power is tracking specific competitors. Open the tracked tab — Ryze already found the brands running ads in your space."
+    },
+    {
+      "key": "04-pick",
+      "text": "Pick the ones you care about, and track them."
+    },
+    {
+      "key": "05-wall",
+      "text": "From now on, their ads live here. Every campaign they launch, every creative they test — synced automatically."
+    },
+    {
+      "key": "06-brand",
+      "text": "Click a brand to see just their playbook."
+    },
+    {
+      "key": "07-lightbox",
+      "text": "And here's the trick most people miss. Open any ad and look at one number — how long it's been running. [curious] Ninety one days. Nobody pays for a losing ad for three months. If it's still running, it's making money."
+    },
+    {
+      "key": "08-generate",
+      "text": "So don't just admire it. Hit generate similar — and the agent drafts your own version of that proven ad, in your brand's style, with your product."
+    },
+    {
+      "key": "09-alerts",
+      "text": "One last thing. Turn on alerts for a competitor. Enable — and the day they launch something new, you get an email."
+    },
+    {
+      "key": "10-close",
+      "text": "So — watch the whole market, track the brands that matter, and turn their winning ads into yours. [smiling] They do the testing. You take the results."
+    }
+  ]
+}

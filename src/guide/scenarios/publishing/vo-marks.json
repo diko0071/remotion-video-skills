@@ -1,0 +1,1707 @@
+{
+  "00-title": {
+    "text": "Your blog can fill itself. Here's how publishing works",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.14
+      },
+      {
+        "word": "blog",
+        "start": 0.319
+      },
+      {
+        "word": "can",
+        "start": 0.959
+      },
+      {
+        "word": "fill",
+        "start": 1.36
+      },
+      {
+        "word": "itself",
+        "start": 1.539
+      },
+      {
+        "word": "here's",
+        "start": 2.519
+      },
+      {
+        "word": "how",
+        "start": 2.779
+      },
+      {
+        "word": "publishing",
+        "start": 2.98
+      },
+      {
+        "word": "works",
+        "start": 3.579
+      }
+    ]
+  },
+  "01-connect": {
+    "text": "Rise writes articles for you, but they need somewhere to live. That's your website. Connect it once, Shopify, WordPress, whatever runs your site, and Rise gets a door to publish through",
+    "words": [
+      {
+        "word": "rise",
+        "start": 0.119
+      },
+      {
+        "word": "writes",
+        "start": 0.519
+      },
+      {
+        "word": "articles",
+        "start": 0.799
+      },
+      {
+        "word": "for",
+        "start": 1.199
+      },
+      {
+        "word": "you",
+        "start": 1.36
+      },
+      {
+        "word": "but",
+        "start": 1.839
+      },
+      {
+        "word": "they",
+        "start": 1.959
+      },
+      {
+        "word": "need",
+        "start": 2.139
+      },
+      {
+        "word": "somewhere",
+        "start": 2.319
+      },
+      {
+        "word": "to",
+        "start": 2.679
+      },
+      {
+        "word": "live",
+        "start": 2.799
+      },
+      {
+        "word": "that's",
+        "start": 3.519
+      },
+      {
+        "word": "your",
+        "start": 3.819
+      },
+      {
+        "word": "website",
+        "start": 3.98
+      },
+      {
+        "word": "connect",
+        "start": 5
+      },
+      {
+        "word": "it",
+        "start": 5.339
+      },
+      {
+        "word": "once",
+        "start": 5.579
+      },
+      {
+        "word": "shopify",
+        "start": 6.259
+      },
+      {
+        "word": "wordpress",
+        "start": 6.98
+      },
+      {
+        "word": "whatever",
+        "start": 7.639
+      },
+      {
+        "word": "runs",
+        "start": 8.019
+      },
+      {
+        "word": "your",
+        "start": 8.26
+      },
+      {
+        "word": "site",
+        "start": 8.439
+      },
+      {
+        "word": "and",
+        "start": 9.119
+      },
+      {
+        "word": "rise",
+        "start": 9.319
+      },
+      {
+        "word": "gets",
+        "start": 9.679
+      },
+      {
+        "word": "a",
+        "start": 9.88
+      },
+      {
+        "word": "door",
+        "start": 9.92
+      },
+      {
+        "word": "to",
+        "start": 10.079
+      },
+      {
+        "word": "publish",
+        "start": 10.199
+      },
+      {
+        "word": "through",
+        "start": 10.619
+      }
+    ]
+  },
+  "02-connected": {
+    "text": "That's the whole setup. You never touch this again",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.399
+      },
+      {
+        "word": "whole",
+        "start": 0.5
+      },
+      {
+        "word": "setup",
+        "start": 0.68
+      },
+      {
+        "word": "you",
+        "start": 1.379
+      },
+      {
+        "word": "never",
+        "start": 1.639
+      },
+      {
+        "word": "touch",
+        "start": 1.899
+      },
+      {
+        "word": "this",
+        "start": 2.159
+      },
+      {
+        "word": "again",
+        "start": 2.419
+      }
+    ]
+  },
+  "03-plan": {
+    "text": "Now the plan. Rise already researched what your customers search for and turned it into articles. Every row targets a real query people type into Google. Nothing here is invented",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.479
+      },
+      {
+        "word": "plan",
+        "start": 0.62
+      },
+      {
+        "word": "rise",
+        "start": 1.519
+      },
+      {
+        "word": "already",
+        "start": 1.959
+      },
+      {
+        "word": "researched",
+        "start": 2.319
+      },
+      {
+        "word": "what",
+        "start": 2.839
+      },
+      {
+        "word": "your",
+        "start": 2.98
+      },
+      {
+        "word": "customers",
+        "start": 3.119
+      },
+      {
+        "word": "search",
+        "start": 3.599
+      },
+      {
+        "word": "for",
+        "start": 3.899
+      },
+      {
+        "word": "and",
+        "start": 4.239
+      },
+      {
+        "word": "turned",
+        "start": 4.44
+      },
+      {
+        "word": "it",
+        "start": 4.679
+      },
+      {
+        "word": "into",
+        "start": 4.839
+      },
+      {
+        "word": "articles",
+        "start": 5.079
+      },
+      {
+        "word": "every",
+        "start": 6.099
+      },
+      {
+        "word": "row",
+        "start": 6.46
+      },
+      {
+        "word": "targets",
+        "start": 6.759
+      },
+      {
+        "word": "a",
+        "start": 7.44
+      },
+      {
+        "word": "real",
+        "start": 7.48
+      },
+      {
+        "word": "query",
+        "start": 7.819
+      },
+      {
+        "word": "people",
+        "start": 8.179
+      },
+      {
+        "word": "type",
+        "start": 8.48
+      },
+      {
+        "word": "into",
+        "start": 8.699
+      },
+      {
+        "word": "google",
+        "start": 8.92
+      },
+      {
+        "word": "nothing",
+        "start": 9.559
+      },
+      {
+        "word": "here",
+        "start": 9.939
+      },
+      {
+        "word": "is",
+        "start": 10.199
+      },
+      {
+        "word": "invented",
+        "start": 10.34
+      }
+    ]
+  },
+  "09-ai": {
+    "text": "Want something changed without editing by hand? Ask the agent. It reads the article and rewrites exactly what you tell it to",
+    "words": [
+      {
+        "word": "want",
+        "start": 0.119
+      },
+      {
+        "word": "something",
+        "start": 0.34
+      },
+      {
+        "word": "changed",
+        "start": 0.699
+      },
+      {
+        "word": "without",
+        "start": 1.139
+      },
+      {
+        "word": "editing",
+        "start": 1.48
+      },
+      {
+        "word": "by",
+        "start": 1.819
+      },
+      {
+        "word": "hand",
+        "start": 2.079
+      },
+      {
+        "word": "ask",
+        "start": 2.74
+      },
+      {
+        "word": "the",
+        "start": 3.019
+      },
+      {
+        "word": "agent",
+        "start": 3.159
+      },
+      {
+        "word": "it",
+        "start": 3.919
+      },
+      {
+        "word": "reads",
+        "start": 4.079
+      },
+      {
+        "word": "the",
+        "start": 4.36
+      },
+      {
+        "word": "article",
+        "start": 4.5
+      },
+      {
+        "word": "and",
+        "start": 4.96
+      },
+      {
+        "word": "rewrites",
+        "start": 5.159
+      },
+      {
+        "word": "exactly",
+        "start": 5.839
+      },
+      {
+        "word": "what",
+        "start": 6.319
+      },
+      {
+        "word": "you",
+        "start": 6.48
+      },
+      {
+        "word": "tell",
+        "start": 6.619
+      },
+      {
+        "word": "it",
+        "start": 6.799
+      },
+      {
+        "word": "to",
+        "start": 6.96
+      }
+    ]
+  },
+  "04-planned": {
+    "text": "Planned means it's just a topic so far, a keyword worth writing about, waiting its turn",
+    "words": [
+      {
+        "word": "planned",
+        "start": 0.14
+      },
+      {
+        "word": "means",
+        "start": 0.659
+      },
+      {
+        "word": "it's",
+        "start": 1.059
+      },
+      {
+        "word": "just",
+        "start": 1.339
+      },
+      {
+        "word": "a",
+        "start": 1.62
+      },
+      {
+        "word": "topic",
+        "start": 1.679
+      },
+      {
+        "word": "so",
+        "start": 2.119
+      },
+      {
+        "word": "far",
+        "start": 2.299
+      },
+      {
+        "word": "a",
+        "start": 3.059
+      },
+      {
+        "word": "keyword",
+        "start": 3.159
+      },
+      {
+        "word": "worth",
+        "start": 3.579
+      },
+      {
+        "word": "writing",
+        "start": 3.839
+      },
+      {
+        "word": "about",
+        "start": 4.159
+      },
+      {
+        "word": "waiting",
+        "start": 4.659
+      },
+      {
+        "word": "its",
+        "start": 4.94
+      },
+      {
+        "word": "turn",
+        "start": 5.159
+      }
+    ]
+  },
+  "05-drafted": {
+    "text": "Drafted means the article is fully written and waiting for you to look at it.",
+    "words": [
+      {
+        "word": "drafted",
+        "start": 0.099
+      },
+      {
+        "word": "means",
+        "start": 0.719
+      },
+      {
+        "word": "the",
+        "start": 0.939
+      },
+      {
+        "word": "article",
+        "start": 1.1
+      },
+      {
+        "word": "is",
+        "start": 1.5
+      },
+      {
+        "word": "fully",
+        "start": 1.779
+      },
+      {
+        "word": "written",
+        "start": 2.099
+      },
+      {
+        "word": "and",
+        "start": 2.619
+      },
+      {
+        "word": "waiting",
+        "start": 2.799
+      },
+      {
+        "word": "for",
+        "start": 3.119
+      },
+      {
+        "word": "you",
+        "start": 3.259
+      },
+      {
+        "word": "to",
+        "start": 3.359
+      },
+      {
+        "word": "look",
+        "start": 3.48
+      },
+      {
+        "word": "at",
+        "start": 3.659
+      },
+      {
+        "word": "it",
+        "start": 3.819
+      }
+    ]
+  },
+  "06-published": {
+    "text": "And published means it's live on your site with real results right next to it, impressions and the traffic trend for every article",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "published",
+        "start": 0.319
+      },
+      {
+        "word": "means",
+        "start": 0.899
+      },
+      {
+        "word": "it's",
+        "start": 1.159
+      },
+      {
+        "word": "live",
+        "start": 1.399
+      },
+      {
+        "word": "on",
+        "start": 1.699
+      },
+      {
+        "word": "your",
+        "start": 1.839
+      },
+      {
+        "word": "site",
+        "start": 2.019
+      },
+      {
+        "word": "with",
+        "start": 2.619
+      },
+      {
+        "word": "real",
+        "start": 2.859
+      },
+      {
+        "word": "results",
+        "start": 3.119
+      },
+      {
+        "word": "right",
+        "start": 3.579
+      },
+      {
+        "word": "next",
+        "start": 3.819
+      },
+      {
+        "word": "to",
+        "start": 4.039
+      },
+      {
+        "word": "it",
+        "start": 4.159
+      },
+      {
+        "word": "impressions",
+        "start": 4.48
+      },
+      {
+        "word": "and",
+        "start": 5.239
+      },
+      {
+        "word": "the",
+        "start": 5.359
+      },
+      {
+        "word": "traffic",
+        "start": 5.46
+      },
+      {
+        "word": "trend",
+        "start": 5.859
+      },
+      {
+        "word": "for",
+        "start": 6.219
+      },
+      {
+        "word": "every",
+        "start": 6.44
+      },
+      {
+        "word": "article",
+        "start": 6.779
+      }
+    ]
+  },
+  "07-open": {
+    "text": "Let's look at a draft before it goes out",
+    "words": [
+      {
+        "word": "let's",
+        "start": 0.119
+      },
+      {
+        "word": "look",
+        "start": 0.36
+      },
+      {
+        "word": "at",
+        "start": 0.479
+      },
+      {
+        "word": "a",
+        "start": 0.659
+      },
+      {
+        "word": "draft",
+        "start": 0.699
+      },
+      {
+        "word": "before",
+        "start": 1.099
+      },
+      {
+        "word": "it",
+        "start": 1.36
+      },
+      {
+        "word": "goes",
+        "start": 1.48
+      },
+      {
+        "word": "out",
+        "start": 1.74
+      }
+    ]
+  },
+  "08-preview": {
+    "text": "You read it the way your customer will, and on the right, the score. Rise checks the structure, the links, the keywords, so you don't need to know SEO to judge an article",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.119
+      },
+      {
+        "word": "read",
+        "start": 0.28
+      },
+      {
+        "word": "it",
+        "start": 0.459
+      },
+      {
+        "word": "the",
+        "start": 0.559
+      },
+      {
+        "word": "way",
+        "start": 0.68
+      },
+      {
+        "word": "your",
+        "start": 0.799
+      },
+      {
+        "word": "customer",
+        "start": 0.959
+      },
+      {
+        "word": "will",
+        "start": 1.439
+      },
+      {
+        "word": "and",
+        "start": 1.919
+      },
+      {
+        "word": "on",
+        "start": 2.079
+      },
+      {
+        "word": "the",
+        "start": 2.2
+      },
+      {
+        "word": "right",
+        "start": 2.339
+      },
+      {
+        "word": "the",
+        "start": 2.819
+      },
+      {
+        "word": "score",
+        "start": 2.96
+      },
+      {
+        "word": "rise",
+        "start": 3.879
+      },
+      {
+        "word": "checks",
+        "start": 4.259
+      },
+      {
+        "word": "the",
+        "start": 4.579
+      },
+      {
+        "word": "structure",
+        "start": 4.719
+      },
+      {
+        "word": "the",
+        "start": 5.339
+      },
+      {
+        "word": "links",
+        "start": 5.539
+      },
+      {
+        "word": "the",
+        "start": 5.859
+      },
+      {
+        "word": "keywords",
+        "start": 6
+      },
+      {
+        "word": "so",
+        "start": 6.799
+      },
+      {
+        "word": "you",
+        "start": 7.019
+      },
+      {
+        "word": "don't",
+        "start": 7.139
+      },
+      {
+        "word": "need",
+        "start": 7.319
+      },
+      {
+        "word": "to",
+        "start": 7.48
+      },
+      {
+        "word": "know",
+        "start": 7.619
+      },
+      {
+        "word": "seo",
+        "start": 7.94
+      },
+      {
+        "word": "to",
+        "start": 8.319
+      },
+      {
+        "word": "judge",
+        "start": 8.46
+      },
+      {
+        "word": "an",
+        "start": 8.659
+      },
+      {
+        "word": "article",
+        "start": 8.779
+      }
+    ]
+  },
+  "10-edit": {
+    "text": "Or edit it yourself",
+    "words": [
+      {
+        "word": "or",
+        "start": 0.059
+      },
+      {
+        "word": "edit",
+        "start": 0.419
+      },
+      {
+        "word": "it",
+        "start": 0.659
+      },
+      {
+        "word": "yourself",
+        "start": 0.779
+      }
+    ]
+  },
+  "11-editor": {
+    "text": "Everything here is yours to change. The address, the meta tags Google reads, the day it goes out",
+    "words": [
+      {
+        "word": "everything",
+        "start": 0.079
+      },
+      {
+        "word": "here",
+        "start": 0.619
+      },
+      {
+        "word": "is",
+        "start": 0.919
+      },
+      {
+        "word": "yours",
+        "start": 1.1
+      },
+      {
+        "word": "to",
+        "start": 1.419
+      },
+      {
+        "word": "change",
+        "start": 1.579
+      },
+      {
+        "word": "the",
+        "start": 2.299
+      },
+      {
+        "word": "address",
+        "start": 2.5
+      },
+      {
+        "word": "the",
+        "start": 3.099
+      },
+      {
+        "word": "meta",
+        "start": 3.199
+      },
+      {
+        "word": "tags",
+        "start": 3.46
+      },
+      {
+        "word": "google",
+        "start": 3.839
+      },
+      {
+        "word": "reads",
+        "start": 4.159
+      },
+      {
+        "word": "the",
+        "start": 4.699
+      },
+      {
+        "word": "day",
+        "start": 4.839
+      },
+      {
+        "word": "it",
+        "start": 4.98
+      },
+      {
+        "word": "goes",
+        "start": 5.119
+      },
+      {
+        "word": "out",
+        "start": 5.4
+      }
+    ]
+  },
+  "12-image": {
+    "text": "Even the picture. One click, a new one",
+    "words": [
+      {
+        "word": "even",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.36
+      },
+      {
+        "word": "picture",
+        "start": 0.5
+      },
+      {
+        "word": "one",
+        "start": 1.36
+      },
+      {
+        "word": "click",
+        "start": 1.579
+      },
+      {
+        "word": "a",
+        "start": 2.139
+      },
+      {
+        "word": "new",
+        "start": 2.18
+      },
+      {
+        "word": "one",
+        "start": 2.399
+      }
+    ]
+  },
+  "13-save": {
+    "text": "Save and step back to the article",
+    "words": [
+      {
+        "word": "save",
+        "start": 0.099
+      },
+      {
+        "word": "and",
+        "start": 0.579
+      },
+      {
+        "word": "step",
+        "start": 0.779
+      },
+      {
+        "word": "back",
+        "start": 0.999
+      },
+      {
+        "word": "to",
+        "start": 1.199
+      },
+      {
+        "word": "the",
+        "start": 1.319
+      },
+      {
+        "word": "article",
+        "start": 1.439
+      }
+    ]
+  },
+  "14-publish": {
+    "text": "Happy with it? Publish. A few minutes later, it's live on your site",
+    "words": [
+      {
+        "word": "happy",
+        "start": 0.119
+      },
+      {
+        "word": "with",
+        "start": 0.419
+      },
+      {
+        "word": "it",
+        "start": 0.599
+      },
+      {
+        "word": "publish",
+        "start": 1.039
+      },
+      {
+        "word": "a",
+        "start": 2.079
+      },
+      {
+        "word": "few",
+        "start": 2.24
+      },
+      {
+        "word": "minutes",
+        "start": 2.399
+      },
+      {
+        "word": "later",
+        "start": 2.72
+      },
+      {
+        "word": "it's",
+        "start": 3.079
+      },
+      {
+        "word": "live",
+        "start": 3.359
+      },
+      {
+        "word": "on",
+        "start": 3.679
+      },
+      {
+        "word": "your",
+        "start": 3.839
+      },
+      {
+        "word": "site",
+        "start": 4.019
+      }
+    ]
+  },
+  "15-auto": {
+    "text": "And here's the real point. You don't have to publish by hand at all. In settings, switch publishing to automatic. From then on, every article goes live on its scheduled day, about five a day",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "here's",
+        "start": 0.28
+      },
+      {
+        "word": "the",
+        "start": 0.56
+      },
+      {
+        "word": "real",
+        "start": 0.659
+      },
+      {
+        "word": "point",
+        "start": 0.919
+      },
+      {
+        "word": "you",
+        "start": 1.5
+      },
+      {
+        "word": "don't",
+        "start": 1.639
+      },
+      {
+        "word": "have",
+        "start": 1.919
+      },
+      {
+        "word": "to",
+        "start": 2.059
+      },
+      {
+        "word": "publish",
+        "start": 2.2
+      },
+      {
+        "word": "by",
+        "start": 2.599
+      },
+      {
+        "word": "hand",
+        "start": 2.759
+      },
+      {
+        "word": "at",
+        "start": 3.119
+      },
+      {
+        "word": "all",
+        "start": 3.279
+      },
+      {
+        "word": "in",
+        "start": 3.959
+      },
+      {
+        "word": "settings",
+        "start": 4.199
+      },
+      {
+        "word": "switch",
+        "start": 4.859
+      },
+      {
+        "word": "publishing",
+        "start": 5.179
+      },
+      {
+        "word": "to",
+        "start": 5.659
+      },
+      {
+        "word": "automatic",
+        "start": 5.799
+      },
+      {
+        "word": "from",
+        "start": 6.699
+      },
+      {
+        "word": "then",
+        "start": 6.899
+      },
+      {
+        "word": "on",
+        "start": 7.139
+      },
+      {
+        "word": "every",
+        "start": 7.579
+      },
+      {
+        "word": "article",
+        "start": 7.919
+      },
+      {
+        "word": "goes",
+        "start": 8.3
+      },
+      {
+        "word": "live",
+        "start": 8.539
+      },
+      {
+        "word": "on",
+        "start": 8.84
+      },
+      {
+        "word": "its",
+        "start": 8.94
+      },
+      {
+        "word": "scheduled",
+        "start": 9.119
+      },
+      {
+        "word": "day",
+        "start": 9.539
+      },
+      {
+        "word": "about",
+        "start": 10.039
+      },
+      {
+        "word": "five",
+        "start": 10.34
+      },
+      {
+        "word": "a",
+        "start": 10.559
+      },
+      {
+        "word": "day",
+        "start": 10.659
+      }
+    ]
+  },
+  "16-provider": {
+    "text": "Moved your site? Change where articles go right here, and new articles follow. Already",
+    "words": [
+      {
+        "word": "moved",
+        "start": 0.099
+      },
+      {
+        "word": "your",
+        "start": 0.399
+      },
+      {
+        "word": "site",
+        "start": 0.579
+      },
+      {
+        "word": "change",
+        "start": 1.259
+      },
+      {
+        "word": "where",
+        "start": 1.599
+      },
+      {
+        "word": "articles",
+        "start": 1.759
+      },
+      {
+        "word": "go",
+        "start": 2.259
+      },
+      {
+        "word": "right",
+        "start": 2.599
+      },
+      {
+        "word": "here",
+        "start": 2.859
+      },
+      {
+        "word": "and",
+        "start": 3.339
+      },
+      {
+        "word": "new",
+        "start": 3.559
+      },
+      {
+        "word": "articles",
+        "start": 3.74
+      },
+      {
+        "word": "follow",
+        "start": 4.199
+      },
+      {
+        "word": "already",
+        "start": 4.96
+      }
+    ]
+  },
+  "17-republish": {
+    "text": "Published articles can move too. Republish, push it again, or send it to the new platform, and Rise removes the old copy for you",
+    "words": [
+      {
+        "word": "published",
+        "start": 0.099
+      },
+      {
+        "word": "articles",
+        "start": 0.5
+      },
+      {
+        "word": "can",
+        "start": 0.959
+      },
+      {
+        "word": "move",
+        "start": 1.139
+      },
+      {
+        "word": "too",
+        "start": 1.439
+      },
+      {
+        "word": "republish",
+        "start": 2.259
+      },
+      {
+        "word": "push",
+        "start": 3.159
+      },
+      {
+        "word": "it",
+        "start": 3.379
+      },
+      {
+        "word": "again",
+        "start": 3.539
+      },
+      {
+        "word": "or",
+        "start": 3.959
+      },
+      {
+        "word": "send",
+        "start": 4.139
+      },
+      {
+        "word": "it",
+        "start": 4.339
+      },
+      {
+        "word": "to",
+        "start": 4.44
+      },
+      {
+        "word": "the",
+        "start": 4.579
+      },
+      {
+        "word": "new",
+        "start": 4.719
+      },
+      {
+        "word": "platform",
+        "start": 4.9
+      },
+      {
+        "word": "and",
+        "start": 5.639
+      },
+      {
+        "word": "rise",
+        "start": 5.819
+      },
+      {
+        "word": "removes",
+        "start": 6.179
+      },
+      {
+        "word": "the",
+        "start": 6.639
+      },
+      {
+        "word": "old",
+        "start": 6.759
+      },
+      {
+        "word": "copy",
+        "start": 6.96
+      },
+      {
+        "word": "for",
+        "start": 7.359
+      },
+      {
+        "word": "you",
+        "start": 7.579
+      }
+    ]
+  },
+  "18-close": {
+    "text": "So connect once, review the drafts you care about, and let the rest publish itself. That's a blog that fills itself",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "connect",
+        "start": 0.519
+      },
+      {
+        "word": "once",
+        "start": 1.039
+      },
+      {
+        "word": "review",
+        "start": 1.5
+      },
+      {
+        "word": "the",
+        "start": 1.86
+      },
+      {
+        "word": "drafts",
+        "start": 1.959
+      },
+      {
+        "word": "you",
+        "start": 2.279
+      },
+      {
+        "word": "care",
+        "start": 2.419
+      },
+      {
+        "word": "about",
+        "start": 2.639
+      },
+      {
+        "word": "and",
+        "start": 3.059
+      },
+      {
+        "word": "let",
+        "start": 3.199
+      },
+      {
+        "word": "the",
+        "start": 3.339
+      },
+      {
+        "word": "rest",
+        "start": 3.48
+      },
+      {
+        "word": "publish",
+        "start": 3.799
+      },
+      {
+        "word": "itself",
+        "start": 4.159
+      },
+      {
+        "word": "that's",
+        "start": 5.299
+      },
+      {
+        "word": "a",
+        "start": 5.599
+      },
+      {
+        "word": "blog",
+        "start": 5.619
+      },
+      {
+        "word": "that",
+        "start": 6.039
+      },
+      {
+        "word": "fills",
+        "start": 6.239
+      },
+      {
+        "word": "itself",
+        "start": 6.48
+      }
+    ]
+  },
+  "04b-autowrite": {
+    "text": "And you don't have to touch them. On its scheduled day, each planned topic writes itself and turns into a draft. If automatic publishing is on, it goes live that same day. If not, it simply waits in Drafted for your review",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "you",
+        "start": 0.3
+      },
+      {
+        "word": "don't",
+        "start": 0.419
+      },
+      {
+        "word": "have",
+        "start": 0.62
+      },
+      {
+        "word": "to",
+        "start": 0.779
+      },
+      {
+        "word": "touch",
+        "start": 0.899
+      },
+      {
+        "word": "them",
+        "start": 1.199
+      },
+      {
+        "word": "on",
+        "start": 1.799
+      },
+      {
+        "word": "its",
+        "start": 1.919
+      },
+      {
+        "word": "scheduled",
+        "start": 2.139
+      },
+      {
+        "word": "day",
+        "start": 2.559
+      },
+      {
+        "word": "each",
+        "start": 3.079
+      },
+      {
+        "word": "planned",
+        "start": 3.439
+      },
+      {
+        "word": "topic",
+        "start": 3.859
+      },
+      {
+        "word": "writes",
+        "start": 4.279
+      },
+      {
+        "word": "itself",
+        "start": 4.539
+      },
+      {
+        "word": "and",
+        "start": 5.079
+      },
+      {
+        "word": "turns",
+        "start": 5.239
+      },
+      {
+        "word": "into",
+        "start": 5.5
+      },
+      {
+        "word": "a",
+        "start": 5.779
+      },
+      {
+        "word": "draft",
+        "start": 5.819
+      },
+      {
+        "word": "if",
+        "start": 6.559
+      },
+      {
+        "word": "automatic",
+        "start": 6.779
+      },
+      {
+        "word": "publishing",
+        "start": 7.239
+      },
+      {
+        "word": "is",
+        "start": 7.699
+      },
+      {
+        "word": "on",
+        "start": 7.899
+      },
+      {
+        "word": "it",
+        "start": 8.3
+      },
+      {
+        "word": "goes",
+        "start": 8.439
+      },
+      {
+        "word": "live",
+        "start": 8.639
+      },
+      {
+        "word": "that",
+        "start": 8.939
+      },
+      {
+        "word": "same",
+        "start": 9.139
+      },
+      {
+        "word": "day",
+        "start": 9.399
+      },
+      {
+        "word": "if",
+        "start": 10
+      },
+      {
+        "word": "not",
+        "start": 10.219
+      },
+      {
+        "word": "it",
+        "start": 10.679
+      },
+      {
+        "word": "simply",
+        "start": 10.88
+      },
+      {
+        "word": "waits",
+        "start": 11.199
+      },
+      {
+        "word": "in",
+        "start": 11.519
+      },
+      {
+        "word": "drafted",
+        "start": 11.679
+      },
+      {
+        "word": "for",
+        "start": 12.259
+      },
+      {
+        "word": "your",
+        "start": 12.42
+      },
+      {
+        "word": "review",
+        "start": 12.539
+      }
+    ]
+  },
+  "04c-generate": {
+    "text": "Don't wanna wait? Open any planned topic and hit Generate now. Rise starts writing it right away",
+    "words": [
+      {
+        "word": "don't",
+        "start": 0.119
+      },
+      {
+        "word": "wanna",
+        "start": 0.319
+      },
+      {
+        "word": "wait",
+        "start": 0.519
+      },
+      {
+        "word": "open",
+        "start": 1.179
+      },
+      {
+        "word": "any",
+        "start": 1.639
+      },
+      {
+        "word": "planned",
+        "start": 1.899
+      },
+      {
+        "word": "topic",
+        "start": 2.299
+      },
+      {
+        "word": "and",
+        "start": 2.74
+      },
+      {
+        "word": "hit",
+        "start": 2.899
+      },
+      {
+        "word": "generate",
+        "start": 3.279
+      },
+      {
+        "word": "now",
+        "start": 3.819
+      },
+      {
+        "word": "rise",
+        "start": 4.559
+      },
+      {
+        "word": "starts",
+        "start": 4.859
+      },
+      {
+        "word": "writing",
+        "start": 5.159
+      },
+      {
+        "word": "it",
+        "start": 5.46
+      },
+      {
+        "word": "right",
+        "start": 5.659
+      },
+      {
+        "word": "away",
+        "start": 5.859
+      }
+    ]
+  }
+}

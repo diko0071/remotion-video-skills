@@ -1,0 +1,46 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "Articles in Ryze write themselves. Here's how to make every one of them yours."
+    },
+    {
+      "key": "01-article",
+      "text": "Every article starts from a real keyword. Open one from the plan — the body is fully written, structured with a summary and an FAQ, and scored against checks like internal links, alt texts and meta tags. Until it publishes, everything is editable. Hit Edit."
+    },
+    {
+      "key": "02-edit",
+      "text": "Title, slug, meta title and description, even the publish date — change anything right here in the editor."
+    },
+    {
+      "key": "03-image",
+      "text": "Now the image. Hit Regenerate and describe what you want — say, darker tones and the product outdoors — and the AI reworks the picture following your direction. Or hit Replace and upload your own."
+    },
+    {
+      "key": "04-products",
+      "text": "You can also drop your products straight into the article. Type slash, pick the Products block, then search your store. Grab a couple, add them — and real product cards, with prices, sit right inside the text."
+    },
+    {
+      "key": "05-faq",
+      "text": "Same idea for questions. Add an FAQ block and write your own question and answer. Ryze already generates an FAQ for every article, tuned for voice search — but what you write always wins."
+    },
+    {
+      "key": "05c-agent",
+      "text": "But you don't have to do any of this by hand — you can always ask the assistant. Open the agent from the top bar. Now click into the message box, and tell it exactly what you want: make the intro punchier, and add how much wax tunnelling actually wastes. It reads the article, rewrites it, and the change lands straight in your draft."
+    },
+    {
+      "key": "06-settings",
+      "text": "Now the global level. Open Settings — the Content tab holds it all. The article language and target market. Article length, from quick reads to deep guides. Tone of voice. And custom writing instructions — type a rule once, and the writer follows it in every single article. You can even add example posts for it to mimic."
+    },
+    {
+      "key": "07-visuals",
+      "text": "Then the pictures. Pick a style — photo realistic, illustration, sketch, watercolor. Or make it truly yours. Choose Your style, and that opens your reference library. Upload a few photos of your own product, as many as you like. Then save — and every image from now on comes out looking like your brand."
+    },
+    {
+      "key": "08-close",
+      "text": "That's it. Your products, your voice, your style — in every article the machine writes. And if one needs work, hit Improve This Article, and the agent fixes it with you."
+    }
+  ]
+}

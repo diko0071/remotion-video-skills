@@ -1,0 +1,50 @@
+{
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "Here's how to set up SEO in Ryze — from an empty workspace to articles publishing themselves."
+    },
+    {
+      "key": "01-integrations",
+      "text": "Start with your data. On the Integrations page, connect Google Search Console — that's where your keywords and rankings come from. Then connect Google Analytics, so we see traffic and conversions. And one more thing — your publishing platform. Open Commerce: Shopify, WordPress, Wix, Webflow, Framer — any platform works. Here it's Shopify, so we connect that. That's where your articles will be published."
+    },
+    {
+      "key": "02-runsetup",
+      "text": "Now head to Queries. It's empty — everything in Ryze builds on setup. So hit Run setup."
+    },
+    {
+      "key": "03-keywords",
+      "text": "The agent pulls your Search Console data and researches what your customers actually type. Give it a minute. And here they are. Notice there are just five — that's on purpose. We don't chase hundreds of keywords: each month we focus on five active ones, the five we know we can actually move you up on."
+    },
+    {
+      "key": "03b-prompts",
+      "text": "Prompts start too. These are the questions your buyers ask AI assistants — and we track how often the answers mention you."
+    },
+    {
+      "key": "04-articles",
+      "text": "Next, articles. Open the Content Plan — it's already full. Every article is written around those keywords, and they publish five a day: fast enough to grow, and a pace Google is completely comfortable with."
+    },
+    {
+      "key": "05-mentions",
+      "text": "Check Mentions too. Press releases and guest posts are already being prepared and placed for you — and backlinks land here through the month as the network does its work."
+    },
+    {
+      "key": "05b-audit",
+      "text": "Setup runs a site scan as well. Open Technical Audit — every issue on your site is already found and listed, ready to fix."
+    },
+    {
+      "key": "06-dashboard",
+      "text": "And the Dashboard is live — search performance, positions and backlinks. There's a GEO tab too — that's your visibility inside AI answers."
+    },
+    {
+      "key": "07-published",
+      "text": "Now give it a day and come back to the plan. Refresh — and look at that: five articles are already published, live on your site."
+    },
+    {
+      "key": "08-close",
+      "text": "That's the whole setup. Connect your data, pick your platform — Shopify, WordPress, or anything else — hit Run setup once, and from here everything ships itself."
+    }
+  ],
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3"
+}

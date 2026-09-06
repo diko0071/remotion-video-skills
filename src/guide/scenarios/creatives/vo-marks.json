@@ -1,0 +1,1229 @@
+{
+  "00-title": {
+    "text": "Ad creatives in Rise made by Asking.",
+    "words": [
+      {
+        "word": "ad",
+        "start": 0.079
+      },
+      {
+        "word": "creatives",
+        "start": 0.359
+      },
+      {
+        "word": "in",
+        "start": 0.839
+      },
+      {
+        "word": "rise",
+        "start": 1
+      },
+      {
+        "word": "made",
+        "start": 1.959
+      },
+      {
+        "word": "by",
+        "start": 2.299
+      },
+      {
+        "word": "asking",
+        "start": 2.519
+      }
+    ]
+  },
+  "01-library": {
+    "text": "This is your ad creatives library. Every ad in here was generated for your brand. To make new ones, hit Generate Creative",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.099
+      },
+      {
+        "word": "is",
+        "start": 0.359
+      },
+      {
+        "word": "your",
+        "start": 0.519
+      },
+      {
+        "word": "ad",
+        "start": 0.699
+      },
+      {
+        "word": "creatives",
+        "start": 0.919
+      },
+      {
+        "word": "library",
+        "start": 1.36
+      },
+      {
+        "word": "every",
+        "start": 2.319
+      },
+      {
+        "word": "ad",
+        "start": 2.659
+      },
+      {
+        "word": "in",
+        "start": 2.799
+      },
+      {
+        "word": "here",
+        "start": 2.96
+      },
+      {
+        "word": "was",
+        "start": 3.199
+      },
+      {
+        "word": "generated",
+        "start": 3.359
+      },
+      {
+        "word": "for",
+        "start": 3.859
+      },
+      {
+        "word": "your",
+        "start": 4.079
+      },
+      {
+        "word": "brand",
+        "start": 4.339
+      },
+      {
+        "word": "to",
+        "start": 5.299
+      },
+      {
+        "word": "make",
+        "start": 5.44
+      },
+      {
+        "word": "new",
+        "start": 5.659
+      },
+      {
+        "word": "ones",
+        "start": 5.839
+      },
+      {
+        "word": "hit",
+        "start": 6.279
+      },
+      {
+        "word": "generate",
+        "start": 6.519
+      },
+      {
+        "word": "creative",
+        "start": 6.98
+      }
+    ]
+  },
+  "02-seeded": {
+    "text": "The agent opens on the right and your request is already sent. It reads your brand and comes back with a question",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.099
+      },
+      {
+        "word": "agent",
+        "start": 0.299
+      },
+      {
+        "word": "opens",
+        "start": 0.68
+      },
+      {
+        "word": "on",
+        "start": 0.979
+      },
+      {
+        "word": "the",
+        "start": 1.079
+      },
+      {
+        "word": "right",
+        "start": 1.199
+      },
+      {
+        "word": "and",
+        "start": 1.599
+      },
+      {
+        "word": "your",
+        "start": 1.74
+      },
+      {
+        "word": "request",
+        "start": 1.86
+      },
+      {
+        "word": "is",
+        "start": 2.339
+      },
+      {
+        "word": "already",
+        "start": 2.559
+      },
+      {
+        "word": "sent",
+        "start": 2.919
+      },
+      {
+        "word": "it",
+        "start": 3.619
+      },
+      {
+        "word": "reads",
+        "start": 3.799
+      },
+      {
+        "word": "your",
+        "start": 4.059
+      },
+      {
+        "word": "brand",
+        "start": 4.179
+      },
+      {
+        "word": "and",
+        "start": 4.599
+      },
+      {
+        "word": "comes",
+        "start": 4.739
+      },
+      {
+        "word": "back",
+        "start": 5.019
+      },
+      {
+        "word": "with",
+        "start": 5.159
+      },
+      {
+        "word": "a",
+        "start": 5.279
+      },
+      {
+        "word": "question",
+        "start": 5.38
+      }
+    ]
+  },
+  "03-ask": {
+    "text": "So you answer it in plain words. And you can hand it your own product photos. Open the plus menu, upload from your computer, then send",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "you",
+        "start": 0.259
+      },
+      {
+        "word": "answer",
+        "start": 0.4
+      },
+      {
+        "word": "it",
+        "start": 0.779
+      },
+      {
+        "word": "in",
+        "start": 0.939
+      },
+      {
+        "word": "plain",
+        "start": 1.139
+      },
+      {
+        "word": "words",
+        "start": 1.48
+      },
+      {
+        "word": "and",
+        "start": 2.399
+      },
+      {
+        "word": "you",
+        "start": 2.559
+      },
+      {
+        "word": "can",
+        "start": 2.659
+      },
+      {
+        "word": "hand",
+        "start": 2.819
+      },
+      {
+        "word": "it",
+        "start": 3.039
+      },
+      {
+        "word": "your",
+        "start": 3.179
+      },
+      {
+        "word": "own",
+        "start": 3.379
+      },
+      {
+        "word": "product",
+        "start": 3.599
+      },
+      {
+        "word": "photos",
+        "start": 4
+      },
+      {
+        "word": "open",
+        "start": 4.719
+      },
+      {
+        "word": "the",
+        "start": 4.92
+      },
+      {
+        "word": "plus",
+        "start": 5.059
+      },
+      {
+        "word": "menu",
+        "start": 5.319
+      },
+      {
+        "word": "upload",
+        "start": 5.9
+      },
+      {
+        "word": "from",
+        "start": 6.239
+      },
+      {
+        "word": "your",
+        "start": 6.42
+      },
+      {
+        "word": "computer",
+        "start": 6.559
+      },
+      {
+        "word": "then",
+        "start": 7.359
+      },
+      {
+        "word": "send",
+        "start": 7.619
+      }
+    ]
+  },
+  "04-generated": {
+    "text": "A couple of minutes later, the ads land in the chat. Hit expand to open the same conversation full width. Four on-brand cuts, all saved to your library",
+    "words": [
+      {
+        "word": "a",
+        "start": 0.099
+      },
+      {
+        "word": "couple",
+        "start": 0.28
+      },
+      {
+        "word": "of",
+        "start": 0.479
+      },
+      {
+        "word": "minutes",
+        "start": 0.62
+      },
+      {
+        "word": "later",
+        "start": 0.959
+      },
+      {
+        "word": "the",
+        "start": 1.319
+      },
+      {
+        "word": "ads",
+        "start": 1.539
+      },
+      {
+        "word": "land",
+        "start": 1.86
+      },
+      {
+        "word": "in",
+        "start": 2.079
+      },
+      {
+        "word": "the",
+        "start": 2.159
+      },
+      {
+        "word": "chat",
+        "start": 2.299
+      },
+      {
+        "word": "hit",
+        "start": 3.059
+      },
+      {
+        "word": "expand",
+        "start": 3.259
+      },
+      {
+        "word": "to",
+        "start": 3.899
+      },
+      {
+        "word": "open",
+        "start": 4.019
+      },
+      {
+        "word": "the",
+        "start": 4.259
+      },
+      {
+        "word": "same",
+        "start": 4.4
+      },
+      {
+        "word": "conversation",
+        "start": 4.679
+      },
+      {
+        "word": "full",
+        "start": 5.5
+      },
+      {
+        "word": "width",
+        "start": 5.699
+      },
+      {
+        "word": "four",
+        "start": 6.46
+      },
+      {
+        "word": "onbrand",
+        "start": 6.859
+      },
+      {
+        "word": "cuts",
+        "start": 7.379
+      },
+      {
+        "word": "all",
+        "start": 7.94
+      },
+      {
+        "word": "saved",
+        "start": 8.179
+      },
+      {
+        "word": "to",
+        "start": 8.439
+      },
+      {
+        "word": "your",
+        "start": 8.519
+      },
+      {
+        "word": "library",
+        "start": 8.659
+      }
+    ]
+  },
+  "05-annotate": {
+    "text": "Now the part almost nobody knows. Hover any ad and hit the brush. Tap the exact spot you want changed, and a box opens right there. Type what you want. Tap a second spot. Write another note",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.119
+      },
+      {
+        "word": "the",
+        "start": 0.28
+      },
+      {
+        "word": "part",
+        "start": 0.439
+      },
+      {
+        "word": "almost",
+        "start": 0.799
+      },
+      {
+        "word": "nobody",
+        "start": 1.199
+      },
+      {
+        "word": "knows",
+        "start": 1.599
+      },
+      {
+        "word": "hover",
+        "start": 2.359
+      },
+      {
+        "word": "any",
+        "start": 2.759
+      },
+      {
+        "word": "ad",
+        "start": 3.079
+      },
+      {
+        "word": "and",
+        "start": 3.319
+      },
+      {
+        "word": "hit",
+        "start": 3.48
+      },
+      {
+        "word": "the",
+        "start": 3.659
+      },
+      {
+        "word": "brush",
+        "start": 3.74
+      },
+      {
+        "word": "tap",
+        "start": 4.579
+      },
+      {
+        "word": "the",
+        "start": 4.859
+      },
+      {
+        "word": "exact",
+        "start": 5.099
+      },
+      {
+        "word": "spot",
+        "start": 5.5
+      },
+      {
+        "word": "you",
+        "start": 5.759
+      },
+      {
+        "word": "want",
+        "start": 5.94
+      },
+      {
+        "word": "changed",
+        "start": 6.119
+      },
+      {
+        "word": "and",
+        "start": 6.699
+      },
+      {
+        "word": "a",
+        "start": 6.819
+      },
+      {
+        "word": "box",
+        "start": 6.92
+      },
+      {
+        "word": "opens",
+        "start": 7.279
+      },
+      {
+        "word": "right",
+        "start": 7.639
+      },
+      {
+        "word": "there",
+        "start": 7.879
+      },
+      {
+        "word": "type",
+        "start": 8.599
+      },
+      {
+        "word": "what",
+        "start": 8.84
+      },
+      {
+        "word": "you",
+        "start": 8.96
+      },
+      {
+        "word": "want",
+        "start": 9.179
+      },
+      {
+        "word": "tap",
+        "start": 9.92
+      },
+      {
+        "word": "a",
+        "start": 10.159
+      },
+      {
+        "word": "second",
+        "start": 10.239
+      },
+      {
+        "word": "spot",
+        "start": 10.539
+      },
+      {
+        "word": "write",
+        "start": 11.019
+      },
+      {
+        "word": "another",
+        "start": 11.199
+      },
+      {
+        "word": "note",
+        "start": 11.559
+      }
+    ]
+  },
+  "06-send": {
+    "text": "Then send. The agent gets your marked up image with every comment and rebuilds that exact ad. Headline bigger, jar swapped, everything else untouched",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.099
+      },
+      {
+        "word": "send",
+        "start": 0.539
+      },
+      {
+        "word": "the",
+        "start": 1.799
+      },
+      {
+        "word": "agent",
+        "start": 1.919
+      },
+      {
+        "word": "gets",
+        "start": 2.259
+      },
+      {
+        "word": "your",
+        "start": 2.46
+      },
+      {
+        "word": "marked",
+        "start": 2.619
+      },
+      {
+        "word": "up",
+        "start": 2.859
+      },
+      {
+        "word": "image",
+        "start": 3.039
+      },
+      {
+        "word": "with",
+        "start": 3.319
+      },
+      {
+        "word": "every",
+        "start": 3.559
+      },
+      {
+        "word": "comment",
+        "start": 3.839
+      },
+      {
+        "word": "and",
+        "start": 4.36
+      },
+      {
+        "word": "rebuilds",
+        "start": 4.559
+      },
+      {
+        "word": "that",
+        "start": 5.039
+      },
+      {
+        "word": "exact",
+        "start": 5.159
+      },
+      {
+        "word": "ad",
+        "start": 5.699
+      },
+      {
+        "word": "headline",
+        "start": 6.379
+      },
+      {
+        "word": "bigger",
+        "start": 6.819
+      },
+      {
+        "word": "jar",
+        "start": 7.399
+      },
+      {
+        "word": "swapped",
+        "start": 7.679
+      },
+      {
+        "word": "everything",
+        "start": 8.239
+      },
+      {
+        "word": "else",
+        "start": 8.639
+      },
+      {
+        "word": "untouched",
+        "start": 8.859
+      }
+    ]
+  },
+  "07-text": {
+    "text": "And you don't have to point at all. Plain words work the same way. Ask for a warmer set and it comes back changed",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "you",
+        "start": 0.219
+      },
+      {
+        "word": "don't",
+        "start": 0.319
+      },
+      {
+        "word": "have",
+        "start": 0.539
+      },
+      {
+        "word": "to",
+        "start": 0.68
+      },
+      {
+        "word": "point",
+        "start": 0.819
+      },
+      {
+        "word": "at",
+        "start": 1.12
+      },
+      {
+        "word": "all",
+        "start": 1.319
+      },
+      {
+        "word": "plain",
+        "start": 1.879
+      },
+      {
+        "word": "words",
+        "start": 2.18
+      },
+      {
+        "word": "work",
+        "start": 2.519
+      },
+      {
+        "word": "the",
+        "start": 2.74
+      },
+      {
+        "word": "same",
+        "start": 2.899
+      },
+      {
+        "word": "way",
+        "start": 3.179
+      },
+      {
+        "word": "ask",
+        "start": 3.899
+      },
+      {
+        "word": "for",
+        "start": 4.179
+      },
+      {
+        "word": "a",
+        "start": 4.299
+      },
+      {
+        "word": "warmer",
+        "start": 4.42
+      },
+      {
+        "word": "set",
+        "start": 4.739
+      },
+      {
+        "word": "and",
+        "start": 5.179
+      },
+      {
+        "word": "it",
+        "start": 5.279
+      },
+      {
+        "word": "comes",
+        "start": 5.42
+      },
+      {
+        "word": "back",
+        "start": 5.699
+      },
+      {
+        "word": "changed",
+        "start": 5.98
+      }
+    ]
+  },
+  "08-templates": {
+    "text": "You never start from a blank page either. Ad Templates is a wall of real ads from winning brands. Pick a couple you love, hit Use as Reference, and the agent remakes them for your brand",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.199
+      },
+      {
+        "word": "never",
+        "start": 0.399
+      },
+      {
+        "word": "start",
+        "start": 0.699
+      },
+      {
+        "word": "from",
+        "start": 1.019
+      },
+      {
+        "word": "a",
+        "start": 1.199
+      },
+      {
+        "word": "blank",
+        "start": 1.24
+      },
+      {
+        "word": "page",
+        "start": 1.579
+      },
+      {
+        "word": "either",
+        "start": 1.899
+      },
+      {
+        "word": "ad",
+        "start": 2.98
+      },
+      {
+        "word": "templates",
+        "start": 3.22
+      },
+      {
+        "word": "is",
+        "start": 3.799
+      },
+      {
+        "word": "a",
+        "start": 4
+      },
+      {
+        "word": "wall",
+        "start": 4.039
+      },
+      {
+        "word": "of",
+        "start": 4.299
+      },
+      {
+        "word": "real",
+        "start": 4.519
+      },
+      {
+        "word": "ads",
+        "start": 4.839
+      },
+      {
+        "word": "from",
+        "start": 5.079
+      },
+      {
+        "word": "winning",
+        "start": 5.259
+      },
+      {
+        "word": "brands",
+        "start": 5.559
+      },
+      {
+        "word": "pick",
+        "start": 6.519
+      },
+      {
+        "word": "a",
+        "start": 6.719
+      },
+      {
+        "word": "couple",
+        "start": 6.759
+      },
+      {
+        "word": "you",
+        "start": 7.059
+      },
+      {
+        "word": "love",
+        "start": 7.279
+      },
+      {
+        "word": "hit",
+        "start": 7.739
+      },
+      {
+        "word": "use",
+        "start": 8.139
+      },
+      {
+        "word": "as",
+        "start": 8.319
+      },
+      {
+        "word": "reference",
+        "start": 8.479
+      },
+      {
+        "word": "and",
+        "start": 9.38
+      },
+      {
+        "word": "the",
+        "start": 9.539
+      },
+      {
+        "word": "agent",
+        "start": 9.719
+      },
+      {
+        "word": "remakes",
+        "start": 10.099
+      },
+      {
+        "word": "them",
+        "start": 10.539
+      },
+      {
+        "word": "for",
+        "start": 10.76
+      },
+      {
+        "word": "your",
+        "start": 10.92
+      },
+      {
+        "word": "brand",
+        "start": 11.079
+      }
+    ]
+  },
+  "10-close": {
+    "text": "That's the whole loop. Ask in plain words, point at what you want changed, and everything you make lands back in your library ready to launch",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.219
+      },
+      {
+        "word": "the",
+        "start": 0.519
+      },
+      {
+        "word": "whole",
+        "start": 0.68
+      },
+      {
+        "word": "loop",
+        "start": 1
+      },
+      {
+        "word": "ask",
+        "start": 1.879
+      },
+      {
+        "word": "in",
+        "start": 2.18
+      },
+      {
+        "word": "plain",
+        "start": 2.319
+      },
+      {
+        "word": "words",
+        "start": 2.659
+      },
+      {
+        "word": "point",
+        "start": 3.48
+      },
+      {
+        "word": "at",
+        "start": 3.799
+      },
+      {
+        "word": "what",
+        "start": 3.939
+      },
+      {
+        "word": "you",
+        "start": 4.099
+      },
+      {
+        "word": "want",
+        "start": 4.239
+      },
+      {
+        "word": "changed",
+        "start": 4.48
+      },
+      {
+        "word": "and",
+        "start": 5.4
+      },
+      {
+        "word": "everything",
+        "start": 5.699
+      },
+      {
+        "word": "you",
+        "start": 6.139
+      },
+      {
+        "word": "make",
+        "start": 6.279
+      },
+      {
+        "word": "lands",
+        "start": 6.639
+      },
+      {
+        "word": "back",
+        "start": 6.98
+      },
+      {
+        "word": "in",
+        "start": 7.199
+      },
+      {
+        "word": "your",
+        "start": 7.299
+      },
+      {
+        "word": "library",
+        "start": 7.46
+      },
+      {
+        "word": "ready",
+        "start": 8.22
+      },
+      {
+        "word": "to",
+        "start": 8.479
+      },
+      {
+        "word": "launch",
+        "start": 8.639
+      }
+    ]
+  },
+  "09-competitors": {
+    "text": "Let's leave it working on those and peek at competitor ads, live ads your rivals are running right now. Open any ad, hit Iterate with AI. A fresh chat picks up the photo and builds your own version in your style",
+    "words": [
+      {
+        "word": "let's",
+        "start": 0.179
+      },
+      {
+        "word": "leave",
+        "start": 0.479
+      },
+      {
+        "word": "it",
+        "start": 0.659
+      },
+      {
+        "word": "working",
+        "start": 0.779
+      },
+      {
+        "word": "on",
+        "start": 1.12
+      },
+      {
+        "word": "those",
+        "start": 1.279
+      },
+      {
+        "word": "and",
+        "start": 1.719
+      },
+      {
+        "word": "peek",
+        "start": 1.879
+      },
+      {
+        "word": "at",
+        "start": 2.159
+      },
+      {
+        "word": "competitor",
+        "start": 2.319
+      },
+      {
+        "word": "ads",
+        "start": 2.879
+      },
+      {
+        "word": "live",
+        "start": 3.639
+      },
+      {
+        "word": "ads",
+        "start": 4.019
+      },
+      {
+        "word": "your",
+        "start": 4.339
+      },
+      {
+        "word": "rivals",
+        "start": 4.5
+      },
+      {
+        "word": "are",
+        "start": 4.92
+      },
+      {
+        "word": "running",
+        "start": 5.099
+      },
+      {
+        "word": "right",
+        "start": 5.519
+      },
+      {
+        "word": "now",
+        "start": 5.779
+      },
+      {
+        "word": "open",
+        "start": 6.639
+      },
+      {
+        "word": "any",
+        "start": 6.94
+      },
+      {
+        "word": "ad",
+        "start": 7.259
+      },
+      {
+        "word": "hit",
+        "start": 7.619
+      },
+      {
+        "word": "iterate",
+        "start": 7.94
+      },
+      {
+        "word": "with",
+        "start": 8.319
+      },
+      {
+        "word": "ai",
+        "start": 8.539
+      },
+      {
+        "word": "a",
+        "start": 9.319
+      },
+      {
+        "word": "fresh",
+        "start": 9.479
+      },
+      {
+        "word": "chat",
+        "start": 9.859
+      },
+      {
+        "word": "picks",
+        "start": 10.179
+      },
+      {
+        "word": "up",
+        "start": 10.38
+      },
+      {
+        "word": "the",
+        "start": 10.5
+      },
+      {
+        "word": "photo",
+        "start": 10.659
+      },
+      {
+        "word": "and",
+        "start": 11.079
+      },
+      {
+        "word": "builds",
+        "start": 11.259
+      },
+      {
+        "word": "your",
+        "start": 11.519
+      },
+      {
+        "word": "own",
+        "start": 11.719
+      },
+      {
+        "word": "version",
+        "start": 11.939
+      },
+      {
+        "word": "in",
+        "start": 12.5
+      },
+      {
+        "word": "your",
+        "start": 12.739
+      },
+      {
+        "word": "style",
+        "start": 13
+      }
+    ]
+  }
+}

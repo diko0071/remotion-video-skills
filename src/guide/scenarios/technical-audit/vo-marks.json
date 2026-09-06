@@ -1,0 +1,959 @@
+{
+  "00-title": {
+    "text": "Your site has problems you can't see. Google sees every one. Here's how the technical audit works",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.119
+      },
+      {
+        "word": "site",
+        "start": 0.379
+      },
+      {
+        "word": "has",
+        "start": 0.719
+      },
+      {
+        "word": "problems",
+        "start": 0.959
+      },
+      {
+        "word": "you",
+        "start": 1.5
+      },
+      {
+        "word": "can't",
+        "start": 1.679
+      },
+      {
+        "word": "see",
+        "start": 2.019
+      },
+      {
+        "word": "google",
+        "start": 2.859
+      },
+      {
+        "word": "sees",
+        "start": 3.5
+      },
+      {
+        "word": "every",
+        "start": 3.839
+      },
+      {
+        "word": "one",
+        "start": 4.299
+      },
+      {
+        "word": "here's",
+        "start": 5.539
+      },
+      {
+        "word": "how",
+        "start": 5.839
+      },
+      {
+        "word": "the",
+        "start": 6.099
+      },
+      {
+        "word": "technical",
+        "start": 6.239
+      },
+      {
+        "word": "audit",
+        "start": 6.779
+      },
+      {
+        "word": "works",
+        "start": 7.119
+      }
+    ]
+  },
+  "01-page": {
+    "text": "This is the technical audit. Rise crawls your site the way Google and ChatGPT do, three hundred pages, dozens of checks, and turns what it finds into one health score",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.079
+      },
+      {
+        "word": "is",
+        "start": 0.399
+      },
+      {
+        "word": "the",
+        "start": 0.56
+      },
+      {
+        "word": "technical",
+        "start": 0.68
+      },
+      {
+        "word": "audit",
+        "start": 1.24
+      },
+      {
+        "word": "rise",
+        "start": 2.22
+      },
+      {
+        "word": "crawls",
+        "start": 2.599
+      },
+      {
+        "word": "your",
+        "start": 2.899
+      },
+      {
+        "word": "site",
+        "start": 3.099
+      },
+      {
+        "word": "the",
+        "start": 3.399
+      },
+      {
+        "word": "way",
+        "start": 3.5
+      },
+      {
+        "word": "google",
+        "start": 3.699
+      },
+      {
+        "word": "and",
+        "start": 4.139
+      },
+      {
+        "word": "chatgpt",
+        "start": 4.36
+      },
+      {
+        "word": "do",
+        "start": 5.239
+      },
+      {
+        "word": "three",
+        "start": 5.879
+      },
+      {
+        "word": "hundred",
+        "start": 6.139
+      },
+      {
+        "word": "pages",
+        "start": 6.46
+      },
+      {
+        "word": "dozens",
+        "start": 7.159
+      },
+      {
+        "word": "of",
+        "start": 7.659
+      },
+      {
+        "word": "checks",
+        "start": 7.819
+      },
+      {
+        "word": "and",
+        "start": 8.72
+      },
+      {
+        "word": "turns",
+        "start": 8.92
+      },
+      {
+        "word": "what",
+        "start": 9.26
+      },
+      {
+        "word": "it",
+        "start": 9.359
+      },
+      {
+        "word": "finds",
+        "start": 9.539
+      },
+      {
+        "word": "into",
+        "start": 9.939
+      },
+      {
+        "word": "one",
+        "start": 10.38
+      },
+      {
+        "word": "health",
+        "start": 10.76
+      },
+      {
+        "word": "score",
+        "start": 11.039
+      }
+    ]
+  },
+  "02-scores": {
+    "text": "Three things feed it. Page speed, how fast real visitors see your pages. LLM optimization, whether AI assistants can read and quote your site. And SEO, the classics, meta tags, links, canonicals",
+    "words": [
+      {
+        "word": "three",
+        "start": 0.099
+      },
+      {
+        "word": "things",
+        "start": 0.419
+      },
+      {
+        "word": "feed",
+        "start": 0.819
+      },
+      {
+        "word": "it",
+        "start": 1.019
+      },
+      {
+        "word": "page",
+        "start": 1.62
+      },
+      {
+        "word": "speed",
+        "start": 1.919
+      },
+      {
+        "word": "how",
+        "start": 2.559
+      },
+      {
+        "word": "fast",
+        "start": 2.799
+      },
+      {
+        "word": "real",
+        "start": 3.22
+      },
+      {
+        "word": "visitors",
+        "start": 3.439
+      },
+      {
+        "word": "see",
+        "start": 3.919
+      },
+      {
+        "word": "your",
+        "start": 4.059
+      },
+      {
+        "word": "pages",
+        "start": 4.219
+      },
+      {
+        "word": "llm",
+        "start": 5.539
+      },
+      {
+        "word": "optimization",
+        "start": 6.179
+      },
+      {
+        "word": "whether",
+        "start": 7.299
+      },
+      {
+        "word": "ai",
+        "start": 7.719
+      },
+      {
+        "word": "assistants",
+        "start": 7.94
+      },
+      {
+        "word": "can",
+        "start": 8.559
+      },
+      {
+        "word": "read",
+        "start": 8.819
+      },
+      {
+        "word": "and",
+        "start": 9.119
+      },
+      {
+        "word": "quote",
+        "start": 9.319
+      },
+      {
+        "word": "your",
+        "start": 9.539
+      },
+      {
+        "word": "site",
+        "start": 9.739
+      },
+      {
+        "word": "and",
+        "start": 10.619
+      },
+      {
+        "word": "seo",
+        "start": 10.92
+      },
+      {
+        "word": "the",
+        "start": 11.759
+      },
+      {
+        "word": "classics",
+        "start": 11.92
+      },
+      {
+        "word": "meta",
+        "start": 12.719
+      },
+      {
+        "word": "tags",
+        "start": 13
+      },
+      {
+        "word": "links",
+        "start": 13.639
+      },
+      {
+        "word": "canonicals",
+        "start": 14.199
+      }
+    ]
+  },
+  "03-sitewide": {
+    "text": "Below every problem found. Site-wide first. This site is missing an LLMS file, and its robots file blocks AI crawlers. That's invisible in a browser, and it quietly keeps you out of AI answers",
+    "words": [
+      {
+        "word": "below",
+        "start": 0.119
+      },
+      {
+        "word": "every",
+        "start": 0.74
+      },
+      {
+        "word": "problem",
+        "start": 1.12
+      },
+      {
+        "word": "found",
+        "start": 1.599
+      },
+      {
+        "word": "sitewide",
+        "start": 2.419
+      },
+      {
+        "word": "first",
+        "start": 3.079
+      },
+      {
+        "word": "this",
+        "start": 3.939
+      },
+      {
+        "word": "site",
+        "start": 4.139
+      },
+      {
+        "word": "is",
+        "start": 4.38
+      },
+      {
+        "word": "missing",
+        "start": 4.539
+      },
+      {
+        "word": "an",
+        "start": 4.92
+      },
+      {
+        "word": "llms",
+        "start": 5.219
+      },
+      {
+        "word": "file",
+        "start": 5.839
+      },
+      {
+        "word": "and",
+        "start": 6.319
+      },
+      {
+        "word": "its",
+        "start": 6.42
+      },
+      {
+        "word": "robots",
+        "start": 6.599
+      },
+      {
+        "word": "file",
+        "start": 7.059
+      },
+      {
+        "word": "blocks",
+        "start": 7.44
+      },
+      {
+        "word": "ai",
+        "start": 8.019
+      },
+      {
+        "word": "crawlers",
+        "start": 8.26
+      },
+      {
+        "word": "that's",
+        "start": 9.3
+      },
+      {
+        "word": "invisible",
+        "start": 9.5
+      },
+      {
+        "word": "in",
+        "start": 10
+      },
+      {
+        "word": "a",
+        "start": 10.139
+      },
+      {
+        "word": "browser",
+        "start": 10.179
+      },
+      {
+        "word": "and",
+        "start": 10.739
+      },
+      {
+        "word": "it",
+        "start": 10.859
+      },
+      {
+        "word": "quietly",
+        "start": 11.119
+      },
+      {
+        "word": "keeps",
+        "start": 11.579
+      },
+      {
+        "word": "you",
+        "start": 11.859
+      },
+      {
+        "word": "out",
+        "start": 12.079
+      },
+      {
+        "word": "of",
+        "start": 12.319
+      },
+      {
+        "word": "ai",
+        "start": 12.559
+      },
+      {
+        "word": "answers",
+        "start": 12.92
+      }
+    ]
+  },
+  "04-row": {
+    "text": "Then page by page, open any row and every issue comes with a severity and a fix explained in plain words. The checks it passed are crossed out below",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.099
+      },
+      {
+        "word": "page",
+        "start": 0.479
+      },
+      {
+        "word": "by",
+        "start": 0.819
+      },
+      {
+        "word": "page",
+        "start": 1.039
+      },
+      {
+        "word": "open",
+        "start": 1.86
+      },
+      {
+        "word": "any",
+        "start": 2.2
+      },
+      {
+        "word": "row",
+        "start": 2.46
+      },
+      {
+        "word": "and",
+        "start": 2.959
+      },
+      {
+        "word": "every",
+        "start": 3.24
+      },
+      {
+        "word": "issue",
+        "start": 3.539
+      },
+      {
+        "word": "comes",
+        "start": 3.879
+      },
+      {
+        "word": "with",
+        "start": 4.119
+      },
+      {
+        "word": "a",
+        "start": 4.259
+      },
+      {
+        "word": "severity",
+        "start": 4.4
+      },
+      {
+        "word": "and",
+        "start": 5.199
+      },
+      {
+        "word": "a",
+        "start": 5.4
+      },
+      {
+        "word": "fix",
+        "start": 5.519
+      },
+      {
+        "word": "explained",
+        "start": 6
+      },
+      {
+        "word": "in",
+        "start": 6.559
+      },
+      {
+        "word": "plain",
+        "start": 6.779
+      },
+      {
+        "word": "words",
+        "start": 7.139
+      },
+      {
+        "word": "the",
+        "start": 8.199
+      },
+      {
+        "word": "checks",
+        "start": 8.34
+      },
+      {
+        "word": "it",
+        "start": 8.639
+      },
+      {
+        "word": "passed",
+        "start": 8.779
+      },
+      {
+        "word": "are",
+        "start": 9.199
+      },
+      {
+        "word": "crossed",
+        "start": 9.38
+      },
+      {
+        "word": "out",
+        "start": 9.739
+      },
+      {
+        "word": "below",
+        "start": 9.96
+      }
+    ]
+  },
+  "05-fix": {
+    "text": "Now the good part. You don't fix any of this by hand. Hit Fix with Agent",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.419
+      },
+      {
+        "word": "good",
+        "start": 0.579
+      },
+      {
+        "word": "part",
+        "start": 0.799
+      },
+      {
+        "word": "you",
+        "start": 1.459
+      },
+      {
+        "word": "don't",
+        "start": 1.599
+      },
+      {
+        "word": "fix",
+        "start": 1.86
+      },
+      {
+        "word": "any",
+        "start": 2.299
+      },
+      {
+        "word": "of",
+        "start": 2.519
+      },
+      {
+        "word": "this",
+        "start": 2.7
+      },
+      {
+        "word": "by",
+        "start": 2.96
+      },
+      {
+        "word": "hand",
+        "start": 3.24
+      },
+      {
+        "word": "hit",
+        "start": 4.159
+      },
+      {
+        "word": "fix",
+        "start": 4.48
+      },
+      {
+        "word": "with",
+        "start": 4.92
+      },
+      {
+        "word": "agent",
+        "start": 5.179
+      }
+    ]
+  },
+  "06-agent": {
+    "text": "The agent takes the audit, plans the work, and applies the fixes straight through your site. Meta tags, redirects, schema, all of it. You just watch",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.099
+      },
+      {
+        "word": "agent",
+        "start": 0.34
+      },
+      {
+        "word": "takes",
+        "start": 0.719
+      },
+      {
+        "word": "the",
+        "start": 1.039
+      },
+      {
+        "word": "audit",
+        "start": 1.22
+      },
+      {
+        "word": "plans",
+        "start": 1.679
+      },
+      {
+        "word": "the",
+        "start": 2.079
+      },
+      {
+        "word": "work",
+        "start": 2.2
+      },
+      {
+        "word": "and",
+        "start": 2.559
+      },
+      {
+        "word": "applies",
+        "start": 2.759
+      },
+      {
+        "word": "the",
+        "start": 3.179
+      },
+      {
+        "word": "fixes",
+        "start": 3.299
+      },
+      {
+        "word": "straight",
+        "start": 3.919
+      },
+      {
+        "word": "through",
+        "start": 4.319
+      },
+      {
+        "word": "your",
+        "start": 4.519
+      },
+      {
+        "word": "site",
+        "start": 4.699
+      },
+      {
+        "word": "meta",
+        "start": 5.4
+      },
+      {
+        "word": "tags",
+        "start": 5.699
+      },
+      {
+        "word": "redirects",
+        "start": 6.339
+      },
+      {
+        "word": "schema",
+        "start": 7.079
+      },
+      {
+        "word": "all",
+        "start": 7.839
+      },
+      {
+        "word": "of",
+        "start": 7.96
+      },
+      {
+        "word": "it",
+        "start": 8.119
+      },
+      {
+        "word": "you",
+        "start": 8.599
+      },
+      {
+        "word": "just",
+        "start": 8.819
+      },
+      {
+        "word": "watch",
+        "start": 9.099
+      }
+    ]
+  },
+  "07-rescan": {
+    "text": "When it's done, run the scan again. Sixty-two to eighty-four, the rings turn green",
+    "words": [
+      {
+        "word": "when",
+        "start": 0.099
+      },
+      {
+        "word": "it's",
+        "start": 0.239
+      },
+      {
+        "word": "done",
+        "start": 0.479
+      },
+      {
+        "word": "run",
+        "start": 1.1
+      },
+      {
+        "word": "the",
+        "start": 1.319
+      },
+      {
+        "word": "scan",
+        "start": 1.439
+      },
+      {
+        "word": "again",
+        "start": 1.839
+      },
+      {
+        "word": "sixtytwo",
+        "start": 3.5
+      },
+      {
+        "word": "to",
+        "start": 4.319
+      },
+      {
+        "word": "eightyfour",
+        "start": 4.539
+      },
+      {
+        "word": "the",
+        "start": 5.519
+      },
+      {
+        "word": "rings",
+        "start": 5.699
+      },
+      {
+        "word": "turn",
+        "start": 6.099
+      },
+      {
+        "word": "green",
+        "start": 6.48
+      }
+    ]
+  },
+  "08-close": {
+    "text": "So scan, open the rows you care about, let the agent do the fixing, and scan again. Your site stays readable for Google and for ChatGPT. That's the whole job",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "scan",
+        "start": 0.699
+      },
+      {
+        "word": "open",
+        "start": 1.459
+      },
+      {
+        "word": "the",
+        "start": 1.699
+      },
+      {
+        "word": "rows",
+        "start": 1.819
+      },
+      {
+        "word": "you",
+        "start": 2.079
+      },
+      {
+        "word": "care",
+        "start": 2.22
+      },
+      {
+        "word": "about",
+        "start": 2.46
+      },
+      {
+        "word": "let",
+        "start": 3.039
+      },
+      {
+        "word": "the",
+        "start": 3.199
+      },
+      {
+        "word": "agent",
+        "start": 3.439
+      },
+      {
+        "word": "do",
+        "start": 3.779
+      },
+      {
+        "word": "the",
+        "start": 3.899
+      },
+      {
+        "word": "fixing",
+        "start": 4.019
+      },
+      {
+        "word": "and",
+        "start": 4.699
+      },
+      {
+        "word": "scan",
+        "start": 4.88
+      },
+      {
+        "word": "again",
+        "start": 5.299
+      },
+      {
+        "word": "your",
+        "start": 6.299
+      },
+      {
+        "word": "site",
+        "start": 6.5
+      },
+      {
+        "word": "stays",
+        "start": 6.819
+      },
+      {
+        "word": "readable",
+        "start": 7.119
+      },
+      {
+        "word": "for",
+        "start": 7.579
+      },
+      {
+        "word": "google",
+        "start": 7.779
+      },
+      {
+        "word": "and",
+        "start": 8.319
+      },
+      {
+        "word": "for",
+        "start": 8.599
+      },
+      {
+        "word": "chatgpt",
+        "start": 8.76
+      },
+      {
+        "word": "that's",
+        "start": 10.119
+      },
+      {
+        "word": "the",
+        "start": 10.42
+      },
+      {
+        "word": "whole",
+        "start": 10.559
+      },
+      {
+        "word": "job",
+        "start": 10.779
+      }
+    ]
+  }
+}

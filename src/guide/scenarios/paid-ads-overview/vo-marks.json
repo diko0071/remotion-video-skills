@@ -1,0 +1,682 @@
+{
+  "00-title": {
+    "text": "Paid ads in Rise on autopilot",
+    "words": [
+      {
+        "word": "paid",
+        "start": 0.099
+      },
+      {
+        "word": "ads",
+        "start": 0.419
+      },
+      {
+        "word": "in",
+        "start": 0.68
+      },
+      {
+        "word": "rise",
+        "start": 0.839
+      },
+      {
+        "word": "on",
+        "start": 1.62
+      },
+      {
+        "word": "autopilot",
+        "start": 1.959
+      }
+    ]
+  },
+  "01-dash": {
+    "text": "This is the paid ad side of Rise. Google and Meta in one place. Spend, budgets, results, one dashboard",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.179
+      },
+      {
+        "word": "is",
+        "start": 0.459
+      },
+      {
+        "word": "the",
+        "start": 0.599
+      },
+      {
+        "word": "paid",
+        "start": 0.74
+      },
+      {
+        "word": "ad",
+        "start": 1.139
+      },
+      {
+        "word": "side",
+        "start": 1.379
+      },
+      {
+        "word": "of",
+        "start": 1.559
+      },
+      {
+        "word": "rise",
+        "start": 1.719
+      },
+      {
+        "word": "google",
+        "start": 2.619
+      },
+      {
+        "word": "and",
+        "start": 3
+      },
+      {
+        "word": "meta",
+        "start": 3.139
+      },
+      {
+        "word": "in",
+        "start": 3.46
+      },
+      {
+        "word": "one",
+        "start": 3.679
+      },
+      {
+        "word": "place",
+        "start": 3.879
+      },
+      {
+        "word": "spend",
+        "start": 4.799
+      },
+      {
+        "word": "budgets",
+        "start": 5.5
+      },
+      {
+        "word": "results",
+        "start": 6.099
+      },
+      {
+        "word": "one",
+        "start": 7.019
+      },
+      {
+        "word": "dashboard",
+        "start": 7.219
+      }
+    ]
+  },
+  "02-connect": {
+    "text": "Hook it up once. Under Integrations, open the Advertising tab. Connect Google Ads and Meta, and the agent sees every campaign",
+    "words": [
+      {
+        "word": "hook",
+        "start": 0.14
+      },
+      {
+        "word": "it",
+        "start": 0.319
+      },
+      {
+        "word": "up",
+        "start": 0.439
+      },
+      {
+        "word": "once",
+        "start": 0.639
+      },
+      {
+        "word": "under",
+        "start": 1.459
+      },
+      {
+        "word": "integrations",
+        "start": 1.759
+      },
+      {
+        "word": "open",
+        "start": 2.72
+      },
+      {
+        "word": "the",
+        "start": 2.919
+      },
+      {
+        "word": "advertising",
+        "start": 3.099
+      },
+      {
+        "word": "tab",
+        "start": 3.72
+      },
+      {
+        "word": "connect",
+        "start": 4.339
+      },
+      {
+        "word": "google",
+        "start": 4.719
+      },
+      {
+        "word": "ads",
+        "start": 5.099
+      },
+      {
+        "word": "and",
+        "start": 5.38
+      },
+      {
+        "word": "meta",
+        "start": 5.519
+      },
+      {
+        "word": "and",
+        "start": 6.019
+      },
+      {
+        "word": "the",
+        "start": 6.139
+      },
+      {
+        "word": "agent",
+        "start": 6.339
+      },
+      {
+        "word": "sees",
+        "start": 6.719
+      },
+      {
+        "word": "every",
+        "start": 7.059
+      },
+      {
+        "word": "campaign",
+        "start": 7.379
+      }
+    ]
+  },
+  "03-ask": {
+    "text": "Back on the dashboard, meet your co-pilot. Open the agent and ask, \"Where am I overspending?\" It walks every campaign and comes back with the leaks in dollars",
+    "words": [
+      {
+        "word": "back",
+        "start": 0.079
+      },
+      {
+        "word": "on",
+        "start": 0.319
+      },
+      {
+        "word": "the",
+        "start": 0.419
+      },
+      {
+        "word": "dashboard",
+        "start": 0.539
+      },
+      {
+        "word": "meet",
+        "start": 1.439
+      },
+      {
+        "word": "your",
+        "start": 1.659
+      },
+      {
+        "word": "copilot",
+        "start": 1.86
+      },
+      {
+        "word": "open",
+        "start": 3.199
+      },
+      {
+        "word": "the",
+        "start": 3.46
+      },
+      {
+        "word": "agent",
+        "start": 3.659
+      },
+      {
+        "word": "and",
+        "start": 3.98
+      },
+      {
+        "word": "ask",
+        "start": 4.179
+      },
+      {
+        "word": "where",
+        "start": 4.699
+      },
+      {
+        "word": "am",
+        "start": 4.88
+      },
+      {
+        "word": "i",
+        "start": 5
+      },
+      {
+        "word": "overspending",
+        "start": 5.179
+      },
+      {
+        "word": "it",
+        "start": 6.719
+      },
+      {
+        "word": "walks",
+        "start": 6.899
+      },
+      {
+        "word": "every",
+        "start": 7.319
+      },
+      {
+        "word": "campaign",
+        "start": 7.659
+      },
+      {
+        "word": "and",
+        "start": 8.38
+      },
+      {
+        "word": "comes",
+        "start": 8.539
+      },
+      {
+        "word": "back",
+        "start": 8.8
+      },
+      {
+        "word": "with",
+        "start": 9.059
+      },
+      {
+        "word": "the",
+        "start": 9.199
+      },
+      {
+        "word": "leaks",
+        "start": 9.319
+      },
+      {
+        "word": "in",
+        "start": 9.819
+      },
+      {
+        "word": "dollars",
+        "start": 10
+      }
+    ]
+  },
+  "04-approvals": {
+    "text": "And you don't even have to ask. It audits your account around the clock. Every finding lands in Approvals, and you apply it with one click",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.239
+      },
+      {
+        "word": "you",
+        "start": 0.259
+      },
+      {
+        "word": "don't",
+        "start": 0.439
+      },
+      {
+        "word": "even",
+        "start": 0.74
+      },
+      {
+        "word": "have",
+        "start": 1.039
+      },
+      {
+        "word": "to",
+        "start": 1.219
+      },
+      {
+        "word": "ask",
+        "start": 1.439
+      },
+      {
+        "word": "it",
+        "start": 2.039
+      },
+      {
+        "word": "audits",
+        "start": 2.24
+      },
+      {
+        "word": "your",
+        "start": 2.559
+      },
+      {
+        "word": "account",
+        "start": 2.639
+      },
+      {
+        "word": "around",
+        "start": 3.199
+      },
+      {
+        "word": "the",
+        "start": 3.48
+      },
+      {
+        "word": "clock",
+        "start": 3.599
+      },
+      {
+        "word": "every",
+        "start": 4.42
+      },
+      {
+        "word": "finding",
+        "start": 4.819
+      },
+      {
+        "word": "lands",
+        "start": 5.319
+      },
+      {
+        "word": "in",
+        "start": 5.659
+      },
+      {
+        "word": "approvals",
+        "start": 5.819
+      },
+      {
+        "word": "and",
+        "start": 6.559
+      },
+      {
+        "word": "you",
+        "start": 6.679
+      },
+      {
+        "word": "apply",
+        "start": 6.839
+      },
+      {
+        "word": "it",
+        "start": 7.159
+      },
+      {
+        "word": "with",
+        "start": 7.339
+      },
+      {
+        "word": "one",
+        "start": 7.599
+      },
+      {
+        "word": "click",
+        "start": 7.819
+      }
+    ]
+  },
+  "05-creatives": {
+    "text": "It makes the ads too. Creatives in your brand style straight into your library. That one has a guide of its own",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.099
+      },
+      {
+        "word": "makes",
+        "start": 0.239
+      },
+      {
+        "word": "the",
+        "start": 0.5
+      },
+      {
+        "word": "ads",
+        "start": 0.639
+      },
+      {
+        "word": "too",
+        "start": 1.079
+      },
+      {
+        "word": "creatives",
+        "start": 1.879
+      },
+      {
+        "word": "in",
+        "start": 2.46
+      },
+      {
+        "word": "your",
+        "start": 2.579
+      },
+      {
+        "word": "brand",
+        "start": 2.7
+      },
+      {
+        "word": "style",
+        "start": 3.039
+      },
+      {
+        "word": "straight",
+        "start": 3.699
+      },
+      {
+        "word": "into",
+        "start": 3.98
+      },
+      {
+        "word": "your",
+        "start": 4.199
+      },
+      {
+        "word": "library",
+        "start": 4.36
+      },
+      {
+        "word": "that",
+        "start": 5.38
+      },
+      {
+        "word": "one",
+        "start": 5.619
+      },
+      {
+        "word": "has",
+        "start": 5.779
+      },
+      {
+        "word": "a",
+        "start": 5.96
+      },
+      {
+        "word": "guide",
+        "start": 6.019
+      },
+      {
+        "word": "of",
+        "start": 6.219
+      },
+      {
+        "word": "its",
+        "start": 6.319
+      },
+      {
+        "word": "own",
+        "start": 6.559
+      }
+    ]
+  },
+  "06-close": {
+    "text": "So connect once and let the agent watch your money. Paid ads on autopilot",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.199
+      },
+      {
+        "word": "connect",
+        "start": 0.5
+      },
+      {
+        "word": "once",
+        "start": 0.959
+      },
+      {
+        "word": "and",
+        "start": 1.459
+      },
+      {
+        "word": "let",
+        "start": 1.62
+      },
+      {
+        "word": "the",
+        "start": 1.759
+      },
+      {
+        "word": "agent",
+        "start": 1.959
+      },
+      {
+        "word": "watch",
+        "start": 2.339
+      },
+      {
+        "word": "your",
+        "start": 2.639
+      },
+      {
+        "word": "money",
+        "start": 2.819
+      },
+      {
+        "word": "paid",
+        "start": 3.859
+      },
+      {
+        "word": "ads",
+        "start": 4.239
+      },
+      {
+        "word": "on",
+        "start": 4.739
+      },
+      {
+        "word": "autopilot",
+        "start": 4.94
+      }
+    ]
+  },
+  "05b-inspire": {
+    "text": "Need a starting point? Grab one of the ready-made ad templates or peek at competitor ads and see exactly what everyone else is running",
+    "words": [
+      {
+        "word": "need",
+        "start": 0.119
+      },
+      {
+        "word": "a",
+        "start": 0.299
+      },
+      {
+        "word": "starting",
+        "start": 0.379
+      },
+      {
+        "word": "point",
+        "start": 0.779
+      },
+      {
+        "word": "grab",
+        "start": 1.559
+      },
+      {
+        "word": "one",
+        "start": 1.919
+      },
+      {
+        "word": "of",
+        "start": 2.039
+      },
+      {
+        "word": "the",
+        "start": 2.139
+      },
+      {
+        "word": "readymade",
+        "start": 2.299
+      },
+      {
+        "word": "ad",
+        "start": 2.919
+      },
+      {
+        "word": "templates",
+        "start": 3.119
+      },
+      {
+        "word": "or",
+        "start": 4.019
+      },
+      {
+        "word": "peek",
+        "start": 4.259
+      },
+      {
+        "word": "at",
+        "start": 4.5
+      },
+      {
+        "word": "competitor",
+        "start": 4.619
+      },
+      {
+        "word": "ads",
+        "start": 5.199
+      },
+      {
+        "word": "and",
+        "start": 5.619
+      },
+      {
+        "word": "see",
+        "start": 5.839
+      },
+      {
+        "word": "exactly",
+        "start": 6.079
+      },
+      {
+        "word": "what",
+        "start": 6.679
+      },
+      {
+        "word": "everyone",
+        "start": 6.94
+      },
+      {
+        "word": "else",
+        "start": 7.319
+      },
+      {
+        "word": "is",
+        "start": 7.539
+      },
+      {
+        "word": "running",
+        "start": 7.699
+      }
+    ]
+  }
+}

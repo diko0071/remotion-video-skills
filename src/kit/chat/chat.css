@@ -1,0 +1,109 @@
+.chat-scroll { overflow: hidden; }
+
+.chat-conv .chat-messages { margin-top: 0; }
+
+.chat-bare {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 150px;
+  background: var(--background);
+}
+.chat-bare-thread {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.chat-bare-composer { position: relative; width: 100%; max-width: 100%; }
+.chat-bare .md { font-size: 30px; line-height: 1.45; }
+.chat-bare .msg-user .bubble { font-size: 24px; padding: 14px 22px; }
+.chat-bare .tool-row { font-size: 22px; }
+.chat-bare .composer-input { font-size: 34px; min-height: 96px; }
+.chat-bare .composer { padding: 34px 38px 26px; border-radius: 28px; }
+.chat-bare .composer-wrap { max-width: 1140px; }
+.chat-bare .composer-bar { margin-top: 20px; }
+.chat-bare .rd-table { font-size: 18px; }
+.chat-bare .rd-table th { font-size: 14px; }
+.chat-bare .icon-btn { width: 46px; height: 46px; }
+.chat-bare .icon-btn svg { width: 27px; height: 27px; }
+.chat-bare .send-btn { width: 46px; height: 46px; border-radius: 12px; }
+.chat-bare .send-btn svg { width: 24px; height: 24px; }
+.chat-bare .plus-menu { width: 460px; left: 14px; top: calc(100% + 14px); padding: 9px; border-radius: 18px; }
+.chat-bare .plus-menu-head { font-size: 18px; gap: 11px; padding: 11px 14px 8px; }
+.chat-bare .plus-menu-glyph svg { width: 19px; height: 19px; }
+.chat-bare .plus-menu-row { gap: 14px; padding: 13px 14px; }
+.chat-bare .plus-menu-logo { width: 32px; height: 32px; padding: 5px; }
+.chat-bare .plus-menu-label { font-size: 20px; }
+.chat-bare .plus-menu-switch { width: 48px; height: 26px; --knob-travel: 22px; }
+.chat-bare .plus-menu-switch i { width: 20px; height: 20px; top: 3px; left: 3px; }
+.chat-bare .widget-card .card-title { font-size: 22px; }
+.chat-bare .widget-card .card-subtitle { font-size: 16px; }
+.chat-bare .chart-svg .axis-label { font-size: 17px; }
+.chat-bare .chart-svg .value-label { font-size: 17px; }
+
+.plus-menu {
+  position: absolute;
+  left: 10px;
+  top: calc(100% + 10px);
+  width: 330px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--card);
+  box-shadow: 0 18px 46px rgba(74, 53, 29, 0.16);
+  padding: 6px;
+  z-index: 5;
+}
+.plus-menu-head {
+  display: flex; align-items: center; gap: 8px; padding: 8px 10px 6px;
+  font-size: 13px; font-weight: 600; color: var(--muted-foreground);
+}
+.plus-menu-glyph { display: inline-flex; }
+.plus-menu-glyph svg { width: 14px; height: 14px; }
+.plus-menu-row {
+  display: flex; align-items: center; gap: 10px;
+  border-radius: var(--radius-md); padding: 9px 10px;
+}
+.plus-menu-logo {
+  display: flex; width: 22px; height: 22px; align-items: center; justify-content: center;
+  border-radius: var(--radius-sm); border: 1px solid var(--border);
+  background: var(--background); padding: 3px;
+}
+.plus-menu-logo img { width: 100%; height: 100%; object-fit: contain; }
+.plus-menu-label { flex: 1; font-size: 14px; font-weight: 500; color: var(--foreground); }
+.plus-menu-switch {
+  position: relative; width: 34px; height: 18px; border-radius: 9999px;
+  background: color-mix(in oklab, var(--muted) 90%, transparent);
+}
+.plus-menu-switch.on { background: var(--primary); }
+.plus-menu-switch i {
+  position: absolute; top: 2px; left: 2px; width: 14px; height: 14px;
+  border-radius: 9999px; background: #fff; box-shadow: 0 1px 2px rgba(15,23,42,0.25);
+}
+
+.chat-bare .msg-user { justify-content: flex-end; }
+
+.composer-menu {
+  position: absolute;
+  left: 10px;
+  bottom: 12px;
+  width: 246px;
+  padding: 6px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--card);
+  box-shadow: 0 18px 46px rgba(74, 53, 29, 0.16);
+  z-index: 6;
+}
+.composer-menu-item {
+  display: block;
+  padding: 9px 10px;
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  color: var(--foreground);
+}
+.composer-menu-item.active { background: rgba(23, 19, 16, 0.06); font-weight: 500; }

@@ -1,0 +1,23 @@
+{
+  "00-title": 4.46,
+  "01-connect": 11.3,
+  "02-connected": 3.52,
+  "03-plan": 11.38,
+  "04-planned": 5.96,
+  "04b-autowrite": 13.44,
+  "04c-generate": 6.54,
+  "05-drafted": 4.22,
+  "06-published": 7.8,
+  "07-open": 2.48,
+  "08-preview": 9.64,
+  "09-ai": 7.68,
+  "10-edit": 1.56,
+  "11-editor": 6,
+  "12-image": 3.12,
+  "13-save": 2.14,
+  "14-publish": 4.52,
+  "15-auto": 11.38,
+  "16-provider": 5.22,
+  "17-republish": 8.24,
+  "18-close": 7.04
+}

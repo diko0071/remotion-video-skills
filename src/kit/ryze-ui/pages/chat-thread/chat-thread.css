@@ -1,0 +1,20 @@
+.composer-pill {
+  display: inline-flex; align-items: center; gap: 6px;
+  height: 34px; padding: 0 10px; border-radius: var(--radius-lg);
+  font-size: 13px; font-weight: 500; color: var(--muted-foreground);
+}
+.composer-pill svg { width: 14px; height: 14px; }
+.composer-pill .composer-pill-caret { width: 12px; height: 12px; opacity: 0.6; }
+
+.ct-group { display: flex; flex-direction: column; }
+.ct-group-head { display: flex; align-items: center; gap: 8px; }
+.ct-chev { display: inline-flex; flex-shrink: 0; color: color-mix(in oklab, var(--foreground) 70%, transparent); }
+.ct-chev svg { width: 16px; height: 16px; }
+.ct-chev.open { transform: rotate(90deg); }
+.ct-group-label { font-size: 16px; line-height: 1.5; color: color-mix(in oklab, var(--foreground) 70%, transparent); }
+.ct-group-rows { margin: 16px 0 0 24px; display: flex; flex-direction: column; gap: 16px; }
+.ct-tool-row { display: flex; align-items: center; gap: 8px; }
+.ct-tool-label { font-size: 16px; line-height: 1.5; color: color-mix(in oklab, var(--foreground) 70%, transparent); }
+
+.ct-chart .axis-label { font-size: 11px; fill: var(--muted-foreground); }
+.ct-chart .value-label { font-size: 10.5px; font-weight: 700; fill: var(--foreground); }

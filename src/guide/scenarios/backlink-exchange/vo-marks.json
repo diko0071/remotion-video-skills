@@ -1,0 +1,1138 @@
+{
+  "00-title": {
+    "text": "Google ranks the sites other sites link to. Here's how Ryze gets you those links, the backlink exchange",
+    "words": [
+      {
+        "word": "google",
+        "start": 0.079
+      },
+      {
+        "word": "ranks",
+        "start": 0.5
+      },
+      {
+        "word": "the",
+        "start": 0.879
+      },
+      {
+        "word": "sites",
+        "start": 1.059
+      },
+      {
+        "word": "other",
+        "start": 1.599
+      },
+      {
+        "word": "sites",
+        "start": 1.919
+      },
+      {
+        "word": "link",
+        "start": 2.299
+      },
+      {
+        "word": "to",
+        "start": 2.519
+      },
+      {
+        "word": "here's",
+        "start": 3.379
+      },
+      {
+        "word": "how",
+        "start": 3.619
+      },
+      {
+        "word": "ryze",
+        "start": 3.859
+      },
+      {
+        "word": "gets",
+        "start": 4.319
+      },
+      {
+        "word": "you",
+        "start": 4.519
+      },
+      {
+        "word": "those",
+        "start": 4.659
+      },
+      {
+        "word": "links",
+        "start": 4.88
+      },
+      {
+        "word": "the",
+        "start": 5.639
+      },
+      {
+        "word": "backlink",
+        "start": 5.799
+      },
+      {
+        "word": "exchange",
+        "start": 6.359
+      }
+    ]
+  },
+  "01-article": {
+    "text": "Start with what it actually looks like. This is one of your own articles, and right here inside the text is a link out to another site, a coffee roaster. Not a directory, not a comment, a real link inside real content. And somewhere out there, someone else's article links back at you the exact same way",
+    "words": [
+      {
+        "word": "start",
+        "start": 0.099
+      },
+      {
+        "word": "with",
+        "start": 0.5
+      },
+      {
+        "word": "what",
+        "start": 0.659
+      },
+      {
+        "word": "it",
+        "start": 0.799
+      },
+      {
+        "word": "actually",
+        "start": 1.059
+      },
+      {
+        "word": "looks",
+        "start": 1.519
+      },
+      {
+        "word": "like",
+        "start": 1.779
+      },
+      {
+        "word": "this",
+        "start": 2.399
+      },
+      {
+        "word": "is",
+        "start": 2.559
+      },
+      {
+        "word": "one",
+        "start": 2.759
+      },
+      {
+        "word": "of",
+        "start": 2.899
+      },
+      {
+        "word": "your",
+        "start": 3.039
+      },
+      {
+        "word": "own",
+        "start": 3.279
+      },
+      {
+        "word": "articles",
+        "start": 3.539
+      },
+      {
+        "word": "and",
+        "start": 4.299
+      },
+      {
+        "word": "right",
+        "start": 4.519
+      },
+      {
+        "word": "here",
+        "start": 4.799
+      },
+      {
+        "word": "inside",
+        "start": 5.279
+      },
+      {
+        "word": "the",
+        "start": 5.679
+      },
+      {
+        "word": "text",
+        "start": 5.839
+      },
+      {
+        "word": "is",
+        "start": 6.46
+      },
+      {
+        "word": "a",
+        "start": 6.619
+      },
+      {
+        "word": "link",
+        "start": 6.739
+      },
+      {
+        "word": "out",
+        "start": 7.059
+      },
+      {
+        "word": "to",
+        "start": 7.279
+      },
+      {
+        "word": "another",
+        "start": 7.399
+      },
+      {
+        "word": "site",
+        "start": 7.799
+      },
+      {
+        "word": "a",
+        "start": 8.42
+      },
+      {
+        "word": "coffee",
+        "start": 8.539
+      },
+      {
+        "word": "roaster",
+        "start": 8.92
+      },
+      {
+        "word": "not",
+        "start": 9.899
+      },
+      {
+        "word": "a",
+        "start": 10.059
+      },
+      {
+        "word": "directory",
+        "start": 10.179
+      },
+      {
+        "word": "not",
+        "start": 11.099
+      },
+      {
+        "word": "a",
+        "start": 11.279
+      },
+      {
+        "word": "comment",
+        "start": 11.399
+      },
+      {
+        "word": "a",
+        "start": 12.259
+      },
+      {
+        "word": "real",
+        "start": 12.46
+      },
+      {
+        "word": "link",
+        "start": 12.799
+      },
+      {
+        "word": "inside",
+        "start": 13.179
+      },
+      {
+        "word": "real",
+        "start": 13.719
+      },
+      {
+        "word": "content",
+        "start": 14.039
+      },
+      {
+        "word": "and",
+        "start": 15.019
+      },
+      {
+        "word": "somewhere",
+        "start": 15.319
+      },
+      {
+        "word": "out",
+        "start": 15.739
+      },
+      {
+        "word": "there",
+        "start": 15.939
+      },
+      {
+        "word": "someone",
+        "start": 16.42
+      },
+      {
+        "word": "else's",
+        "start": 16.779
+      },
+      {
+        "word": "article",
+        "start": 17.199
+      },
+      {
+        "word": "links",
+        "start": 17.699
+      },
+      {
+        "word": "back",
+        "start": 18.039
+      },
+      {
+        "word": "at",
+        "start": 18.26
+      },
+      {
+        "word": "you",
+        "start": 18.44
+      },
+      {
+        "word": "the",
+        "start": 18.819
+      },
+      {
+        "word": "exact",
+        "start": 18.959
+      },
+      {
+        "word": "same",
+        "start": 19.34
+      },
+      {
+        "word": "way",
+        "start": 19.6
+      }
+    ]
+  },
+  "02-chains": {
+    "text": "Here's how it works. Rise connects its clients into chains. A linen brand links to your candles. You link to a coffee roaster. Nobody links back to the site that linked to them, so to Google, it just looks like the internet doing its thing. Everyone's domain rating grows",
+    "words": [
+      {
+        "word": "here's",
+        "start": 0.099
+      },
+      {
+        "word": "how",
+        "start": 0.34
+      },
+      {
+        "word": "it",
+        "start": 0.479
+      },
+      {
+        "word": "works",
+        "start": 0.639
+      },
+      {
+        "word": "rise",
+        "start": 1.659
+      },
+      {
+        "word": "connects",
+        "start": 2.059
+      },
+      {
+        "word": "its",
+        "start": 2.419
+      },
+      {
+        "word": "clients",
+        "start": 2.639
+      },
+      {
+        "word": "into",
+        "start": 3.099
+      },
+      {
+        "word": "chains",
+        "start": 3.399
+      },
+      {
+        "word": "a",
+        "start": 4.239
+      },
+      {
+        "word": "linen",
+        "start": 4.36
+      },
+      {
+        "word": "brand",
+        "start": 4.699
+      },
+      {
+        "word": "links",
+        "start": 5.179
+      },
+      {
+        "word": "to",
+        "start": 5.44
+      },
+      {
+        "word": "your",
+        "start": 5.539
+      },
+      {
+        "word": "candles",
+        "start": 5.699
+      },
+      {
+        "word": "you",
+        "start": 6.639
+      },
+      {
+        "word": "link",
+        "start": 6.819
+      },
+      {
+        "word": "to",
+        "start": 7.139
+      },
+      {
+        "word": "a",
+        "start": 7.299
+      },
+      {
+        "word": "coffee",
+        "start": 7.359
+      },
+      {
+        "word": "roaster",
+        "start": 7.719
+      },
+      {
+        "word": "nobody",
+        "start": 8.679
+      },
+      {
+        "word": "links",
+        "start": 9.059
+      },
+      {
+        "word": "back",
+        "start": 9.359
+      },
+      {
+        "word": "to",
+        "start": 9.6
+      },
+      {
+        "word": "the",
+        "start": 9.739
+      },
+      {
+        "word": "site",
+        "start": 9.92
+      },
+      {
+        "word": "that",
+        "start": 10.239
+      },
+      {
+        "word": "linked",
+        "start": 10.46
+      },
+      {
+        "word": "to",
+        "start": 10.64
+      },
+      {
+        "word": "them",
+        "start": 10.819
+      },
+      {
+        "word": "so",
+        "start": 11.599
+      },
+      {
+        "word": "to",
+        "start": 11.719
+      },
+      {
+        "word": "google",
+        "start": 11.84
+      },
+      {
+        "word": "it",
+        "start": 12.42
+      },
+      {
+        "word": "just",
+        "start": 12.579
+      },
+      {
+        "word": "looks",
+        "start": 12.779
+      },
+      {
+        "word": "like",
+        "start": 13.019
+      },
+      {
+        "word": "the",
+        "start": 13.199
+      },
+      {
+        "word": "internet",
+        "start": 13.319
+      },
+      {
+        "word": "doing",
+        "start": 13.799
+      },
+      {
+        "word": "its",
+        "start": 14.039
+      },
+      {
+        "word": "thing",
+        "start": 14.259
+      },
+      {
+        "word": "everyone's",
+        "start": 15.019
+      },
+      {
+        "word": "domain",
+        "start": 15.539
+      },
+      {
+        "word": "rating",
+        "start": 15.96
+      },
+      {
+        "word": "grows",
+        "start": 16.279
+      }
+    ]
+  },
+  "03-noncompeting": {
+    "text": "And you only ever trade with non-competing sites. A candle store never links to another candle store",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "you",
+        "start": 0.28
+      },
+      {
+        "word": "only",
+        "start": 0.419
+      },
+      {
+        "word": "ever",
+        "start": 0.799
+      },
+      {
+        "word": "trade",
+        "start": 1.059
+      },
+      {
+        "word": "with",
+        "start": 1.439
+      },
+      {
+        "word": "noncompeting",
+        "start": 1.759
+      },
+      {
+        "word": "sites",
+        "start": 2.599
+      },
+      {
+        "word": "a",
+        "start": 3.519
+      },
+      {
+        "word": "candle",
+        "start": 3.559
+      },
+      {
+        "word": "store",
+        "start": 3.919
+      },
+      {
+        "word": "never",
+        "start": 4.4
+      },
+      {
+        "word": "links",
+        "start": 4.699
+      },
+      {
+        "word": "to",
+        "start": 5
+      },
+      {
+        "word": "another",
+        "start": 5.239
+      },
+      {
+        "word": "candle",
+        "start": 5.579
+      },
+      {
+        "word": "store",
+        "start": 5.96
+      }
+    ]
+  },
+  "04-where": {
+    "text": "Every link you earn lands here in mentions under backlinks. The page that links to you, the page it points at month by month",
+    "words": [
+      {
+        "word": "every",
+        "start": 0.099
+      },
+      {
+        "word": "link",
+        "start": 0.479
+      },
+      {
+        "word": "you",
+        "start": 0.819
+      },
+      {
+        "word": "earn",
+        "start": 1.019
+      },
+      {
+        "word": "lands",
+        "start": 1.399
+      },
+      {
+        "word": "here",
+        "start": 1.759
+      },
+      {
+        "word": "in",
+        "start": 2.259
+      },
+      {
+        "word": "mentions",
+        "start": 2.419
+      },
+      {
+        "word": "under",
+        "start": 3.179
+      },
+      {
+        "word": "backlinks",
+        "start": 3.46
+      },
+      {
+        "word": "the",
+        "start": 4.42
+      },
+      {
+        "word": "page",
+        "start": 4.559
+      },
+      {
+        "word": "that",
+        "start": 4.96
+      },
+      {
+        "word": "links",
+        "start": 5.099
+      },
+      {
+        "word": "to",
+        "start": 5.4
+      },
+      {
+        "word": "you",
+        "start": 5.539
+      },
+      {
+        "word": "the",
+        "start": 5.98
+      },
+      {
+        "word": "page",
+        "start": 6.099
+      },
+      {
+        "word": "it",
+        "start": 6.379
+      },
+      {
+        "word": "points",
+        "start": 6.539
+      },
+      {
+        "word": "at",
+        "start": 6.899
+      },
+      {
+        "word": "month",
+        "start": 7.379
+      },
+      {
+        "word": "by",
+        "start": 7.639
+      },
+      {
+        "word": "month",
+        "start": 7.859
+      }
+    ]
+  },
+  "05-default": {
+    "text": "And the best part? You don't have to set any of this up. It's already on. The exchange ships enabled in your SEO settings, so you're in the network from day one",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.259
+      },
+      {
+        "word": "best",
+        "start": 0.479
+      },
+      {
+        "word": "part",
+        "start": 0.719
+      },
+      {
+        "word": "you",
+        "start": 1.339
+      },
+      {
+        "word": "don't",
+        "start": 1.459
+      },
+      {
+        "word": "have",
+        "start": 1.719
+      },
+      {
+        "word": "to",
+        "start": 1.879
+      },
+      {
+        "word": "set",
+        "start": 2.039
+      },
+      {
+        "word": "any",
+        "start": 2.379
+      },
+      {
+        "word": "of",
+        "start": 2.619
+      },
+      {
+        "word": "this",
+        "start": 2.759
+      },
+      {
+        "word": "up",
+        "start": 3.019
+      },
+      {
+        "word": "it's",
+        "start": 3.639
+      },
+      {
+        "word": "already",
+        "start": 3.879
+      },
+      {
+        "word": "on",
+        "start": 4.4
+      },
+      {
+        "word": "the",
+        "start": 5.099
+      },
+      {
+        "word": "exchange",
+        "start": 5.219
+      },
+      {
+        "word": "ships",
+        "start": 5.819
+      },
+      {
+        "word": "enabled",
+        "start": 6.139
+      },
+      {
+        "word": "in",
+        "start": 6.519
+      },
+      {
+        "word": "your",
+        "start": 6.639
+      },
+      {
+        "word": "seo",
+        "start": 6.94
+      },
+      {
+        "word": "settings",
+        "start": 7.319
+      },
+      {
+        "word": "so",
+        "start": 7.919
+      },
+      {
+        "word": "you're",
+        "start": 8.079
+      },
+      {
+        "word": "in",
+        "start": 8.279
+      },
+      {
+        "word": "the",
+        "start": 8.42
+      },
+      {
+        "word": "network",
+        "start": 8.539
+      },
+      {
+        "word": "from",
+        "start": 9
+      },
+      {
+        "word": "day",
+        "start": 9.22
+      },
+      {
+        "word": "one",
+        "start": 9.479
+      }
+    ]
+  },
+  "06-close": {
+    "text": "So your articles go out, links come back, up to 50 a month on autopilot. Your domain gets heavier every week, and you never wrote a single outreach email",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "your",
+        "start": 0.599
+      },
+      {
+        "word": "articles",
+        "start": 0.779
+      },
+      {
+        "word": "go",
+        "start": 1.259
+      },
+      {
+        "word": "out",
+        "start": 1.48
+      },
+      {
+        "word": "links",
+        "start": 2.039
+      },
+      {
+        "word": "come",
+        "start": 2.399
+      },
+      {
+        "word": "back",
+        "start": 2.599
+      },
+      {
+        "word": "up",
+        "start": 3.199
+      },
+      {
+        "word": "to",
+        "start": 3.339
+      },
+      {
+        "word": "50",
+        "start": 3.559
+      },
+      {
+        "word": "a",
+        "start": 4.019
+      },
+      {
+        "word": "month",
+        "start": 4.079
+      },
+      {
+        "word": "on",
+        "start": 4.44
+      },
+      {
+        "word": "autopilot",
+        "start": 4.639
+      },
+      {
+        "word": "your",
+        "start": 5.739
+      },
+      {
+        "word": "domain",
+        "start": 5.92
+      },
+      {
+        "word": "gets",
+        "start": 6.44
+      },
+      {
+        "word": "heavier",
+        "start": 6.699
+      },
+      {
+        "word": "every",
+        "start": 7.199
+      },
+      {
+        "word": "week",
+        "start": 7.559
+      },
+      {
+        "word": "and",
+        "start": 8
+      },
+      {
+        "word": "you",
+        "start": 8.199
+      },
+      {
+        "word": "never",
+        "start": 8.439
+      },
+      {
+        "word": "wrote",
+        "start": 8.72
+      },
+      {
+        "word": "a",
+        "start": 9.059
+      },
+      {
+        "word": "single",
+        "start": 9.26
+      },
+      {
+        "word": "outreach",
+        "start": 9.779
+      },
+      {
+        "word": "email",
+        "start": 10.3
+      }
+    ]
+  },
+  "05b-toggle": {
+    "text": "Don't want it? One switch. Flip it off and you're out. Partners can't see you. Nobody links to you. You link to nobody. But honestly, leave it on. Right now, it brings around twenty backlinks a month, and that number keeps growing because the client network keeps growing",
+    "words": [
+      {
+        "word": "don't",
+        "start": 0.119
+      },
+      {
+        "word": "want",
+        "start": 0.34
+      },
+      {
+        "word": "it",
+        "start": 0.519
+      },
+      {
+        "word": "one",
+        "start": 1.039
+      },
+      {
+        "word": "switch",
+        "start": 1.339
+      },
+      {
+        "word": "flip",
+        "start": 2.019
+      },
+      {
+        "word": "it",
+        "start": 2.22
+      },
+      {
+        "word": "off",
+        "start": 2.379
+      },
+      {
+        "word": "and",
+        "start": 2.779
+      },
+      {
+        "word": "you're",
+        "start": 2.96
+      },
+      {
+        "word": "out",
+        "start": 3.159
+      },
+      {
+        "word": "partners",
+        "start": 3.98
+      },
+      {
+        "word": "can't",
+        "start": 4.48
+      },
+      {
+        "word": "see",
+        "start": 4.779
+      },
+      {
+        "word": "you",
+        "start": 4.96
+      },
+      {
+        "word": "nobody",
+        "start": 5.559
+      },
+      {
+        "word": "links",
+        "start": 6
+      },
+      {
+        "word": "to",
+        "start": 6.279
+      },
+      {
+        "word": "you",
+        "start": 6.42
+      },
+      {
+        "word": "you",
+        "start": 7.079
+      },
+      {
+        "word": "link",
+        "start": 7.279
+      },
+      {
+        "word": "to",
+        "start": 7.579
+      },
+      {
+        "word": "nobody",
+        "start": 7.719
+      },
+      {
+        "word": "but",
+        "start": 8.46
+      },
+      {
+        "word": "honestly",
+        "start": 8.639
+      },
+      {
+        "word": "leave",
+        "start": 9.359
+      },
+      {
+        "word": "it",
+        "start": 9.539
+      },
+      {
+        "word": "on",
+        "start": 9.699
+      },
+      {
+        "word": "right",
+        "start": 10.38
+      },
+      {
+        "word": "now",
+        "start": 10.659
+      },
+      {
+        "word": "it",
+        "start": 10.899
+      },
+      {
+        "word": "brings",
+        "start": 11.02
+      },
+      {
+        "word": "around",
+        "start": 11.34
+      },
+      {
+        "word": "twenty",
+        "start": 11.699
+      },
+      {
+        "word": "backlinks",
+        "start": 12.139
+      },
+      {
+        "word": "a",
+        "start": 12.639
+      },
+      {
+        "word": "month",
+        "start": 12.759
+      },
+      {
+        "word": "and",
+        "start": 13.219
+      },
+      {
+        "word": "that",
+        "start": 13.399
+      },
+      {
+        "word": "number",
+        "start": 13.599
+      },
+      {
+        "word": "keeps",
+        "start": 13.96
+      },
+      {
+        "word": "growing",
+        "start": 14.239
+      },
+      {
+        "word": "because",
+        "start": 14.859
+      },
+      {
+        "word": "the",
+        "start": 15.179
+      },
+      {
+        "word": "client",
+        "start": 15.299
+      },
+      {
+        "word": "network",
+        "start": 15.699
+      },
+      {
+        "word": "keeps",
+        "start": 16.1
+      },
+      {
+        "word": "growing",
+        "start": 16.379
+      }
+    ]
+  }
+}

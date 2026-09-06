@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-crash",
+      "text": "[serious] Last week Google shipped a core update — and traffic across the internet fell off a cliff."
+    },
+    {
+      "key": "02-panic",
+      "text": "Rankings gone overnight. [tense] Everyone's panicking."
+    },
+    {
+      "key": "03-turn",
+      "text": "[calm] Our clients? [confident] Still growing. We know what the algorithm rewards."
+    },
+    {
+      "key": "04-scan",
+      "text": "Scan your site — free. [confident] We'll show exactly what the update hit... and fix it."
+    },
+    {
+      "key": "05-close",
+      "text": "Ryze. Put your marketing on autopilot."
+    }
+  ]
+}

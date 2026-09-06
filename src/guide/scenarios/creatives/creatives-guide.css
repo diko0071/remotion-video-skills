@@ -1,0 +1,126 @@
+.lbx-veil {
+  position: absolute;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(10, 10, 10, 0.55);
+}
+.lbx {
+  display: flex;
+  width: 960px;
+  height: 620px;
+  overflow: hidden;
+  border-radius: 8px;
+  background: var(--card, #fff);
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.28);
+}
+.lbx-media {
+  position: relative;
+  width: 55%;
+  border-right: 1px solid var(--border);
+  background: #fff;
+}
+.lbx-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.lbx-spot {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%);
+}
+.lbx-pin {
+  position: absolute;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: #171310;
+  box-shadow: 0 0 0 2px #fff, 0 2px 6px rgba(0, 0, 0, 0.25);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  transform: translate(-50%, -100%);
+}
+.lbx-pin.static {
+  position: static;
+  transform: none;
+  flex-shrink: 0;
+}
+.lbx-note {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  min-width: 150px;
+  max-width: 230px;
+  margin-top: 8px;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.14);
+  font-size: 12.5px;
+  line-height: 1.35;
+  transform: translateX(-50%);
+}
+.lbx-caret {
+  width: 1.5px;
+  height: 14px;
+  margin-left: 1px;
+  background: #171310;
+}
+.lbx-side {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 12px;
+  padding: 24px;
+}
+.lbx-side h4 {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.lbx-hint {
+  margin: 0;
+  color: var(--muted-foreground, #7a7368);
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+.lbx-marks {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: 6px;
+}
+.lbx-marks:has(.lbx-mark-row) {
+  border: 1px solid var(--border);
+}
+.lbx-mark-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--border);
+  font-size: 13px;
+}
+.lbx-mark-row.last {
+  border-bottom: none;
+}
+.lbx-mark-note i {
+  color: var(--muted-foreground, #7a7368);
+}
+.lbx-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: auto;
+}

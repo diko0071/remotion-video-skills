@@ -1,0 +1,971 @@
+{
+  "00-title": {
+    "text": "Reports in Rise. Ask and it's built",
+    "words": [
+      {
+        "word": "reports",
+        "start": 0.159
+      },
+      {
+        "word": "in",
+        "start": 0.699
+      },
+      {
+        "word": "rise",
+        "start": 0.899
+      },
+      {
+        "word": "ask",
+        "start": 1.819
+      },
+      {
+        "word": "and",
+        "start": 2.419
+      },
+      {
+        "word": "it's",
+        "start": 2.539
+      },
+      {
+        "word": "built",
+        "start": 2.74
+      }
+    ]
+  },
+  "01-ask": {
+    "text": "Reports in Rise are made in chat. Just ask for what you need, a monthly performance report, and send it off",
+    "words": [
+      {
+        "word": "reports",
+        "start": 0.179
+      },
+      {
+        "word": "in",
+        "start": 0.639
+      },
+      {
+        "word": "rise",
+        "start": 0.799
+      },
+      {
+        "word": "are",
+        "start": 1.199
+      },
+      {
+        "word": "made",
+        "start": 1.36
+      },
+      {
+        "word": "in",
+        "start": 1.579
+      },
+      {
+        "word": "chat",
+        "start": 1.759
+      },
+      {
+        "word": "just",
+        "start": 2.559
+      },
+      {
+        "word": "ask",
+        "start": 2.819
+      },
+      {
+        "word": "for",
+        "start": 3.059
+      },
+      {
+        "word": "what",
+        "start": 3.179
+      },
+      {
+        "word": "you",
+        "start": 3.339
+      },
+      {
+        "word": "need",
+        "start": 3.5
+      },
+      {
+        "word": "a",
+        "start": 4.139
+      },
+      {
+        "word": "monthly",
+        "start": 4.259
+      },
+      {
+        "word": "performance",
+        "start": 4.659
+      },
+      {
+        "word": "report",
+        "start": 5.179
+      },
+      {
+        "word": "and",
+        "start": 5.879
+      },
+      {
+        "word": "send",
+        "start": 6.139
+      },
+      {
+        "word": "it",
+        "start": 6.339
+      },
+      {
+        "word": "off",
+        "start": 6.5
+      }
+    ]
+  },
+  "03-deck": {
+    "text": "A few minutes later, the report opens next to the conversation. A full deck. Keep scrolling. The score, what's working, what's not, and what to fix first. Every number in here came from your own data",
+    "words": [
+      {
+        "word": "a",
+        "start": 0.079
+      },
+      {
+        "word": "few",
+        "start": 0.219
+      },
+      {
+        "word": "minutes",
+        "start": 0.399
+      },
+      {
+        "word": "later",
+        "start": 0.719
+      },
+      {
+        "word": "the",
+        "start": 1.1
+      },
+      {
+        "word": "report",
+        "start": 1.159
+      },
+      {
+        "word": "opens",
+        "start": 1.639
+      },
+      {
+        "word": "next",
+        "start": 1.979
+      },
+      {
+        "word": "to",
+        "start": 2.22
+      },
+      {
+        "word": "the",
+        "start": 2.319
+      },
+      {
+        "word": "conversation",
+        "start": 2.419
+      },
+      {
+        "word": "a",
+        "start": 3.46
+      },
+      {
+        "word": "full",
+        "start": 3.679
+      },
+      {
+        "word": "deck",
+        "start": 4.139
+      },
+      {
+        "word": "keep",
+        "start": 5.239
+      },
+      {
+        "word": "scrolling",
+        "start": 5.46
+      },
+      {
+        "word": "the",
+        "start": 6.139
+      },
+      {
+        "word": "score",
+        "start": 6.319
+      },
+      {
+        "word": "what's",
+        "start": 6.96
+      },
+      {
+        "word": "working",
+        "start": 7.219
+      },
+      {
+        "word": "what's",
+        "start": 7.719
+      },
+      {
+        "word": "not",
+        "start": 8.019
+      },
+      {
+        "word": "and",
+        "start": 8.38
+      },
+      {
+        "word": "what",
+        "start": 8.579
+      },
+      {
+        "word": "to",
+        "start": 8.739
+      },
+      {
+        "word": "fix",
+        "start": 8.899
+      },
+      {
+        "word": "first",
+        "start": 9.279
+      },
+      {
+        "word": "every",
+        "start": 10.439
+      },
+      {
+        "word": "number",
+        "start": 10.779
+      },
+      {
+        "word": "in",
+        "start": 11.059
+      },
+      {
+        "word": "here",
+        "start": 11.219
+      },
+      {
+        "word": "came",
+        "start": 11.479
+      },
+      {
+        "word": "from",
+        "start": 11.679
+      },
+      {
+        "word": "your",
+        "start": 11.859
+      },
+      {
+        "word": "own",
+        "start": 12.079
+      },
+      {
+        "word": "data",
+        "start": 12.399
+      }
+    ]
+  },
+  "04-dash": {
+    "text": "Want it live instead of a snapshot? Ask for a dashboard. Same numbers, but this one stays connected, so any day you open it, it's current",
+    "words": [
+      {
+        "word": "want",
+        "start": 0.119
+      },
+      {
+        "word": "it",
+        "start": 0.28
+      },
+      {
+        "word": "live",
+        "start": 0.419
+      },
+      {
+        "word": "instead",
+        "start": 0.919
+      },
+      {
+        "word": "of",
+        "start": 1.24
+      },
+      {
+        "word": "a",
+        "start": 1.319
+      },
+      {
+        "word": "snapshot",
+        "start": 1.419
+      },
+      {
+        "word": "ask",
+        "start": 2.359
+      },
+      {
+        "word": "for",
+        "start": 2.659
+      },
+      {
+        "word": "a",
+        "start": 2.799
+      },
+      {
+        "word": "dashboard",
+        "start": 2.899
+      },
+      {
+        "word": "same",
+        "start": 3.939
+      },
+      {
+        "word": "numbers",
+        "start": 4.179
+      },
+      {
+        "word": "but",
+        "start": 4.759
+      },
+      {
+        "word": "this",
+        "start": 4.94
+      },
+      {
+        "word": "one",
+        "start": 5.179
+      },
+      {
+        "word": "stays",
+        "start": 5.38
+      },
+      {
+        "word": "connected",
+        "start": 5.719
+      },
+      {
+        "word": "so",
+        "start": 6.399
+      },
+      {
+        "word": "any",
+        "start": 6.639
+      },
+      {
+        "word": "day",
+        "start": 6.859
+      },
+      {
+        "word": "you",
+        "start": 7.019
+      },
+      {
+        "word": "open",
+        "start": 7.179
+      },
+      {
+        "word": "it",
+        "start": 7.419
+      },
+      {
+        "word": "it's",
+        "start": 7.679
+      },
+      {
+        "word": "current",
+        "start": 7.899
+      }
+    ]
+  },
+  "05-list": {
+    "text": "Everything you build lands in reports, decks, and dashboards in one list with status while they're being made",
+    "words": [
+      {
+        "word": "everything",
+        "start": 0.159
+      },
+      {
+        "word": "you",
+        "start": 0.68
+      },
+      {
+        "word": "build",
+        "start": 0.839
+      },
+      {
+        "word": "lands",
+        "start": 1.24
+      },
+      {
+        "word": "in",
+        "start": 1.579
+      },
+      {
+        "word": "reports",
+        "start": 1.679
+      },
+      {
+        "word": "decks",
+        "start": 2.659
+      },
+      {
+        "word": "and",
+        "start": 3
+      },
+      {
+        "word": "dashboards",
+        "start": 3.139
+      },
+      {
+        "word": "in",
+        "start": 3.759
+      },
+      {
+        "word": "one",
+        "start": 3.919
+      },
+      {
+        "word": "list",
+        "start": 4.079
+      },
+      {
+        "word": "with",
+        "start": 4.599
+      },
+      {
+        "word": "status",
+        "start": 4.859
+      },
+      {
+        "word": "while",
+        "start": 5.42
+      },
+      {
+        "word": "they're",
+        "start": 5.659
+      },
+      {
+        "word": "being",
+        "start": 5.839
+      },
+      {
+        "word": "made",
+        "start": 6.099
+      }
+    ]
+  },
+  "07-close": {
+    "text": "That's reports in Rise. You ask, the agent builds, and it's all waiting in one place",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.079
+      },
+      {
+        "word": "reports",
+        "start": 0.319
+      },
+      {
+        "word": "in",
+        "start": 0.819
+      },
+      {
+        "word": "rise",
+        "start": 1
+      },
+      {
+        "word": "you",
+        "start": 1.919
+      },
+      {
+        "word": "ask",
+        "start": 2.159
+      },
+      {
+        "word": "the",
+        "start": 2.639
+      },
+      {
+        "word": "agent",
+        "start": 2.799
+      },
+      {
+        "word": "builds",
+        "start": 3.139
+      },
+      {
+        "word": "and",
+        "start": 3.779
+      },
+      {
+        "word": "it's",
+        "start": 3.879
+      },
+      {
+        "word": "all",
+        "start": 4.119
+      },
+      {
+        "word": "waiting",
+        "start": 4.319
+      },
+      {
+        "word": "in",
+        "start": 4.639
+      },
+      {
+        "word": "one",
+        "start": 4.839
+      },
+      {
+        "word": "place",
+        "start": 5.039
+      }
+    ]
+  },
+  "02-work": {
+    "text": "The agent pulls everything from your real accounts, Search Console, Analytics, your store, and writes every page itself. You can watch the tools run right in the chat",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.079
+      },
+      {
+        "word": "agent",
+        "start": 0.28
+      },
+      {
+        "word": "pulls",
+        "start": 0.599
+      },
+      {
+        "word": "everything",
+        "start": 0.979
+      },
+      {
+        "word": "from",
+        "start": 1.439
+      },
+      {
+        "word": "your",
+        "start": 1.62
+      },
+      {
+        "word": "real",
+        "start": 1.74
+      },
+      {
+        "word": "accounts",
+        "start": 1.939
+      },
+      {
+        "word": "search",
+        "start": 2.619
+      },
+      {
+        "word": "console",
+        "start": 2.919
+      },
+      {
+        "word": "analytics",
+        "start": 3.5
+      },
+      {
+        "word": "your",
+        "start": 4.279
+      },
+      {
+        "word": "store",
+        "start": 4.48
+      },
+      {
+        "word": "and",
+        "start": 5.139
+      },
+      {
+        "word": "writes",
+        "start": 5.279
+      },
+      {
+        "word": "every",
+        "start": 5.619
+      },
+      {
+        "word": "page",
+        "start": 5.98
+      },
+      {
+        "word": "itself",
+        "start": 6.279
+      },
+      {
+        "word": "you",
+        "start": 7.44
+      },
+      {
+        "word": "can",
+        "start": 7.559
+      },
+      {
+        "word": "watch",
+        "start": 7.759
+      },
+      {
+        "word": "the",
+        "start": 8.059
+      },
+      {
+        "word": "tools",
+        "start": 8.179
+      },
+      {
+        "word": "run",
+        "start": 8.539
+      },
+      {
+        "word": "right",
+        "start": 8.859
+      },
+      {
+        "word": "in",
+        "start": 9
+      },
+      {
+        "word": "the",
+        "start": 9.099
+      },
+      {
+        "word": "chat",
+        "start": 9.239
+      }
+    ]
+  },
+  "06-templates": {
+    "text": "And look, there are report templates too. Open templates, hit report, and pick one. Monthly client decks, live dashboards, audits. One click and the agent builds it for your data",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.079
+      },
+      {
+        "word": "look",
+        "start": 0.239
+      },
+      {
+        "word": "there",
+        "start": 0.699
+      },
+      {
+        "word": "are",
+        "start": 0.879
+      },
+      {
+        "word": "report",
+        "start": 1
+      },
+      {
+        "word": "templates",
+        "start": 1.5
+      },
+      {
+        "word": "too",
+        "start": 1.979
+      },
+      {
+        "word": "open",
+        "start": 3
+      },
+      {
+        "word": "templates",
+        "start": 3.299
+      },
+      {
+        "word": "hit",
+        "start": 4.039
+      },
+      {
+        "word": "report",
+        "start": 4.259
+      },
+      {
+        "word": "and",
+        "start": 4.9
+      },
+      {
+        "word": "pick",
+        "start": 5.059
+      },
+      {
+        "word": "one",
+        "start": 5.319
+      },
+      {
+        "word": "monthly",
+        "start": 6.139
+      },
+      {
+        "word": "client",
+        "start": 6.519
+      },
+      {
+        "word": "decks",
+        "start": 6.859
+      },
+      {
+        "word": "live",
+        "start": 7.539
+      },
+      {
+        "word": "dashboards",
+        "start": 7.819
+      },
+      {
+        "word": "audits",
+        "start": 8.84
+      },
+      {
+        "word": "one",
+        "start": 9.939
+      },
+      {
+        "word": "click",
+        "start": 10.219
+      },
+      {
+        "word": "and",
+        "start": 10.519
+      },
+      {
+        "word": "the",
+        "start": 10.639
+      },
+      {
+        "word": "agent",
+        "start": 10.8
+      },
+      {
+        "word": "builds",
+        "start": 11.159
+      },
+      {
+        "word": "it",
+        "start": 11.42
+      },
+      {
+        "word": "for",
+        "start": 11.579
+      },
+      {
+        "word": "your",
+        "start": 11.8
+      },
+      {
+        "word": "data",
+        "start": 12.059
+      }
+    ]
+  },
+  "05b-detail": {
+    "text": "Open any report and it's yours to use. Download it as a PDF or send it via email straight to a client or your team. And see Update Report? That button opens the agent right here. Ask for a change, and the report updates live in front of you",
+    "words": [
+      {
+        "word": "open",
+        "start": 0.159
+      },
+      {
+        "word": "any",
+        "start": 0.539
+      },
+      {
+        "word": "report",
+        "start": 0.779
+      },
+      {
+        "word": "and",
+        "start": 1.299
+      },
+      {
+        "word": "it's",
+        "start": 1.419
+      },
+      {
+        "word": "yours",
+        "start": 1.62
+      },
+      {
+        "word": "to",
+        "start": 1.899
+      },
+      {
+        "word": "use",
+        "start": 2.079
+      },
+      {
+        "word": "download",
+        "start": 2.96
+      },
+      {
+        "word": "it",
+        "start": 3.379
+      },
+      {
+        "word": "as",
+        "start": 3.519
+      },
+      {
+        "word": "a",
+        "start": 3.659
+      },
+      {
+        "word": "pdf",
+        "start": 3.779
+      },
+      {
+        "word": "or",
+        "start": 4.38
+      },
+      {
+        "word": "send",
+        "start": 4.619
+      },
+      {
+        "word": "it",
+        "start": 4.819
+      },
+      {
+        "word": "via",
+        "start": 4.96
+      },
+      {
+        "word": "email",
+        "start": 5.219
+      },
+      {
+        "word": "straight",
+        "start": 5.96
+      },
+      {
+        "word": "to",
+        "start": 6.279
+      },
+      {
+        "word": "a",
+        "start": 6.399
+      },
+      {
+        "word": "client",
+        "start": 6.5
+      },
+      {
+        "word": "or",
+        "start": 6.899
+      },
+      {
+        "word": "your",
+        "start": 7.059
+      },
+      {
+        "word": "team",
+        "start": 7.219
+      },
+      {
+        "word": "and",
+        "start": 8.099
+      },
+      {
+        "word": "see",
+        "start": 8.34
+      },
+      {
+        "word": "update",
+        "start": 8.659
+      },
+      {
+        "word": "report",
+        "start": 9.039
+      },
+      {
+        "word": "that",
+        "start": 9.979
+      },
+      {
+        "word": "button",
+        "start": 10.239
+      },
+      {
+        "word": "opens",
+        "start": 10.619
+      },
+      {
+        "word": "the",
+        "start": 10.899
+      },
+      {
+        "word": "agent",
+        "start": 11.099
+      },
+      {
+        "word": "right",
+        "start": 11.519
+      },
+      {
+        "word": "here",
+        "start": 11.8
+      },
+      {
+        "word": "ask",
+        "start": 12.539
+      },
+      {
+        "word": "for",
+        "start": 12.84
+      },
+      {
+        "word": "a",
+        "start": 12.939
+      },
+      {
+        "word": "change",
+        "start": 13.079
+      },
+      {
+        "word": "and",
+        "start": 13.699
+      },
+      {
+        "word": "the",
+        "start": 13.819
+      },
+      {
+        "word": "report",
+        "start": 13.899
+      },
+      {
+        "word": "updates",
+        "start": 14.38
+      },
+      {
+        "word": "live",
+        "start": 14.92
+      },
+      {
+        "word": "in",
+        "start": 15.319
+      },
+      {
+        "word": "front",
+        "start": 15.519
+      },
+      {
+        "word": "of",
+        "start": 15.699
+      },
+      {
+        "word": "you",
+        "start": 15.859
+      }
+    ]
+  }
+}

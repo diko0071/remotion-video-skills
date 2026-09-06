@@ -1,0 +1,76 @@
+.cal-shell { border-radius: var(--radius-xl); border: 1px solid var(--border); background: var(--card); overflow: hidden; }
+
+.cal-head {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px;
+  border-bottom: 1px solid var(--border); padding: 14px 16px;
+}
+.cal-headleft { display: flex; align-items: center; gap: 12px; }
+.cal-chip {
+  width: 44px; flex: none; display: flex; flex-direction: column; overflow: hidden;
+  border-radius: var(--radius-lg); border: 1px solid var(--border);
+  box-shadow: 0 1px 2px rgba(74,53,29,0.06);
+}
+.cal-chip .m { background: var(--primary); color: var(--primary-foreground); text-align: center; padding: 1px 0; font-size: 9px; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; }
+.cal-chip .d { background: var(--card); text-align: center; padding: 2px 0; font-size: 14px; font-weight: 600; color: var(--foreground); font-variant-numeric: tabular-nums; }
+.cal-title { font-size: 16px; font-weight: 600; color: var(--foreground); line-height: 1.25; }
+.cal-range { font-size: 12px; color: var(--muted-foreground); font-variant-numeric: tabular-nums; }
+.cal-headright { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.cal-tabs { display: inline-flex; width: fit-content; align-items: center; justify-content: center; height: 32px; border-radius: var(--radius-lg); background: var(--muted); padding: 3px; }
+.cal-tabs .t {
+  display: inline-flex; flex: 1 1 0%; align-items: center; justify-content: center;
+  height: calc(100% - 1px); border: 1px solid transparent; border-radius: var(--radius-md);
+  padding: 2px 6px; font-size: 14px; font-weight: 500; white-space: nowrap;
+  color: color-mix(in oklab, var(--foreground) 60%, transparent);
+}
+.cal-tabs .t.on { background: var(--background); color: var(--foreground); box-shadow: 0 1px 3px rgba(74,53,29,0.10), 0 1px 2px -1px rgba(74,53,29,0.10); }
+.cal-nav { display: inline-flex; align-items: center; gap: 4px; }
+.cal-nav .nb {
+  display: inline-flex; align-items: center; justify-content: center;
+  height: 28px; min-width: 28px; padding: 0 10px;
+  border-radius: var(--radius-md); border: 1px solid var(--border); background: var(--background);
+  font-size: 12.8px; font-weight: 500; color: var(--foreground);
+}
+.cal-nav .nb.icon { padding: 0; }
+.cal-nav .nb svg { width: 14px; height: 14px; }
+
+.cal-week {
+  display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px;
+  min-height: calc(100vh - 304px);
+  background: color-mix(in oklab, var(--muted) 40%, transparent); padding: 10px;
+}
+.cal-col { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.cal-colhead {
+  display: flex; align-items: baseline; gap: 6px; padding: 4px 4px 0;
+  font-size: 12px; font-weight: 600; color: var(--foreground);
+}
+.cal-colhead.today { color: var(--primary); }
+.cal-colhead .n { font-weight: 400; color: var(--muted-foreground); }
+
+.cal-card {
+  display: flex; flex-direction: column; overflow: hidden;
+  border-radius: var(--radius-md); border: 1px solid color-mix(in oklab, var(--border) 70%, transparent);
+  background: var(--card); box-shadow: 0 1px 2px rgba(74,53,29,0.06);
+}
+.cal-card-img { position: relative; width: 100%; aspect-ratio: 16 / 9; background: var(--muted); }
+.cal-card-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.cal-badge {
+  position: absolute; left: 6px; top: 6px;
+  display: inline-flex; align-items: center; gap: 4px;
+  border-radius: 4px; background: rgba(0,0,0,0.55); padding: 2px 6px;
+  font-size: 10px; font-weight: 500; color: #fff; backdrop-filter: blur(8px);
+}
+.cal-badge i, .cal-card-status i { width: 6px; height: 6px; border-radius: 9999px; flex: none; }
+.cal-badge.published i, .cal-card-status.published i { background: #10b981; }
+.cal-badge.drafted i, .cal-card-status.drafted i { background: #f59e0b; }
+.cal-badge.planned i, .cal-card-status.planned i { background: #94a3b8; }
+
+.cal-card-body { display: flex; flex: 1 1 0%; flex-direction: column; gap: 6px; padding: 10px; min-width: 0; }
+.cal-card-title {
+  font-size: 13px; font-weight: 500; line-height: 1.375; color: var(--foreground);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.cal-card-status { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 500; color: var(--muted-foreground); }
+.cal-card-status.drafted { color: #b45309; }
+.cal-card-status.published { color: var(--emerald-700); }
+
+.cal-slot { min-height: 64px; flex: 1; border-radius: var(--radius-md); border: 1px dashed color-mix(in oklab, var(--border) 60%, transparent); }

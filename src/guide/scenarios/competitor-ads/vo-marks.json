@@ -1,0 +1,1010 @@
+{
+  "00-title": {
+    "text": "Your competitors already found the ads that work. Here's how to see them",
+    "words": [
+      {
+        "word": "your",
+        "start": 0.099
+      },
+      {
+        "word": "competitors",
+        "start": 0.299
+      },
+      {
+        "word": "already",
+        "start": 0.899
+      },
+      {
+        "word": "found",
+        "start": 1.279
+      },
+      {
+        "word": "the",
+        "start": 1.539
+      },
+      {
+        "word": "ads",
+        "start": 1.679
+      },
+      {
+        "word": "that",
+        "start": 1.899
+      },
+      {
+        "word": "work",
+        "start": 2.059
+      },
+      {
+        "word": "here's",
+        "start": 2.72
+      },
+      {
+        "word": "how",
+        "start": 2.98
+      },
+      {
+        "word": "to",
+        "start": 3.139
+      },
+      {
+        "word": "see",
+        "start": 3.279
+      },
+      {
+        "word": "them",
+        "start": 3.439
+      }
+    ]
+  },
+  "01-explore": {
+    "text": "This is Competitor Ads, a live wall of real ads running in your industry right now",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.079
+      },
+      {
+        "word": "is",
+        "start": 0.459
+      },
+      {
+        "word": "competitor",
+        "start": 0.639
+      },
+      {
+        "word": "ads",
+        "start": 1.24
+      },
+      {
+        "word": "a",
+        "start": 2.039
+      },
+      {
+        "word": "live",
+        "start": 2.079
+      },
+      {
+        "word": "wall",
+        "start": 2.46
+      },
+      {
+        "word": "of",
+        "start": 2.779
+      },
+      {
+        "word": "real",
+        "start": 3.039
+      },
+      {
+        "word": "ads",
+        "start": 3.359
+      },
+      {
+        "word": "running",
+        "start": 3.72
+      },
+      {
+        "word": "in",
+        "start": 3.98
+      },
+      {
+        "word": "your",
+        "start": 4.099
+      },
+      {
+        "word": "industry",
+        "start": 4.319
+      },
+      {
+        "word": "right",
+        "start": 4.96
+      },
+      {
+        "word": "now",
+        "start": 5.239
+      }
+    ]
+  },
+  "02-filter": {
+    "text": "Slice it any way you like. One industry, one platform, only image ads, or only the plain text ones from search",
+    "words": [
+      {
+        "word": "slice",
+        "start": 0.079
+      },
+      {
+        "word": "it",
+        "start": 0.459
+      },
+      {
+        "word": "any",
+        "start": 0.639
+      },
+      {
+        "word": "way",
+        "start": 0.899
+      },
+      {
+        "word": "you",
+        "start": 1.019
+      },
+      {
+        "word": "like",
+        "start": 1.24
+      },
+      {
+        "word": "one",
+        "start": 2
+      },
+      {
+        "word": "industry",
+        "start": 2.18
+      },
+      {
+        "word": "one",
+        "start": 3.119
+      },
+      {
+        "word": "platform",
+        "start": 3.319
+      },
+      {
+        "word": "only",
+        "start": 4.239
+      },
+      {
+        "word": "image",
+        "start": 4.5
+      },
+      {
+        "word": "ads",
+        "start": 4.839
+      },
+      {
+        "word": "or",
+        "start": 5.44
+      },
+      {
+        "word": "only",
+        "start": 5.779
+      },
+      {
+        "word": "the",
+        "start": 6.039
+      },
+      {
+        "word": "plain",
+        "start": 6.179
+      },
+      {
+        "word": "text",
+        "start": 6.519
+      },
+      {
+        "word": "ones",
+        "start": 6.899
+      },
+      {
+        "word": "from",
+        "start": 7.099
+      },
+      {
+        "word": "search",
+        "start": 7.299
+      }
+    ]
+  },
+  "03-tracked": {
+    "text": "But the real power is tracking specific competitors. Open the Tracked tab. Rise already found the brands running ads in your space",
+    "words": [
+      {
+        "word": "but",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.259
+      },
+      {
+        "word": "real",
+        "start": 0.419
+      },
+      {
+        "word": "power",
+        "start": 0.699
+      },
+      {
+        "word": "is",
+        "start": 1.139
+      },
+      {
+        "word": "tracking",
+        "start": 1.339
+      },
+      {
+        "word": "specific",
+        "start": 1.739
+      },
+      {
+        "word": "competitors",
+        "start": 2.48
+      },
+      {
+        "word": "open",
+        "start": 3.72
+      },
+      {
+        "word": "the",
+        "start": 4.019
+      },
+      {
+        "word": "tracked",
+        "start": 4.159
+      },
+      {
+        "word": "tab",
+        "start": 4.559
+      },
+      {
+        "word": "rise",
+        "start": 5.299
+      },
+      {
+        "word": "already",
+        "start": 5.699
+      },
+      {
+        "word": "found",
+        "start": 6.039
+      },
+      {
+        "word": "the",
+        "start": 6.279
+      },
+      {
+        "word": "brands",
+        "start": 6.359
+      },
+      {
+        "word": "running",
+        "start": 6.719
+      },
+      {
+        "word": "ads",
+        "start": 7.039
+      },
+      {
+        "word": "in",
+        "start": 7.219
+      },
+      {
+        "word": "your",
+        "start": 7.339
+      },
+      {
+        "word": "space",
+        "start": 7.46
+      }
+    ]
+  },
+  "04-pick": {
+    "text": "Pick the ones you care about and track them",
+    "words": [
+      {
+        "word": "pick",
+        "start": 0.079
+      },
+      {
+        "word": "the",
+        "start": 0.3
+      },
+      {
+        "word": "ones",
+        "start": 0.459
+      },
+      {
+        "word": "you",
+        "start": 0.719
+      },
+      {
+        "word": "care",
+        "start": 0.739
+      },
+      {
+        "word": "about",
+        "start": 0.979
+      },
+      {
+        "word": "and",
+        "start": 1.36
+      },
+      {
+        "word": "track",
+        "start": 1.5
+      },
+      {
+        "word": "them",
+        "start": 1.799
+      }
+    ]
+  },
+  "05-wall": {
+    "text": "From now on, their ads live here. Every campaign they launch, every creative they test, synced automatically",
+    "words": [
+      {
+        "word": "from",
+        "start": 0.099
+      },
+      {
+        "word": "now",
+        "start": 0.3
+      },
+      {
+        "word": "on",
+        "start": 0.639
+      },
+      {
+        "word": "their",
+        "start": 1
+      },
+      {
+        "word": "ads",
+        "start": 1.319
+      },
+      {
+        "word": "live",
+        "start": 1.759
+      },
+      {
+        "word": "here",
+        "start": 2.019
+      },
+      {
+        "word": "every",
+        "start": 2.72
+      },
+      {
+        "word": "campaign",
+        "start": 3.059
+      },
+      {
+        "word": "they",
+        "start": 3.5
+      },
+      {
+        "word": "launch",
+        "start": 3.679
+      },
+      {
+        "word": "every",
+        "start": 4.239
+      },
+      {
+        "word": "creative",
+        "start": 4.639
+      },
+      {
+        "word": "they",
+        "start": 5.099
+      },
+      {
+        "word": "test",
+        "start": 5.239
+      },
+      {
+        "word": "synced",
+        "start": 5.9
+      },
+      {
+        "word": "automatically",
+        "start": 6.319
+      }
+    ]
+  },
+  "06-brand": {
+    "text": "Click a brand to see just their playbook",
+    "words": [
+      {
+        "word": "click",
+        "start": 0.119
+      },
+      {
+        "word": "a",
+        "start": 0.319
+      },
+      {
+        "word": "brand",
+        "start": 0.399
+      },
+      {
+        "word": "to",
+        "start": 0.859
+      },
+      {
+        "word": "see",
+        "start": 1.019
+      },
+      {
+        "word": "just",
+        "start": 1.279
+      },
+      {
+        "word": "their",
+        "start": 1.599
+      },
+      {
+        "word": "playbook",
+        "start": 1.839
+      }
+    ]
+  },
+  "07-lightbox": {
+    "text": "And here's the trick most people miss. Open any ad and look at one number, how long it's been running. Ninety-one days. Nobody pays for a losing ad for three months. If it's still running, it's making money",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "here's",
+        "start": 0.28
+      },
+      {
+        "word": "the",
+        "start": 0.539
+      },
+      {
+        "word": "trick",
+        "start": 0.659
+      },
+      {
+        "word": "most",
+        "start": 1
+      },
+      {
+        "word": "people",
+        "start": 1.22
+      },
+      {
+        "word": "miss",
+        "start": 1.539
+      },
+      {
+        "word": "open",
+        "start": 2.399
+      },
+      {
+        "word": "any",
+        "start": 2.759
+      },
+      {
+        "word": "ad",
+        "start": 3.079
+      },
+      {
+        "word": "and",
+        "start": 3.339
+      },
+      {
+        "word": "look",
+        "start": 3.539
+      },
+      {
+        "word": "at",
+        "start": 3.779
+      },
+      {
+        "word": "one",
+        "start": 4.079
+      },
+      {
+        "word": "number",
+        "start": 4.279
+      },
+      {
+        "word": "how",
+        "start": 4.98
+      },
+      {
+        "word": "long",
+        "start": 5.239
+      },
+      {
+        "word": "it's",
+        "start": 5.559
+      },
+      {
+        "word": "been",
+        "start": 5.739
+      },
+      {
+        "word": "running",
+        "start": 5.9
+      },
+      {
+        "word": "ninetyone",
+        "start": 6.759
+      },
+      {
+        "word": "days",
+        "start": 7.639
+      },
+      {
+        "word": "nobody",
+        "start": 8.5
+      },
+      {
+        "word": "pays",
+        "start": 9
+      },
+      {
+        "word": "for",
+        "start": 9.319
+      },
+      {
+        "word": "a",
+        "start": 9.439
+      },
+      {
+        "word": "losing",
+        "start": 9.559
+      },
+      {
+        "word": "ad",
+        "start": 10.059
+      },
+      {
+        "word": "for",
+        "start": 10.3
+      },
+      {
+        "word": "three",
+        "start": 10.5
+      },
+      {
+        "word": "months",
+        "start": 10.8
+      },
+      {
+        "word": "if",
+        "start": 11.539
+      },
+      {
+        "word": "it's",
+        "start": 11.699
+      },
+      {
+        "word": "still",
+        "start": 11.92
+      },
+      {
+        "word": "running",
+        "start": 12.159
+      },
+      {
+        "word": "it's",
+        "start": 12.739
+      },
+      {
+        "word": "making",
+        "start": 12.96
+      },
+      {
+        "word": "money",
+        "start": 13.299
+      }
+    ]
+  },
+  "08-generate": {
+    "text": "So don't just admire it. Hit Generate Similar, and the agent drafts your own version of that proven ad in your brand style with your product",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "don't",
+        "start": 0.319
+      },
+      {
+        "word": "just",
+        "start": 0.62
+      },
+      {
+        "word": "admire",
+        "start": 0.819
+      },
+      {
+        "word": "it",
+        "start": 1.279
+      },
+      {
+        "word": "hit",
+        "start": 1.699
+      },
+      {
+        "word": "generate",
+        "start": 2.039
+      },
+      {
+        "word": "similar",
+        "start": 2.519
+      },
+      {
+        "word": "and",
+        "start": 3.199
+      },
+      {
+        "word": "the",
+        "start": 3.339
+      },
+      {
+        "word": "agent",
+        "start": 3.519
+      },
+      {
+        "word": "drafts",
+        "start": 3.859
+      },
+      {
+        "word": "your",
+        "start": 4.279
+      },
+      {
+        "word": "own",
+        "start": 4.48
+      },
+      {
+        "word": "version",
+        "start": 4.699
+      },
+      {
+        "word": "of",
+        "start": 5.099
+      },
+      {
+        "word": "that",
+        "start": 5.239
+      },
+      {
+        "word": "proven",
+        "start": 5.48
+      },
+      {
+        "word": "ad",
+        "start": 6
+      },
+      {
+        "word": "in",
+        "start": 6.399
+      },
+      {
+        "word": "your",
+        "start": 6.579
+      },
+      {
+        "word": "brand",
+        "start": 6.759
+      },
+      {
+        "word": "style",
+        "start": 7.119
+      },
+      {
+        "word": "with",
+        "start": 7.759
+      },
+      {
+        "word": "your",
+        "start": 7.98
+      },
+      {
+        "word": "product",
+        "start": 8.179
+      }
+    ]
+  },
+  "09-alerts": {
+    "text": "One last thing, turn on alerts for a competitor. Enable, and the day they launch something new, you get an email",
+    "words": [
+      {
+        "word": "one",
+        "start": 0.14
+      },
+      {
+        "word": "last",
+        "start": 0.299
+      },
+      {
+        "word": "thing",
+        "start": 0.579
+      },
+      {
+        "word": "turn",
+        "start": 1.179
+      },
+      {
+        "word": "on",
+        "start": 1.5
+      },
+      {
+        "word": "alerts",
+        "start": 1.719
+      },
+      {
+        "word": "for",
+        "start": 2.22
+      },
+      {
+        "word": "a",
+        "start": 2.359
+      },
+      {
+        "word": "competitor",
+        "start": 2.44
+      },
+      {
+        "word": "enable",
+        "start": 3.539
+      },
+      {
+        "word": "and",
+        "start": 4.179
+      },
+      {
+        "word": "the",
+        "start": 4.319
+      },
+      {
+        "word": "day",
+        "start": 4.44
+      },
+      {
+        "word": "they",
+        "start": 4.639
+      },
+      {
+        "word": "launch",
+        "start": 4.819
+      },
+      {
+        "word": "something",
+        "start": 5.099
+      },
+      {
+        "word": "new",
+        "start": 5.5
+      },
+      {
+        "word": "you",
+        "start": 6.059
+      },
+      {
+        "word": "get",
+        "start": 6.239
+      },
+      {
+        "word": "an",
+        "start": 6.48
+      },
+      {
+        "word": "email",
+        "start": 6.639
+      }
+    ]
+  },
+  "10-close": {
+    "text": "So watch the whole market, track the brands that matter, and turn their winning ads into yours. They do the testing, you take the results",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "watch",
+        "start": 0.579
+      },
+      {
+        "word": "the",
+        "start": 0.939
+      },
+      {
+        "word": "whole",
+        "start": 1.059
+      },
+      {
+        "word": "market",
+        "start": 1.259
+      },
+      {
+        "word": "track",
+        "start": 1.839
+      },
+      {
+        "word": "the",
+        "start": 2.18
+      },
+      {
+        "word": "brands",
+        "start": 2.299
+      },
+      {
+        "word": "that",
+        "start": 2.659
+      },
+      {
+        "word": "matter",
+        "start": 2.799
+      },
+      {
+        "word": "and",
+        "start": 3.399
+      },
+      {
+        "word": "turn",
+        "start": 3.559
+      },
+      {
+        "word": "their",
+        "start": 3.919
+      },
+      {
+        "word": "winning",
+        "start": 4.239
+      },
+      {
+        "word": "ads",
+        "start": 4.659
+      },
+      {
+        "word": "into",
+        "start": 5.079
+      },
+      {
+        "word": "yours",
+        "start": 5.359
+      },
+      {
+        "word": "they",
+        "start": 6.299
+      },
+      {
+        "word": "do",
+        "start": 6.519
+      },
+      {
+        "word": "the",
+        "start": 6.679
+      },
+      {
+        "word": "testing",
+        "start": 6.819
+      },
+      {
+        "word": "you",
+        "start": 7.639
+      },
+      {
+        "word": "take",
+        "start": 8
+      },
+      {
+        "word": "the",
+        "start": 8.199
+      },
+      {
+        "word": "results",
+        "start": 8.34
+      }
+    ]
+  },
+  "01b-scroll": {
+    "text": "Keep scrolling. There are over a hundred thousand live ads in here pulled from Google and Meta and refreshed every day",
+    "words": [
+      {
+        "word": "keep",
+        "start": 0.14
+      },
+      {
+        "word": "scrolling",
+        "start": 0.34
+      },
+      {
+        "word": "there",
+        "start": 1.059
+      },
+      {
+        "word": "are",
+        "start": 1.179
+      },
+      {
+        "word": "over",
+        "start": 1.399
+      },
+      {
+        "word": "a",
+        "start": 1.819
+      },
+      {
+        "word": "hundred",
+        "start": 1.86
+      },
+      {
+        "word": "thousand",
+        "start": 2.279
+      },
+      {
+        "word": "live",
+        "start": 2.74
+      },
+      {
+        "word": "ads",
+        "start": 3.019
+      },
+      {
+        "word": "in",
+        "start": 3.24
+      },
+      {
+        "word": "here",
+        "start": 3.379
+      },
+      {
+        "word": "pulled",
+        "start": 3.919
+      },
+      {
+        "word": "from",
+        "start": 4.179
+      },
+      {
+        "word": "google",
+        "start": 4.36
+      },
+      {
+        "word": "and",
+        "start": 4.739
+      },
+      {
+        "word": "meta",
+        "start": 4.859
+      },
+      {
+        "word": "and",
+        "start": 5.319
+      },
+      {
+        "word": "refreshed",
+        "start": 5.48
+      },
+      {
+        "word": "every",
+        "start": 6.099
+      },
+      {
+        "word": "day",
+        "start": 6.399
+      }
+    ]
+  }
+}

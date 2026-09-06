@@ -1,0 +1,12 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    { "key": "00-title", "text": "Ryze in ninety seconds." },
+    { "key": "01-connect", "text": "This is Ryze — your marketing on autopilot. Connect your accounts once — analytics, your website, your ad platforms — and the agent takes it from there." },
+    { "key": "02-agent", "text": "The agent can set up everything for you: dashboards, campaigns, content. You ask — it builds." },
+    { "key": "03-paid", "text": "For your paid side: one dashboard for Google and Meta. And with the agent you launch campaigns, make creatives, borrow ideas from templates, and watch your competitors' ads." },
+    { "key": "04-organic", "text": "And for organic — its own dashboard, SEO and GEO side by side. Content gets written and published on schedule, and a technical audit keeps watch over your whole site." },
+    { "key": "05-close", "text": "[warm] So it goes: connect once, ask the agent, and your marketing starts moving — paid and organic, in one place. See you in the deep-dive guides." }
+  ]
+}

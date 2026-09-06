@@ -1,0 +1,237 @@
+.ce-wrap {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 55% 45% at 50% 34%, rgba(210, 169, 107, 0.16) 0%, rgba(193, 151, 103, 0.07) 42%, transparent 72%),
+    var(--background);
+}
+.ce-stage {
+  position: relative;
+  display: grid;
+  grid-template-rows: minmax(min-content, 1fr) auto minmax(0, 1fr);
+  width: 100%;
+  max-width: 75rem;
+  padding: 16px 24px 0;
+}
+.ce-hero-slot {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 34px;
+}
+.ce-hero {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: -0.028em;
+  color: var(--foreground);
+  white-space: nowrap;
+}
+.ce-hero-line {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.ce-verb {
+  position: relative;
+}
+.ce-underline {
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  bottom: 3px;
+  height: 4px;
+  border-radius: 3px;
+  background: var(--brand);
+  opacity: 0.85;
+}
+.ce-fan {
+  position: relative;
+  width: 150px;
+  height: 70px;
+  flex-shrink: 0;
+}
+.ce-fan-slot {
+  position: absolute;
+  top: 12px;
+  width: 46px;
+  height: 46px;
+}
+.ce-fan-slot:nth-child(1) { rotate: -5deg; }
+.ce-fan-slot:nth-child(3) { rotate: 5deg; }
+.ce-fan-tile {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 11px;
+  border: 2px solid #fff;
+  background: var(--card, #fff);
+  box-shadow: 0 4px 12px rgba(74, 53, 29, 0.22);
+}
+.ce-fan-tile img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+.ce-input-slot {
+  position: relative;
+  z-index: 2;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 48rem;
+}
+.ce-draft-shelf {
+  position: relative;
+  z-index: -1;
+  margin: -26px 26px 0;
+}
+.ce-draft-inner {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--border);
+  border-top: 0;
+  border-radius: 0 0 16px 16px;
+  background: rgba(240, 236, 227, 0.6);
+  padding: 36px 12px 10px;
+}
+.ce-chip {
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(20, 16, 10, 0.55);
+}
+.ce-chip.on {
+  background: var(--foreground);
+  color: var(--background);
+  padding: 8px 14px;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.25);
+}
+.ce-chip-icon {
+  display: flex;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.ce-chip-icon svg {
+  width: 16px;
+  height: 16px;
+}
+.ce-chip-label {
+  padding-left: 8px;
+  white-space: nowrap;
+}
+.ce-shelf {
+  min-height: 0;
+  overflow: hidden;
+  padding-top: 30px;
+}
+.ce-shelf-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+.ce-shelf-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--foreground);
+}
+.ce-shelf-all {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted-foreground);
+}
+.ce-shelf-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+.ce-card {
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card, #fff);
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.05);
+}
+.ce-card-cover {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #f4f1e8;
+}
+.ce-card-cover > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.ce-card-badge {
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 6px;
+  border: 1px solid rgba(20, 16, 10, 0.08);
+  background: rgba(255, 255, 255, 0.94);
+  padding: 4px 8px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--foreground);
+}
+.ce-card-badge-icons {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.ce-badge-logo {
+  width: 13px;
+  height: 13px;
+  object-fit: contain;
+}
+.ce-layers {
+  display: flex;
+  width: 13px;
+  height: 13px;
+  color: var(--muted-foreground);
+}
+.ce-layers svg {
+  width: 13px;
+  height: 13px;
+}
+.ce-card-body {
+  padding: 10px 12px 12px;
+}
+.ce-card-title {
+  font-size: 13.5px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--foreground);
+}
+.ce-card-desc {
+  margin-top: 3px;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--muted-foreground);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

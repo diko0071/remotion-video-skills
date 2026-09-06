@@ -1,0 +1,1166 @@
+{
+  "00-title": {
+    "text": "No CMS, no developer, no problem. Rise can host your whole blog. Here's the blog studio",
+    "words": [
+      {
+        "word": "no",
+        "start": 0.119
+      },
+      {
+        "word": "cms",
+        "start": 0.359
+      },
+      {
+        "word": "no",
+        "start": 1.12
+      },
+      {
+        "word": "developer",
+        "start": 1.279
+      },
+      {
+        "word": "no",
+        "start": 2.159
+      },
+      {
+        "word": "problem",
+        "start": 2.359
+      },
+      {
+        "word": "rise",
+        "start": 3.299
+      },
+      {
+        "word": "can",
+        "start": 3.659
+      },
+      {
+        "word": "host",
+        "start": 3.799
+      },
+      {
+        "word": "your",
+        "start": 4.099
+      },
+      {
+        "word": "whole",
+        "start": 4.319
+      },
+      {
+        "word": "blog",
+        "start": 4.519
+      },
+      {
+        "word": "here's",
+        "start": 5.46
+      },
+      {
+        "word": "the",
+        "start": 5.799
+      },
+      {
+        "word": "blog",
+        "start": 5.879
+      },
+      {
+        "word": "studio",
+        "start": 6.219
+      }
+    ]
+  },
+  "01-studio": {
+    "text": "This is your blog, a real live site. Rise hosts it for you on a free subdomain or on your own domain. That's it in the corner. Every article from your content plan publishes straight onto it",
+    "words": [
+      {
+        "word": "this",
+        "start": 0.099
+      },
+      {
+        "word": "is",
+        "start": 0.379
+      },
+      {
+        "word": "your",
+        "start": 0.519
+      },
+      {
+        "word": "blog",
+        "start": 0.659
+      },
+      {
+        "word": "a",
+        "start": 1.279
+      },
+      {
+        "word": "real",
+        "start": 1.439
+      },
+      {
+        "word": "live",
+        "start": 1.979
+      },
+      {
+        "word": "site",
+        "start": 2.339
+      },
+      {
+        "word": "rise",
+        "start": 3.319
+      },
+      {
+        "word": "hosts",
+        "start": 3.659
+      },
+      {
+        "word": "it",
+        "start": 3.879
+      },
+      {
+        "word": "for",
+        "start": 4.019
+      },
+      {
+        "word": "you",
+        "start": 4.179
+      },
+      {
+        "word": "on",
+        "start": 4.4
+      },
+      {
+        "word": "a",
+        "start": 4.599
+      },
+      {
+        "word": "free",
+        "start": 4.639
+      },
+      {
+        "word": "subdomain",
+        "start": 4.9
+      },
+      {
+        "word": "or",
+        "start": 5.639
+      },
+      {
+        "word": "on",
+        "start": 5.859
+      },
+      {
+        "word": "your",
+        "start": 5.98
+      },
+      {
+        "word": "own",
+        "start": 6.119
+      },
+      {
+        "word": "domain",
+        "start": 6.259
+      },
+      {
+        "word": "that's",
+        "start": 7.019
+      },
+      {
+        "word": "it",
+        "start": 7.299
+      },
+      {
+        "word": "in",
+        "start": 7.46
+      },
+      {
+        "word": "the",
+        "start": 7.559
+      },
+      {
+        "word": "corner",
+        "start": 7.699
+      },
+      {
+        "word": "every",
+        "start": 9.079
+      },
+      {
+        "word": "article",
+        "start": 9.38
+      },
+      {
+        "word": "from",
+        "start": 9.779
+      },
+      {
+        "word": "your",
+        "start": 9.939
+      },
+      {
+        "word": "content",
+        "start": 10.099
+      },
+      {
+        "word": "plan",
+        "start": 10.559
+      },
+      {
+        "word": "publishes",
+        "start": 10.92
+      },
+      {
+        "word": "straight",
+        "start": 11.5
+      },
+      {
+        "word": "onto",
+        "start": 11.8
+      },
+      {
+        "word": "it",
+        "start": 12.119
+      }
+    ]
+  },
+  "02-design": {
+    "text": "And you design it right here. No code. Themes, colors, fonts, corners, layout. Watch. One click and the whole blog goes dark",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "you",
+        "start": 0.259
+      },
+      {
+        "word": "design",
+        "start": 0.34
+      },
+      {
+        "word": "it",
+        "start": 0.759
+      },
+      {
+        "word": "right",
+        "start": 0.939
+      },
+      {
+        "word": "here",
+        "start": 1.179
+      },
+      {
+        "word": "no",
+        "start": 1.699
+      },
+      {
+        "word": "code",
+        "start": 1.919
+      },
+      {
+        "word": "themes",
+        "start": 2.879
+      },
+      {
+        "word": "colors",
+        "start": 3.439
+      },
+      {
+        "word": "fonts",
+        "start": 4.119
+      },
+      {
+        "word": "corners",
+        "start": 4.719
+      },
+      {
+        "word": "layout",
+        "start": 5.319
+      },
+      {
+        "word": "watch",
+        "start": 6.159
+      },
+      {
+        "word": "one",
+        "start": 7.44
+      },
+      {
+        "word": "click",
+        "start": 7.659
+      },
+      {
+        "word": "and",
+        "start": 8.019
+      },
+      {
+        "word": "the",
+        "start": 8.139
+      },
+      {
+        "word": "whole",
+        "start": 8.319
+      },
+      {
+        "word": "blog",
+        "start": 8.559
+      },
+      {
+        "word": "goes",
+        "start": 8.96
+      },
+      {
+        "word": "dark",
+        "start": 9.239
+      }
+    ]
+  },
+  "03-match": {
+    "text": "Better yet, don't design it at all. Hit Match my website style and watch. The agent opens, visits your live site, reads your colors, your fonts, your header and footer, and rebuilds the blog to match right in front of you. Your readers never notice they change domains",
+    "words": [
+      {
+        "word": "better",
+        "start": 0.119
+      },
+      {
+        "word": "yet",
+        "start": 0.379
+      },
+      {
+        "word": "don't",
+        "start": 0.839
+      },
+      {
+        "word": "design",
+        "start": 1.039
+      },
+      {
+        "word": "it",
+        "start": 1.379
+      },
+      {
+        "word": "at",
+        "start": 1.5
+      },
+      {
+        "word": "all",
+        "start": 1.679
+      },
+      {
+        "word": "hit",
+        "start": 2.48
+      },
+      {
+        "word": "match",
+        "start": 2.819
+      },
+      {
+        "word": "my",
+        "start": 3.159
+      },
+      {
+        "word": "website",
+        "start": 3.319
+      },
+      {
+        "word": "style",
+        "start": 3.759
+      },
+      {
+        "word": "and",
+        "start": 4.299
+      },
+      {
+        "word": "watch",
+        "start": 4.48
+      },
+      {
+        "word": "the",
+        "start": 5.5
+      },
+      {
+        "word": "agent",
+        "start": 5.679
+      },
+      {
+        "word": "opens",
+        "start": 6.059
+      },
+      {
+        "word": "visits",
+        "start": 6.659
+      },
+      {
+        "word": "your",
+        "start": 7.019
+      },
+      {
+        "word": "live",
+        "start": 7.159
+      },
+      {
+        "word": "site",
+        "start": 7.419
+      },
+      {
+        "word": "reads",
+        "start": 7.94
+      },
+      {
+        "word": "your",
+        "start": 8.159
+      },
+      {
+        "word": "colors",
+        "start": 8.319
+      },
+      {
+        "word": "your",
+        "start": 8.92
+      },
+      {
+        "word": "fonts",
+        "start": 9.139
+      },
+      {
+        "word": "your",
+        "start": 9.639
+      },
+      {
+        "word": "header",
+        "start": 9.78
+      },
+      {
+        "word": "and",
+        "start": 10.039
+      },
+      {
+        "word": "footer",
+        "start": 10.239
+      },
+      {
+        "word": "and",
+        "start": 10.899
+      },
+      {
+        "word": "rebuilds",
+        "start": 11.159
+      },
+      {
+        "word": "the",
+        "start": 11.719
+      },
+      {
+        "word": "blog",
+        "start": 11.8
+      },
+      {
+        "word": "to",
+        "start": 12.139
+      },
+      {
+        "word": "match",
+        "start": 12.259
+      },
+      {
+        "word": "right",
+        "start": 12.859
+      },
+      {
+        "word": "in",
+        "start": 13.079
+      },
+      {
+        "word": "front",
+        "start": 13.259
+      },
+      {
+        "word": "of",
+        "start": 13.42
+      },
+      {
+        "word": "you",
+        "start": 13.579
+      },
+      {
+        "word": "your",
+        "start": 14.299
+      },
+      {
+        "word": "readers",
+        "start": 14.439
+      },
+      {
+        "word": "never",
+        "start": 15.039
+      },
+      {
+        "word": "notice",
+        "start": 15.339
+      },
+      {
+        "word": "they",
+        "start": 15.679
+      },
+      {
+        "word": "change",
+        "start": 15.84
+      },
+      {
+        "word": "domains",
+        "start": 16.18
+      }
+    ]
+  },
+  "04-google": {
+    "text": "Now Google. Click your blog's address. This is where a custom domain connects, and you'll want one. Search Console can't verify a free Rise subdomain. So connect your domain, add the blog as a property in Search Console, and verify. Switch to the SEO tab. Hit Check Verified. From there, Rise submits the sitemap itself and pings Google on every single publish. The full step-by-step doc is attached under this video. One last tip. Add one link to the blog from your site's navigation. It starts ranking faster",
+    "words": [
+      {
+        "word": "now",
+        "start": 0.119
+      },
+      {
+        "word": "google",
+        "start": 0.419
+      },
+      {
+        "word": "click",
+        "start": 1.959
+      },
+      {
+        "word": "your",
+        "start": 2.18
+      },
+      {
+        "word": "blog's",
+        "start": 2.299
+      },
+      {
+        "word": "address",
+        "start": 2.639
+      },
+      {
+        "word": "this",
+        "start": 3.399
+      },
+      {
+        "word": "is",
+        "start": 3.659
+      },
+      {
+        "word": "where",
+        "start": 3.799
+      },
+      {
+        "word": "a",
+        "start": 3.919
+      },
+      {
+        "word": "custom",
+        "start": 4.079
+      },
+      {
+        "word": "domain",
+        "start": 4.42
+      },
+      {
+        "word": "connects",
+        "start": 4.779
+      },
+      {
+        "word": "and",
+        "start": 5.659
+      },
+      {
+        "word": "you'll",
+        "start": 5.799
+      },
+      {
+        "word": "want",
+        "start": 6
+      },
+      {
+        "word": "one",
+        "start": 6.219
+      },
+      {
+        "word": "search",
+        "start": 6.92
+      },
+      {
+        "word": "console",
+        "start": 7.199
+      },
+      {
+        "word": "can't",
+        "start": 7.719
+      },
+      {
+        "word": "verify",
+        "start": 8
+      },
+      {
+        "word": "a",
+        "start": 8.519
+      },
+      {
+        "word": "free",
+        "start": 8.679
+      },
+      {
+        "word": "rise",
+        "start": 8.96
+      },
+      {
+        "word": "subdomain",
+        "start": 9.279
+      },
+      {
+        "word": "so",
+        "start": 10.38
+      },
+      {
+        "word": "connect",
+        "start": 10.519
+      },
+      {
+        "word": "your",
+        "start": 10.84
+      },
+      {
+        "word": "domain",
+        "start": 10.96
+      },
+      {
+        "word": "add",
+        "start": 11.8
+      },
+      {
+        "word": "the",
+        "start": 11.979
+      },
+      {
+        "word": "blog",
+        "start": 12.079
+      },
+      {
+        "word": "as",
+        "start": 12.359
+      },
+      {
+        "word": "a",
+        "start": 12.46
+      },
+      {
+        "word": "property",
+        "start": 12.579
+      },
+      {
+        "word": "in",
+        "start": 12.939
+      },
+      {
+        "word": "search",
+        "start": 13.099
+      },
+      {
+        "word": "console",
+        "start": 13.359
+      },
+      {
+        "word": "and",
+        "start": 14.099
+      },
+      {
+        "word": "verify",
+        "start": 14.219
+      },
+      {
+        "word": "switch",
+        "start": 15.679
+      },
+      {
+        "word": "to",
+        "start": 16
+      },
+      {
+        "word": "the",
+        "start": 16.119
+      },
+      {
+        "word": "seo",
+        "start": 16.359
+      },
+      {
+        "word": "tab",
+        "start": 16.699
+      },
+      {
+        "word": "hit",
+        "start": 17.42
+      },
+      {
+        "word": "check",
+        "start": 17.699
+      },
+      {
+        "word": "verified",
+        "start": 18.359
+      },
+      {
+        "word": "from",
+        "start": 19.719
+      },
+      {
+        "word": "there",
+        "start": 19.92
+      },
+      {
+        "word": "rise",
+        "start": 20.379
+      },
+      {
+        "word": "submits",
+        "start": 20.719
+      },
+      {
+        "word": "the",
+        "start": 21.1
+      },
+      {
+        "word": "sitemap",
+        "start": 21.26
+      },
+      {
+        "word": "itself",
+        "start": 21.659
+      },
+      {
+        "word": "and",
+        "start": 22.239
+      },
+      {
+        "word": "pings",
+        "start": 22.439
+      },
+      {
+        "word": "google",
+        "start": 22.799
+      },
+      {
+        "word": "on",
+        "start": 23.199
+      },
+      {
+        "word": "every",
+        "start": 23.439
+      },
+      {
+        "word": "single",
+        "start": 23.84
+      },
+      {
+        "word": "publish",
+        "start": 24.18
+      },
+      {
+        "word": "the",
+        "start": 25.299
+      },
+      {
+        "word": "full",
+        "start": 25.5
+      },
+      {
+        "word": "stepbystep",
+        "start": 25.76
+      },
+      {
+        "word": "doc",
+        "start": 26.439
+      },
+      {
+        "word": "is",
+        "start": 26.739
+      },
+      {
+        "word": "attached",
+        "start": 26.939
+      },
+      {
+        "word": "under",
+        "start": 27.379
+      },
+      {
+        "word": "this",
+        "start": 27.619
+      },
+      {
+        "word": "video",
+        "start": 27.799
+      },
+      {
+        "word": "one",
+        "start": 28.92
+      },
+      {
+        "word": "last",
+        "start": 29.119
+      },
+      {
+        "word": "tip",
+        "start": 29.439
+      },
+      {
+        "word": "add",
+        "start": 30.239
+      },
+      {
+        "word": "one",
+        "start": 30.519
+      },
+      {
+        "word": "link",
+        "start": 30.76
+      },
+      {
+        "word": "to",
+        "start": 30.979
+      },
+      {
+        "word": "the",
+        "start": 31.079
+      },
+      {
+        "word": "blog",
+        "start": 31.159
+      },
+      {
+        "word": "from",
+        "start": 31.519
+      },
+      {
+        "word": "your",
+        "start": 31.659
+      },
+      {
+        "word": "site's",
+        "start": 31.819
+      },
+      {
+        "word": "navigation",
+        "start": 32.119
+      },
+      {
+        "word": "it",
+        "start": 32.979
+      },
+      {
+        "word": "starts",
+        "start": 33.159
+      },
+      {
+        "word": "ranking",
+        "start": 33.479
+      },
+      {
+        "word": "faster",
+        "start": 33.899
+      }
+    ]
+  },
+  "05-close": {
+    "text": "So a designed blog hosted for you, indexed by Google, filling itself with articles, zero infrastructure. That's the Blog Studio",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "a",
+        "start": 0.56
+      },
+      {
+        "word": "designed",
+        "start": 0.579
+      },
+      {
+        "word": "blog",
+        "start": 1.1
+      },
+      {
+        "word": "hosted",
+        "start": 1.62
+      },
+      {
+        "word": "for",
+        "start": 2.079
+      },
+      {
+        "word": "you",
+        "start": 2.319
+      },
+      {
+        "word": "indexed",
+        "start": 2.74
+      },
+      {
+        "word": "by",
+        "start": 3.199
+      },
+      {
+        "word": "google",
+        "start": 3.359
+      },
+      {
+        "word": "filling",
+        "start": 4.019
+      },
+      {
+        "word": "itself",
+        "start": 4.279
+      },
+      {
+        "word": "with",
+        "start": 4.659
+      },
+      {
+        "word": "articles",
+        "start": 4.819
+      },
+      {
+        "word": "zero",
+        "start": 5.879
+      },
+      {
+        "word": "infrastructure",
+        "start": 6.319
+      },
+      {
+        "word": "that's",
+        "start": 7.599
+      },
+      {
+        "word": "the",
+        "start": 7.96
+      },
+      {
+        "word": "blog",
+        "start": 8.079
+      },
+      {
+        "word": "studio",
+        "start": 8.42
+      }
+    ]
+  },
+  "05-performance": {
+    "text": "And when the articles start landing, here's where you watch them work. Open the dashboard content tab. Traffic per article, what's generated versus published, and which posts actually bring clicks",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.099
+      },
+      {
+        "word": "when",
+        "start": 0.239
+      },
+      {
+        "word": "the",
+        "start": 0.359
+      },
+      {
+        "word": "articles",
+        "start": 0.479
+      },
+      {
+        "word": "start",
+        "start": 0.919
+      },
+      {
+        "word": "landing",
+        "start": 1.159
+      },
+      {
+        "word": "here's",
+        "start": 1.939
+      },
+      {
+        "word": "where",
+        "start": 2.24
+      },
+      {
+        "word": "you",
+        "start": 2.399
+      },
+      {
+        "word": "watch",
+        "start": 2.519
+      },
+      {
+        "word": "them",
+        "start": 2.819
+      },
+      {
+        "word": "work",
+        "start": 2.98
+      },
+      {
+        "word": "open",
+        "start": 3.919
+      },
+      {
+        "word": "the",
+        "start": 4.179
+      },
+      {
+        "word": "dashboard",
+        "start": 4.279
+      },
+      {
+        "word": "content",
+        "start": 5.119
+      },
+      {
+        "word": "tab",
+        "start": 5.599
+      },
+      {
+        "word": "traffic",
+        "start": 6.739
+      },
+      {
+        "word": "per",
+        "start": 7.199
+      },
+      {
+        "word": "article",
+        "start": 7.379
+      },
+      {
+        "word": "what's",
+        "start": 8.159
+      },
+      {
+        "word": "generated",
+        "start": 8.46
+      },
+      {
+        "word": "versus",
+        "start": 9
+      },
+      {
+        "word": "published",
+        "start": 9.38
+      },
+      {
+        "word": "and",
+        "start": 10.019
+      },
+      {
+        "word": "which",
+        "start": 10.26
+      },
+      {
+        "word": "posts",
+        "start": 10.559
+      },
+      {
+        "word": "actually",
+        "start": 11.079
+      },
+      {
+        "word": "bring",
+        "start": 11.519
+      },
+      {
+        "word": "clicks",
+        "start": 11.84
+      }
+    ]
+  },
+  "06-close": {
+    "text": "So a designed blog hosted for you, indexed by Google, filling itself with articles. Zero infrastructure. That's the Blog Studio",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.099
+      },
+      {
+        "word": "a",
+        "start": 0.659
+      },
+      {
+        "word": "designed",
+        "start": 0.759
+      },
+      {
+        "word": "blog",
+        "start": 1.22
+      },
+      {
+        "word": "hosted",
+        "start": 1.779
+      },
+      {
+        "word": "for",
+        "start": 2.18
+      },
+      {
+        "word": "you",
+        "start": 2.399
+      },
+      {
+        "word": "indexed",
+        "start": 2.899
+      },
+      {
+        "word": "by",
+        "start": 3.339
+      },
+      {
+        "word": "google",
+        "start": 3.519
+      },
+      {
+        "word": "filling",
+        "start": 4.159
+      },
+      {
+        "word": "itself",
+        "start": 4.519
+      },
+      {
+        "word": "with",
+        "start": 4.98
+      },
+      {
+        "word": "articles",
+        "start": 5.159
+      },
+      {
+        "word": "zero",
+        "start": 6.319
+      },
+      {
+        "word": "infrastructure",
+        "start": 6.719
+      },
+      {
+        "word": "that's",
+        "start": 8.059
+      },
+      {
+        "word": "the",
+        "start": 8.539
+      },
+      {
+        "word": "blog",
+        "start": 8.659
+      },
+      {
+        "word": "studio",
+        "start": 9
+      }
+    ]
+  }
+}

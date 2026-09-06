@@ -1,0 +1,28 @@
+import { at } from "./timings";
+
+export const DASH = {
+  from: at(5.25),
+  cardA: { at: at(5.22), x: 460, y: 160, w: 1000, h: 706 },
+  counter: [at(5.5), at(6.9)] as const,
+  chipAt: at(5.85),
+  rankAt: at(6.2),
+  line: [at(5.7), at(6.9)] as const,
+  cardB: { at: at(5.9), x: 118, y: 412, w: 650, h: 460 },
+  curves: [at(6.0), at(6.8)] as const,
+  cardC: { at: at(6.6), x: 985, y: 525, w: 780, h: 640 },
+  gauge: [at(6.9), at(7.3)] as const,
+  legendAt: at(7.4),
+  window: { at: at(7.5), len: 14, scale: 0.72, x: 100, y: 190, w: 1720, h: 980, bar: 44 },
+  cardD: { at: at(7.6), x: 1235, y: 150, w: 560, h: 470 },
+  cardE: { at: at(8.0), x: 210, y: 690, w: 700, h: 420 },
+  cardF: { at: at(8.2), x: 1280, y: 520, w: 470, h: 400 },
+  cardG: { at: at(8.4), x: 1060, y: 900, w: 720, h: 380 },
+  cardH: { at: at(9.6), x: 200, y: 1000, w: 1060, h: 330 },
+  tilt: [at(9.0), at(10.4)] as const,
+  whip: [at(10.4), at(10.8)] as const,
+  cardI: { at: at(10.9), x: 190, y: 140, w: 980, h: 360 },
+  cursorIn: at(11.15),
+  closeAt: at(11.5),
+  click: at(11.66),
+  end: at(11.85),
+} as const;

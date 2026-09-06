@@ -1,0 +1,43 @@
+.us-head { margin-bottom: 24px; }
+.us-head .pg-h1 { font-size: 24px; font-weight: 600; letter-spacing: -0.02em; }
+.us-head .pg-sub { margin-top: 4px; font-size: 14px; line-height: 1.625; }
+
+.us-quota { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.us-quota-card, .us-chart-card, .us-break-card {
+  box-shadow: none;
+  border-color: color-mix(in oklab, var(--foreground) 10%, transparent);
+}
+.us-quota-card { padding: 16px 20px; }
+.us-cap { font-size: 12px; letter-spacing: 0.025em; text-transform: uppercase; color: var(--muted-foreground); }
+.us-big { margin-top: 8px; font-size: 24px; font-weight: 600; letter-spacing: -0.02em; line-height: 32px; color: var(--foreground); font-variant-numeric: tabular-nums; }
+.us-note { margin-top: 12px; font-size: 14px; color: var(--muted-foreground); }
+
+.us-filters { margin: 24px 0; display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 12px; }
+.us-select {
+  display: inline-flex; align-items: center; justify-content: space-between; gap: 6px;
+  height: 36px; width: 14rem; padding: 0 8px 0 10px;
+  border-radius: var(--radius-lg); border: 1px solid oklch(0.91 0.015 80); background: transparent;
+  font-size: 14px; color: var(--foreground);
+}
+.us-select svg { width: 16px; height: 16px; color: var(--muted-foreground); }
+
+.us-chart-card { padding: 16px 20px; }
+.us-chart { margin-top: 12px; }
+.us-chart svg { display: block; width: 100%; height: 220px; }
+
+.us-break { margin-top: 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.us-break-card { padding: 16px 20px; }
+.us-rows { margin-top: 12px; display: flex; flex-direction: column; gap: 8px; }
+.us-row { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+.us-av {
+  display: flex; width: 28px; height: 28px; flex-shrink: 0; align-items: center; justify-content: center;
+  border-radius: 9999px; background: #78350f; color: #ffffff; font-size: 10px; font-weight: 600;
+}
+.us-name { min-width: 0; flex: 1; color: var(--foreground); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.us-count { flex-shrink: 0; font-weight: 500; color: var(--foreground); font-variant-numeric: tabular-nums; }
+.us-total {
+  margin-top: 12px; display: flex; align-items: center; justify-content: space-between;
+  border-top: 1px solid var(--border); padding-top: 12px; font-size: 14px;
+}
+.us-total span { color: var(--muted-foreground); }
+.us-total b { font-weight: 600; color: var(--foreground); font-variant-numeric: tabular-nums; }

@@ -1,0 +1,808 @@
+{
+  "00-title": {
+    "text": "One Agent, your whole marketing",
+    "words": [
+      {
+        "word": "one",
+        "start": 0.099
+      },
+      {
+        "word": "agent",
+        "start": 0.28
+      },
+      {
+        "word": "your",
+        "start": 1.039
+      },
+      {
+        "word": "whole",
+        "start": 1.24
+      },
+      {
+        "word": "marketing",
+        "start": 1.5
+      }
+    ]
+  },
+  "01-chat": {
+    "text": "Meet the agent. Open a chat and ask anything about your marketing. Say, where did our organic revenue come from last month? Then send",
+    "words": [
+      {
+        "word": "meet",
+        "start": 0.159
+      },
+      {
+        "word": "the",
+        "start": 0.379
+      },
+      {
+        "word": "agent",
+        "start": 0.599
+      },
+      {
+        "word": "open",
+        "start": 1.62
+      },
+      {
+        "word": "a",
+        "start": 1.939
+      },
+      {
+        "word": "chat",
+        "start": 1.979
+      },
+      {
+        "word": "and",
+        "start": 2.24
+      },
+      {
+        "word": "ask",
+        "start": 2.399
+      },
+      {
+        "word": "anything",
+        "start": 2.72
+      },
+      {
+        "word": "about",
+        "start": 3.139
+      },
+      {
+        "word": "your",
+        "start": 3.339
+      },
+      {
+        "word": "marketing",
+        "start": 3.46
+      },
+      {
+        "word": "say",
+        "start": 4.179
+      },
+      {
+        "word": "where",
+        "start": 4.639
+      },
+      {
+        "word": "did",
+        "start": 4.839
+      },
+      {
+        "word": "our",
+        "start": 5
+      },
+      {
+        "word": "organic",
+        "start": 5.159
+      },
+      {
+        "word": "revenue",
+        "start": 5.619
+      },
+      {
+        "word": "come",
+        "start": 6.019
+      },
+      {
+        "word": "from",
+        "start": 6.239
+      },
+      {
+        "word": "last",
+        "start": 6.399
+      },
+      {
+        "word": "month",
+        "start": 6.679
+      },
+      {
+        "word": "then",
+        "start": 7.539
+      },
+      {
+        "word": "send",
+        "start": 7.799
+      }
+    ]
+  },
+  "02-tools": {
+    "text": "It doesn't guess. It walks your real accounts, Search Console, analytics, your store, and comes back with your actual numbers on a chart",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.099
+      },
+      {
+        "word": "doesn't",
+        "start": 0.219
+      },
+      {
+        "word": "guess",
+        "start": 0.519
+      },
+      {
+        "word": "it",
+        "start": 1.199
+      },
+      {
+        "word": "walks",
+        "start": 1.36
+      },
+      {
+        "word": "your",
+        "start": 1.679
+      },
+      {
+        "word": "real",
+        "start": 1.779
+      },
+      {
+        "word": "accounts",
+        "start": 2.039
+      },
+      {
+        "word": "search",
+        "start": 2.74
+      },
+      {
+        "word": "console",
+        "start": 3.019
+      },
+      {
+        "word": "analytics",
+        "start": 3.659
+      },
+      {
+        "word": "your",
+        "start": 4.46
+      },
+      {
+        "word": "store",
+        "start": 4.659
+      },
+      {
+        "word": "and",
+        "start": 5.4
+      },
+      {
+        "word": "comes",
+        "start": 5.579
+      },
+      {
+        "word": "back",
+        "start": 5.92
+      },
+      {
+        "word": "with",
+        "start": 6.139
+      },
+      {
+        "word": "your",
+        "start": 6.299
+      },
+      {
+        "word": "actual",
+        "start": 6.579
+      },
+      {
+        "word": "numbers",
+        "start": 7.059
+      },
+      {
+        "word": "on",
+        "start": 7.719
+      },
+      {
+        "word": "a",
+        "start": 7.839
+      },
+      {
+        "word": "chart",
+        "start": 7.96
+      }
+    ]
+  },
+  "03-brand": {
+    "text": "But the agent isn't a page. It lives in the sidebar on every screen. Take the brand page and open the agent right here",
+    "words": [
+      {
+        "word": "but",
+        "start": 0.099
+      },
+      {
+        "word": "the",
+        "start": 0.239
+      },
+      {
+        "word": "agent",
+        "start": 0.439
+      },
+      {
+        "word": "isn't",
+        "start": 1.019
+      },
+      {
+        "word": "a",
+        "start": 1.419
+      },
+      {
+        "word": "page",
+        "start": 1.519
+      },
+      {
+        "word": "it",
+        "start": 2.359
+      },
+      {
+        "word": "lives",
+        "start": 2.579
+      },
+      {
+        "word": "in",
+        "start": 2.919
+      },
+      {
+        "word": "the",
+        "start": 3.019
+      },
+      {
+        "word": "sidebar",
+        "start": 3.179
+      },
+      {
+        "word": "on",
+        "start": 3.879
+      },
+      {
+        "word": "every",
+        "start": 4.119
+      },
+      {
+        "word": "screen",
+        "start": 4.44
+      },
+      {
+        "word": "take",
+        "start": 5.48
+      },
+      {
+        "word": "the",
+        "start": 5.719
+      },
+      {
+        "word": "brand",
+        "start": 5.819
+      },
+      {
+        "word": "page",
+        "start": 6.179
+      },
+      {
+        "word": "and",
+        "start": 6.659
+      },
+      {
+        "word": "open",
+        "start": 6.859
+      },
+      {
+        "word": "the",
+        "start": 7.119
+      },
+      {
+        "word": "agent",
+        "start": 7.299
+      },
+      {
+        "word": "right",
+        "start": 7.799
+      },
+      {
+        "word": "here",
+        "start": 8.059
+      }
+    ]
+  },
+  "04-voice": {
+    "text": "Ask it to rewrite your tone of voice, warmer, more handmade, and watch the page. The text changes in front of you",
+    "words": [
+      {
+        "word": "ask",
+        "start": 0.059
+      },
+      {
+        "word": "it",
+        "start": 0.299
+      },
+      {
+        "word": "to",
+        "start": 0.419
+      },
+      {
+        "word": "rewrite",
+        "start": 0.56
+      },
+      {
+        "word": "your",
+        "start": 0.919
+      },
+      {
+        "word": "tone",
+        "start": 1.059
+      },
+      {
+        "word": "of",
+        "start": 1.24
+      },
+      {
+        "word": "voice",
+        "start": 1.36
+      },
+      {
+        "word": "warmer",
+        "start": 2.159
+      },
+      {
+        "word": "more",
+        "start": 2.759
+      },
+      {
+        "word": "handmade",
+        "start": 3.039
+      },
+      {
+        "word": "and",
+        "start": 4.139
+      },
+      {
+        "word": "watch",
+        "start": 4.36
+      },
+      {
+        "word": "the",
+        "start": 4.739
+      },
+      {
+        "word": "page",
+        "start": 4.9
+      },
+      {
+        "word": "the",
+        "start": 5.859
+      },
+      {
+        "word": "text",
+        "start": 6
+      },
+      {
+        "word": "changes",
+        "start": 6.42
+      },
+      {
+        "word": "in",
+        "start": 6.859
+      },
+      {
+        "word": "front",
+        "start": 7.019
+      },
+      {
+        "word": "of",
+        "start": 7.179
+      },
+      {
+        "word": "you",
+        "start": 7.319
+      }
+    ]
+  },
+  "05-open": {
+    "text": "Same with your content. Head into SEO, open the content plan, and pick any draft",
+    "words": [
+      {
+        "word": "same",
+        "start": 0.14
+      },
+      {
+        "word": "with",
+        "start": 0.379
+      },
+      {
+        "word": "your",
+        "start": 0.539
+      },
+      {
+        "word": "content",
+        "start": 0.74
+      },
+      {
+        "word": "head",
+        "start": 1.779
+      },
+      {
+        "word": "into",
+        "start": 1.899
+      },
+      {
+        "word": "seo",
+        "start": 2.299
+      },
+      {
+        "word": "open",
+        "start": 3
+      },
+      {
+        "word": "the",
+        "start": 3.24
+      },
+      {
+        "word": "content",
+        "start": 3.359
+      },
+      {
+        "word": "plan",
+        "start": 3.779
+      },
+      {
+        "word": "and",
+        "start": 4.199
+      },
+      {
+        "word": "pick",
+        "start": 4.42
+      },
+      {
+        "word": "any",
+        "start": 4.659
+      },
+      {
+        "word": "draft",
+        "start": 4.88
+      }
+    ]
+  },
+  "06-intro": {
+    "text": "Scroll to the intro and just say, \"Shorten it.\" The agent edits the draft right on the page",
+    "words": [
+      {
+        "word": "scroll",
+        "start": 0.119
+      },
+      {
+        "word": "to",
+        "start": 0.5
+      },
+      {
+        "word": "the",
+        "start": 0.62
+      },
+      {
+        "word": "intro",
+        "start": 0.74
+      },
+      {
+        "word": "and",
+        "start": 1.319
+      },
+      {
+        "word": "just",
+        "start": 1.5
+      },
+      {
+        "word": "say",
+        "start": 1.659
+      },
+      {
+        "word": "shorten",
+        "start": 2.259
+      },
+      {
+        "word": "it",
+        "start": 2.659
+      },
+      {
+        "word": "the",
+        "start": 3.699
+      },
+      {
+        "word": "agent",
+        "start": 3.879
+      },
+      {
+        "word": "edits",
+        "start": 4.219
+      },
+      {
+        "word": "the",
+        "start": 4.519
+      },
+      {
+        "word": "draft",
+        "start": 4.599
+      },
+      {
+        "word": "right",
+        "start": 5.039
+      },
+      {
+        "word": "on",
+        "start": 5.259
+      },
+      {
+        "word": "the",
+        "start": 5.359
+      },
+      {
+        "word": "page",
+        "start": 5.48
+      }
+    ]
+  },
+  "07-ad": {
+    "text": "It creates too. Back in ad creatives, ask for an autumn ad and it lands straight in your library",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.099
+      },
+      {
+        "word": "creates",
+        "start": 0.319
+      },
+      {
+        "word": "too",
+        "start": 1.019
+      },
+      {
+        "word": "back",
+        "start": 2.139
+      },
+      {
+        "word": "in",
+        "start": 2.359
+      },
+      {
+        "word": "ad",
+        "start": 2.5
+      },
+      {
+        "word": "creatives",
+        "start": 2.74
+      },
+      {
+        "word": "ask",
+        "start": 3.48
+      },
+      {
+        "word": "for",
+        "start": 3.759
+      },
+      {
+        "word": "an",
+        "start": 3.859
+      },
+      {
+        "word": "autumn",
+        "start": 4.039
+      },
+      {
+        "word": "ad",
+        "start": 4.42
+      },
+      {
+        "word": "and",
+        "start": 5.099
+      },
+      {
+        "word": "it",
+        "start": 5.219
+      },
+      {
+        "word": "lands",
+        "start": 5.38
+      },
+      {
+        "word": "straight",
+        "start": 5.719
+      },
+      {
+        "word": "in",
+        "start": 6.099
+      },
+      {
+        "word": "your",
+        "start": 6.239
+      },
+      {
+        "word": "library",
+        "start": 6.399
+      }
+    ]
+  },
+  "08-sched": {
+    "text": "Want any of this on autopilot? Say, \"Do this every Monday.\" It becomes a scheduled task. Recap in your inbox every week",
+    "words": [
+      {
+        "word": "want",
+        "start": 0.099
+      },
+      {
+        "word": "any",
+        "start": 0.419
+      },
+      {
+        "word": "of",
+        "start": 0.62
+      },
+      {
+        "word": "this",
+        "start": 0.799
+      },
+      {
+        "word": "on",
+        "start": 1.019
+      },
+      {
+        "word": "autopilot",
+        "start": 1.179
+      },
+      {
+        "word": "say",
+        "start": 2.299
+      },
+      {
+        "word": "do",
+        "start": 2.859
+      },
+      {
+        "word": "this",
+        "start": 3.179
+      },
+      {
+        "word": "every",
+        "start": 3.539
+      },
+      {
+        "word": "monday",
+        "start": 3.859
+      },
+      {
+        "word": "it",
+        "start": 4.779
+      },
+      {
+        "word": "becomes",
+        "start": 4.94
+      },
+      {
+        "word": "a",
+        "start": 5.319
+      },
+      {
+        "word": "scheduled",
+        "start": 5.44
+      },
+      {
+        "word": "task",
+        "start": 5.96
+      },
+      {
+        "word": "recap",
+        "start": 6.879
+      },
+      {
+        "word": "in",
+        "start": 7.339
+      },
+      {
+        "word": "your",
+        "start": 7.46
+      },
+      {
+        "word": "inbox",
+        "start": 7.599
+      },
+      {
+        "word": "every",
+        "start": 8.199
+      },
+      {
+        "word": "week",
+        "start": 8.5
+      }
+    ]
+  },
+  "09-close": {
+    "text": "So that's the agent. Everything you've connected, it sees. Everything you see, it can change. Just ask",
+    "words": [
+      {
+        "word": "so",
+        "start": 0.159
+      },
+      {
+        "word": "that's",
+        "start": 0.299
+      },
+      {
+        "word": "the",
+        "start": 0.62
+      },
+      {
+        "word": "agent",
+        "start": 0.779
+      },
+      {
+        "word": "everything",
+        "start": 1.559
+      },
+      {
+        "word": "you've",
+        "start": 1.899
+      },
+      {
+        "word": "connected",
+        "start": 2.039
+      },
+      {
+        "word": "it",
+        "start": 2.839
+      },
+      {
+        "word": "sees",
+        "start": 3.099
+      },
+      {
+        "word": "everything",
+        "start": 3.879
+      },
+      {
+        "word": "you",
+        "start": 4.46
+      },
+      {
+        "word": "see",
+        "start": 4.699
+      },
+      {
+        "word": "it",
+        "start": 5.279
+      },
+      {
+        "word": "can",
+        "start": 5.44
+      },
+      {
+        "word": "change",
+        "start": 5.659
+      },
+      {
+        "word": "just",
+        "start": 6.619
+      },
+      {
+        "word": "ask",
+        "start": 6.94
+      }
+    ]
+  }
+}

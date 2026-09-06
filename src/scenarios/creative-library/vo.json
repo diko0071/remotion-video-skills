@@ -1,0 +1,34 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "[curious] Ever wondered how these brands make such... [impressed] insanely good creatives?"
+    },
+    {
+      "key": "02-guess",
+      "text": "Maybe they hire the best designers? [skeptical] Hmm... or the most expensive agencies?"
+    },
+    {
+      "key": "03-turn",
+      "text": "Or maybe... [confident] they just know what already works."
+    },
+    {
+      "key": "04-library",
+      "text": "[confident] So we collected one hundred thousand winning ads \u2014 the largest creative library in the world."
+    },
+    {
+      "key": "05-use",
+      "text": "Browse it for inspiration. Or hand your favorites to your agent, add your brand photos... and just ask."
+    },
+    {
+      "key": "06-agent",
+      "text": "[curious] Now watch \u2014 it reads your picks. Palette, hooks, layout."
+    },
+    {
+      "key": "06-result",
+      "text": "[satisfied] Fresh creatives. In your brand. Ready to launch."
+    }
+  ]
+}

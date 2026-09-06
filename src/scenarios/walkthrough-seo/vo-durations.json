@@ -1,0 +1,17 @@
+{
+  "01-intro": 10.08,
+  "02-setup": 9.89,
+  "03-chat": 16.35,
+  "04-audit": 9.33,
+  "05-content": 8.68,
+  "06-calendar": 6.92,
+  "07-dashboard": 6.97,
+  "08-geo": 10.45,
+  "09-queries": 8.92,
+  "10-mentions": 7.85,
+  "11-blog": 6.87,
+  "12-approve": 6.97,
+  "13-close": 6.83,
+  "03b-chat-fix": 12.03,
+  "03c-chat-geo": 13.98
+}

@@ -1,0 +1,17 @@
+.ap-head { margin-bottom: 32px; }
+.ap-back { display: inline-flex; align-items: center; gap: 6px; margin-bottom: 24px; font-size: 13px; color: var(--muted-foreground); }
+.ap-head-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.ap-title { font-size: 28px; font-weight: 700; letter-spacing: -0.025em; line-height: 1.25; color: var(--foreground); }
+.ap-actions { display: flex; flex-shrink: 0; align-items: center; gap: 8px; padding-top: 4px; }
+.ap-layout { display: flex; align-items: flex-start; gap: 48px; }
+.ap-main { min-width: 0; flex: 1; display: flex; flex-direction: column; gap: 24px; }
+.ap-side { width: 300px; flex-shrink: 0; display: flex; flex-direction: column; gap: 16px; }
+.ap-hero { overflow: hidden; border-radius: var(--radius-xl); border: 1px solid var(--border); background: var(--card); }
+.ap-hero img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.ap-meta {
+  display: flex; flex-direction: column; gap: 16px; padding: 16px;
+  border-radius: var(--radius-lg); border: 1px solid var(--border); background: var(--card);
+}
+.ap-meta-label { display: block; margin-bottom: 6px; font-size: 12px; color: var(--muted-foreground); }
+.ap-meta-value { font-size: 13px; color: var(--foreground); }
+.ap-meta-value.relaxed { line-height: 1.625; }

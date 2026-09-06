@@ -1,0 +1,16 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    { "key": "00-title", "text": "One agent. Your whole marketing." },
+    { "key": "01-chat", "text": "Meet the agent. Open a chat and ask anything about your marketing — say, where did our organic revenue come from last month? Then send." },
+    { "key": "02-tools", "text": "It doesn't guess. It walks your real accounts — Search Console, Analytics, your store — and comes back with your actual numbers, on a chart." },
+    { "key": "03-brand", "text": "[warm] But the agent isn't a page. It lives in the sidebar, on every screen. Take the Brand page — and open the agent right here." },
+    { "key": "04-voice", "text": "Ask it to rewrite your tone of voice — warmer, more handmade. And watch the page: the text changes in front of you." },
+    { "key": "05-open", "text": "Same with your content. Head into SEO, open the Content Plan, and pick any draft." },
+    { "key": "06-intro", "text": "Scroll to the intro, and just say: shorten it. The agent edits the draft right on the page." },
+    { "key": "07-ad", "text": "[warm] It creates, too. Back in Ad Creatives, ask for an autumn ad — and it lands straight in your library." },
+    { "key": "08-sched", "text": "Want any of this on autopilot? Say: do this every Monday. It becomes a scheduled task — recap in your inbox, every week." },
+    { "key": "09-close", "text": "[warm] So that's the agent. Everything you've connected, it sees. Everything you see, it can change. Just ask." }
+  ]
+}

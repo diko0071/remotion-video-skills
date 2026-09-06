@@ -1,0 +1,82 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Your buyers stopped googling. They ask AI. Here's how to make it answer with your name."
+    },
+    {
+      "key": "01-geo",
+      "text": "SEO gets you ranked on Google. GEO gets you named — by ChatGPT, Claude and Gemini, when buyers ask them what to buy. Different game. And it runs on one simple thing: how often the internet mentions you."
+    },
+    {
+      "key": "02-mentions",
+      "text": "That's what this page grows. Mentions are articles across the web that name your brand — press releases and guest posts Ryze writes and places for you, every month."
+    },
+    {
+      "key": "03-press",
+      "text": "And one press release never lands on just one site. Click the links — [curious] published on seven sites. Ryze pushes every release to a network of over three hundred news sources."
+    },
+    {
+      "key": "04-why",
+      "text": "Why does that matter? When the next ChatGPT or Claude gets trained, it reads the whole internet. The more places mention your brand, the better the new model knows you — before anyone even asks."
+    },
+    {
+      "key": "05-backlinks",
+      "text": "Backlinks are the other half. Every one of these is a link from someone else's site back to yours — with the page, the keyword and the anchor it came with."
+    },
+    {
+      "key": "06-geo-links",
+      "text": "And they're not just for Google anymore. When ChatGPT searches the web to answer, it opens what ranks on top — big, high-traffic sites. Backlinks are what put you up there. So they raise your odds of being cited by AI too."
+    },
+    {
+      "key": "07-prompts",
+      "text": "Now — how do you measure any of this? [curious] With prompts. Keywords are what people type into Google. Prompts are what they ask an AI — full questions, the way a real customer talks."
+    },
+    {
+      "key": "08-track",
+      "text": "Adding your own takes a click. One prompt per line — and every prompt gets checked on ChatGPT, Claude, Gemini and Perplexity."
+    },
+    {
+      "key": "09-added",
+      "text": "Add them, and they join every future run."
+    },
+    {
+      "key": "10-run",
+      "text": "Then re-ask. [excited] One click runs every prompt on all four assistants and refreshes your numbers."
+    },
+    {
+      "key": "11-dash",
+      "text": "And here's where it all lands. Open the dashboard — and switch to GEO."
+    },
+    {
+      "key": "12-sov",
+      "text": "The big number is your share of voice. Out of all the brands the assistants named, how often it was you — and your rank against every competitor they mention instead."
+    },
+    {
+      "key": "13-trend",
+      "text": "Visibility over time — every run is a point on this line, so you see if you're gaining ground week over week."
+    },
+    {
+      "key": "14-assistants",
+      "text": "Then visibility by assistant. ChatGPT and Claude don't answer alike — you can be strong on one and invisible on another. Now you know exactly where to push."
+    },
+    {
+      "key": "15-domains",
+      "text": "The sources — the sites assistants cite while answering, and how often your domain shows up in them. This is exactly where mentions and backlinks put you."
+    },
+    {
+      "key": "16-prompt-table",
+      "text": "And every prompt, one by one — which assistant named you, at which position, and how that changed since the last run."
+    },
+    {
+      "key": "17-traffic",
+      "text": "Finally, the payoff. Real visitors arriving on your site straight from AI chats — week by week, split by assistant, down to the exact pages they land on."
+    },
+    {
+      "key": "18-close",
+      "text": "So — track the questions your buyers actually ask, grow your mentions and backlinks, and watch the answers change. [smiling] That's GEO, working for you."
+    }
+  ]
+}

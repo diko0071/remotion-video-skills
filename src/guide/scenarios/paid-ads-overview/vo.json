@@ -1,0 +1,14 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    { "key": "00-title", "text": "Paid ads in Ryze, on autopilot." },
+    { "key": "01-dash", "text": "This is the paid ads side of Ryze. Google and Meta in one place — spend, budgets, results — one dashboard." },
+    { "key": "02-connect", "text": "Hook it up once. Under Integrations, open the Advertising tab — connect Google Ads and Meta, and the agent sees every campaign." },
+    { "key": "03-ask", "text": "Back on the Dashboard, meet your co-pilot. Open the agent and ask: where am I overspending? It walks every campaign and comes back with the leaks, in dollars." },
+    { "key": "04-approvals", "text": "[warm] And you don't even have to ask. It audits your account around the clock — every finding lands in Approvals, and you apply it with one click." },
+    { "key": "05-creatives", "text": "It makes the ads too — creatives in your brand style, straight into your library. That one has a guide of its own." },
+    { "key": "05b-inspire", "text": "Need a starting point? Grab one of the ready-made ad templates — or peek at Competitor Ads and see exactly what everyone else is running." },
+    { "key": "06-close", "text": "[warm] So: connect once, and let the agent watch your money. Paid ads, on autopilot." }
+  ]
+}

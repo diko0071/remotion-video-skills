@@ -1,0 +1,42 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] Your site has problems you can't see. Google sees every one. Here's how the Technical Audit works."
+    },
+    {
+      "key": "01-page",
+      "text": "This is the Technical Audit. Ryze crawls your site the way Google and ChatGPT do — three hundred pages, dozens of checks — and turns what it finds into one health score."
+    },
+    {
+      "key": "02-scores",
+      "text": "Three things feed it. Page speed — how fast real visitors see your pages. LLM optimization — whether AI assistants can read and quote your site. And SEO — the classics: meta tags, links, canonicals."
+    },
+    {
+      "key": "03-sitewide",
+      "text": "Below, every problem found. Site-wide first — this site is missing an L L M S file, and its robots file blocks AI crawlers. That's invisible in a browser, and it quietly keeps you out of AI answers."
+    },
+    {
+      "key": "04-row",
+      "text": "Then page by page. Open any row — and every issue comes with a severity, and a fix explained in plain words. The checks it passed are crossed out below."
+    },
+    {
+      "key": "05-fix",
+      "text": "Now the good part. You don't fix any of this by hand. [curious] Hit fix with agent."
+    },
+    {
+      "key": "06-agent",
+      "text": "The agent takes the audit, plans the work, and applies the fixes straight through your site — meta tags, redirects, schema, all of it. You just watch."
+    },
+    {
+      "key": "07-rescan",
+      "text": "When it's done, run the scan again. [pause] Sixty two to eighty four. The rings turn green."
+    },
+    {
+      "key": "08-close",
+      "text": "So — scan, open the rows you care about, let the agent do the fixing, and scan again. [smiling] Your site stays readable for Google and for ChatGPT. That's the whole job."
+    }
+  ]
+}

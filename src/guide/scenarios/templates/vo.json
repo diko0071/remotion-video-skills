@@ -1,0 +1,74 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[warm] You never have to start from a blank page. Let me show you templates."
+    },
+    {
+      "key": "01-intro",
+      "text": "This is the template library. Over a hundred ready-made jobs for the agent — [pause] dashboards, audits, automations, full client decks."
+    },
+    {
+      "key": "02-monitor",
+      "text": "[curious] Let's take them one by one. Monitor — live dashboards that watch your numbers for you. Search traffic, paid ads, products, even the whole agency in one screen."
+    },
+    {
+      "key": "03-dash-open",
+      "text": "Open one, and the preview is the real thing."
+    },
+    {
+      "key": "04-dash-scroll",
+      "text": "Scroll it — every block you see here gets filled with your live numbers. One click on use template, and this becomes yours, in Reports."
+    },
+    {
+      "key": "05-create",
+      "text": "Create — the agent makes things for you. Ad creatives, Google copy, whole campaigns from scratch — even your very first one."
+    },
+    {
+      "key": "06-optimize",
+      "text": "Optimize — it finds the problems. Wasted spend, weak keywords, tracking gaps."
+    },
+    {
+      "key": "07-card-use",
+      "text": "And every card is one click. [pause] Take this one — find Google Ads waste."
+    },
+    {
+      "key": "08-agent-works",
+      "text": "[excited] That's it. The whole job lands on the agent, and it's already digging through your campaigns."
+    },
+    {
+      "key": "09-automate",
+      "text": "Close it, and keep browsing. Automate — these run on their own: weekly reports, budget checks, anomaly alerts. Pick one, and it becomes a scheduled task."
+    },
+    {
+      "key": "10-report",
+      "text": "And Report — [warm] this is where the decks live. Nine full client decks, built from your data."
+    },
+    {
+      "key": "11-deck-open",
+      "text": "Open one. This preview is the exact deck you would get."
+    },
+    {
+      "key": "12-deck-scroll",
+      "text": "Scroll through it — cover, results, trends, the plan. A whole client story, slide by slide."
+    },
+    {
+      "key": "13-deck-build",
+      "text": "And one button hands it to the agent. Build with agent."
+    },
+    {
+      "key": "14-deck-works",
+      "text": "It pulls your real numbers and writes every slide itself. [pause] It takes a couple of minutes — so close the panel, and let it work."
+    },
+    {
+      "key": "15-examples",
+      "text": "[warm] And these nine are just examples. Ask for any deck you want — your structure, your style, your branding — and the agent designs it from scratch."
+    },
+    {
+      "key": "15-close",
+      "text": "Browse the library once — [smiling] and the agent already knows what to do."
+    }
+  ]
+}
