@@ -5,6 +5,7 @@ export { ClaudeFrame, ClaudeWelcome } from "./frame";
 export { ClaudeSidebar } from "./sidebar";
 export type { SidebarRecent } from "./sidebar";
 export { ClaudeComposer } from "./composer";
+export { ClaudeWelcomeStage } from "./welcome-stage";
 export {
   ClaudeUserBubble,
   ClaudeThinking,

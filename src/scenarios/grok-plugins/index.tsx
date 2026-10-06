@@ -2,14 +2,16 @@ import React from "react";
 import { AbsoluteFill, interpolate, Sequence, useCurrentFrame } from "remotion";
 import { STAGE_ATTR } from "../../core/stage";
 import { Bloub, blinkTrack } from "../../kit/grok-ui/bloub";
+import { GROK_CTA_LEN, GrokCta } from "../../kit/grok-cta";
 import { Lockup } from "../../kit/lockup";
 import { SettleLine } from "../../kit/settle-text";
 import { AppLayer } from "./app";
 import { HeroLayer } from "./hero";
 import { RelayStage } from "./stage";
-import { CARRY_LEN, FILM_TOTAL, GROUND, INK, INTRO_OUT, TAIL_BLINKS, TOTAL } from "./timings";
+import { CARRY_LEN, FILM_TOTAL, GROUND, INK, INTRO_OUT, LOCKUP_LEN, TAIL_BLINKS, TOTAL } from "./timings";
 
 export const GROK_PLUGINS_TOTAL = TOTAL;
+export const GROK_PLUGINS_CTA_TOTAL = TOTAL + GROK_CTA_LEN;
 
 const TILE = 124;
 
@@ -53,7 +55,7 @@ const BlinkingGrok: React.FC = () => {
   return <Bloub size={140} color={INK} eyeColor={GROUND} blink={blinkTrack(frame, TAIL_BLINKS, 16)} gaze={{ x: 0.15, y: 0.1 }} />;
 };
 
-export const GrokPlugins: React.FC = () => (
+const Plugins: React.FC<{ cta?: boolean }> = ({ cta }) => (
   <AbsoluteFill style={{ background: GROUND }} {...{ [STAGE_ATTR]: "" }}>
     <Sequence from={INTRO_OUT + CARRY_LEN} durationInFrames={FILM_TOTAL} layout="none">
       <Film />
@@ -61,8 +63,17 @@ export const GrokPlugins: React.FC = () => (
     <Sequence durationInFrames={INTRO_OUT + CARRY_LEN} layout="none">
       <Intro />
     </Sequence>
-    <Sequence from={INTRO_OUT + CARRY_LEN + FILM_TOTAL}>
+    <Sequence from={INTRO_OUT + CARRY_LEN + FILM_TOTAL} durationInFrames={LOCKUP_LEN}>
       <Lockup mark="ryze-sun-white.png" word="Ryze AI" background={GROUND} ink={INK} partnerNode={<BlinkingGrok />} tagline="Your marketing team, now available in Grok Bot" />
     </Sequence>
+    {cta ? (
+      <Sequence from={TOTAL}>
+        <GrokCta background={GROUND} ink={INK} size={104} maxWidth={1600} />
+      </Sequence>
+    ) : null}
   </AbsoluteFill>
 );
+
+export const GrokPlugins: React.FC = () => <Plugins />;
+
+export const GrokPluginsCta: React.FC = () => <Plugins cta />;

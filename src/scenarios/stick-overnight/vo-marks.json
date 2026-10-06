@@ -1,0 +1,612 @@
+{
+  "01-hook": {
+    "text": "What an SEO agency does in a month, Rise AI does overnight. Here's how",
+    "words": [
+      {
+        "word": "what",
+        "start": 0.12
+      },
+      {
+        "word": "an",
+        "start": 0.26
+      },
+      {
+        "word": "seo",
+        "start": 0.44
+      },
+      {
+        "word": "agency",
+        "start": 0.88
+      },
+      {
+        "word": "does",
+        "start": 1.42
+      },
+      {
+        "word": "in",
+        "start": 1.64
+      },
+      {
+        "word": "a",
+        "start": 1.74
+      },
+      {
+        "word": "month",
+        "start": 1.86
+      },
+      {
+        "word": "rise",
+        "start": 2.48
+      },
+      {
+        "word": "ai",
+        "start": 2.8
+      },
+      {
+        "word": "does",
+        "start": 3.32
+      },
+      {
+        "word": "overnight",
+        "start": 3.64
+      },
+      {
+        "word": "here's",
+        "start": 4.74
+      },
+      {
+        "word": "how",
+        "start": 4.98
+      }
+    ]
+  },
+  "02-problem": {
+    "text": "Before bed, you paste your website URL",
+    "words": [
+      {
+        "word": "before",
+        "start": 0.1
+      },
+      {
+        "word": "bed",
+        "start": 0.5
+      },
+      {
+        "word": "you",
+        "start": 1.02
+      },
+      {
+        "word": "paste",
+        "start": 1.18
+      },
+      {
+        "word": "your",
+        "start": 1.48
+      },
+      {
+        "word": "website",
+        "start": 1.62
+      },
+      {
+        "word": "url",
+        "start": 2.18
+      }
+    ]
+  },
+  "03-turn": {
+    "text": "While you sleep, it finds the keywords you're missing, writes the articles, publishes them to your website, and builds backlinks",
+    "words": [
+      {
+        "word": "while",
+        "start": 0.12
+      },
+      {
+        "word": "you",
+        "start": 0.3
+      },
+      {
+        "word": "sleep",
+        "start": 0.46
+      },
+      {
+        "word": "it",
+        "start": 0.96
+      },
+      {
+        "word": "finds",
+        "start": 1.12
+      },
+      {
+        "word": "the",
+        "start": 1.44
+      },
+      {
+        "word": "keywords",
+        "start": 1.58
+      },
+      {
+        "word": "you're",
+        "start": 1.98
+      },
+      {
+        "word": "missing",
+        "start": 2.1
+      },
+      {
+        "word": "writes",
+        "start": 2.76
+      },
+      {
+        "word": "the",
+        "start": 3.1
+      },
+      {
+        "word": "articles",
+        "start": 3.24
+      },
+      {
+        "word": "publishes",
+        "start": 4.059
+      },
+      {
+        "word": "them",
+        "start": 4.56
+      },
+      {
+        "word": "to",
+        "start": 4.8
+      },
+      {
+        "word": "your",
+        "start": 4.9
+      },
+      {
+        "word": "website",
+        "start": 5.02
+      },
+      {
+        "word": "and",
+        "start": 5.78
+      },
+      {
+        "word": "builds",
+        "start": 6.06
+      },
+      {
+        "word": "backlinks",
+        "start": 6.42
+      }
+    ]
+  },
+  "04-life": {
+    "text": "You wake up and it's already done. Tomorrow it does it again. No agency, no freelancers, no manual work",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.12
+      },
+      {
+        "word": "wake",
+        "start": 0.22
+      },
+      {
+        "word": "up",
+        "start": 0.5
+      },
+      {
+        "word": "and",
+        "start": 0.92
+      },
+      {
+        "word": "it's",
+        "start": 1.04
+      },
+      {
+        "word": "already",
+        "start": 1.22
+      },
+      {
+        "word": "done",
+        "start": 1.58
+      },
+      {
+        "word": "tomorrow",
+        "start": 2.5
+      },
+      {
+        "word": "it",
+        "start": 3.18
+      },
+      {
+        "word": "does",
+        "start": 3.3
+      },
+      {
+        "word": "it",
+        "start": 3.5
+      },
+      {
+        "word": "again",
+        "start": 3.6
+      },
+      {
+        "word": "no",
+        "start": 4.68
+      },
+      {
+        "word": "agency",
+        "start": 4.96
+      },
+      {
+        "word": "no",
+        "start": 5.8
+      },
+      {
+        "word": "freelancers",
+        "start": 6.06
+      },
+      {
+        "word": "no",
+        "start": 7.1
+      },
+      {
+        "word": "manual",
+        "start": 7.48
+      },
+      {
+        "word": "work",
+        "start": 7.96
+      }
+    ]
+  },
+  "05-cta": {
+    "text": "3,000 websites already use this, and you can try it for free",
+    "words": [
+      {
+        "word": "3000",
+        "start": 0.36
+      },
+      {
+        "word": "websites",
+        "start": 1
+      },
+      {
+        "word": "already",
+        "start": 1.62
+      },
+      {
+        "word": "use",
+        "start": 2.04
+      },
+      {
+        "word": "this",
+        "start": 2.24
+      },
+      {
+        "word": "and",
+        "start": 2.76
+      },
+      {
+        "word": "you",
+        "start": 2.98
+      },
+      {
+        "word": "can",
+        "start": 3.14
+      },
+      {
+        "word": "try",
+        "start": 3.32
+      },
+      {
+        "word": "it",
+        "start": 3.54
+      },
+      {
+        "word": "for",
+        "start": 3.7
+      },
+      {
+        "word": "free",
+        "start": 3.88
+      }
+    ]
+  },
+  "_take": {
+    "text": "What an SEO agency does in a month, Rise AI does overnight. Here's how. Before bed, you paste your website URL. While you sleep, it finds the keywords you're missing, writes the articles, publishes them to your website, and builds backlinks. You wake up, and it's already done. Tomorrow, it does it again. No agency, no freelancers, no manual work. Three thousand websites already use this, and you can try it for free.",
+    "words": [
+      {
+        "word": "what",
+        "start": 0.12
+      },
+      {
+        "word": "an",
+        "start": 0.26
+      },
+      {
+        "word": "seo",
+        "start": 0.44
+      },
+      {
+        "word": "agency",
+        "start": 0.9
+      },
+      {
+        "word": "does",
+        "start": 1.42
+      },
+      {
+        "word": "in",
+        "start": 1.64
+      },
+      {
+        "word": "a",
+        "start": 1.74
+      },
+      {
+        "word": "month",
+        "start": 1.86
+      },
+      {
+        "word": "rise",
+        "start": 2.5
+      },
+      {
+        "word": "ai",
+        "start": 2.8
+      },
+      {
+        "word": "does",
+        "start": 3.32
+      },
+      {
+        "word": "overnight",
+        "start": 3.64
+      },
+      {
+        "word": "here's",
+        "start": 4.74
+      },
+      {
+        "word": "how",
+        "start": 4.98
+      },
+      {
+        "word": "before",
+        "start": 5.88
+      },
+      {
+        "word": "bed",
+        "start": 6.26
+      },
+      {
+        "word": "you",
+        "start": 6.78
+      },
+      {
+        "word": "paste",
+        "start": 6.94
+      },
+      {
+        "word": "your",
+        "start": 7.24
+      },
+      {
+        "word": "website",
+        "start": 7.38
+      },
+      {
+        "word": "url",
+        "start": 7.94
+      },
+      {
+        "word": "while",
+        "start": 8.98
+      },
+      {
+        "word": "you",
+        "start": 9.16
+      },
+      {
+        "word": "sleep",
+        "start": 9.32
+      },
+      {
+        "word": "it",
+        "start": 9.82
+      },
+      {
+        "word": "finds",
+        "start": 9.98
+      },
+      {
+        "word": "the",
+        "start": 10.3
+      },
+      {
+        "word": "keywords",
+        "start": 10.44
+      },
+      {
+        "word": "you're",
+        "start": 10.84
+      },
+      {
+        "word": "missing",
+        "start": 10.96
+      },
+      {
+        "word": "writes",
+        "start": 11.62
+      },
+      {
+        "word": "the",
+        "start": 11.96
+      },
+      {
+        "word": "articles",
+        "start": 12.1
+      },
+      {
+        "word": "publishes",
+        "start": 12.92
+      },
+      {
+        "word": "them",
+        "start": 13.42
+      },
+      {
+        "word": "to",
+        "start": 13.66
+      },
+      {
+        "word": "your",
+        "start": 13.76
+      },
+      {
+        "word": "website",
+        "start": 13.88
+      },
+      {
+        "word": "and",
+        "start": 14.64
+      },
+      {
+        "word": "builds",
+        "start": 14.92
+      },
+      {
+        "word": "backlinks",
+        "start": 15.28
+      },
+      {
+        "word": "you",
+        "start": 16.44
+      },
+      {
+        "word": "wake",
+        "start": 16.54
+      },
+      {
+        "word": "up",
+        "start": 16.82
+      },
+      {
+        "word": "and",
+        "start": 17.24
+      },
+      {
+        "word": "it's",
+        "start": 17.36
+      },
+      {
+        "word": "already",
+        "start": 17.54
+      },
+      {
+        "word": "done",
+        "start": 17.9
+      },
+      {
+        "word": "tomorrow",
+        "start": 18.82
+      },
+      {
+        "word": "it",
+        "start": 19.5
+      },
+      {
+        "word": "does",
+        "start": 19.62
+      },
+      {
+        "word": "it",
+        "start": 19.82
+      },
+      {
+        "word": "again",
+        "start": 19.92
+      },
+      {
+        "word": "no",
+        "start": 21
+      },
+      {
+        "word": "agency",
+        "start": 21.26
+      },
+      {
+        "word": "no",
+        "start": 22.12
+      },
+      {
+        "word": "freelancers",
+        "start": 22.38
+      },
+      {
+        "word": "no",
+        "start": 23.42
+      },
+      {
+        "word": "manual",
+        "start": 23.8
+      },
+      {
+        "word": "work",
+        "start": 24.28
+      },
+      {
+        "word": "three",
+        "start": 25.16
+      },
+      {
+        "word": "thousand",
+        "start": 25.54
+      },
+      {
+        "word": "websites",
+        "start": 26.04
+      },
+      {
+        "word": "already",
+        "start": 26.66
+      },
+      {
+        "word": "use",
+        "start": 27.08
+      },
+      {
+        "word": "this",
+        "start": 27.28
+      },
+      {
+        "word": "and",
+        "start": 27.8
+      },
+      {
+        "word": "you",
+        "start": 28.02
+      },
+      {
+        "word": "can",
+        "start": 28.18
+      },
+      {
+        "word": "try",
+        "start": 28.36
+      },
+      {
+        "word": "it",
+        "start": 28.58
+      },
+      {
+        "word": "for",
+        "start": 28.74
+      },
+      {
+        "word": "free",
+        "start": 28.92
+      }
+    ]
+  }
+}

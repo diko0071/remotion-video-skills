@@ -1,0 +1,1027 @@
+{
+  "00-title": {
+    "text": "What is Rise SEO?",
+    "words": [
+      {
+        "word": "what",
+        "start": 0.16
+      },
+      {
+        "word": "is",
+        "start": 0.5
+      },
+      {
+        "word": "rise",
+        "start": 1
+      },
+      {
+        "word": "seo",
+        "start": 1.46
+      }
+    ]
+  },
+  "02-connect": {
+    "text": "Connect your website and Google Search Console",
+    "words": [
+      {
+        "word": "connect",
+        "start": 0.12
+      },
+      {
+        "word": "your",
+        "start": 0.5
+      },
+      {
+        "word": "website",
+        "start": 0.66
+      },
+      {
+        "word": "and",
+        "start": 1.3
+      },
+      {
+        "word": "google",
+        "start": 1.52
+      },
+      {
+        "word": "search",
+        "start": 1.8
+      },
+      {
+        "word": "console",
+        "start": 2.08
+      }
+    ]
+  },
+  "03-audit": {
+    "text": "Rise audits your top three hundred pages every week. Broken links, page speed, titles, schema, sitemap. It fixes what's broken when you approve",
+    "words": [
+      {
+        "word": "rise",
+        "start": 0.08
+      },
+      {
+        "word": "audits",
+        "start": 0.5
+      },
+      {
+        "word": "your",
+        "start": 0.84
+      },
+      {
+        "word": "top",
+        "start": 1
+      },
+      {
+        "word": "three",
+        "start": 1.24
+      },
+      {
+        "word": "hundred",
+        "start": 1.44
+      },
+      {
+        "word": "pages",
+        "start": 1.74
+      },
+      {
+        "word": "every",
+        "start": 2.28
+      },
+      {
+        "word": "week",
+        "start": 2.56
+      },
+      {
+        "word": "broken",
+        "start": 3.3
+      },
+      {
+        "word": "links",
+        "start": 3.68
+      },
+      {
+        "word": "page",
+        "start": 4.36
+      },
+      {
+        "word": "speed",
+        "start": 4.68
+      },
+      {
+        "word": "titles",
+        "start": 5.32
+      },
+      {
+        "word": "schema",
+        "start": 6.16
+      },
+      {
+        "word": "sitemap",
+        "start": 7
+      },
+      {
+        "word": "it",
+        "start": 8.14
+      },
+      {
+        "word": "fixes",
+        "start": 8.3
+      },
+      {
+        "word": "what's",
+        "start": 8.72
+      },
+      {
+        "word": "broken",
+        "start": 8.94
+      },
+      {
+        "word": "when",
+        "start": 9.44
+      },
+      {
+        "word": "you",
+        "start": 9.66
+      },
+      {
+        "word": "approve",
+        "start": 9.8
+      }
+    ]
+  },
+  "09-close": {
+    "text": "Do this for three months and your traffic grows. Start today",
+    "words": [
+      {
+        "word": "do",
+        "start": 0.1
+      },
+      {
+        "word": "this",
+        "start": 0.3
+      },
+      {
+        "word": "for",
+        "start": 0.56
+      },
+      {
+        "word": "three",
+        "start": 0.78
+      },
+      {
+        "word": "months",
+        "start": 1.08
+      },
+      {
+        "word": "and",
+        "start": 1.6
+      },
+      {
+        "word": "your",
+        "start": 1.74
+      },
+      {
+        "word": "traffic",
+        "start": 1.92
+      },
+      {
+        "word": "grows",
+        "start": 2.4
+      },
+      {
+        "word": "start",
+        "start": 3.38
+      },
+      {
+        "word": "today",
+        "start": 3.66
+      }
+    ]
+  },
+  "01-three": {
+    "text": "SEO comes down to three things, a healthy website, relevant content, and backlinks from other sites. Rise does all three",
+    "words": [
+      {
+        "word": "seo",
+        "start": 0.2
+      },
+      {
+        "word": "comes",
+        "start": 0.6
+      },
+      {
+        "word": "down",
+        "start": 0.84
+      },
+      {
+        "word": "to",
+        "start": 1.06
+      },
+      {
+        "word": "three",
+        "start": 1.24
+      },
+      {
+        "word": "things",
+        "start": 1.52
+      },
+      {
+        "word": "a",
+        "start": 2.48
+      },
+      {
+        "word": "healthy",
+        "start": 2.54
+      },
+      {
+        "word": "website",
+        "start": 2.88
+      },
+      {
+        "word": "relevant",
+        "start": 3.72
+      },
+      {
+        "word": "content",
+        "start": 4.2
+      },
+      {
+        "word": "and",
+        "start": 4.98
+      },
+      {
+        "word": "backlinks",
+        "start": 5.18
+      },
+      {
+        "word": "from",
+        "start": 5.82
+      },
+      {
+        "word": "other",
+        "start": 6.04
+      },
+      {
+        "word": "sites",
+        "start": 6.28
+      },
+      {
+        "word": "rise",
+        "start": 7.26
+      },
+      {
+        "word": "does",
+        "start": 7.68
+      },
+      {
+        "word": "all",
+        "start": 8.06
+      },
+      {
+        "word": "three",
+        "start": 8.3
+      }
+    ]
+  },
+  "04a-keywords": {
+    "text": "To move you up, Rise picks keywords carefully. People really search them, they match what you sell, and the competition is low enough to beat",
+    "words": [
+      {
+        "word": "to",
+        "start": 0.12
+      },
+      {
+        "word": "move",
+        "start": 0.26
+      },
+      {
+        "word": "you",
+        "start": 0.48
+      },
+      {
+        "word": "up",
+        "start": 0.68
+      },
+      {
+        "word": "rise",
+        "start": 1.08
+      },
+      {
+        "word": "picks",
+        "start": 1.42
+      },
+      {
+        "word": "keywords",
+        "start": 1.7
+      },
+      {
+        "word": "carefully",
+        "start": 2.2
+      },
+      {
+        "word": "people",
+        "start": 3.1
+      },
+      {
+        "word": "really",
+        "start": 3.52
+      },
+      {
+        "word": "search",
+        "start": 3.92
+      },
+      {
+        "word": "them",
+        "start": 4.22
+      },
+      {
+        "word": "they",
+        "start": 4.66
+      },
+      {
+        "word": "match",
+        "start": 4.82
+      },
+      {
+        "word": "what",
+        "start": 5.1
+      },
+      {
+        "word": "you",
+        "start": 5.26
+      },
+      {
+        "word": "sell",
+        "start": 5.4
+      },
+      {
+        "word": "and",
+        "start": 6.02
+      },
+      {
+        "word": "the",
+        "start": 6.14
+      },
+      {
+        "word": "competition",
+        "start": 6.24
+      },
+      {
+        "word": "is",
+        "start": 6.88
+      },
+      {
+        "word": "low",
+        "start": 7.06
+      },
+      {
+        "word": "enough",
+        "start": 7.22
+      },
+      {
+        "word": "to",
+        "start": 7.5
+      },
+      {
+        "word": "beat",
+        "start": 7.62
+      }
+    ]
+  },
+  "04b-gsc": {
+    "text": "It also finds searches where you already show up on Google but don't have a page yet",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.08
+      },
+      {
+        "word": "also",
+        "start": 0.2
+      },
+      {
+        "word": "finds",
+        "start": 0.54
+      },
+      {
+        "word": "searches",
+        "start": 0.82
+      },
+      {
+        "word": "where",
+        "start": 1.3
+      },
+      {
+        "word": "you",
+        "start": 1.46
+      },
+      {
+        "word": "already",
+        "start": 1.64
+      },
+      {
+        "word": "show",
+        "start": 2.02
+      },
+      {
+        "word": "up",
+        "start": 2.24
+      },
+      {
+        "word": "on",
+        "start": 2.38
+      },
+      {
+        "word": "google",
+        "start": 2.54
+      },
+      {
+        "word": "but",
+        "start": 3.08
+      },
+      {
+        "word": "don't",
+        "start": 3.24
+      },
+      {
+        "word": "have",
+        "start": 3.5
+      },
+      {
+        "word": "a",
+        "start": 3.66
+      },
+      {
+        "word": "page",
+        "start": 3.76
+      },
+      {
+        "word": "yet",
+        "start": 4.04
+      }
+    ]
+  },
+  "05a-prompts": {
+    "text": "For AI search, it looks at your competitors first, then builds the questions buyers ask ChatGPT, Claude, Gemini, and Perplexity",
+    "words": [
+      {
+        "word": "for",
+        "start": 0.1
+      },
+      {
+        "word": "ai",
+        "start": 0.36
+      },
+      {
+        "word": "search",
+        "start": 0.78
+      },
+      {
+        "word": "it",
+        "start": 1.34
+      },
+      {
+        "word": "looks",
+        "start": 1.5
+      },
+      {
+        "word": "at",
+        "start": 1.7
+      },
+      {
+        "word": "your",
+        "start": 1.84
+      },
+      {
+        "word": "competitors",
+        "start": 1.96
+      },
+      {
+        "word": "first",
+        "start": 2.62
+      },
+      {
+        "word": "then",
+        "start": 3.32
+      },
+      {
+        "word": "builds",
+        "start": 3.56
+      },
+      {
+        "word": "the",
+        "start": 3.86
+      },
+      {
+        "word": "questions",
+        "start": 4
+      },
+      {
+        "word": "buyers",
+        "start": 4.54
+      },
+      {
+        "word": "ask",
+        "start": 5
+      },
+      {
+        "word": "chatgpt",
+        "start": 5.3
+      },
+      {
+        "word": "claude",
+        "start": 6.44
+      },
+      {
+        "word": "gemini",
+        "start": 7.1
+      },
+      {
+        "word": "and",
+        "start": 7.76
+      },
+      {
+        "word": "perplexity",
+        "start": 7.88
+      }
+    ]
+  },
+  "05b-named": {
+    "text": "It asks them on every refresh and shows who gets named, you or a competitor, and which sources they cite",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.12
+      },
+      {
+        "word": "asks",
+        "start": 0.36
+      },
+      {
+        "word": "them",
+        "start": 0.7
+      },
+      {
+        "word": "on",
+        "start": 0.96
+      },
+      {
+        "word": "every",
+        "start": 1.2
+      },
+      {
+        "word": "refresh",
+        "start": 1.54
+      },
+      {
+        "word": "and",
+        "start": 2.38
+      },
+      {
+        "word": "shows",
+        "start": 2.56
+      },
+      {
+        "word": "who",
+        "start": 2.84
+      },
+      {
+        "word": "gets",
+        "start": 2.96
+      },
+      {
+        "word": "named",
+        "start": 3.2
+      },
+      {
+        "word": "you",
+        "start": 3.88
+      },
+      {
+        "word": "or",
+        "start": 4.18
+      },
+      {
+        "word": "a",
+        "start": 4.28
+      },
+      {
+        "word": "competitor",
+        "start": 4.36
+      },
+      {
+        "word": "and",
+        "start": 5.32
+      },
+      {
+        "word": "which",
+        "start": 5.52
+      },
+      {
+        "word": "sources",
+        "start": 5.78
+      },
+      {
+        "word": "they",
+        "start": 6.2
+      },
+      {
+        "word": "cite",
+        "start": 6.38
+      }
+    ]
+  },
+  "06a-write": {
+    "text": "Then it writes the articles, listicles, comparisons, alternatives, answers to real questions. Each one gets a summary, an FAQ, images, and links to your own pages",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.12
+      },
+      {
+        "word": "it",
+        "start": 0.26
+      },
+      {
+        "word": "writes",
+        "start": 0.36
+      },
+      {
+        "word": "the",
+        "start": 0.66
+      },
+      {
+        "word": "articles",
+        "start": 0.8
+      },
+      {
+        "word": "listicles",
+        "start": 1.8
+      },
+      {
+        "word": "comparisons",
+        "start": 2.58
+      },
+      {
+        "word": "alternatives",
+        "start": 3.48
+      },
+      {
+        "word": "answers",
+        "start": 4.46
+      },
+      {
+        "word": "to",
+        "start": 4.92
+      },
+      {
+        "word": "real",
+        "start": 5.08
+      },
+      {
+        "word": "questions",
+        "start": 5.38
+      },
+      {
+        "word": "each",
+        "start": 6.8
+      },
+      {
+        "word": "one",
+        "start": 7.06
+      },
+      {
+        "word": "gets",
+        "start": 7.22
+      },
+      {
+        "word": "a",
+        "start": 7.42
+      },
+      {
+        "word": "summary",
+        "start": 7.54
+      },
+      {
+        "word": "an",
+        "start": 8.24
+      },
+      {
+        "word": "faq",
+        "start": 8.46
+      },
+      {
+        "word": "images",
+        "start": 9.38
+      },
+      {
+        "word": "and",
+        "start": 10.22
+      },
+      {
+        "word": "links",
+        "start": 10.4
+      },
+      {
+        "word": "to",
+        "start": 10.74
+      },
+      {
+        "word": "your",
+        "start": 10.84
+      },
+      {
+        "word": "own",
+        "start": 11
+      },
+      {
+        "word": "pages",
+        "start": 11.24
+      }
+    ]
+  },
+  "06b-score": {
+    "text": "Every article is scored out of a hundred on nine checks, from structure and links to meta tags and schema",
+    "words": [
+      {
+        "word": "every",
+        "start": 0.14
+      },
+      {
+        "word": "article",
+        "start": 0.44
+      },
+      {
+        "word": "is",
+        "start": 0.86
+      },
+      {
+        "word": "scored",
+        "start": 1.06
+      },
+      {
+        "word": "out",
+        "start": 1.44
+      },
+      {
+        "word": "of",
+        "start": 1.56
+      },
+      {
+        "word": "a",
+        "start": 1.66
+      },
+      {
+        "word": "hundred",
+        "start": 1.74
+      },
+      {
+        "word": "on",
+        "start": 2.44
+      },
+      {
+        "word": "nine",
+        "start": 2.62
+      },
+      {
+        "word": "checks",
+        "start": 2.92
+      },
+      {
+        "word": "from",
+        "start": 3.58
+      },
+      {
+        "word": "structure",
+        "start": 3.88
+      },
+      {
+        "word": "and",
+        "start": 4.22
+      },
+      {
+        "word": "links",
+        "start": 4.36
+      },
+      {
+        "word": "to",
+        "start": 4.92
+      },
+      {
+        "word": "meta",
+        "start": 5.04
+      },
+      {
+        "word": "tags",
+        "start": 5.32
+      },
+      {
+        "word": "and",
+        "start": 5.72
+      },
+      {
+        "word": "schema",
+        "start": 5.9
+      }
+    ]
+  },
+  "06c-publish": {
+    "text": "Then it publishes them to your site on schedule, up to 90 a month. Or you approve each one yourself",
+    "words": [
+      {
+        "word": "then",
+        "start": 0.08
+      },
+      {
+        "word": "it",
+        "start": 0.22
+      },
+      {
+        "word": "publishes",
+        "start": 0.34
+      },
+      {
+        "word": "them",
+        "start": 0.82
+      },
+      {
+        "word": "to",
+        "start": 1.04
+      },
+      {
+        "word": "your",
+        "start": 1.18
+      },
+      {
+        "word": "site",
+        "start": 1.38
+      },
+      {
+        "word": "on",
+        "start": 1.68
+      },
+      {
+        "word": "schedule",
+        "start": 1.82
+      },
+      {
+        "word": "up",
+        "start": 2.62
+      },
+      {
+        "word": "to",
+        "start": 2.74
+      },
+      {
+        "word": "90",
+        "start": 2.88
+      },
+      {
+        "word": "a",
+        "start": 3.32
+      },
+      {
+        "word": "month",
+        "start": 3.42
+      },
+      {
+        "word": "or",
+        "start": 4.32
+      },
+      {
+        "word": "you",
+        "start": 4.72
+      },
+      {
+        "word": "approve",
+        "start": 4.84
+      },
+      {
+        "word": "each",
+        "start": 5.32
+      },
+      {
+        "word": "one",
+        "start": 5.58
+      },
+      {
+        "word": "yourself",
+        "start": 5.8
+      }
+    ]
+  },
+  "07-links": {
+    "text": "Backlinks come from the Rise backlink exchange. Websites that don't compete with you link to each other in chains, and your site gets new backlinks every month",
+    "words": [
+      {
+        "word": "backlinks",
+        "start": 0.1
+      },
+      {
+        "word": "come",
+        "start": 0.76
+      },
+      {
+        "word": "from",
+        "start": 1
+      },
+      {
+        "word": "the",
+        "start": 1.2
+      },
+      {
+        "word": "rise",
+        "start": 1.32
+      },
+      {
+        "word": "backlink",
+        "start": 1.8
+      },
+      {
+        "word": "exchange",
+        "start": 2.32
+      },
+      {
+        "word": "websites",
+        "start": 3.38
+      },
+      {
+        "word": "that",
+        "start": 3.9
+      },
+      {
+        "word": "don't",
+        "start": 4.14
+      },
+      {
+        "word": "compete",
+        "start": 4.42
+      },
+      {
+        "word": "with",
+        "start": 4.8
+      },
+      {
+        "word": "you",
+        "start": 5.02
+      },
+      {
+        "word": "link",
+        "start": 5.34
+      },
+      {
+        "word": "to",
+        "start": 5.6
+      },
+      {
+        "word": "each",
+        "start": 5.72
+      },
+      {
+        "word": "other",
+        "start": 5.92
+      },
+      {
+        "word": "in",
+        "start": 6.2
+      },
+      {
+        "word": "chains",
+        "start": 6.36
+      },
+      {
+        "word": "and",
+        "start": 7.06
+      },
+      {
+        "word": "your",
+        "start": 7.24
+      },
+      {
+        "word": "site",
+        "start": 7.48
+      },
+      {
+        "word": "gets",
+        "start": 7.76
+      },
+      {
+        "word": "new",
+        "start": 8.039
+      },
+      {
+        "word": "backlinks",
+        "start": 8.24
+      },
+      {
+        "word": "every",
+        "start": 8.88
+      },
+      {
+        "word": "month",
+        "start": 9.16
+      }
+    ]
+  }
+}

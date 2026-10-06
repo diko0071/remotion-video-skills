@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "Ask ChatGPT for the best brand in your niche. It recommends your competitor. Not you."
+    },
+    {
+      "key": "02-problem",
+      "text": "AI only recommends websites it can find, and right now, yours isn't there."
+    },
+    {
+      "key": "03-turn",
+      "text": "Now, Ryze AI fixes that automatically. You paste your URL in once, it publishes daily articles that AI can quote, builds backlinks that prove you're legit, and tracks when ChatGPT, Claude and Perplexity start mentioning you."
+    },
+    {
+      "key": "04-life",
+      "text": "No agency, no manual work. Just your brand showing up where your customers ask."
+    },
+    {
+      "key": "05-cta",
+      "text": "Three thousand websites already use this, and you can try it for free."
+    }
+  ]
+}

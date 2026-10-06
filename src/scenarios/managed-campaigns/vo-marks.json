@@ -1,0 +1,466 @@
+{
+  "00-title": {
+    "text": "What is managed campaigns?",
+    "words": [
+      {
+        "word": "what",
+        "start": 0.22
+      },
+      {
+        "word": "is",
+        "start": 0.42
+      },
+      {
+        "word": "managed",
+        "start": 0.64
+      },
+      {
+        "word": "campaigns",
+        "start": 1.12
+      }
+    ]
+  },
+  "02-step1": {
+    "text": "Step one, you set a daily budget, pick where your ads run, and choose a goal like more sales",
+    "words": [
+      {
+        "word": "step",
+        "start": 0.1
+      },
+      {
+        "word": "one",
+        "start": 0.38
+      },
+      {
+        "word": "you",
+        "start": 1.2
+      },
+      {
+        "word": "set",
+        "start": 1.36
+      },
+      {
+        "word": "a",
+        "start": 1.56
+      },
+      {
+        "word": "daily",
+        "start": 1.66
+      },
+      {
+        "word": "budget",
+        "start": 1.98
+      },
+      {
+        "word": "pick",
+        "start": 2.72
+      },
+      {
+        "word": "where",
+        "start": 2.9
+      },
+      {
+        "word": "your",
+        "start": 3.06
+      },
+      {
+        "word": "ads",
+        "start": 3.28
+      },
+      {
+        "word": "run",
+        "start": 3.52
+      },
+      {
+        "word": "and",
+        "start": 3.96
+      },
+      {
+        "word": "choose",
+        "start": 4.12
+      },
+      {
+        "word": "a",
+        "start": 4.36
+      },
+      {
+        "word": "goal",
+        "start": 4.44
+      },
+      {
+        "word": "like",
+        "start": 5
+      },
+      {
+        "word": "more",
+        "start": 5.44
+      },
+      {
+        "word": "sales",
+        "start": 5.66
+      }
+    ]
+  },
+  "03-step2": {
+    "text": "Step two, the agent sets everything up. It studies your ad account's history, builds the campaign, and makes the ads",
+    "words": [
+      {
+        "word": "step",
+        "start": 0.2
+      },
+      {
+        "word": "two",
+        "start": 0.48
+      },
+      {
+        "word": "the",
+        "start": 1.3
+      },
+      {
+        "word": "agent",
+        "start": 1.48
+      },
+      {
+        "word": "sets",
+        "start": 1.86
+      },
+      {
+        "word": "everything",
+        "start": 2.12
+      },
+      {
+        "word": "up",
+        "start": 2.58
+      },
+      {
+        "word": "it",
+        "start": 3.32
+      },
+      {
+        "word": "studies",
+        "start": 3.5
+      },
+      {
+        "word": "your",
+        "start": 3.9
+      },
+      {
+        "word": "ad",
+        "start": 4.1
+      },
+      {
+        "word": "account's",
+        "start": 4.22
+      },
+      {
+        "word": "history",
+        "start": 4.58
+      },
+      {
+        "word": "builds",
+        "start": 5.28
+      },
+      {
+        "word": "the",
+        "start": 5.56
+      },
+      {
+        "word": "campaign",
+        "start": 5.68
+      },
+      {
+        "word": "and",
+        "start": 6.52
+      },
+      {
+        "word": "makes",
+        "start": 6.72
+      },
+      {
+        "word": "the",
+        "start": 7.02
+      },
+      {
+        "word": "ads",
+        "start": 7.2
+      }
+    ]
+  },
+  "04-step3": {
+    "text": "Step three, it launches the campaign on its own",
+    "words": [
+      {
+        "word": "step",
+        "start": 0.12
+      },
+      {
+        "word": "three",
+        "start": 0.36
+      },
+      {
+        "word": "it",
+        "start": 1.06
+      },
+      {
+        "word": "launches",
+        "start": 1.2
+      },
+      {
+        "word": "the",
+        "start": 1.62
+      },
+      {
+        "word": "campaign",
+        "start": 1.74
+      },
+      {
+        "word": "on",
+        "start": 2.34
+      },
+      {
+        "word": "its",
+        "start": 2.44
+      },
+      {
+        "word": "own",
+        "start": 2.66
+      }
+    ]
+  },
+  "05-step4": {
+    "text": "Step four, it keeps checking the results on its own schedule, pauses what isn't working, and moves budget to what is",
+    "words": [
+      {
+        "word": "step",
+        "start": 0.18
+      },
+      {
+        "word": "four",
+        "start": 0.5
+      },
+      {
+        "word": "it",
+        "start": 1.42
+      },
+      {
+        "word": "keeps",
+        "start": 1.6
+      },
+      {
+        "word": "checking",
+        "start": 1.94
+      },
+      {
+        "word": "the",
+        "start": 2.26
+      },
+      {
+        "word": "results",
+        "start": 2.36
+      },
+      {
+        "word": "on",
+        "start": 2.82
+      },
+      {
+        "word": "its",
+        "start": 2.92
+      },
+      {
+        "word": "own",
+        "start": 3.12
+      },
+      {
+        "word": "schedule",
+        "start": 3.4
+      },
+      {
+        "word": "pauses",
+        "start": 4.16
+      },
+      {
+        "word": "what",
+        "start": 4.64
+      },
+      {
+        "word": "isn't",
+        "start": 4.78
+      },
+      {
+        "word": "working",
+        "start": 5.02
+      },
+      {
+        "word": "and",
+        "start": 5.72
+      },
+      {
+        "word": "moves",
+        "start": 5.92
+      },
+      {
+        "word": "budget",
+        "start": 6.26
+      },
+      {
+        "word": "to",
+        "start": 6.66
+      },
+      {
+        "word": "what",
+        "start": 6.8
+      },
+      {
+        "word": "is",
+        "start": 7.04
+      }
+    ]
+  },
+  "07-close": {
+    "text": "Managed campaigns: your marketer on autopilot",
+    "words": [
+      {
+        "word": "managed",
+        "start": 0.12
+      },
+      {
+        "word": "campaigns",
+        "start": 0.56
+      },
+      {
+        "word": "your",
+        "start": 1.56
+      },
+      {
+        "word": "marketer",
+        "start": 1.78
+      },
+      {
+        "word": "on",
+        "start": 2.54
+      },
+      {
+        "word": "autopilot",
+        "start": 2.82
+      }
+    ]
+  },
+  "01-answer": {
+    "text": "It's an AI media buyer that runs your ad campaigns for you. Here's how it works",
+    "words": [
+      {
+        "word": "it's",
+        "start": 0.1
+      },
+      {
+        "word": "an",
+        "start": 0.26
+      },
+      {
+        "word": "ai",
+        "start": 0.52
+      },
+      {
+        "word": "media",
+        "start": 0.9
+      },
+      {
+        "word": "buyer",
+        "start": 1.24
+      },
+      {
+        "word": "that",
+        "start": 1.6
+      },
+      {
+        "word": "runs",
+        "start": 1.82
+      },
+      {
+        "word": "your",
+        "start": 2.12
+      },
+      {
+        "word": "ad",
+        "start": 2.3
+      },
+      {
+        "word": "campaigns",
+        "start": 2.5
+      },
+      {
+        "word": "for",
+        "start": 3.06
+      },
+      {
+        "word": "you",
+        "start": 3.34
+      },
+      {
+        "word": "here's",
+        "start": 3.88
+      },
+      {
+        "word": "how",
+        "start": 4.12
+      },
+      {
+        "word": "it",
+        "start": 4.28
+      },
+      {
+        "word": "works",
+        "start": 4.4
+      }
+    ]
+  },
+  "06-asks": {
+    "text": "And if it needs something only you know, it asks you",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.08
+      },
+      {
+        "word": "if",
+        "start": 0.18
+      },
+      {
+        "word": "it",
+        "start": 0.28
+      },
+      {
+        "word": "needs",
+        "start": 0.4
+      },
+      {
+        "word": "something",
+        "start": 0.64
+      },
+      {
+        "word": "only",
+        "start": 1.1
+      },
+      {
+        "word": "you",
+        "start": 1.46
+      },
+      {
+        "word": "know",
+        "start": 1.64
+      },
+      {
+        "word": "it",
+        "start": 2.14
+      },
+      {
+        "word": "asks",
+        "start": 2.3
+      },
+      {
+        "word": "you",
+        "start": 2.64
+      }
+    ]
+  }
+}

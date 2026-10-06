@@ -1,6 +1,7 @@
 import React from "react";
 import { AbsoluteFill, Img, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { SPRINGS, useSpringAt } from "../../core/motion";
+import { useFs } from "./style";
 
 const SLACK_AT = 12;
 const GMAIL_AT = 74;
@@ -15,13 +16,14 @@ const LINES = [
 
 const Line: React.FC<{ text: string; at: number; small?: boolean }> = ({ text, at, small }) => {
   const inn = useSpringAt(at, SPRINGS.pop, 14);
+  const fs = useFs();
   return (
     <span
       style={{
         display: "flex",
         alignItems: "center",
         gap: 11,
-        fontSize: small ? 19 : 21,
+        fontSize: fs(small ? 19 : 21),
         fontWeight: 500,
         color: "rgba(23,19,16,0.6)",
         opacity: inn,
@@ -46,6 +48,7 @@ const Notice: React.FC<{
 }> = ({ at, icon, channel, meta, x, width, tilt }) => {
   const frame = useCurrentFrame();
   const inn = useSpringAt(at, SPRINGS.card, 26);
+  const fs = useFs();
   if (frame < at) return null;
   return (
     <div
@@ -73,14 +76,14 @@ const Notice: React.FC<{
     >
       <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
         <Img src={staticFile(icon)} style={{ width: 30, height: 30, borderRadius: 7 }} />
-        <span style={{ fontSize: 17, fontWeight: 600, color: "rgba(23,19,16,0.5)" }}>{channel}</span>
+        <span style={{ fontSize: fs(17), fontWeight: 600, color: "rgba(23,19,16,0.5)" }}>{channel}</span>
         <span
-          style={{ marginLeft: "auto", fontSize: 16, fontWeight: 500, color: "rgba(23,19,16,0.3)" }}
+          style={{ marginLeft: "auto", fontSize: fs(16), fontWeight: 500, color: "rgba(23,19,16,0.3)" }}
         >
           {meta}
         </span>
       </div>
-      <span style={{ fontSize: 40, fontWeight: 700, letterSpacing: "-0.02em", color: "#171310" }}>
+      <span style={{ fontSize: fs(40), fontWeight: 700, letterSpacing: "-0.02em", color: "#171310" }}>
         27 approvals are waiting
       </span>
       <div style={{ display: "flex", flexDirection: "column", gap: 11 }}>
@@ -98,7 +101,7 @@ const Notice: React.FC<{
           borderRadius: 10,
           background: "#171310",
           color: "#FFFFFF",
-          fontSize: 17,
+          fontSize: fs(17),
           fontWeight: 700,
         }}
       >

@@ -1,5 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Sequence } from "remotion";
+import { GROK_CTA_LEN } from "../../kit/grok-cta";
 import { PromoPlayer } from "../../engine/promo/player";
 import { promoDuration, PromoScenario } from "../../engine/promo/scenario";
 import { GrokBotFilm } from "./scene-film";
@@ -36,7 +37,7 @@ export const GrokBot: React.FC = () => (
 const TAIL_CTA: PromoScenario = {
   ...TAIL,
   id: "grok-bot-tail-cta",
-  scenes: [...TAIL.scenes, { kind: "custom", render: CtaScene, duration: 80 }],
+  scenes: [...TAIL.scenes, { kind: "custom", render: CtaScene, duration: GROK_CTA_LEN }],
 };
 
 export const GROK_BOT_CTA_TOTAL = FILM_TOTAL + promoDuration(TAIL_CTA);

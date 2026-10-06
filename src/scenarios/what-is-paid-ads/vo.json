@@ -1,0 +1,38 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[curious] What is Ryze for Paid Ads?"
+    },
+    {
+      "key": "01-agent",
+      "text": "It's an AI media buyer on your Google, Meta and TikTok accounts. It watches them around the clock, and sends every fix to you as an approval."
+    },
+    {
+      "key": "02-creatives",
+      "text": "Creatives. Ask for an ad, and it makes it: the hook, the image, the size you need. Or start from a winning ad in your niche, and make it yours."
+    },
+    {
+      "key": "03-competitors",
+      "text": "Competitor Ads. Track up to five competitors, and see every ad they run on Google, Meta and LinkedIn. Sort by how long an ad has been running, and you see what actually works. And we email you when they launch something new."
+    },
+    {
+      "key": "04-schedules",
+      "text": "Schedules. Give the agent a task, like a weekly performance check, and it runs on its own, daily, weekly or monthly. Results land in a new chat, and we email you."
+    },
+    {
+      "key": "05-reports",
+      "text": "Reports. Ask for a report, and it builds a deck from your live data. Download it as a PDF, or send it to your team by email."
+    },
+    {
+      "key": "06-dashboards",
+      "text": "And custom dashboards. Describe what you want to see, and it builds a live dashboard you can refresh any time."
+    },
+    {
+      "key": "07-close",
+      "text": "[warm] Make every ad dollar count. Start today."
+    }
+  ]
+}

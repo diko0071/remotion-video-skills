@@ -44,3 +44,4 @@ export {
 } from "./icons";
 export { GrokPluginsModal, PluginCard, PluginSection, PLUGIN_CATEGORIES } from "./plugins";
 export type { PluginCardProps } from "./plugins";
+export { FEED, feedReveal, feedRise, FeedLogo, FeedBotLine, FeedUserLine, FeedCard, FeedBotLabel } from "./feed";

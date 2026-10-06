@@ -12,5 +12,6 @@ export {
 } from "./issues-table";
 export { AUDIT_SITE_ROW, AUDIT_PAGE_ROWS } from "./data";
 export { TechnicalAuditBody, TechnicalAuditPage, AUDIT_RINGS } from "./page";
+export { CheckBox } from "./icons";
 export { scoreTone } from "./types";
 export type { AuditRow, AuditIssue, AuditPassed, AuditSeverity } from "./types";

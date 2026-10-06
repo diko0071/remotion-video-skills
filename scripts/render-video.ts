@@ -7,6 +7,7 @@ import { projectRoot } from "../src/services/env";
 
 const args = process.argv.slice(2).filter((a) => !a.startsWith("--"));
 const flags = new Set(process.argv.slice(2).filter((a) => a.startsWith("--")));
+const renderFlags = process.argv.slice(2).filter((a) => a.startsWith("--concurrency="));
 const id = args[0];
 
 if (!id) {
@@ -77,13 +78,13 @@ const main = async () => {
   }
 
   if (!wantMusic || !config) {
-    run("bunx", ["remotion", "render", id, path.relative(root, outMp4), "--overwrite"]);
+    run("bunx", ["remotion", "render", id, path.relative(root, outMp4), "--overwrite", ...renderFlags]);
     console.log(`Done: out/${id}.mp4 (no music)`);
     return;
   }
 
   const rawMp4 = path.join(root, "out", `${id}-raw.mp4`);
-  run("bunx", ["remotion", "render", id, path.relative(root, rawMp4), "--overwrite"]);
+  run("bunx", ["remotion", "render", id, path.relative(root, rawMp4), "--overwrite", ...renderFlags]);
 
   const volume = config.volume ?? 0.55;
   const durationMs = compositionDurationMs();
@@ -98,7 +99,7 @@ const main = async () => {
     "-i", rawMp4,
     "-i", musicMp3,
     "-filter_complex",
-    `[1:a]volume=${volume},afade=t=in:d=1,afade=t=out:st=${fadeOutStart}:d=2.5[m];[0:a][m]amix=inputs=2:duration=first:normalize=0[a]`,
+    `[0:a]apad=whole_dur=${durationSec}[s];[1:a]volume=${volume},afade=t=in:d=1,afade=t=out:st=${fadeOutStart}:d=2.5[m];[s][m]amix=inputs=2:duration=first:normalize=0[a]`,
     "-map", "0:v",
     "-map", "[a]",
     "-c:v", "copy",

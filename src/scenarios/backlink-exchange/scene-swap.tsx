@@ -1,6 +1,7 @@
 import React from "react";
 import { AbsoluteFill, useCurrentFrame } from "remotion";
 import { SPRINGS, useReveal, useSpringAt } from "../../core/motion";
+import { ChainArrow } from "../../kit/chain-arrow";
 import { HighlightWord } from "../../kit/kinetic-text";
 import { CandleIcon, CoffeeIcon, LinenIcon } from "./scene-emails";
 
@@ -124,46 +125,6 @@ const Article: React.FC<{
   </div>
 );
 
-const Arrow: React.FC<{ at: number; fromX: number; toX: number }> = ({ at, fromX, toX }) => {
-  const frame = useCurrentFrame();
-  const p = useSpringAt(at, SPRINGS.card, 26);
-  if (frame < at) return null;
-  const y = 216;
-  const cx = (fromX + toX) / 2;
-  const cy = y - 96;
-  const tx = 2 * (toX - cx);
-  const ty = 2 * (y - cy);
-  const ang = Math.atan2(ty, tx);
-  const a1 = ang + Math.PI - 0.5;
-  const a2 = ang + Math.PI + 0.5;
-  const HL = 20;
-  return (
-    <svg width={1920} height={1080} style={{ position: "absolute", inset: 0 }}>
-      <path
-        d={`M ${fromX} ${y} Q ${cx} ${cy} ${toX} ${y}`}
-        stroke="#C19767"
-        strokeWidth={4}
-        fill="none"
-        strokeLinecap="round"
-        pathLength={1}
-        strokeDasharray={1}
-        strokeDashoffset={1 - p}
-        opacity={0.9}
-      />
-      {p > 0.92 ? (
-        <path
-          d={`M ${toX + Math.cos(a1) * HL} ${y + Math.sin(a1) * HL} L ${toX} ${y} L ${toX + Math.cos(a2) * HL} ${y + Math.sin(a2) * HL}`}
-          stroke="#C19767"
-          strokeWidth={4}
-          fill="none"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-        />
-      ) : null}
-    </svg>
-  );
-};
-
 export const SwapScene: React.FC = () => {
   const aIn = useReveal(LINK_A_YOU - 22, 26, 20);
   const youIn = useReveal(YOU_IN, 26, 20);
@@ -171,8 +132,8 @@ export const SwapScene: React.FC = () => {
   const noteIn = useReveal(244, 18, 18);
   return (
     <AbsoluteFill style={{ background: "var(--background)", fontFamily: "'Plus Jakarta Sans'" }}>
-      <Arrow at={LINK_A_YOU} fromX={COLS[0] + CARD_W - 70} toX={COLS[1] + 70} />
-      <Arrow at={LINK_YOU_B} fromX={COLS[1] + CARD_W - 70} toX={COLS[2] + 70} />
+      <ChainArrow at={LINK_A_YOU} y={216} fromX={COLS[0] + CARD_W - 70} toX={COLS[1] + 70} />
+      <ChainArrow at={LINK_YOU_B} y={216} fromX={COLS[1] + CARD_W - 70} toX={COLS[2] + 70} />
       <div style={{ ...aIn, position: "absolute", left: COLS[0], top: TOP, width: CARD_W }}>
         <Article
           icon={<LinenIcon size={17} />}

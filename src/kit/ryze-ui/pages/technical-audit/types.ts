@@ -1,6 +1,6 @@
 export type AuditSeverity = "critical" | "warning" | "notice";
 
-export type AuditIssue = { name: string; severity: AuditSeverity; fix: string };
+export type AuditIssue = { name: string; severity: AuditSeverity; fix: string; passed?: boolean };
 
 export type AuditPassed = { label: string; description: string };
 

@@ -56,10 +56,22 @@ anti-pattern we built against. Kit: `src/kit/grok-ui`.
 while the screen clip opens to the frame, the notification arrives inside,
 pull-back lands on the opening framing. Replica: `src/scenarios/bot-effect/`.
 
+### bot-2104661562715967548 (Grok Bot "Introducing Team Bots", x.com/bot, 27s)
+`bot-2104661562715967548/BREAKDOWN.md`. Calm UI-object film: one anchor bubble per role
+world, a collage of that role's real artefacts assembling around it, colour = identity,
+result card, Slack Q&A payoff, bloub-to-wordmark end. Our own story on this grammar:
+`src/scenarios/o-night-shift/`.
+
 ### shipper-2 (Shipper "Introducing Claude for business-building", 16s)
 `shipper-2/BREAKDOWN.md`. The dithered-texture film: posterized fluid +
 halftone/ASCII lattice under clean UI, glyph scramble, word roller, push into
 the send button, feature chain the camera walks.
+
+### gumloop-gumball (Gumloop "Introducing Gumball", 46s, 4K)
+`gumloop-gumball/BREAKDOWN.md` + 1fps sheet. Replica in Ryze skin:
+`src/scenarios/introducing-agent/`. Steal: a mascot with eyes that peeks over
+every card, coloured strokes drawn next to words, dark result panel sliding
+up over a light window, model routing as marks under a message, price ladder.
 
 ## External galleries
 - https://www.remotion.dev/prompts — community showcase; good for scene ideas
@@ -137,3 +149,20 @@ mockup; file-tree "finding a skill" beat (ours: tool discovery); collage.
 - Results always get a physical frame: phone mockup, swipe card, collage.
 - Numbered steps for how-it-works.
 - Voiceover formats run 40-60s; silent formats 20-33s.
+
+## Quick notes on refs without a breakdown (looked at 24-frame sheets, 2026-09-24)
+
+- **seijin** (Helena on iMessage, 42s): a marketing agent that texts you. Phone floats on white, a LABEL on the left names each case (Ad spend monitoring, Traffic spike detection, Competitor monitoring, Blogs, Emails), real ad creatives inside bubbles, you reply one word ("Pause it", "Do it") and it lands "Done". Closest ref for any "AI for marketing" film.
+- **treg** (Grok Bot plugin, 60s): "One key — 2,896 data & tools" logo grid, agents (Content / SEO / Brand Monitor) answering @treg in a thread with result cards, competitor prices struck through ("No subscription, pays for results only", "Cents per call").
+- **claude-scene** (Anthropic Economic Index, 27s): Claude welcome, camera pushes onto the model chip "Opus 4.8 High", connector toggle flips, bar chart with hover tooltip, serif close "…now live in Claude".
+- **indrive-case** (TikTok One case, 116s): marketing results as huge type on acid lime: "7 days", "6 times faster", "ROAS +62%", "CPA $1.4" vs "industry average $7" on a red panel, "75% of all clicks". Proof beats for ad results.
+- **base44** (Branches, 23s): UI on the left, one plain sentence on the right per beat, variants of the same store page stacked full-bleed in different styles.
+- **browserbase bb-2071** (Agents launch, 29s): pixel landscape, `POST /v1/agents` typed, messy-web collage, orange collage words (browsers / session replays / agent identity / out of the box), caption pill at the bottom. bb-2057 / bb-2088 are interview footage.
+- **perplexity-kinetic** (Portable Computer, 97s): serif settle lines on dark then light, "What should we work on?" composer, orchestrator ring around a device, tables of results. Source of kit/settle-text.
+- **merge-context-layer** (83s): founder on camera + UI inserts, captions, "Universal Context Layer".
+- **owner-algo** (Owner, "first AI CMO for restaurants", 110s): founder + owner footage, health score 35 → issues → fixed site, owner reaction "Wow, this is crazy".
+- **fb-1827384028291239** (BabyLoveGrowth, 36s): stick-figure explainer, one orange word per beat.
+- **amplitude-entry** (11s): a property form filled step by step on a violet ground, then the report table.
+- **_reels**: admove-ai (founder + ad generation UI, brand system, winning creatives with revenue), relay-app (numbered steps on blue), supermotion / product-announcement / remotion-2-trailer (feature caption pills, feature grids), shotcraft ×2 (tilted card galleries, serif "Shots that trace / orbit / cascade", italic accent word), openmontage (cinematic exploded products, dark), github-unwrapped / electricity-maps / remotion-recorder / vibrantsnap (data stories and creator PiP).
+- **ugc-demo** (6 vertical UGC clips): phone-shot "Claude + Shopify" creator videos, "Comment X" CTAs.
+- **grok-dark**: sheets of the dark Grok Bot UI used for grok-plugins.

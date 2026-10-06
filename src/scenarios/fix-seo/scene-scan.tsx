@@ -1,13 +1,11 @@
 import React from "react";
-import { AbsoluteFill, Easing, Img, interpolate, staticFile, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Img, staticFile } from "remotion";
 import { useReveal } from "../../core/motion";
 import { CameraRig, type CameraShot } from "../../core/stage";
-import { ScoreRing } from "../../kit/score-ring";
+import { ScanBeam } from "../../kit/scan-beam";
+import { ScoreCard } from "../../kit/score-card";
 import "../../kit/chat/chat.css";
 import { BEAM_H_AT, BEAM_V_AT, ISSUES_AT, SCAN_SITE, SCAN_TOTAL, SCORE_AT, SCORE_COL, SITE_AT } from "./timings";
-
-const INK = "#171310";
-const BEAM_LEN = 52;
 
 const SHOTS: CameraShot[] = [
   { at: 0, target: "scan.site", zoom: 1.0 },
@@ -19,81 +17,6 @@ const SCORES: { label: string; value: number; color: string }[] = [
   { label: "GEO score", value: 28, color: "#D97706" },
   { label: "Site health", value: 58, color: "#D97706" },
 ];
-
-const beamPos = (frame: number, at: number, span: number) =>
-  interpolate(frame, [at, at + BEAM_LEN], [-60, span + 60], {
-    easing: Easing.bezier(0.45, 0, 0.55, 1),
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-  });
-
-const Beam: React.FC<{ axis: "x" | "y"; at: number; span: number }> = ({ axis, at, span }) => {
-  const frame = useCurrentFrame();
-  const pos = beamPos(frame, at, span);
-  const alive = frame >= at && frame <= at + BEAM_LEN + 6;
-  const fade = interpolate(frame, [at, at + 6, at + BEAM_LEN, at + BEAM_LEN + 6], [0, 1, 1, 0], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-  });
-  if (!alive) return null;
-  const across = axis === "x";
-  return (
-    <>
-      <div
-        style={{
-          position: "absolute",
-          left: across ? pos : 0,
-          top: across ? 0 : pos,
-          width: across ? 3 : "100%",
-          height: across ? "100%" : 3,
-          background: "rgba(255,255,255,0.95)",
-          boxShadow: `0 0 18px 6px rgba(193,151,103,0.85), 0 0 60px 22px rgba(193,151,103,0.35)`,
-          opacity: fade,
-          zIndex: 4,
-        }}
-      />
-      <div
-        style={{
-          position: "absolute",
-          left: across ? pos - 190 : 0,
-          top: across ? 0 : pos - 190,
-          width: across ? 190 : "100%",
-          height: across ? "100%" : 190,
-          background: `linear-gradient(${across ? "90deg" : "180deg"}, rgba(193,151,103,0), rgba(193,151,103,0.22))`,
-          opacity: fade,
-          zIndex: 3,
-        }}
-      />
-    </>
-  );
-};
-
-export const ScoreCard: React.FC<{ label: string; value: number; color: string; at: number }> = ({
-  label,
-  value,
-  color,
-  at,
-}) => {
-  const style = useReveal(at, 14, 26);
-  return (
-    <div
-      style={{
-        ...style,
-        display: "flex",
-        alignItems: "center",
-        gap: 26,
-        background: "#FFFFFF",
-        borderRadius: 16,
-        padding: "22px 34px 22px 24px",
-        boxShadow: "0 10px 34px rgba(74,53,29,0.12)",
-        border: "1px solid rgba(23,19,16,0.06)",
-      }}
-    >
-      <ScoreRing score={value} size={128} appearAt={at + 4} color={color} />
-      <div style={{ fontSize: 30, fontWeight: 700, color: INK }}>{label}</div>
-    </div>
-  );
-};
 
 export const FixSeoScan: React.FC = () => {
   const siteIn = useReveal(SITE_AT, 16, 34);
@@ -151,8 +74,8 @@ export const FixSeoScan: React.FC = () => {
               src={staticFile("dusk/site/before.png")}
               style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "top", display: "block" }}
             />
-            <Beam axis="x" at={BEAM_V_AT} span={SCAN_SITE.w} />
-            <Beam axis="y" at={BEAM_H_AT} span={SCAN_SITE.h - 54} />
+            <ScanBeam axis="x" at={BEAM_V_AT} span={SCAN_SITE.w} />
+            <ScanBeam axis="y" at={BEAM_H_AT} span={SCAN_SITE.h - 54} />
           </div>
         </div>
 

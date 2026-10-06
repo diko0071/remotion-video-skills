@@ -1,0 +1,595 @@
+{
+  "00-title": {
+    "text": "What is Managed Campaigns?",
+    "words": [
+      {
+        "word": "what",
+        "start": 0.22
+      },
+      {
+        "word": "is",
+        "start": 0.42
+      },
+      {
+        "word": "managed",
+        "start": 0.68
+      },
+      {
+        "word": "campaigns",
+        "start": 1.14
+      }
+    ]
+  },
+  "01-team": {
+    "text": "Imagine a team of marketers running your ads. They set up campaigns, make the creatives, and check the results every day",
+    "words": [
+      {
+        "word": "imagine",
+        "start": 0.14
+      },
+      {
+        "word": "a",
+        "start": 0.7
+      },
+      {
+        "word": "team",
+        "start": 0.82
+      },
+      {
+        "word": "of",
+        "start": 1.08
+      },
+      {
+        "word": "marketers",
+        "start": 1.22
+      },
+      {
+        "word": "running",
+        "start": 1.8
+      },
+      {
+        "word": "your",
+        "start": 2.06
+      },
+      {
+        "word": "ads",
+        "start": 2.28
+      },
+      {
+        "word": "they",
+        "start": 3.04
+      },
+      {
+        "word": "set",
+        "start": 3.22
+      },
+      {
+        "word": "up",
+        "start": 3.36
+      },
+      {
+        "word": "campaigns",
+        "start": 3.5
+      },
+      {
+        "word": "make",
+        "start": 4.3
+      },
+      {
+        "word": "the",
+        "start": 4.48
+      },
+      {
+        "word": "creatives",
+        "start": 4.62
+      },
+      {
+        "word": "and",
+        "start": 5.26
+      },
+      {
+        "word": "check",
+        "start": 5.42
+      },
+      {
+        "word": "the",
+        "start": 5.64
+      },
+      {
+        "word": "results",
+        "start": 5.72
+      },
+      {
+        "word": "every",
+        "start": 6.24
+      },
+      {
+        "word": "day",
+        "start": 6.48
+      }
+    ]
+  },
+  "02-agent": {
+    "text": "Managed Campaigns is that team as one AI agent",
+    "words": [
+      {
+        "word": "managed",
+        "start": 0.08
+      },
+      {
+        "word": "campaigns",
+        "start": 0.56
+      },
+      {
+        "word": "is",
+        "start": 1.34
+      },
+      {
+        "word": "that",
+        "start": 1.52
+      },
+      {
+        "word": "team",
+        "start": 1.74
+      },
+      {
+        "word": "as",
+        "start": 2.4
+      },
+      {
+        "word": "one",
+        "start": 2.68
+      },
+      {
+        "word": "ai",
+        "start": 3.18
+      },
+      {
+        "word": "agent",
+        "start": 3.58
+      }
+    ]
+  },
+  "03-platforms": {
+    "text": "Connect your ad accounts and pick where your ads run. Meta, Google, TikTok, LinkedIn, and four more",
+    "words": [
+      {
+        "word": "connect",
+        "start": 0.1
+      },
+      {
+        "word": "your",
+        "start": 0.46
+      },
+      {
+        "word": "ad",
+        "start": 0.62
+      },
+      {
+        "word": "accounts",
+        "start": 0.74
+      },
+      {
+        "word": "and",
+        "start": 1.5
+      },
+      {
+        "word": "pick",
+        "start": 1.68
+      },
+      {
+        "word": "where",
+        "start": 1.94
+      },
+      {
+        "word": "your",
+        "start": 2.16
+      },
+      {
+        "word": "ads",
+        "start": 2.34
+      },
+      {
+        "word": "run",
+        "start": 2.6
+      },
+      {
+        "word": "meta",
+        "start": 3.56
+      },
+      {
+        "word": "google",
+        "start": 4.04
+      },
+      {
+        "word": "tiktok",
+        "start": 4.66
+      },
+      {
+        "word": "linkedin",
+        "start": 5.32
+      },
+      {
+        "word": "and",
+        "start": 5.9
+      },
+      {
+        "word": "four",
+        "start": 6.14
+      },
+      {
+        "word": "more",
+        "start": 6.4
+      }
+    ]
+  },
+  "04-budget": {
+    "text": "Set a daily budget and a goal, like more sales",
+    "words": [
+      {
+        "word": "set",
+        "start": 0.12
+      },
+      {
+        "word": "a",
+        "start": 0.3
+      },
+      {
+        "word": "daily",
+        "start": 0.4
+      },
+      {
+        "word": "budget",
+        "start": 0.72
+      },
+      {
+        "word": "and",
+        "start": 1.48
+      },
+      {
+        "word": "a",
+        "start": 1.66
+      },
+      {
+        "word": "goal",
+        "start": 1.76
+      },
+      {
+        "word": "like",
+        "start": 2.28
+      },
+      {
+        "word": "more",
+        "start": 2.64
+      },
+      {
+        "word": "sales",
+        "start": 2.84
+      }
+    ]
+  },
+  "05-build": {
+    "text": "The agent studies your account's history, builds the campaign, and makes the ads",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.18
+      },
+      {
+        "word": "agent",
+        "start": 0.36
+      },
+      {
+        "word": "studies",
+        "start": 0.72
+      },
+      {
+        "word": "your",
+        "start": 1.06
+      },
+      {
+        "word": "account's",
+        "start": 1.16
+      },
+      {
+        "word": "history",
+        "start": 1.54
+      },
+      {
+        "word": "builds",
+        "start": 2.3
+      },
+      {
+        "word": "the",
+        "start": 2.58
+      },
+      {
+        "word": "campaign",
+        "start": 2.7
+      },
+      {
+        "word": "and",
+        "start": 3.48
+      },
+      {
+        "word": "makes",
+        "start": 3.62
+      },
+      {
+        "word": "the",
+        "start": 3.88
+      },
+      {
+        "word": "ads",
+        "start": 4.04
+      }
+    ]
+  },
+  "06-run": {
+    "text": "It launches on its own, then checks the results every day. It pauses what loses money and moves budget to what sells",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.1
+      },
+      {
+        "word": "launches",
+        "start": 0.24
+      },
+      {
+        "word": "on",
+        "start": 0.72
+      },
+      {
+        "word": "its",
+        "start": 0.84
+      },
+      {
+        "word": "own",
+        "start": 1.04
+      },
+      {
+        "word": "then",
+        "start": 1.66
+      },
+      {
+        "word": "checks",
+        "start": 1.86
+      },
+      {
+        "word": "the",
+        "start": 2.12
+      },
+      {
+        "word": "results",
+        "start": 2.22
+      },
+      {
+        "word": "every",
+        "start": 2.76
+      },
+      {
+        "word": "day",
+        "start": 3.06
+      },
+      {
+        "word": "it",
+        "start": 3.9
+      },
+      {
+        "word": "pauses",
+        "start": 4.059
+      },
+      {
+        "word": "what",
+        "start": 4.46
+      },
+      {
+        "word": "loses",
+        "start": 4.66
+      },
+      {
+        "word": "money",
+        "start": 5.04
+      },
+      {
+        "word": "and",
+        "start": 5.68
+      },
+      {
+        "word": "moves",
+        "start": 5.84
+      },
+      {
+        "word": "budget",
+        "start": 6.14
+      },
+      {
+        "word": "to",
+        "start": 6.6
+      },
+      {
+        "word": "what",
+        "start": 6.72
+      },
+      {
+        "word": "sells",
+        "start": 6.94
+      }
+    ]
+  },
+  "08-close": {
+    "text": "That's it. Start your first managed campaign today",
+    "words": [
+      {
+        "word": "that's",
+        "start": 0.1
+      },
+      {
+        "word": "it",
+        "start": 0.36
+      },
+      {
+        "word": "start",
+        "start": 1
+      },
+      {
+        "word": "your",
+        "start": 1.28
+      },
+      {
+        "word": "first",
+        "start": 1.48
+      },
+      {
+        "word": "managed",
+        "start": 1.78
+      },
+      {
+        "word": "campaign",
+        "start": 2.2
+      },
+      {
+        "word": "today",
+        "start": 2.72
+      }
+    ]
+  },
+  "07-fee": {
+    "text": "You pay the ad platforms for the spend. Rise takes a 5% fee only on the campaigns the agent manages for you, nothing else. And the more you spend, the lower the rate",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.1
+      },
+      {
+        "word": "pay",
+        "start": 0.22
+      },
+      {
+        "word": "the",
+        "start": 0.42
+      },
+      {
+        "word": "ad",
+        "start": 0.62
+      },
+      {
+        "word": "platforms",
+        "start": 0.78
+      },
+      {
+        "word": "for",
+        "start": 1.38
+      },
+      {
+        "word": "the",
+        "start": 1.52
+      },
+      {
+        "word": "spend",
+        "start": 1.7
+      },
+      {
+        "word": "rise",
+        "start": 2.7
+      },
+      {
+        "word": "takes",
+        "start": 3.08
+      },
+      {
+        "word": "a",
+        "start": 3.34
+      },
+      {
+        "word": "5",
+        "start": 3.72
+      },
+      {
+        "word": "fee",
+        "start": 4.22
+      },
+      {
+        "word": "only",
+        "start": 4.72
+      },
+      {
+        "word": "on",
+        "start": 5.08
+      },
+      {
+        "word": "the",
+        "start": 5.2
+      },
+      {
+        "word": "campaigns",
+        "start": 5.32
+      },
+      {
+        "word": "the",
+        "start": 5.88
+      },
+      {
+        "word": "agent",
+        "start": 6.04
+      },
+      {
+        "word": "manages",
+        "start": 6.38
+      },
+      {
+        "word": "for",
+        "start": 6.88
+      },
+      {
+        "word": "you",
+        "start": 7.12
+      },
+      {
+        "word": "nothing",
+        "start": 7.72
+      },
+      {
+        "word": "else",
+        "start": 8.2
+      },
+      {
+        "word": "and",
+        "start": 8.9
+      },
+      {
+        "word": "the",
+        "start": 9.02
+      },
+      {
+        "word": "more",
+        "start": 9.14
+      },
+      {
+        "word": "you",
+        "start": 9.32
+      },
+      {
+        "word": "spend",
+        "start": 9.5
+      },
+      {
+        "word": "the",
+        "start": 10.04
+      },
+      {
+        "word": "lower",
+        "start": 10.16
+      },
+      {
+        "word": "the",
+        "start": 10.42
+      },
+      {
+        "word": "rate",
+        "start": 10.54
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "SEO agencies are panicking, and here's why."
+    },
+    {
+      "key": "02-problem",
+      "text": "You can now run your whole SEO from Claude. Connect Ryze AI once, and just ask. Why did my traffic drop? What should I write this week? Fix my website."
+    },
+    {
+      "key": "03-turn",
+      "text": "It writes the articles, publishes them to your website, builds backlinks, and shows you where you rank on Google and ChatGPT."
+    },
+    {
+      "key": "04-life",
+      "text": "The work of a three thousand dollar agency, from one chat."
+    },
+    {
+      "key": "05-cta",
+      "text": "Three thousand websites already use this, and you can try it for free."
+    }
+  ]
+}

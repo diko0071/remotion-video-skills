@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "If you're writing blog posts at midnight, hoping Google finally notices you, stop."
+    },
+    {
+      "key": "02-problem",
+      "text": "One post a week won't move anything. Google wants fresh content every day, plus backlinks, plus AI visibility."
+    },
+    {
+      "key": "03-turn",
+      "text": "Now, Ryze AI does all three on autopilot. You paste your URL in once, it writes and publishes SEO articles every day, builds backlinks while you sleep, and gets you found on ChatGPT."
+    },
+    {
+      "key": "04-life",
+      "text": "You get your evenings back, and your traffic keeps growing."
+    },
+    {
+      "key": "05-cta",
+      "text": "Three thousand websites already use this, and you can try it for free."
+    }
+  ]
+}

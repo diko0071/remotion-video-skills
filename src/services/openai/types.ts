@@ -5,6 +5,7 @@ export type GenerateImageOptions = {
   size?: ImageSize;
   quality?: "low" | "medium" | "high";
   n?: number;
+  background?: "transparent" | "opaque" | "auto";
 };
 
 export type OpenAiImageResponse = {

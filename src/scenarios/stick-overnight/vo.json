@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "What an SEO agency does in a month, Ryze AI does overnight. Here's how."
+    },
+    {
+      "key": "02-problem",
+      "text": "Before bed, you paste your website URL."
+    },
+    {
+      "key": "03-turn",
+      "text": "While you sleep, it finds the keywords you're missing, writes the articles, publishes them to your website, and builds backlinks."
+    },
+    {
+      "key": "04-life",
+      "text": "You wake up, and it's already done. Tomorrow, it does it again. No agency, no freelancers, no manual work."
+    },
+    {
+      "key": "05-cta",
+      "text": "Three thousand websites already use this, and you can try it for free."
+    }
+  ]
+}

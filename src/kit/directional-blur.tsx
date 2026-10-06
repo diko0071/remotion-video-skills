@@ -30,7 +30,7 @@ export const DirectionalBlur: React.FC<{
     <>
       {active ? (
         <svg width={0} height={0} style={{ position: "absolute" }} aria-hidden>
-          <filter id={id} x="-50%" y="-50%" width="200%" height="200%">
+          <filter id={id} x="-50%" y="-50%" width="200%" height="200%" colorInterpolationFilters="sRGB">
             <feGaussianBlur stdDeviation={`${sx} ${sy}`} />
           </filter>
         </svg>

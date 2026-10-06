@@ -48,6 +48,8 @@ export const typing = (frame: number, text: string, from: number, to: number) =>
   );
 };
 
+export const clamp01 = (v: number) => Math.min(1, Math.max(0, v));
+
 export const ramp = (frame: number, from: number, to: number, easing?: (t: number) => number) =>
   interpolate(frame, [from, to], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing });
 

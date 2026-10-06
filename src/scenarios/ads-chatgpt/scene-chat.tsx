@@ -19,8 +19,8 @@ const P1_LABELS: [string, string][] = [
   ["Generating creatives", "3 ads in your brand style"],
 ];
 const P2_LABELS: [string, string][] = [
-  ["Setting up campaign", "ChatGPT Ads · sleep intent"],
-  ["Creating ad sets", "2 audiences · watch owners & travellers"],
+  ["Setting up campaign", "ChatGPT Ads · fitness & recovery intent"],
+  ["Creating ad sets", "2 audiences · athletes & wearable owners"],
   ["Creating ads", "3 ads linked to creatives"],
   ["Setting budget & schedule", "$120/day · starts today"],
 ];
@@ -51,9 +51,9 @@ const LIVE_AT = LAUNCH_AT + 10;
 export const ADS_CHAT_TOTAL = LIVE_AT + 70;
 
 const GENERATED = [
-  { name: "Night score", caption: "Hero · navy", file: "dusk/chatgpt/g1.png" },
-  { name: "Deep sleep", caption: "Score · chart", file: "dusk/chatgpt/g2.png" },
-  { name: "First 14 nights", caption: "Offer · trial", file: "dusk/chatgpt/g3.png" },
+  { name: "Recovery, measured", caption: "Hero · readiness", file: "vela/chatgpt/g1.png" },
+  { name: "Know before you train", caption: "Score · readiness", file: "vela/chatgpt/g2.png" },
+  { name: "Waterproof to 100 m", caption: "Feature · sleep score", file: "vela/chatgpt/g3.png" },
 ];
 
 const LaunchPanel: React.FC = () => (
@@ -61,7 +61,7 @@ const LaunchPanel: React.FC = () => (
     appearAt={PANEL_AT}
     clickAt={LAUNCH_AT}
     liveAt={LIVE_AT}
-    title="ChatGPT campaign — Dusk"
+    title="ChatGPT campaign — Vela"
     meta="2 ad sets · 3 ads · $120/day"
     liveMeta="Live — first impressions within the hour"
     logos={["ai/chatgpt.png"]}
@@ -85,7 +85,7 @@ const AdsResult: React.FC = () => {
       {frame >= GRID_AT - 2 ? (
         <div style={{ ...gridIn, width: 860 }} data-click="answer.grid">
           <CreativeGridResult
-            title="New creatives — Dusk"
+            title="New creatives — Vela"
             subtitle="Generated from your 3 brand photos"
             items={GENERATED}
           />

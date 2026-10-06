@@ -1,6 +1,7 @@
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame } from "remotion";
 import { SPRINGS, useReveal, useSpringAt } from "../../core/motion";
+import { useSceneStyle } from "./style";
 
 const DRAW_FROM = 6;
 const DRAW_TO = 96;
@@ -49,6 +50,7 @@ export const CurveScene: React.FC = () => {
     extrapolateRight: "clamp",
   });
   const capIn = useReveal(-6, 20, 18);
+  const { lineWidth } = useSceneStyle();
   const headIndex = Math.min(draw * (POINTS.length - 1), POINTS.length - 1);
   const headX = LEFT + ((RIGHT - LEFT) * headIndex) / (POINTS.length - 1);
   const seg = Math.floor(headIndex);
@@ -87,7 +89,7 @@ export const CurveScene: React.FC = () => {
         <path
           d={path}
           stroke="#C19767"
-          strokeWidth={5}
+          strokeWidth={lineWidth}
           fill="none"
           strokeLinecap="round"
           strokeLinejoin="round"
@@ -95,7 +97,7 @@ export const CurveScene: React.FC = () => {
           strokeDasharray={1}
           strokeDashoffset={1 - draw}
         />
-        {draw > 0.02 ? <circle cx={headX} cy={py(headV)} r={9} fill="#C19767" /> : null}
+        {draw > 0.02 ? <circle cx={headX} cy={py(headV)} r={lineWidth + 4} fill="#C19767" /> : null}
       </svg>
       {[0, 1, 2, 3].map((i) => (
         <NoLogin key={i} index={i} />

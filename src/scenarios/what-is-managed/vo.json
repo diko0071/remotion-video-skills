@@ -1,0 +1,42 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[curious] What is Managed Campaigns?"
+    },
+    {
+      "key": "01-team",
+      "text": "Imagine a team of marketers running your ads. They set up campaigns, make the creatives, and check the results every day."
+    },
+    {
+      "key": "02-agent",
+      "text": "Managed Campaigns is that team, as one AI agent."
+    },
+    {
+      "key": "03-platforms",
+      "text": "Connect your ad accounts, and pick where your ads run: Meta, Google, TikTok, LinkedIn, and four more."
+    },
+    {
+      "key": "04-budget",
+      "text": "Set a daily budget, and a goal, like more sales."
+    },
+    {
+      "key": "05-build",
+      "text": "The agent studies your account's history, builds the campaign, and makes the ads."
+    },
+    {
+      "key": "06-run",
+      "text": "It launches on its own, then checks the results every day. It pauses what loses money, and moves budget to what sells."
+    },
+    {
+      "key": "07-fee",
+      "text": "You pay the ad platforms for the spend. Ryze takes a five percent fee only on the campaigns the agent manages for you, nothing else. And the more you spend, the lower the rate."
+    },
+    {
+      "key": "08-close",
+      "text": "[warm] That's it. Start your first managed campaign today."
+    }
+  ]
+}

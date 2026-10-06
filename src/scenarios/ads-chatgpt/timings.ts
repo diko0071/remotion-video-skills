@@ -15,7 +15,7 @@ export const SEND = TYPE_TO + 26;
 export const INPUT_TOTAL = SEND + 28;
 
 export const AWAY_PHOTOS = [
-  "dusk/chatgpt/b1.png",
-  "dusk/chatgpt/b2.png",
-  "dusk/chatgpt/b3.png",
+  "vela/chatgpt/b1.png",
+  "vela/chatgpt/b2.png",
+  "vela/chatgpt/b3.png",
 ];

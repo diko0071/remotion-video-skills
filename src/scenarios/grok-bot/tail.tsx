@@ -1,6 +1,7 @@
 import React from "react";
 import { AbsoluteFill, useCurrentFrame } from "remotion";
 import { KineticLine } from "../../kit/kinetic-text";
+import { GrokCta } from "../../kit/grok-cta";
 import { Lockup } from "../../kit/lockup";
 import { Bloub, blinkTrack } from "../../kit/grok-ui";
 import { CREAM, TAIL_BLINKS } from "./timings";
@@ -45,14 +46,4 @@ export const LockupScene: React.FC = () => (
   />
 );
 
-export const CtaScene: React.FC = () => (
-  <AbsoluteFill style={{ background: CREAM }}>
-    <KineticLine
-      at={0}
-      span={24}
-      size={84}
-      maxWidth={1000}
-      parts={[{ word: "Comment" }, { word: "“Grok”", highlight: true }, { br: true }, { word: "to" }, { word: "get" }, { word: "the" }, { word: "guide." }]}
-    />
-  </AbsoluteFill>
-);
+export const CtaScene: React.FC = () => <GrokCta background={CREAM} ink={INK} />;

@@ -1,0 +1,802 @@
+{
+  "00-title": {
+    "text": "What is Rise for Paid Ads?",
+    "words": [
+      {
+        "word": "what",
+        "start": 0.24
+      },
+      {
+        "word": "is",
+        "start": 0.62
+      },
+      {
+        "word": "rise",
+        "start": 1.02
+      },
+      {
+        "word": "for",
+        "start": 1.46
+      },
+      {
+        "word": "paid",
+        "start": 1.66
+      },
+      {
+        "word": "ads",
+        "start": 2.06
+      }
+    ]
+  },
+  "07-close": {
+    "text": "Make every ad dollar count. Start today",
+    "words": [
+      {
+        "word": "make",
+        "start": 0.08
+      },
+      {
+        "word": "every",
+        "start": 0.34
+      },
+      {
+        "word": "ad",
+        "start": 0.58
+      },
+      {
+        "word": "dollar",
+        "start": 0.8
+      },
+      {
+        "word": "count",
+        "start": 1.16
+      },
+      {
+        "word": "start",
+        "start": 1.9
+      },
+      {
+        "word": "today",
+        "start": 2.16
+      }
+    ]
+  },
+  "01-agent": {
+    "text": "It's an AI media buyer on your Google, Meta, and TikTok accounts. It watches them around the clock and sends every fix to you as an approval",
+    "words": [
+      {
+        "word": "it's",
+        "start": 0.16
+      },
+      {
+        "word": "an",
+        "start": 0.3
+      },
+      {
+        "word": "ai",
+        "start": 0.52
+      },
+      {
+        "word": "media",
+        "start": 0.86
+      },
+      {
+        "word": "buyer",
+        "start": 1.2
+      },
+      {
+        "word": "on",
+        "start": 1.56
+      },
+      {
+        "word": "your",
+        "start": 1.68
+      },
+      {
+        "word": "google",
+        "start": 1.88
+      },
+      {
+        "word": "meta",
+        "start": 2.42
+      },
+      {
+        "word": "and",
+        "start": 2.74
+      },
+      {
+        "word": "tiktok",
+        "start": 2.9
+      },
+      {
+        "word": "accounts",
+        "start": 3.32
+      },
+      {
+        "word": "it",
+        "start": 4.28
+      },
+      {
+        "word": "watches",
+        "start": 4.44
+      },
+      {
+        "word": "them",
+        "start": 4.82
+      },
+      {
+        "word": "around",
+        "start": 5.08
+      },
+      {
+        "word": "the",
+        "start": 5.38
+      },
+      {
+        "word": "clock",
+        "start": 5.5
+      },
+      {
+        "word": "and",
+        "start": 6
+      },
+      {
+        "word": "sends",
+        "start": 6.2
+      },
+      {
+        "word": "every",
+        "start": 6.58
+      },
+      {
+        "word": "fix",
+        "start": 6.94
+      },
+      {
+        "word": "to",
+        "start": 7.2
+      },
+      {
+        "word": "you",
+        "start": 7.36
+      },
+      {
+        "word": "as",
+        "start": 7.56
+      },
+      {
+        "word": "an",
+        "start": 7.7
+      },
+      {
+        "word": "approval",
+        "start": 7.78
+      }
+    ]
+  },
+  "02-creatives": {
+    "text": "Creatives. Ask for an ad and it makes it. The hook, the image, the size you need. Or start from a winning ad in your niche and make it yours",
+    "words": [
+      {
+        "word": "creatives",
+        "start": 0.1
+      },
+      {
+        "word": "ask",
+        "start": 1.14
+      },
+      {
+        "word": "for",
+        "start": 1.46
+      },
+      {
+        "word": "an",
+        "start": 1.58
+      },
+      {
+        "word": "ad",
+        "start": 1.8
+      },
+      {
+        "word": "and",
+        "start": 2.2
+      },
+      {
+        "word": "it",
+        "start": 2.3
+      },
+      {
+        "word": "makes",
+        "start": 2.42
+      },
+      {
+        "word": "it",
+        "start": 2.7
+      },
+      {
+        "word": "the",
+        "start": 3.24
+      },
+      {
+        "word": "hook",
+        "start": 3.38
+      },
+      {
+        "word": "the",
+        "start": 3.9
+      },
+      {
+        "word": "image",
+        "start": 4.059
+      },
+      {
+        "word": "the",
+        "start": 4.58
+      },
+      {
+        "word": "size",
+        "start": 4.76
+      },
+      {
+        "word": "you",
+        "start": 5.1
+      },
+      {
+        "word": "need",
+        "start": 5.24
+      },
+      {
+        "word": "or",
+        "start": 6
+      },
+      {
+        "word": "start",
+        "start": 6.3
+      },
+      {
+        "word": "from",
+        "start": 6.54
+      },
+      {
+        "word": "a",
+        "start": 6.72
+      },
+      {
+        "word": "winning",
+        "start": 6.82
+      },
+      {
+        "word": "ad",
+        "start": 7.16
+      },
+      {
+        "word": "in",
+        "start": 7.3
+      },
+      {
+        "word": "your",
+        "start": 7.42
+      },
+      {
+        "word": "niche",
+        "start": 7.56
+      },
+      {
+        "word": "and",
+        "start": 8.039
+      },
+      {
+        "word": "make",
+        "start": 8.22
+      },
+      {
+        "word": "it",
+        "start": 8.42
+      },
+      {
+        "word": "yours",
+        "start": 8.56
+      }
+    ]
+  },
+  "03-competitors": {
+    "text": "Competitor ads. Track up to five competitors and see every ad they run on Google, Meta, and LinkedIn. Sort by how long an ad has been running and you see what actually works. And we email you when they launch something new",
+    "words": [
+      {
+        "word": "competitor",
+        "start": 0.06
+      },
+      {
+        "word": "ads",
+        "start": 0.72
+      },
+      {
+        "word": "track",
+        "start": 1.54
+      },
+      {
+        "word": "up",
+        "start": 1.86
+      },
+      {
+        "word": "to",
+        "start": 1.98
+      },
+      {
+        "word": "five",
+        "start": 2.14
+      },
+      {
+        "word": "competitors",
+        "start": 2.4
+      },
+      {
+        "word": "and",
+        "start": 3.1
+      },
+      {
+        "word": "see",
+        "start": 3.3
+      },
+      {
+        "word": "every",
+        "start": 3.6
+      },
+      {
+        "word": "ad",
+        "start": 4
+      },
+      {
+        "word": "they",
+        "start": 4.16
+      },
+      {
+        "word": "run",
+        "start": 4.36
+      },
+      {
+        "word": "on",
+        "start": 4.68
+      },
+      {
+        "word": "google",
+        "start": 4.9
+      },
+      {
+        "word": "meta",
+        "start": 5.44
+      },
+      {
+        "word": "and",
+        "start": 5.8
+      },
+      {
+        "word": "linkedin",
+        "start": 5.98
+      },
+      {
+        "word": "sort",
+        "start": 7.02
+      },
+      {
+        "word": "by",
+        "start": 7.32
+      },
+      {
+        "word": "how",
+        "start": 7.5
+      },
+      {
+        "word": "long",
+        "start": 7.7
+      },
+      {
+        "word": "an",
+        "start": 7.92
+      },
+      {
+        "word": "ad",
+        "start": 8.1
+      },
+      {
+        "word": "has",
+        "start": 8.24
+      },
+      {
+        "word": "been",
+        "start": 8.38
+      },
+      {
+        "word": "running",
+        "start": 8.56
+      },
+      {
+        "word": "and",
+        "start": 9.18
+      },
+      {
+        "word": "you",
+        "start": 9.4
+      },
+      {
+        "word": "see",
+        "start": 9.58
+      },
+      {
+        "word": "what",
+        "start": 9.9
+      },
+      {
+        "word": "actually",
+        "start": 10.22
+      },
+      {
+        "word": "works",
+        "start": 10.74
+      },
+      {
+        "word": "and",
+        "start": 11.64
+      },
+      {
+        "word": "we",
+        "start": 12
+      },
+      {
+        "word": "email",
+        "start": 12.2
+      },
+      {
+        "word": "you",
+        "start": 12.56
+      },
+      {
+        "word": "when",
+        "start": 12.76
+      },
+      {
+        "word": "they",
+        "start": 12.88
+      },
+      {
+        "word": "launch",
+        "start": 13.02
+      },
+      {
+        "word": "something",
+        "start": 13.28
+      },
+      {
+        "word": "new",
+        "start": 13.6
+      }
+    ]
+  },
+  "04-schedules": {
+    "text": "Schedules. Give the agent a task like a weekly performance check, and it runs on its own daily, weekly, or monthly. Results land in a new chat, and we email you",
+    "words": [
+      {
+        "word": "schedules",
+        "start": 0.1
+      },
+      {
+        "word": "give",
+        "start": 1.36
+      },
+      {
+        "word": "the",
+        "start": 1.54
+      },
+      {
+        "word": "agent",
+        "start": 1.72
+      },
+      {
+        "word": "a",
+        "start": 2.08
+      },
+      {
+        "word": "task",
+        "start": 2.22
+      },
+      {
+        "word": "like",
+        "start": 2.78
+      },
+      {
+        "word": "a",
+        "start": 3.08
+      },
+      {
+        "word": "weekly",
+        "start": 3.16
+      },
+      {
+        "word": "performance",
+        "start": 3.52
+      },
+      {
+        "word": "check",
+        "start": 4.059
+      },
+      {
+        "word": "and",
+        "start": 4.52
+      },
+      {
+        "word": "it",
+        "start": 4.64
+      },
+      {
+        "word": "runs",
+        "start": 4.8
+      },
+      {
+        "word": "on",
+        "start": 5.08
+      },
+      {
+        "word": "its",
+        "start": 5.2
+      },
+      {
+        "word": "own",
+        "start": 5.38
+      },
+      {
+        "word": "daily",
+        "start": 5.9
+      },
+      {
+        "word": "weekly",
+        "start": 6.54
+      },
+      {
+        "word": "or",
+        "start": 7.08
+      },
+      {
+        "word": "monthly",
+        "start": 7.22
+      },
+      {
+        "word": "results",
+        "start": 8.28
+      },
+      {
+        "word": "land",
+        "start": 8.72
+      },
+      {
+        "word": "in",
+        "start": 9.06
+      },
+      {
+        "word": "a",
+        "start": 9.16
+      },
+      {
+        "word": "new",
+        "start": 9.26
+      },
+      {
+        "word": "chat",
+        "start": 9.46
+      },
+      {
+        "word": "and",
+        "start": 9.96
+      },
+      {
+        "word": "we",
+        "start": 10.18
+      },
+      {
+        "word": "email",
+        "start": 10.36
+      },
+      {
+        "word": "you",
+        "start": 10.7
+      }
+    ]
+  },
+  "05-reports": {
+    "text": "Reports. Ask for a report and it builds a deck from your live data. Download it as a PDF or send it to your team by email",
+    "words": [
+      {
+        "word": "reports",
+        "start": 0.08
+      },
+      {
+        "word": "ask",
+        "start": 1.34
+      },
+      {
+        "word": "for",
+        "start": 1.6
+      },
+      {
+        "word": "a",
+        "start": 1.78
+      },
+      {
+        "word": "report",
+        "start": 1.86
+      },
+      {
+        "word": "and",
+        "start": 2.5
+      },
+      {
+        "word": "it",
+        "start": 2.62
+      },
+      {
+        "word": "builds",
+        "start": 2.72
+      },
+      {
+        "word": "a",
+        "start": 3.02
+      },
+      {
+        "word": "deck",
+        "start": 3.12
+      },
+      {
+        "word": "from",
+        "start": 3.4
+      },
+      {
+        "word": "your",
+        "start": 3.56
+      },
+      {
+        "word": "live",
+        "start": 3.72
+      },
+      {
+        "word": "data",
+        "start": 4
+      },
+      {
+        "word": "download",
+        "start": 4.88
+      },
+      {
+        "word": "it",
+        "start": 5.32
+      },
+      {
+        "word": "as",
+        "start": 5.54
+      },
+      {
+        "word": "a",
+        "start": 5.68
+      },
+      {
+        "word": "pdf",
+        "start": 5.78
+      },
+      {
+        "word": "or",
+        "start": 6.58
+      },
+      {
+        "word": "send",
+        "start": 6.82
+      },
+      {
+        "word": "it",
+        "start": 6.98
+      },
+      {
+        "word": "to",
+        "start": 7.1
+      },
+      {
+        "word": "your",
+        "start": 7.2
+      },
+      {
+        "word": "team",
+        "start": 7.36
+      },
+      {
+        "word": "by",
+        "start": 7.58
+      },
+      {
+        "word": "email",
+        "start": 7.76
+      }
+    ]
+  },
+  "06-dashboards": {
+    "text": "And custom dashboards. Describe what you want to see, and it builds a live dashboard you can refresh any time",
+    "words": [
+      {
+        "word": "and",
+        "start": 0.12
+      },
+      {
+        "word": "custom",
+        "start": 0.32
+      },
+      {
+        "word": "dashboards",
+        "start": 0.7
+      },
+      {
+        "word": "describe",
+        "start": 1.86
+      },
+      {
+        "word": "what",
+        "start": 2.28
+      },
+      {
+        "word": "you",
+        "start": 2.44
+      },
+      {
+        "word": "want",
+        "start": 2.54
+      },
+      {
+        "word": "to",
+        "start": 2.68
+      },
+      {
+        "word": "see",
+        "start": 2.82
+      },
+      {
+        "word": "and",
+        "start": 3.28
+      },
+      {
+        "word": "it",
+        "start": 3.42
+      },
+      {
+        "word": "builds",
+        "start": 3.56
+      },
+      {
+        "word": "a",
+        "start": 3.86
+      },
+      {
+        "word": "live",
+        "start": 3.94
+      },
+      {
+        "word": "dashboard",
+        "start": 4.24
+      },
+      {
+        "word": "you",
+        "start": 4.82
+      },
+      {
+        "word": "can",
+        "start": 4.94
+      },
+      {
+        "word": "refresh",
+        "start": 5.1
+      },
+      {
+        "word": "any",
+        "start": 5.74
+      },
+      {
+        "word": "time",
+        "start": 6
+      }
+    ]
+  }
+}

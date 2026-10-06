@@ -10,6 +10,29 @@ Entry format: link · who · what happens · what to steal.
 
 ---
 
+## Gumloop — "Introducing Gumball"
+https://x.com/MaxBrodeurUrbas/status/2098084379474251777
+Downloaded: `references/gumloop-gumball/` (46s, 3840x2160), cut list in its BREAKDOWN.md.
+
+**What happens**
+- A purple blob with eyes fills the frame, blinks, shrinks, bounces off two
+  black blocks and lands as a letter in "introducing Gumball".
+- Short claims rise line by line with tiny coloured strokes (tick, arc,
+  underline) drawn after the words land.
+- Light app windows (email, calendar, a daily brief) with a dark result panel
+  sliding up; the mascot peeks over the panel edge.
+- A field of grey agents, "Searching..." in a big pill, coloured agents wake
+  up, cluster with rotated role labels, a task list filled in by agents.
+- Model routing: a Slack request in a black pill, four model marks, one grows
+  into "Routing to ...", then a price ladder down to $0.48.
+- Skill chips pile, cloud logos cycle, "try at gumloop.com" types.
+
+**What to steal**
+- A face for the agent that is behind every screen, top edge only.
+- Coloured strokes as punctuation for headlines.
+- Routing and pricing shown as typography, no charts.
+- Replica: `src/scenarios/introducing-agent/`.
+
 ## Mintlify — "200,000+ libraries via one endpoint"
 https://x.com/mintlify/status/2086971724831354992
 Downloaded: `references/mintlify-mcp/` (39s, 1280x720)
@@ -289,3 +312,82 @@ By Crowdreply, 53s. Typewriter line under a magnifier, dashboard assembling into
 window with a whip zoom, colour-typed words, a button that becomes a neon app icon and
 then the agent orb, chat with skeleton-to-content fills and a glowing score, feature
 cards and prompt chips scattering around the orb. Replicated as `src/scenarios/superagent/`.
+
+## Meta Muse — first TV ad
+https://x.com/alexandr_wang/status/2101500560050684401
+Downloaded: `references/muse-ad/` (30s, 1280x720), beat sheet in BREAKDOWN.md.
+
+**What happens**
+- A woman cooks and hosts a dinner party; a tiny chip in the corner does her
+  life admin: "7 new school emails, I'll sort what's most important",
+  "Registering for fall sports" -> check "Registered", carpool to calendar,
+  school supplies ordered. Then friends, drinks, "Introducing Muse — AI that
+  hustles for you", pull-back through the window, "The future is for everyone."
+
+**What to steal**
+- Chip grammar: present-tense "Doing X" + small card -> blue check + past
+  tense. One task every ~3s over continuous footage.
+- The human is the hero; the agent stays a corner chip. Payoff = a life.
+
+## Aside launch — jun (@hyojun_at), 2026
+
+https://x.com/hyojun_at/status/2069497198879048131 — 87s, no VO, 1.7M views. Problem-comedy of incumbent AI apps (icons into the trash, "Connect App" avalanche, refusals peeled off), light-curtain reveal of the name, one long real task told as typography (prompt → tool lines → subagents → "$120 refund" → "how did you just do that?"), benchmark bars as proof, word slot machine for breadth, privacy beat, BYO-subscription close. Breakdown: `references/opus5-marketing/BREAKDOWN.md`. Taken for: "Opus 5 for Marketing".
+
+## Outside creator for Ryze — "Introducing Muse for Marketing" and "Sell something agents want"
+https://x.com/irabukht/status/2102158706041659578 · https://x.com/irabukht/status/2104653158639395139
+Downloaded: `references/creator-muse-marketing/`, `references/creator-agents-checkout/`, beat lists in their BREAKDOWN.md.
+
+**What happens**
+- White ground, black ink, one blue accent, a bold grotesk at huge sizes; the Muse clay
+  mascot is the actor and reacts (celebrates, sulks, points at the CTA).
+- Every product moment is a floating UI object at 2-3x zoom: a pill that types and gets
+  clicked, a chip that says "connected", a card with Deny / Allow, check rows that
+  resolve. No app window, no chrome.
+- One object carries each transition ("+" becomes the Connect pill, the photo becomes a
+  card, the question mark drops a line into the checklist).
+- Proof is counters and resolving statuses: 5 → 11 → 75+ tools connected, 0% → 50%,
+  Checking.. → Blocked → Agent-ready.
+- Short kinetic claims between work beats (Ask. Analyze. Make changes. / No freelancers.
+  No agencies.), accent word blue; ends on headline + URL pill + small lockup.
+
+**What to steal**
+- The whole grammar, for any "X now connects to your marketing" launch: title with a
+  "+" → partner cycler → Connect pill typed and clicked → ring of tools with a counter →
+  one chat task with an approval → 24/7 notification stack → claim → CTA pill.
+
+## Wabi — "Introducing Wabi 2.0"
+https://x.com/wabi/status/2104721766690222087
+Downloaded: `references/wabi-2/` (80s, 4K), beat list in its BREAKDOWN.md.
+
+**What happens**
+- Calm and premium: white ground, small regular grotesk, words appear one by one from grey
+  to ink; a liquid-sphere brand world opens the film and the logo is born from it at the end.
+- Every capability is a small human story with a number: the agent writes first ("Your
+  Comcast bill went up $41 a month. Want me to try to renegotiate it?"), the human answers
+  "yes please", the agent reports "Done. Saving you $492 a year."
+- Content first, container after: chat bubbles float on white, and the phone frame only
+  fades in around them once the moment has been read.
+- "Life admin?" splits and emoji squeeze between its letters, then "Handled." appends.
+
+**What to steal**
+- The proactive message + "yes please" + result-with-a-number beat for any agent product.
+- Word-level tricks: objects squeezed into a word, keep-the-first-word swaps.
+
+## Grok Bot — "Introducing Team Bots"
+https://x.com/bot/status/2104661562715967548
+Downloaded: `references/bot-2104661562715967548/`, beat table in its BREAKDOWN.md.
+
+**What happens**
+- A single "+ Create new Team Bot" row at huge zoom gets clicked; the new bot says hi.
+- Three roles, three colour worlds (peach, lavender, mint): a dark bubble with the task in
+  the team's words, and a collage of that role's real artefacts (connectors marked Added,
+  docs, PRs, sheets, notifications) pops in around it, then drops away.
+- "Grok Bot is working" → "Rolodex is live for your team" card with Copy link / Add to Slack.
+- "Bring your Team Bots into Slack", then three @mention questions answered with one
+  concrete fact each, in the role colours. The bloub shrinks into the wordmark.
+
+**What to steal**
+- The anchor-plus-collage world: one message in the middle, the evidence of real work
+  assembling around it, a colour per chapter.
+- Answers that carry a name, a number or a ticket id, never a sentence about value.
+

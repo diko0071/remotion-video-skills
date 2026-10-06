@@ -1,5 +1,5 @@
 import React from "react";
-import { AbsoluteFill, Easing, Img, interpolate, Sequence, staticFile, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Easing, interpolate, Sequence, useCurrentFrame } from "remotion";
 import { SPRINGS, useSpringAt } from "../../core/motion";
 import { SceneCursor, STAGE_ATTR } from "../../core/stage";
 import {
@@ -23,6 +23,7 @@ import {
 import { RelayStage } from "./relay";
 import type { GrokBotRow } from "../../kit/grok-ui";
 import { SfxTrack } from "../../kit/sfx";
+import { OrbitRing, orbitPhase, type OrbitConfig } from "../../kit/orbit-ring";
 import {
   APP_IN,
   APP_OFF,
@@ -63,56 +64,16 @@ const ID = {
   threadRow: "row.marketing",
 };
 
-const ringPhase = (frame: number) =>
-  interpolate(frame, [TOOLS_FROM, COLLAPSE_FROM, COLLAPSE_TO], [0, 1.5, 4.6], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-    easing: Easing.bezier(0.35, 0, 0.7, 1),
-  });
-
-const ringRadius = (frame: number) =>
-  interpolate(frame, [COLLAPSE_FROM, COLLAPSE_TO], [RING_R, 0], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-    easing: Easing.bezier(0.6, 0, 0.9, 0.4),
-  });
-
-const ToolTile: React.FC<{ file: string; index: number }> = ({ file, index }) => {
-  const frame = useCurrentFrame();
-  const pop = useSpringAt(TOOL_MARKS[index], SPRINGS.pop, 22);
-  const angle = (index / TOOLS.length) * Math.PI * 2 - Math.PI / 2 + ringPhase(frame);
-  const r = ringRadius(frame);
-  const collapse = interpolate(frame, [COLLAPSE_FROM + 10, COLLAPSE_TO], [0, 1], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-  });
-  const scale = interpolate(pop, [0, 1], [0.3, 1]) * (1 - collapse * 0.45);
-  const opacity =
-    pop * interpolate(r, [40, 110], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  if (frame < TOOL_MARKS[index] || frame > COLLAPSE_TO) return null;
-  return (
-    <div
-      style={{
-        position: "absolute",
-        left: CENTER + Math.cos(angle) * r - TILE / 2,
-        top: CENTER + Math.sin(angle) * r * 0.82 - TILE / 2,
-        width: TILE,
-        height: TILE,
-        borderRadius: 20,
-        background: "#fff",
-        border: "1px solid rgba(17,17,19,0.08)",
-        boxShadow: "0 10px 30px rgba(17,17,19,0.12)",
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-        transform: `scale(${scale})`,
-        opacity,
-      }}
-    >
-      <Img src={staticFile(file)} style={{ width: 42, height: 42, objectFit: "contain", display: "block" }} />
-    </div>
-  );
+const ORBIT: OrbitConfig = {
+  center: { x: CENTER, y: CENTER },
+  radius: RING_R,
+  tile: TILE,
+  from: TOOLS_FROM,
+  collapseFrom: COLLAPSE_FROM,
+  collapseTo: COLLAPSE_TO,
 };
+
+const ringPhase = (frame: number) => orbitPhase(frame, ORBIT);
 
 const heroRect = (frame: number) => {
   const p = interpolate(frame, [MORPH_FROM, MORPH_TO], [0, 1], {
@@ -147,9 +108,7 @@ const HeroLayer: React.FC = () => {
   const bump = Math.sin(Math.min(1, squash) * Math.PI);
   return (
     <>
-      {TOOLS.map((file, i) => (
-        <ToolTile key={file} file={file} index={i} />
-      ))}
+      <OrbitRing files={TOOLS} marks={TOOL_MARKS} cfg={ORBIT} iconSize={42} />
       <div
         data-click={ID.hero}
         style={{

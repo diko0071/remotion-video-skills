@@ -1,0 +1,11 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    { "key": "01-hook", "text": "If you're a founder getting zero traffic, here's how to fix it on autopilot." },
+    { "key": "02-problem", "text": "Google wants fresh content every single day, backlinks from hundreds of sites, AI search visibility on ChatGPT and Perplexity. But nobody has time for that without spending thousands per month." },
+    { "key": "03-turn", "text": "Now, Ryze AI does it all automatically. You paste your URL in once, it publishes daily SEO articles to your website, builds backlinks automatically, and gets your brand appearing in AI search results." },
+    { "key": "04-life", "text": "You don't do any manual work, no agency fees. Just traffic growing in the background while you focus on your product." },
+    { "key": "05-cta", "text": "Three thousand websites already use this, and you can join them for free." }
+  ]
+}

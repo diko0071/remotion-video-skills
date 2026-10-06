@@ -1,0 +1,23 @@
+.chrome{position:absolute;left:0;top:0;width:1920px;height:1080px;background:#fff;font-family:-apple-system,"SF Pro Text","Helvetica Neue",Arial,sans-serif;color:#202124;-webkit-font-smoothing:antialiased;overflow:hidden}
+.chrome .strip{position:absolute;left:0;top:0;right:0;height:44px;background:#E3E5E8}
+.chrome .lights{position:absolute;left:20px;top:16px;display:flex;gap:8px}
+.chrome .lights i{width:12px;height:12px;border-radius:50%;display:block}
+.chrome .tab{position:absolute;left:88px;top:8px;height:36px;width:256px;background:#fff;border-radius:10px 10px 0 0;display:flex;align-items:center;gap:8px;padding:0 12px 0 14px;font-size:13px;font-weight:500}
+.chrome .tab img{width:16px;height:16px;border-radius:3px}
+.chrome .tab span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chrome .tab .x{width:16px;height:16px;color:#5F6368}
+.chrome .newtab{position:absolute;left:356px;top:14px;width:24px;height:24px;color:#5F6368;display:flex;align-items:center;justify-content:center}
+.chrome .bar{position:absolute;left:0;top:44px;right:0;height:52px;background:#fff;border-bottom:1px solid #DADCE0;display:flex;align-items:center;padding:0 12px 0 10px;gap:6px}
+.chrome .nav{width:32px;height:32px;border-radius:16px;display:flex;align-items:center;justify-content:center;color:#5F6368;flex:0 0 auto}
+.chrome .nav.dim{color:#BDC1C6}
+.chrome .omni{flex:1;height:34px;margin:0 8px 0 6px;border-radius:17px;background:#F1F3F4;display:flex;align-items:center;gap:10px;padding:0 14px;font-size:14px;color:#202124}
+.chrome .omni svg{width:16px;height:16px;color:#5F6368;flex:0 0 auto}
+.chrome .omni .host{font-weight:400}
+.chrome .omni .path{color:#5F6368}
+.chrome .right{display:flex;align-items:center;gap:6px;flex:0 0 auto}
+.chrome .ext{position:relative;width:32px;height:32px;border-radius:16px;display:flex;align-items:center;justify-content:center}
+.chrome .ext img{width:20px;height:20px;border-radius:4px}
+.chrome .badge{position:absolute;right:-2px;bottom:-1px;min-width:16px;height:14px;padding:0 4px;border-radius:7px;color:#fff;font-size:10px;font-weight:700;line-height:14px;text-align:center;box-shadow:0 0 0 2px #fff}
+.chrome .avatar{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,#4285F4,#34A853);margin:0 4px;box-shadow:0 0 0 2px #fff}
+.chrome .page{position:absolute;left:0;top:97px;right:0;bottom:0;overflow:hidden;background:#fff}
+.chrome .page img{position:absolute;left:0;top:0;width:1920px;display:block}

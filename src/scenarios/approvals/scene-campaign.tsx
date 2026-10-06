@@ -3,6 +3,7 @@ import { AbsoluteFill, Img, interpolate, staticFile, useCurrentFrame } from "rem
 import { SPRINGS, useReveal, useSpringAt } from "../../core/motion";
 import { CameraRig, SceneCursor, type CameraShot } from "../../core/stage";
 import { SfxTrack } from "../../kit/sfx";
+import { useFs, useSceneStyle } from "./style";
 
 const RAIN_AT = 2;
 const STAGGER = 7;
@@ -12,6 +13,7 @@ const CLICK_C = 156;
 export const CAMPAIGN_TOTAL = 196;
 
 type Proposal = {
+  label: string;
   title: string;
   meta: string;
   creatives: string[];
@@ -19,6 +21,7 @@ type Proposal = {
 
 const PROPOSALS: Proposal[] = [
   {
+    label: "Sales · Prospecting · US",
     title: "Sleep score · trial",
     meta: "Sleep searches +46% w/w",
     creatives: [
@@ -28,6 +31,7 @@ const PROPOSALS: Proposal[] = [
     ],
   },
   {
+    label: "Sales · Retargeting · Past buyers",
     title: "Annual plan · Repeat users",
     meta: "38% of revenue is renewals",
     creatives: [
@@ -37,6 +41,7 @@ const PROPOSALS: Proposal[] = [
     ],
   },
   {
+    label: "Sales · Broad · Creative test",
     title: "UGC Hooks v4",
     meta: "Top hook fatigued at day 34",
     creatives: [
@@ -46,6 +51,7 @@ const PROPOSALS: Proposal[] = [
     ],
   },
   {
+    label: "Sales · Interest · Travel",
     title: "Jet lag · Summer",
     meta: "Travel searches climbing 3 weeks",
     creatives: [
@@ -55,6 +61,7 @@ const PROPOSALS: Proposal[] = [
     ],
   },
   {
+    label: "Leads · B2B · HR managers",
     title: "Teams · Corporate wellness",
     meta: "Team plans up 2.4× in Q4",
     creatives: [
@@ -64,6 +71,7 @@ const PROPOSALS: Proposal[] = [
     ],
   },
   {
+    label: "Sales · Interest · Wearables",
     title: "Watch owners",
     meta: "61% wear a watch to bed",
     creatives: [
@@ -80,7 +88,7 @@ const GAP_X = 30;
 const GAP_Y = 26;
 const LEFT = (1920 - (COLS * CARD_W + (COLS - 1) * GAP_X)) / 2;
 const TOP = 214;
-const CARD_H = 372;
+const cardH = (textScale: number) => (textScale > 1 ? 388 : 372);
 
 const CLICKS = [
   { index: 0, at: CLICK_A },
@@ -120,6 +128,9 @@ const Card: React.FC<{ index: number }> = ({ index }) => {
   const clickAt = approveFrame(index);
   const press = useSpringAt(clickAt ?? 1e6, SPRINGS.pop, 12);
   const approved = clickAt != null && frame >= clickAt + 2;
+  const fs = useFs();
+  const { textScale } = useSceneStyle();
+  const CARD_H = cardH(textScale);
   return (
     <div
       data-click={`card.${index}`}
@@ -145,15 +156,15 @@ const Card: React.FC<{ index: number }> = ({ index }) => {
     >
       <div style={{ display: "flex", alignItems: "center", gap: 9 }}>
         <Img src={staticFile("meta-ads.svg")} style={{ width: 16, height: 16 }} />
-        <span style={{ fontSize: 14, fontWeight: 500, color: "rgba(23,19,16,0.42)" }}>
-          new campaign
+        <span style={{ fontSize: fs(14), fontWeight: 500, color: "rgba(23,19,16,0.42)" }}>
+          {p.label}
         </span>
       </div>
       <div style={{ display: "flex", flexDirection: "column", gap: 7 }}>
-        <span style={{ fontSize: 27, fontWeight: 700, letterSpacing: "-0.015em", color: "#171310" }}>
+        <span style={{ fontSize: fs(27), fontWeight: 700, letterSpacing: "-0.015em", color: "#171310" }}>
           {p.title}
         </span>
-        <span style={{ fontSize: 17, fontWeight: 500, color: "rgba(23,19,16,0.5)" }}>{p.meta}</span>
+        <span style={{ fontSize: fs(17), fontWeight: 500, color: "rgba(23,19,16,0.5)" }}>{p.meta}</span>
       </div>
       <div style={{ display: "flex", gap: 12 }}>
         {p.creatives.map((file, k) => (
@@ -173,7 +184,7 @@ const Card: React.FC<{ index: number }> = ({ index }) => {
           borderRadius: 9,
           background: approved ? "#F1EFE9" : "#171310",
           color: approved ? "rgba(23,19,16,0.5)" : "#FFFFFF",
-          fontSize: 16,
+          fontSize: fs(16),
           fontWeight: 700,
           transform: `scale(${1 - press * 0.07})`,
         }}

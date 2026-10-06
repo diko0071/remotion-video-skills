@@ -12,7 +12,9 @@ export type SfxName =
   | "cash"
   | "pop"
   | "sparkle"
-  | "paper-flick";
+  | "paper-flick"
+  | "notify"
+  | "gather";
 
 const DEFAULT_VOLUME: Record<SfxName, number> = {
   "mouse-click": 0.6,
@@ -26,6 +28,8 @@ const DEFAULT_VOLUME: Record<SfxName, number> = {
   pop: 0.5,
   sparkle: 0.35,
   "paper-flick": 0.5,
+  notify: 0.5,
+  gather: 0.55,
 };
 
 export const Sfx: React.FC<{ name: SfxName; at: number; volume?: number }> = ({

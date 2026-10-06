@@ -83,8 +83,9 @@ export const AuditIssueRow: React.FC<{
             <AuditIssueLine
               key={issue.name}
               name={issue.name}
-              severity={issue.severity}
+              severity={issue.passed ? undefined : issue.severity}
               fix={issue.fix}
+              passed={issue.passed}
             />
           ))}
           {(row.passed ?? []).map((check) => (

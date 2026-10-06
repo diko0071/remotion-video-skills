@@ -1,0 +1,38 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[curious] What is Managed Campaigns?"
+    },
+    {
+      "key": "01-answer",
+      "text": "It's an AI media buyer that runs your ad campaigns for you. Here's how it works."
+    },
+    {
+      "key": "02-step1",
+      "text": "Step one. You set a daily budget, pick where your ads run, and choose a goal, like more sales."
+    },
+    {
+      "key": "03-step2",
+      "text": "Step two. The agent sets everything up. It studies your ad account's history, builds the campaign, and makes the ads."
+    },
+    {
+      "key": "04-step3",
+      "text": "Step three. It launches the campaign on its own."
+    },
+    {
+      "key": "05-step4",
+      "text": "Step four. It keeps checking the results on its own schedule, pauses what isn't working, and moves budget to what is."
+    },
+    {
+      "key": "06-asks",
+      "text": "And if it needs something only you know, it asks you."
+    },
+    {
+      "key": "07-close",
+      "text": "[warm] Managed Campaigns. Your marketer, on autopilot."
+    }
+  ]
+}

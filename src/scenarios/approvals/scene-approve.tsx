@@ -3,6 +3,7 @@ import { AbsoluteFill, Img, interpolate, staticFile, useCurrentFrame } from "rem
 import { SPRINGS, useReveal, useSpringAt } from "../../core/motion";
 import { CameraRig, SceneCursor, type CameraShot } from "../../core/stage";
 import { SfxTrack } from "../../kit/sfx";
+import { useFs, useSceneStyle } from "./style";
 
 const RAIN_AT = 2;
 const STAGGER = 5;
@@ -30,14 +31,19 @@ const ITEMS: Item[] = [
 
 const COLS = 3;
 const CARD_W = 536;
-const CARD_H = 168;
 const GAP_X = 32;
-const GAP_Y = 26;
 const LEFT = (1920 - (COLS * CARD_W + (COLS - 1) * GAP_X)) / 2;
-const TOP = 268;
+
+const layout = (textScale: number) =>
+  textScale > 1
+    ? { cardH: 188, gapY: 20, top: 236 }
+    : { cardH: 168, gapY: 26, top: 268 };
 
 const cardX = (i: number) => LEFT + (i % COLS) * (CARD_W + GAP_X);
-const cardY = (i: number) => TOP + Math.floor(i / COLS) * (CARD_H + GAP_Y);
+const cardY = (i: number, textScale: number) => {
+  const { cardH, gapY, top } = layout(textScale);
+  return top + Math.floor(i / COLS) * (cardH + gapY);
+};
 
 const CLICKS = [
   { index: 4, at: CLICK_A },
@@ -55,15 +61,17 @@ const Card: React.FC<{ index: number }> = ({ index }) => {
   const clickAt = approveFrame(index);
   const press = useSpringAt(clickAt ?? 1e6, SPRINGS.pop, 12);
   const approved = clickAt != null && frame >= clickAt + 2;
+  const fs = useFs();
+  const { textScale } = useSceneStyle();
   return (
     <div
       data-click={`card.${index}`}
       style={{
         position: "absolute",
         left: cardX(index),
-        top: cardY(index),
+        top: cardY(index, textScale),
         width: CARD_W,
-        height: CARD_H,
+        height: layout(textScale).cardH,
         background: "#FFFFFF",
         borderRadius: 12,
         border: `1px solid rgba(23,19,16,${approved ? 0.05 : 0.09})`,
@@ -83,13 +91,13 @@ const Card: React.FC<{ index: number }> = ({ index }) => {
           src={staticFile(item.channel === "meta" ? "meta-ads.svg" : "integrations/google-ads.webp")}
           style={{ width: 16, height: 16 }}
         />
-        <span style={{ fontSize: 14, fontWeight: 500, color: "rgba(23,19,16,0.42)" }}>
+        <span style={{ fontSize: fs(14), fontWeight: 500, color: "rgba(23,19,16,0.42)" }}>
           {item.meta}
         </span>
       </div>
       <span
         style={{
-          fontSize: 20,
+          fontSize: fs(20),
           fontWeight: 700,
           letterSpacing: "-0.01em",
           lineHeight: 1.25,
@@ -111,7 +119,7 @@ const Card: React.FC<{ index: number }> = ({ index }) => {
           borderRadius: 9,
           background: approved ? "#F1EFE9" : "#171310",
           color: approved ? "rgba(23,19,16,0.5)" : "#FFFFFF",
-          fontSize: 15,
+          fontSize: fs(15),
           fontWeight: 700,
           transform: `scale(${1 - press * 0.07})`,
         }}

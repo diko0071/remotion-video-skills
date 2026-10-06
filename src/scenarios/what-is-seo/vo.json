@@ -1,0 +1,58 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "00-title",
+      "text": "[curious] What is Ryze SEO?"
+    },
+    {
+      "key": "01-three",
+      "text": "SEO comes down to three things: a healthy website, relevant content, and backlinks from other sites. Ryze does all three."
+    },
+    {
+      "key": "02-connect",
+      "text": "Connect your website, and Google Search Console."
+    },
+    {
+      "key": "03-audit",
+      "text": "Ryze audits your top three hundred pages every week: broken links, page speed, titles, schema, sitemap. It fixes what's broken when you approve."
+    },
+    {
+      "key": "04a-keywords",
+      "text": "To move you up, Ryze picks keywords carefully: people really search them, they match what you sell, and the competition is low enough to beat."
+    },
+    {
+      "key": "04b-gsc",
+      "text": "It also finds searches where you already show up on Google, but don't have a page yet."
+    },
+    {
+      "key": "05a-prompts",
+      "text": "For AI search, it looks at your competitors first, then builds the questions buyers ask ChatGPT, Claude, Gemini and Perplexity."
+    },
+    {
+      "key": "05b-named",
+      "text": "It asks them on every refresh, and shows who gets named, you or a competitor, and which sources they cite."
+    },
+    {
+      "key": "06a-write",
+      "text": "Then it writes the articles: listicles, comparisons, alternatives, answers to real questions. Each one gets a summary, an FAQ, images, and links to your own pages."
+    },
+    {
+      "key": "06b-score",
+      "text": "Every article is scored out of a hundred, on nine checks, from structure and links to meta tags and schema."
+    },
+    {
+      "key": "06c-publish",
+      "text": "Then it publishes them to your site on schedule, up to ninety a month. Or you approve each one yourself."
+    },
+    {
+      "key": "07-links",
+      "text": "Backlinks come from the Ryze Backlink Exchange. Websites that don't compete with you link to each other in chains, and your site gets new backlinks every month."
+    },
+    {
+      "key": "09-close",
+      "text": "[warm] Do this for three months, and your traffic grows. Start today."
+    }
+  ]
+}

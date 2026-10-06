@@ -2,7 +2,7 @@ import React from "react";
 import { AbsoluteFill, Img, interpolate, Sequence, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { SPRINGS, useSpringAt } from "../../core/motion";
 import { CameraRig } from "../../core/stage";
-import { Bloub, grokFont } from "../../kit/grok-ui";
+import { grokFont, FEED, FeedBotLine, FeedCard, FeedLogo, FeedUserLine, feedReveal, feedRise } from "../../kit/grok-ui";
 import { RYZE } from "./app";
 import { BLOCK_AT, CASES, DONE_AT, FILM_TOTAL, GREEN, GROUND, INK, LABELS, MUTED, REPLY_AT, STAGE_FULL, STAGE_IN } from "./timings";
 import type { CaseSpec } from "./timings";
@@ -10,33 +10,19 @@ import type { CaseSpec } from "./timings";
 const COL_W = 940;
 const COL_X = 900;
 const FEED_TOP = 140;
-const AVATAR = 64;
-const INDENT = AVATAR + 18;
-const FILL = "#161618";
-const BORDER = "1px solid #26262B";
-
-const reveal = (frame: number, at: number, span = 12) => interpolate(frame, [at, at + span], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-const rise = (p: number, d = 26): React.CSSProperties => ({ opacity: p, transform: `translateY(${(1 - p) * d}px)` });
+const INDENT = FEED.indent;
+const BORDER = FEED.border;
 
 const Check: React.FC<{ at: number; children: React.ReactNode }> = ({ at, children }) => {
   const frame = useCurrentFrame();
   const p = useSpringAt(at, SPRINGS.pop, 14);
   return (
-    <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 24, color: INK, ...rise(Math.min(1, p * 1.5), 10) }}>
+    <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 24, color: INK, ...feedRise(Math.min(1, p * 1.5), 10) }}>
       <span style={{ width: 26, height: 26, borderRadius: 13, background: GREEN, display: "inline-flex", alignItems: "center", justifyContent: "center", transform: `scale(${interpolate(p, [0, 1], [0.4, 1])})` }}>
         <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 7.5l2.6 2.6L11 4.5" stroke="#0A0A0B" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" /></svg>
       </span>
       {children}
       {frame < at ? null : null}
-    </div>
-  );
-};
-
-const Card: React.FC<{ children: React.ReactNode; at: number }> = ({ children, at }) => {
-  const p = useSpringAt(at, SPRINGS.card, 18);
-  return (
-    <div style={{ marginLeft: INDENT, marginTop: 6, width: COL_W - INDENT, background: FILL, border: BORDER, borderRadius: 26, padding: 22, overflow: "hidden", maxHeight: interpolate(p, [0, 1], [0, 900]), opacity: Math.min(1, p * 1.5), transform: `translateY(${(1 - p) * 18}px)` }}>
-      {children}
     </div>
   );
 };
@@ -61,8 +47,8 @@ const Thumb: React.FC<{ file: string; size: number; at: number }> = ({ file, siz
 const EngineRow: React.FC<{ file: string; name: string; score: string; delta: string; at: number; first: boolean }> = ({ file, name, score, delta, at, first }) => {
   const p = useSpringAt(at, SPRINGS.card, 14);
   return (
-    <div style={{ display: "grid", gridTemplateColumns: "56px 1fr 120px 70px", alignItems: "center", padding: "12px 14px", fontSize: 24, color: INK, background: first ? "rgba(60,194,106,0.12)" : "transparent", borderTop: first ? undefined : BORDER, borderRadius: first ? 12 : 0, fontWeight: first ? 600 : 400, ...rise(Math.min(1, p * 1.5), 10) }}>
-      <Logo file={file} size={40} />
+    <div style={{ display: "grid", gridTemplateColumns: "56px 1fr 120px 70px", alignItems: "center", padding: "12px 14px", fontSize: 24, color: INK, background: first ? "rgba(60,194,106,0.12)" : "transparent", borderTop: first ? undefined : BORDER, borderRadius: first ? 12 : 0, fontWeight: first ? 600 : 400, ...feedRise(Math.min(1, p * 1.5), 10) }}>
+      <FeedLogo file={file} size={40} />
       <span>{name}</span>
       <span>{score}</span>
       <span style={{ color: delta.startsWith("+") ? GREEN : MUTED }}>{delta}</span>
@@ -74,7 +60,7 @@ const LiveCard: React.FC<{ name: string; budget: string; at: number }> = ({ name
   const p = useSpringAt(at, SPRINGS.pop, 16);
   return (
     <div style={{ border: BORDER, borderRadius: 16, padding: "14px 18px", fontSize: 22, color: INK, background: "#101012", transform: `scale(${interpolate(p, [0, 1], [0.7, 1])})`, opacity: Math.min(1, p * 2) }}>
-      <div style={{ fontWeight: 600, display: "flex", alignItems: "center" }}><Logo file="integrations/meta-ads.svg" size={30} />{name}</div>
+      <div style={{ fontWeight: 600, display: "flex", alignItems: "center" }}><FeedLogo file="integrations/meta-ads.svg" size={30} />{name}</div>
       <div style={{ color: MUTED, marginTop: 4 }}>{budget}</div>
       <div style={{ color: GREEN, marginTop: 6 }}>● Live</div>
     </div>
@@ -116,7 +102,7 @@ const Artifact: React.FC<{ c: CaseSpec; at: number }> = ({ c, at }) => {
         <div style={{ display: "flex", gap: 14 }}>
           {["Summer Sale, Broad", "Summer Sale, Retarget"].map((n) => (
             <div key={n} style={{ border: BORDER, borderRadius: 16, padding: "14px 18px", fontSize: 22, color: INK, background: "#101012" }}>
-              <div style={{ fontWeight: 600, display: "flex", alignItems: "center" }}><Logo file="integrations/meta-ads.svg" size={30} />{n}</div>
+              <div style={{ fontWeight: 600, display: "flex", alignItems: "center" }}><FeedLogo file="integrations/meta-ads.svg" size={30} />{n}</div>
               <div style={{ color: "#E0A030", marginTop: 6 }}>● Paused</div>
             </div>
           ))}
@@ -127,36 +113,6 @@ const Artifact: React.FC<{ c: CaseSpec; at: number }> = ({ c, at }) => {
   }
 };
 
-export const Logo: React.FC<{ file: string; size?: number; inline?: boolean }> = ({ file, size = 36, inline = true }) => (
-  <span style={{ display: "inline-flex", width: size, height: size, borderRadius: size * 0.28, background: "#fff", alignItems: "center", justifyContent: "center", verticalAlign: inline ? "-8px" : undefined, marginRight: inline ? 12 : 0, flexShrink: 0 }}>
-    <Img src={staticFile(file)} style={{ width: size * 0.62, height: size * 0.62, objectFit: "contain", display: "block" }} />
-  </span>
-);
-
-const BotLine: React.FC<{ at: number; children: React.ReactNode; gaze?: { x: number; y: number }; logo?: string }> = ({ at, children, gaze, logo }) => {
-  const p = useSpringAt(at, SPRINGS.card, 16);
-  return (
-    <div style={{ display: "flex", alignItems: "flex-end", gap: 18, ...rise(Math.min(1, p * 1.4), 20) }}>
-      <span style={{ width: AVATAR, height: AVATAR, flexShrink: 0 }}>
-        <Bloub size={AVATAR} shape={RYZE.shape} color={RYZE.color} gaze={gaze} />
-      </span>
-      <div style={{ background: FILL, border: BORDER, borderRadius: 26, padding: "20px 26px", fontSize: 28, color: INK, lineHeight: "38px", maxWidth: COL_W - INDENT - 40, display: "flex", alignItems: "flex-start", gap: 12 }}>
-        {logo ? <span style={{ marginTop: 1 }}><Logo file={logo} inline={false} /></span> : null}
-        <span>{children}</span>
-      </div>
-    </div>
-  );
-};
-
-const UserLine: React.FC<{ at: number; children: React.ReactNode }> = ({ at, children }) => {
-  const p = useSpringAt(at, SPRINGS.pop, 14);
-  return (
-    <div style={{ display: "flex", justifyContent: "flex-end" }}>
-      <div style={{ background: INK, color: GROUND, borderRadius: 26, padding: "18px 28px", fontSize: 30, fontWeight: 500, transform: `scale(${interpolate(p, [0, 1], [0.7, 1])})`, transformOrigin: "right bottom", opacity: Math.min(1, p * 2) }}>{children}</div>
-    </div>
-  );
-};
-
 const Block: React.FC<{ c: CaseSpec; index: number }> = ({ c, index }) => {
   const frame = useCurrentFrame();
   const at = BLOCK_AT(index);
@@ -165,23 +121,23 @@ const Block: React.FC<{ c: CaseSpec; index: number }> = ({ c, index }) => {
     <div style={{ display: "flex", flexDirection: "column", gap: 22 }}>
       <div data-click={`block.${index}`} style={{ height: 0 }} />
       <div style={{ height: 40 }} />
-      <div style={{ fontSize: 22, color: MUTED, paddingLeft: INDENT, ...rise(reveal(frame, at, 10), 8) }}>Ryze AI</div>
-      <BotLine at={at} gaze={{ x: 0.2, y: 0.05 }} logo={c.logo}>
+      <div style={{ fontSize: 22, color: MUTED, paddingLeft: INDENT, ...feedRise(feedReveal(frame, at, 10), 8) }}>Ryze AI</div>
+      <FeedBotLine at={at} avatar={RYZE} gaze={{ x: 0.2, y: 0.05 }} logo={c.logo}>
         {c.bot}
-      </BotLine>
-      <UserLine at={at + REPLY_AT}>{c.reply}</UserLine>
-      <BotLine at={at + DONE_AT} gaze={{ x: -0.15, y: 0.2 }}>
+      </FeedBotLine>
+      <FeedUserLine at={at + REPLY_AT}>{c.reply}</FeedUserLine>
+      <FeedBotLine at={at + DONE_AT} avatar={RYZE} gaze={{ x: -0.15, y: 0.2 }}>
         <span style={{ display: "inline-flex", alignItems: "center", gap: 12 }}>
           <span style={{ width: 24, height: 24, borderRadius: 12, background: GREEN, display: "inline-flex", alignItems: "center", justifyContent: "center" }}>
             <svg width="13" height="13" viewBox="0 0 14 14" fill="none"><path d="M3 7.5l2.6 2.6L11 4.5" stroke="#0A0A0B" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" /></svg>
           </span>
           {c.done}
-          {c.doneLogos ? c.doneLogos.map((f) => <Logo key={f} file={f} size={32} />) : null}
+          {c.doneLogos ? c.doneLogos.map((f) => <FeedLogo key={f} file={f} size={32} />) : null}
         </span>
-      </BotLine>
-      <Card at={at + DONE_AT + 8}>
+      </FeedBotLine>
+      <FeedCard at={at + DONE_AT + 8}>
         <Artifact c={c} at={at + DONE_AT + 12} />
-      </Card>
+      </FeedCard>
     </div>
   );
 };
@@ -205,7 +161,7 @@ const Roller: React.FC = () => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const pos = LABELS.reduce((acc, _, i) => (i === 0 ? 0 : acc + spring({ frame: frame - (BLOCK_AT(i) - 4), fps, config: SPRINGS.smooth, durationInFrames: 30 })), 0);
-  const enter = reveal(frame, STAGE_IN + 4, 14);
+  const enter = feedReveal(frame, STAGE_IN + 4, 14);
   return (
     <div
       style={{
@@ -238,7 +194,7 @@ const Roller: React.FC = () => {
 
 export const RelayStage: React.FC = () => {
   const frame = useCurrentFrame();
-  const bg = reveal(frame, STAGE_IN, STAGE_FULL - STAGE_IN);
+  const bg = feedReveal(frame, STAGE_IN, STAGE_FULL - STAGE_IN);
   if (frame < STAGE_IN || frame >= FILM_TOTAL) return null;
   return (
     <AbsoluteFill style={{ fontFamily: grokFont }}>

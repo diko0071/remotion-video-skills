@@ -646,6 +646,16 @@ scribe for word-level frame marks -> author beats as data.
 - **A [pause] tag before the last word can stretch to 3s** — for tight
   punchlines write the sentence without pauses and let punctuation breathe.
 
+## Promos show UI OBJECTS, never a whole app page (Dmitry, 2026-09-24 — sell-agents)
+
+In promo videos the real app is not shown as a full page. Take the objects out of
+the interface (a button, a score ring card, a checklist card, a chip) and put them
+on a clean ground as floating cards: they pop, count, tick, fly and morph. A full
+page under a zoom always crops at the frame edges and reads as a screenshot
+(«отвратительно, всё поопрезано»). Build the objects from the kit components
+(e.g. AuditScoreRing, AuditIssueLine inside a card shell) so they stay 1:1 with
+the product, but never mount the page shell (RyzeApp, sidebar, navbar) in a promo.
+
 ## Product screens in promos: copy the real layout, never a video-ish grid (Dmitry, 2026-08-16 — competitor-ads)
 
 When a promo scene shows a real Ryze page, the LAYOUT ENGINE is ported too,
@@ -1346,6 +1356,23 @@ carries a data-click id). User bubbles are BLACK, right-aligned. Group
 threads are bottom-anchored (`GrokThread anchored`): messages mount in one
 step, no height animation. Inter font. Eyes ARE the character: gaze follows what the bot
 "looks at" (the orbiting ring, the panel), blink on every landing.
+kit/muse-ui: Meta's Muse Mac app, ported from Dmitry's screenshots and the
+launch film (2026-09-21, references/muse-ad/): MuseFrame (white shell) +
+MuseRail (six icons, no user avatar unless given) + MuseTopbar ("Chats" and
+"Invite" chips); MuseAvatar / MuseFloat (Polly's head or the headphones pose,
+label pill under it with any status + icon, the avatar always in FRONT of the
+pill); MuseThread (760 column, `anchored`), MuseDay, MuseBubble (grey agent /
+blue user), MuseSuggestCard, MuseArtifactThumb, MuseTyping, MuseDone;
+MuseApprovalCard (their "Muse wants to place an order" anatomy: logo + title,
+sub, grey 2-col item grid, total, Deny / Allow pills, `approved` flips the
+buttons to a green Approved); MuseComposer (typed, caret, attachments,
+`sending` = blue stop button); MuseArtifactPanel + MuseArtifactDoc (title,
+stat tiles, leak rows), MuseProfilePanel (avatar, Connected, tabs, activity
+feed). Assets in public/muse/ (polly-head, polly-working, polly-body alpha,
+muse-icon). Inter font. Stills: muse-chat / muse-working / muse-artifact.
+kit/orbit-ring: OrbitRing + orbitPhase/orbitRadius — tool tiles popping onto
+an ellipse around a centre, accelerating, contracting and vanishing into it
+(promoted 2026-09-21 from grok-bot; muse-ryze is the second consumer).
 kit/gradient-field + kit/sweep-title + kit/mark-reveal (2026-09-04, from
 the Gemini Enterprise LinkedIn opener, references/lnkd-dMyzNnP9/):
 GradientField is the drifting colour-blob ground (blobs as data, GEMINI_FIELD /
@@ -1477,6 +1504,22 @@ Add new checks as files in
 `src/validation/checks/` registered in `CHECKS` — candidates: audio length vs
 video, font-size minimums, brand-color drift, dead-air detection.
 
+## Frame-by-frame self-review before ANY delivery (Dmitry, 2026-09-07 — claude-directory v2, «куда он кликает?»)
+
+Nothing leaves this repo until I have walked the whole film myself at 100
+frames per second of attention: every 10 ms (every 3rd frame at 30fps, or a
+15fps strip per phase), start to end, asking at every action: where is the
+cursor, what is under it, what did the click change, what is in the frame
+and what is outside it, does the thing on screen have a cause. v2 shipped
+with the cursor clicking empty space under the card and a composer zoomed so
+tight that the typed prompt was never visible and a chip floated with no
+reason — both were on the check stills I rendered and looked at, and I sent
+the file anyway. A still I glanced at is not a still I checked. Ten seconds
+of attention per second of film, before the file goes out, no exceptions,
+no "the map looked fine": the map shows scenes, the strips show actions.
+Positions of cursor targets are MEASURED from a zoom-1 render (numpy bbox of
+the button), never computed in my head from layout constants.
+
 ## Verification protocol (before showing ANY video)
 
 **Reviewer findings are claims, not facts.** The sheet reviewer reads a
@@ -1559,3 +1602,41 @@ ship. No exceptions, even for a one-line change.
 11. Before finishing: re-read the scenario code — "did I write anything the
     kit already had? did any mechanic appear twice?" Promote to kit now, not
     later. Leaving duplicates behind is the one way to rot this repo.
+
+## Motion lives in the CAMERA, not in the objects (introducing-agent, 2026-09-10 — five rounds of «у тебя менее плавно»)
+
+Replicating Gumloop's "Introducing Gumball" (`references/gumloop-gumball/`,
+scenario `src/scenarios/introducing-agent/`), the same feedback came back
+until the mechanism changed: my scenes animated objects on a static canvas
+(a blob shrinking, chips scaling down, a pill sliding), theirs move the
+CAMERA over a continuous world. Rules that came out of it:
+- **A pull-back is a KeyedRig zoom-out, never an object scaling down.** The
+  hook is one rig from a 2.9x face-fill to 0.5x with the text living in the
+  same world (scaled 1/ZF); the blob's screen path is converted to world
+  through the zoom (`toWorld(sx, sy, z)`), so the camera does the shrinking
+  and the frame blurs by velocity for free. Any cut inside such a move
+  («резко появляется») is the tell that two scenes should be one rig.
+- **Neighbouring beats share one rig when the reference pans between them.**
+  Chips → grid → Searching → cluster is ONE `KeyedRig`: the chip stack lives
+  inside a grid cell at 0.3 world scale (camera zoomed 3.3x on it), zooms out
+  in 4 frames, pans RIGHT over a static pill (the hero moving left on screen
+  means the camera moves right — read the measurement, do not guess the
+  direction), then keeps panning right until the cluster rises in its own
+  world spot. No scene swap, no object slide.
+- **A state change carries over a cut as a MORPH of the same element.** The
+  dark "Budget brief" panel collapses (1154→693→497 wide, ease-in then
+  ease-out over 9 ref frames) into the "Summarizing" pill while the window
+  fades, and the next scene starts with that pill already settled
+  (`PILL_AT = -12`). Cut placement follows the settle frame, never the
+  headline change.
+- **Direction is a claim to measure.** «Прыгает вправо» and «камера идёт
+  вправо» were both measured wrong the first time from the strips; the
+  per-frame bbox (`measure*.json`) settled both.
+- **Rows that swap models keep the losers in fixed edge slots** (three per
+  side), fade them with the slide, and blur only while moving — static
+  blurred logos read as a bug.
+- Scale is measured, not felt: their headlines are ~150px at 1920, chips
+  50px, list rows 84px; my first pass at 96/32/58 read as «вайб-кодено»
+  next to the reference in an hstack pair strip. Pair strips
+  (`ffmpeg hstack` ref|ours at 4–12 fps per 2–4 s) are the review surface
+  for any replica.

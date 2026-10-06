@@ -1,0 +1,355 @@
+{
+  "_take": {
+    "text": "If you're writing blog posts at midnight hoping Google finally notices you, stop. One post a week won't move anything. Google wants fresh content every day, plus backlinks, plus AI visibility. Now, Rise AI does all three on autopilot. You paste your URL in once, it writes and publishes SEO articles every day, builds backlinks while you sleep, and gets you found on ChatGPT. You get your evenings back, and your traffic keeps growing. Three thousand websites already use this, and you can try it for free.",
+    "words": [
+      {
+        "word": "if",
+        "start": 0.12
+      },
+      {
+        "word": "you're",
+        "start": 0.22
+      },
+      {
+        "word": "writing",
+        "start": 0.36
+      },
+      {
+        "word": "blog",
+        "start": 0.7
+      },
+      {
+        "word": "posts",
+        "start": 1.04
+      },
+      {
+        "word": "at",
+        "start": 1.42
+      },
+      {
+        "word": "midnight",
+        "start": 1.6
+      },
+      {
+        "word": "hoping",
+        "start": 2.32
+      },
+      {
+        "word": "google",
+        "start": 2.72
+      },
+      {
+        "word": "finally",
+        "start": 3.16
+      },
+      {
+        "word": "notices",
+        "start": 3.58
+      },
+      {
+        "word": "you",
+        "start": 4.08
+      },
+      {
+        "word": "stop",
+        "start": 4.82
+      },
+      {
+        "word": "one",
+        "start": 5.72
+      },
+      {
+        "word": "post",
+        "start": 5.98
+      },
+      {
+        "word": "a",
+        "start": 6.26
+      },
+      {
+        "word": "week",
+        "start": 6.36
+      },
+      {
+        "word": "won't",
+        "start": 6.82
+      },
+      {
+        "word": "move",
+        "start": 7.1
+      },
+      {
+        "word": "anything",
+        "start": 7.46
+      },
+      {
+        "word": "google",
+        "start": 8.5
+      },
+      {
+        "word": "wants",
+        "start": 8.8
+      },
+      {
+        "word": "fresh",
+        "start": 9.14
+      },
+      {
+        "word": "content",
+        "start": 9.48
+      },
+      {
+        "word": "every",
+        "start": 10.08
+      },
+      {
+        "word": "day",
+        "start": 10.36
+      },
+      {
+        "word": "plus",
+        "start": 11
+      },
+      {
+        "word": "backlinks",
+        "start": 11.34
+      },
+      {
+        "word": "plus",
+        "start": 12.18
+      },
+      {
+        "word": "ai",
+        "start": 12.68
+      },
+      {
+        "word": "visibility",
+        "start": 12.96
+      },
+      {
+        "word": "now",
+        "start": 14.12
+      },
+      {
+        "word": "rise",
+        "start": 14.58
+      },
+      {
+        "word": "ai",
+        "start": 14.9
+      },
+      {
+        "word": "does",
+        "start": 15.3
+      },
+      {
+        "word": "all",
+        "start": 15.68
+      },
+      {
+        "word": "three",
+        "start": 15.9
+      },
+      {
+        "word": "on",
+        "start": 16.3
+      },
+      {
+        "word": "autopilot",
+        "start": 16.54
+      },
+      {
+        "word": "you",
+        "start": 17.5
+      },
+      {
+        "word": "paste",
+        "start": 17.62
+      },
+      {
+        "word": "your",
+        "start": 17.9
+      },
+      {
+        "word": "url",
+        "start": 18.06
+      },
+      {
+        "word": "in",
+        "start": 18.52
+      },
+      {
+        "word": "once",
+        "start": 18.7
+      },
+      {
+        "word": "it",
+        "start": 19.3
+      },
+      {
+        "word": "writes",
+        "start": 19.42
+      },
+      {
+        "word": "and",
+        "start": 19.72
+      },
+      {
+        "word": "publishes",
+        "start": 19.86
+      },
+      {
+        "word": "seo",
+        "start": 20.52
+      },
+      {
+        "word": "articles",
+        "start": 20.96
+      },
+      {
+        "word": "every",
+        "start": 21.48
+      },
+      {
+        "word": "day",
+        "start": 21.82
+      },
+      {
+        "word": "builds",
+        "start": 22.4
+      },
+      {
+        "word": "backlinks",
+        "start": 22.7
+      },
+      {
+        "word": "while",
+        "start": 23.22
+      },
+      {
+        "word": "you",
+        "start": 23.4
+      },
+      {
+        "word": "sleep",
+        "start": 23.54
+      },
+      {
+        "word": "and",
+        "start": 24.24
+      },
+      {
+        "word": "gets",
+        "start": 24.52
+      },
+      {
+        "word": "you",
+        "start": 24.72
+      },
+      {
+        "word": "found",
+        "start": 24.88
+      },
+      {
+        "word": "on",
+        "start": 25.26
+      },
+      {
+        "word": "chatgpt",
+        "start": 25.44
+      },
+      {
+        "word": "you",
+        "start": 26.92
+      },
+      {
+        "word": "get",
+        "start": 27.04
+      },
+      {
+        "word": "your",
+        "start": 27.22
+      },
+      {
+        "word": "evenings",
+        "start": 27.4
+      },
+      {
+        "word": "back",
+        "start": 27.8
+      },
+      {
+        "word": "and",
+        "start": 28.28
+      },
+      {
+        "word": "your",
+        "start": 28.42
+      },
+      {
+        "word": "traffic",
+        "start": 28.58
+      },
+      {
+        "word": "keeps",
+        "start": 29.18
+      },
+      {
+        "word": "growing",
+        "start": 29.56
+      },
+      {
+        "word": "three",
+        "start": 30.52
+      },
+      {
+        "word": "thousand",
+        "start": 30.9
+      },
+      {
+        "word": "websites",
+        "start": 31.36
+      },
+      {
+        "word": "already",
+        "start": 31.96
+      },
+      {
+        "word": "use",
+        "start": 32.32
+      },
+      {
+        "word": "this",
+        "start": 32.54
+      },
+      {
+        "word": "and",
+        "start": 32.98
+      },
+      {
+        "word": "you",
+        "start": 33.24
+      },
+      {
+        "word": "can",
+        "start": 33.38
+      },
+      {
+        "word": "try",
+        "start": 33.54
+      },
+      {
+        "word": "it",
+        "start": 33.74
+      },
+      {
+        "word": "for",
+        "start": 33.88
+      },
+      {
+        "word": "free",
+        "start": 34.06
+      }
+    ]
+  }
+}

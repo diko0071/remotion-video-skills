@@ -1,0 +1,676 @@
+{
+  "01-hook": {
+    "text": "SEO agencies are panicking, and here's why",
+    "words": [
+      {
+        "word": "seo",
+        "start": 0.1
+      },
+      {
+        "word": "agencies",
+        "start": 0.54
+      },
+      {
+        "word": "are",
+        "start": 1.2
+      },
+      {
+        "word": "panicking",
+        "start": 1.4
+      },
+      {
+        "word": "and",
+        "start": 2.32
+      },
+      {
+        "word": "here's",
+        "start": 2.48
+      },
+      {
+        "word": "why",
+        "start": 2.76
+      }
+    ]
+  },
+  "02-problem": {
+    "text": "You can now run your whole SEO from Claude. Connect Rise AI once and just ask, \"Why did my traffic drop? What should I write this week? Fix my website.\"",
+    "words": [
+      {
+        "word": "you",
+        "start": 0.12
+      },
+      {
+        "word": "can",
+        "start": 0.24
+      },
+      {
+        "word": "now",
+        "start": 0.42
+      },
+      {
+        "word": "run",
+        "start": 0.68
+      },
+      {
+        "word": "your",
+        "start": 0.9
+      },
+      {
+        "word": "whole",
+        "start": 1.08
+      },
+      {
+        "word": "seo",
+        "start": 1.48
+      },
+      {
+        "word": "from",
+        "start": 1.88
+      },
+      {
+        "word": "claude",
+        "start": 2.06
+      },
+      {
+        "word": "connect",
+        "start": 2.9
+      },
+      {
+        "word": "rise",
+        "start": 3.34
+      },
+      {
+        "word": "ai",
+        "start": 3.76
+      },
+      {
+        "word": "once",
+        "start": 4.14
+      },
+      {
+        "word": "and",
+        "start": 4.62
+      },
+      {
+        "word": "just",
+        "start": 4.8
+      },
+      {
+        "word": "ask",
+        "start": 5.06
+      },
+      {
+        "word": "why",
+        "start": 5.32
+      },
+      {
+        "word": "did",
+        "start": 6.14
+      },
+      {
+        "word": "my",
+        "start": 6.28
+      },
+      {
+        "word": "traffic",
+        "start": 6.46
+      },
+      {
+        "word": "drop",
+        "start": 6.84
+      },
+      {
+        "word": "what",
+        "start": 7.54
+      },
+      {
+        "word": "should",
+        "start": 7.68
+      },
+      {
+        "word": "i",
+        "start": 7.88
+      },
+      {
+        "word": "write",
+        "start": 7.94
+      },
+      {
+        "word": "this",
+        "start": 8.18
+      },
+      {
+        "word": "week",
+        "start": 8.4
+      },
+      {
+        "word": "fix",
+        "start": 9.08
+      },
+      {
+        "word": "my",
+        "start": 9.34
+      },
+      {
+        "word": "website",
+        "start": 9.5
+      }
+    ]
+  },
+  "03-turn": {
+    "text": "It writes the articles, publishes them to your website, builds backlinks, and shows you where you rank on Google and ChatGPT",
+    "words": [
+      {
+        "word": "it",
+        "start": 0.12
+      },
+      {
+        "word": "writes",
+        "start": 0.26
+      },
+      {
+        "word": "the",
+        "start": 0.6
+      },
+      {
+        "word": "articles",
+        "start": 0.72
+      },
+      {
+        "word": "publishes",
+        "start": 1.44
+      },
+      {
+        "word": "them",
+        "start": 1.92
+      },
+      {
+        "word": "to",
+        "start": 2.12
+      },
+      {
+        "word": "your",
+        "start": 2.2
+      },
+      {
+        "word": "website",
+        "start": 2.32
+      },
+      {
+        "word": "builds",
+        "start": 3
+      },
+      {
+        "word": "backlinks",
+        "start": 3.32
+      },
+      {
+        "word": "and",
+        "start": 4.2
+      },
+      {
+        "word": "shows",
+        "start": 4.44
+      },
+      {
+        "word": "you",
+        "start": 4.7
+      },
+      {
+        "word": "where",
+        "start": 4.82
+      },
+      {
+        "word": "you",
+        "start": 5.06
+      },
+      {
+        "word": "rank",
+        "start": 5.22
+      },
+      {
+        "word": "on",
+        "start": 5.52
+      },
+      {
+        "word": "google",
+        "start": 5.7
+      },
+      {
+        "word": "and",
+        "start": 6.06
+      },
+      {
+        "word": "chatgpt",
+        "start": 6.24
+      }
+    ]
+  },
+  "04-life": {
+    "text": "The work of",
+    "words": [
+      {
+        "word": "the",
+        "start": 0.12
+      },
+      {
+        "word": "work",
+        "start": 0.24
+      },
+      {
+        "word": "of",
+        "start": 0.5
+      }
+    ]
+  },
+  "05-cta": {
+    "text": "A $3,000 agency from one chat. 3,000 websites already use this, and you can try it for free",
+    "words": [
+      {
+        "word": "a",
+        "start": 0
+      },
+      {
+        "word": "3000",
+        "start": 0.08
+      },
+      {
+        "word": "agency",
+        "start": 1.04
+      },
+      {
+        "word": "from",
+        "start": 1.8
+      },
+      {
+        "word": "one",
+        "start": 2.06
+      },
+      {
+        "word": "chat",
+        "start": 2.34
+      },
+      {
+        "word": "3000",
+        "start": 3.48
+      },
+      {
+        "word": "websites",
+        "start": 4.04
+      },
+      {
+        "word": "already",
+        "start": 4.64
+      },
+      {
+        "word": "use",
+        "start": 4.98
+      },
+      {
+        "word": "this",
+        "start": 5.18
+      },
+      {
+        "word": "and",
+        "start": 5.52
+      },
+      {
+        "word": "you",
+        "start": 5.7
+      },
+      {
+        "word": "can",
+        "start": 5.82
+      },
+      {
+        "word": "try",
+        "start": 6
+      },
+      {
+        "word": "it",
+        "start": 6.2
+      },
+      {
+        "word": "for",
+        "start": 6.34
+      },
+      {
+        "word": "free",
+        "start": 6.52
+      }
+    ]
+  },
+  "_take": {
+    "text": "SEO agencies are panicking, and here's why. You can now run your whole SEO from Claude. Connect Rise AI once and just ask, \"Why did my traffic drop? What should I write this week? Fix my website.\" It writes the articles, publishes them to your website, builds backlinks, and shows you where you rank on Google and ChatGPT. The work of a three thousand dollar agency from one chat. Three thousand websites already use this, and you can try it for free",
+    "words": [
+      {
+        "word": "seo",
+        "start": 0.14
+      },
+      {
+        "word": "agencies",
+        "start": 0.56
+      },
+      {
+        "word": "are",
+        "start": 1.22
+      },
+      {
+        "word": "panicking",
+        "start": 1.42
+      },
+      {
+        "word": "and",
+        "start": 2.34
+      },
+      {
+        "word": "here's",
+        "start": 2.5
+      },
+      {
+        "word": "why",
+        "start": 2.78
+      },
+      {
+        "word": "you",
+        "start": 3.72
+      },
+      {
+        "word": "can",
+        "start": 3.84
+      },
+      {
+        "word": "now",
+        "start": 4.019
+      },
+      {
+        "word": "run",
+        "start": 4.28
+      },
+      {
+        "word": "your",
+        "start": 4.5
+      },
+      {
+        "word": "whole",
+        "start": 4.68
+      },
+      {
+        "word": "seo",
+        "start": 5.08
+      },
+      {
+        "word": "from",
+        "start": 5.48
+      },
+      {
+        "word": "claude",
+        "start": 5.68
+      },
+      {
+        "word": "connect",
+        "start": 6.5
+      },
+      {
+        "word": "rise",
+        "start": 6.94
+      },
+      {
+        "word": "ai",
+        "start": 7.36
+      },
+      {
+        "word": "once",
+        "start": 7.74
+      },
+      {
+        "word": "and",
+        "start": 8.22
+      },
+      {
+        "word": "just",
+        "start": 8.38
+      },
+      {
+        "word": "ask",
+        "start": 8.66
+      },
+      {
+        "word": "why",
+        "start": 8.92
+      },
+      {
+        "word": "did",
+        "start": 9.74
+      },
+      {
+        "word": "my",
+        "start": 9.88
+      },
+      {
+        "word": "traffic",
+        "start": 10.06
+      },
+      {
+        "word": "drop",
+        "start": 10.44
+      },
+      {
+        "word": "what",
+        "start": 11.14
+      },
+      {
+        "word": "should",
+        "start": 11.28
+      },
+      {
+        "word": "i",
+        "start": 11.48
+      },
+      {
+        "word": "write",
+        "start": 11.54
+      },
+      {
+        "word": "this",
+        "start": 11.78
+      },
+      {
+        "word": "week",
+        "start": 12
+      },
+      {
+        "word": "fix",
+        "start": 12.68
+      },
+      {
+        "word": "my",
+        "start": 12.94
+      },
+      {
+        "word": "website",
+        "start": 13.1
+      },
+      {
+        "word": "it",
+        "start": 14.3
+      },
+      {
+        "word": "writes",
+        "start": 14.44
+      },
+      {
+        "word": "the",
+        "start": 14.78
+      },
+      {
+        "word": "articles",
+        "start": 14.92
+      },
+      {
+        "word": "publishes",
+        "start": 15.62
+      },
+      {
+        "word": "them",
+        "start": 16.1
+      },
+      {
+        "word": "to",
+        "start": 16.3
+      },
+      {
+        "word": "your",
+        "start": 16.379
+      },
+      {
+        "word": "website",
+        "start": 16.5
+      },
+      {
+        "word": "builds",
+        "start": 17.18
+      },
+      {
+        "word": "backlinks",
+        "start": 17.5
+      },
+      {
+        "word": "and",
+        "start": 18.4
+      },
+      {
+        "word": "shows",
+        "start": 18.62
+      },
+      {
+        "word": "you",
+        "start": 18.88
+      },
+      {
+        "word": "where",
+        "start": 19
+      },
+      {
+        "word": "you",
+        "start": 19.24
+      },
+      {
+        "word": "rank",
+        "start": 19.4
+      },
+      {
+        "word": "on",
+        "start": 19.7
+      },
+      {
+        "word": "google",
+        "start": 19.88
+      },
+      {
+        "word": "and",
+        "start": 20.24
+      },
+      {
+        "word": "chatgpt",
+        "start": 20.42
+      },
+      {
+        "word": "the",
+        "start": 21.92
+      },
+      {
+        "word": "work",
+        "start": 22.04
+      },
+      {
+        "word": "of",
+        "start": 22.3
+      },
+      {
+        "word": "a",
+        "start": 22.42
+      },
+      {
+        "word": "three",
+        "start": 22.52
+      },
+      {
+        "word": "thousand",
+        "start": 22.78
+      },
+      {
+        "word": "dollar",
+        "start": 23.12
+      },
+      {
+        "word": "agency",
+        "start": 23.44
+      },
+      {
+        "word": "from",
+        "start": 24.2
+      },
+      {
+        "word": "one",
+        "start": 24.5
+      },
+      {
+        "word": "chat",
+        "start": 24.74
+      },
+      {
+        "word": "three",
+        "start": 25.68
+      },
+      {
+        "word": "thousand",
+        "start": 26
+      },
+      {
+        "word": "websites",
+        "start": 26.44
+      },
+      {
+        "word": "already",
+        "start": 27.04
+      },
+      {
+        "word": "use",
+        "start": 27.38
+      },
+      {
+        "word": "this",
+        "start": 27.58
+      },
+      {
+        "word": "and",
+        "start": 27.94
+      },
+      {
+        "word": "you",
+        "start": 28.1
+      },
+      {
+        "word": "can",
+        "start": 28.22
+      },
+      {
+        "word": "try",
+        "start": 28.4
+      },
+      {
+        "word": "it",
+        "start": 28.6
+      },
+      {
+        "word": "for",
+        "start": 28.74
+      },
+      {
+        "word": "free",
+        "start": 28.92
+      }
+    ]
+  }
+}

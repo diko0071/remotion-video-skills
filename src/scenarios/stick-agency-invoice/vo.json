@@ -1,0 +1,26 @@
+{
+  "voiceId": "SAz9YHcvj6GT2YYXdXww",
+  "modelId": "eleven_v3",
+  "lines": [
+    {
+      "key": "01-hook",
+      "text": "If you're paying an SEO agency three thousand dollars a month, look at what you actually get."
+    },
+    {
+      "key": "02-problem",
+      "text": "A spreadsheet. Four blog posts. And a monthly call where they tell you rankings take time."
+    },
+    {
+      "key": "03-turn",
+      "text": "Now, Ryze AI does the whole job automatically. You paste your URL in once, it publishes SEO articles to your website every day, builds backlinks for you, and gets your brand showing up on ChatGPT."
+    },
+    {
+      "key": "04-life",
+      "text": "No retainer, no contracts, no monthly calls. Just traffic that keeps growing."
+    },
+    {
+      "key": "05-cta",
+      "text": "Three thousand websites already use this, and you can try it for free."
+    }
+  ]
+}

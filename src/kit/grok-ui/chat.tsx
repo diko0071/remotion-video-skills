@@ -92,10 +92,16 @@ export const GrokApprovalCard: React.FC<{
   approveId?: string;
   id?: string;
   width?: number;
+  icon?: string;
   style?: React.CSSProperties;
-}> = ({ title, body, approved, approveId, id, width = 400, style }) => (
+}> = ({ title, body, approved, approveId, id, width = 400, icon, style }) => (
   <div className="gk-approval" style={{ width, ...style }} data-click={id}>
     <div className="gk-card-head">
+      {icon ? (
+        <span style={{ width: 24, height: 24, borderRadius: 7, background: "#fff", display: "inline-flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+          <Img src={staticFile(icon)} style={{ width: 15, height: 15, display: "block" }} />
+        </span>
+      ) : null}
       <span className="gk-card-title" style={{ fontSize: 16 }}>
         {title}
       </span>
@@ -106,20 +112,19 @@ export const GrokApprovalCard: React.FC<{
     </div>
     <div className="gk-approval-body">{body}</div>
     <div className="gk-approval-details">› Show the details</div>
-    {approved ? (
-      <div className="gk-card-actions" style={{ height: 38, alignItems: "center", color: "#1C8A5A", fontSize: 14, fontWeight: 500 }}>
-        Approved. Running now.
-      </div>
-    ) : (
-      <div className="gk-card-actions">
-        <span className="gk-btn primary" data-click={approveId} style={{ height: 38, fontSize: 14 }}>
-          Approve
-        </span>
-        <span className="gk-btn" style={{ height: 38, fontSize: 14 }}>
-          Deny
-        </span>
-      </div>
-    )}
+    <div className="gk-card-actions" style={{ position: "relative" }}>
+      <span className="gk-btn primary" data-click={approveId} style={{ height: 38, fontSize: 14, visibility: approved ? "hidden" : "visible" }}>
+        Approve
+      </span>
+      <span className="gk-btn" style={{ height: 38, fontSize: 14, visibility: approved ? "hidden" : "visible" }}>
+        Deny
+      </span>
+      {approved ? (
+        <div style={{ position: "absolute", left: 0, top: 0, height: 38, display: "flex", alignItems: "center", color: "#1C8A5A", fontSize: 14, fontWeight: 500, whiteSpace: "nowrap" }}>
+          Approved. Running now.
+        </div>
+      ) : null}
+    </div>
   </div>
 );
 

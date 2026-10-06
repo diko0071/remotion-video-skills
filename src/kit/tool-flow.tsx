@@ -80,18 +80,22 @@ const ToolRow: React.FC<{ tool: ToolSpec; size: number; ink: string; dim: string
               style={{ width: size, height: size, objectFit: "contain", display: "block" }}
             />
           ))}
-          <span style={{ opacity: 1 - doneP, position: doneP > 0.99 ? "absolute" : "relative" }}>
-            {doneP < 0.99 ? <Shimmer text={tool.label} /> : null}
-          </span>
-          <span
-            style={{
-              color: ink,
-              opacity: doneP,
-              position: doneP > 0.99 ? "relative" : "absolute",
-              inset: 0,
-            }}
-          >
-            {tool.label}
+          <span style={{ position: "relative", display: "inline-block" }}>
+            <span style={{ opacity: 1 - doneP, position: doneP > 0.99 ? "absolute" : "relative", left: 0, top: 0 }}>
+              {doneP < 0.99 ? <Shimmer text={tool.label} /> : null}
+            </span>
+            <span
+              style={{
+                color: ink,
+                opacity: doneP,
+                position: doneP > 0.99 ? "relative" : "absolute",
+                left: 0,
+                top: 0,
+                whiteSpace: "nowrap",
+              }}
+            >
+              {tool.label}
+            </span>
           </span>
         </span>
         {tool.detail ? (

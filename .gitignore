@@ -50,7 +50,15 @@ public/press/
 public/**/*.mp4
 public/afuri/
 public/graza/
+public/prompt-to-meta/
+public/ad-library/
 public/vermillion/
 public/joyrush/
 public/home/guide/step-1.webp
 !public/creative-wall/manifest.json
+
+# Third-party site screenshots for the chrome-ext scenario (Browserbase captures)
+public/chrome-ext/sites/
+public/instinct-calls/
+public/glyph-balls/
+public/managed-campaigns/

@@ -1,0 +1,371 @@
+{
+  "_take": {
+    "text": "Ask ChatGPT for the best brand in your niche. It recommends your competitor, not you. AI only recommends websites it can find, and right now, yours isn't there. Now, Rise AI fixes that automatically. You paste your URL in once, it publishes daily articles that AI can quote, builds backlinks that prove you're legit, and tracks when ChatGPT, Claude, and Perplexity start mentioning you. No agency, no manual work, just your brand showing up where your customers ask. Three thousand websites already use this, and you can try it for free.",
+    "words": [
+      {
+        "word": "ask",
+        "start": 0.14
+      },
+      {
+        "word": "chatgpt",
+        "start": 0.42
+      },
+      {
+        "word": "for",
+        "start": 1.28
+      },
+      {
+        "word": "the",
+        "start": 1.42
+      },
+      {
+        "word": "best",
+        "start": 1.58
+      },
+      {
+        "word": "brand",
+        "start": 1.92
+      },
+      {
+        "word": "in",
+        "start": 2.34
+      },
+      {
+        "word": "your",
+        "start": 2.46
+      },
+      {
+        "word": "niche",
+        "start": 2.62
+      },
+      {
+        "word": "it",
+        "start": 3.64
+      },
+      {
+        "word": "recommends",
+        "start": 3.78
+      },
+      {
+        "word": "your",
+        "start": 4.42
+      },
+      {
+        "word": "competitor",
+        "start": 4.56
+      },
+      {
+        "word": "not",
+        "start": 5.7
+      },
+      {
+        "word": "you",
+        "start": 6.08
+      },
+      {
+        "word": "ai",
+        "start": 7
+      },
+      {
+        "word": "only",
+        "start": 7.36
+      },
+      {
+        "word": "recommends",
+        "start": 7.6
+      },
+      {
+        "word": "websites",
+        "start": 8.06
+      },
+      {
+        "word": "it",
+        "start": 8.54
+      },
+      {
+        "word": "can",
+        "start": 8.66
+      },
+      {
+        "word": "find",
+        "start": 8.86
+      },
+      {
+        "word": "and",
+        "start": 9.48
+      },
+      {
+        "word": "right",
+        "start": 9.68
+      },
+      {
+        "word": "now",
+        "start": 9.9
+      },
+      {
+        "word": "yours",
+        "start": 10.48
+      },
+      {
+        "word": "isn't",
+        "start": 10.94
+      },
+      {
+        "word": "there",
+        "start": 11.22
+      },
+      {
+        "word": "now",
+        "start": 12.18
+      },
+      {
+        "word": "rise",
+        "start": 12.66
+      },
+      {
+        "word": "ai",
+        "start": 13.02
+      },
+      {
+        "word": "fixes",
+        "start": 13.38
+      },
+      {
+        "word": "that",
+        "start": 13.76
+      },
+      {
+        "word": "automatically",
+        "start": 14
+      },
+      {
+        "word": "you",
+        "start": 15.02
+      },
+      {
+        "word": "paste",
+        "start": 15.16
+      },
+      {
+        "word": "your",
+        "start": 15.44
+      },
+      {
+        "word": "url",
+        "start": 15.64
+      },
+      {
+        "word": "in",
+        "start": 16.16
+      },
+      {
+        "word": "once",
+        "start": 16.34
+      },
+      {
+        "word": "it",
+        "start": 16.92
+      },
+      {
+        "word": "publishes",
+        "start": 17.04
+      },
+      {
+        "word": "daily",
+        "start": 17.58
+      },
+      {
+        "word": "articles",
+        "start": 17.9
+      },
+      {
+        "word": "that",
+        "start": 18.38
+      },
+      {
+        "word": "ai",
+        "start": 18.56
+      },
+      {
+        "word": "can",
+        "start": 18.82
+      },
+      {
+        "word": "quote",
+        "start": 19
+      },
+      {
+        "word": "builds",
+        "start": 19.62
+      },
+      {
+        "word": "backlinks",
+        "start": 19.92
+      },
+      {
+        "word": "that",
+        "start": 20.44
+      },
+      {
+        "word": "prove",
+        "start": 20.62
+      },
+      {
+        "word": "you're",
+        "start": 20.86
+      },
+      {
+        "word": "legit",
+        "start": 21
+      },
+      {
+        "word": "and",
+        "start": 21.78
+      },
+      {
+        "word": "tracks",
+        "start": 21.94
+      },
+      {
+        "word": "when",
+        "start": 22.3
+      },
+      {
+        "word": "chatgpt",
+        "start": 22.5
+      },
+      {
+        "word": "claude",
+        "start": 23.48
+      },
+      {
+        "word": "and",
+        "start": 23.9
+      },
+      {
+        "word": "perplexity",
+        "start": 24.02
+      },
+      {
+        "word": "start",
+        "start": 24.72
+      },
+      {
+        "word": "mentioning",
+        "start": 24.96
+      },
+      {
+        "word": "you",
+        "start": 25.4
+      },
+      {
+        "word": "no",
+        "start": 26.04
+      },
+      {
+        "word": "agency",
+        "start": 26.26
+      },
+      {
+        "word": "no",
+        "start": 27.06
+      },
+      {
+        "word": "manual",
+        "start": 27.26
+      },
+      {
+        "word": "work",
+        "start": 27.68
+      },
+      {
+        "word": "just",
+        "start": 28.28
+      },
+      {
+        "word": "your",
+        "start": 28.54
+      },
+      {
+        "word": "brand",
+        "start": 28.66
+      },
+      {
+        "word": "showing",
+        "start": 29.04
+      },
+      {
+        "word": "up",
+        "start": 29.38
+      },
+      {
+        "word": "where",
+        "start": 29.5
+      },
+      {
+        "word": "your",
+        "start": 29.64
+      },
+      {
+        "word": "customers",
+        "start": 29.78
+      },
+      {
+        "word": "ask",
+        "start": 30.38
+      },
+      {
+        "word": "three",
+        "start": 31.18
+      },
+      {
+        "word": "thousand",
+        "start": 31.48
+      },
+      {
+        "word": "websites",
+        "start": 31.86
+      },
+      {
+        "word": "already",
+        "start": 32.4
+      },
+      {
+        "word": "use",
+        "start": 32.74
+      },
+      {
+        "word": "this",
+        "start": 32.96
+      },
+      {
+        "word": "and",
+        "start": 33.38
+      },
+      {
+        "word": "you",
+        "start": 33.54
+      },
+      {
+        "word": "can",
+        "start": 33.64
+      },
+      {
+        "word": "try",
+        "start": 33.78
+      },
+      {
+        "word": "it",
+        "start": 33.96
+      },
+      {
+        "word": "for",
+        "start": 34.1
+      },
+      {
+        "word": "free",
+        "start": 34.26
+      }
+    ]
+  }
+}
